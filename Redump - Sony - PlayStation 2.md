@@ -1,3 +1,0 @@
-# ReDump-Sony - PlayStation 2 (Games: 2, ROMs: 2)
-### Gran Turismo 3 - A-Spec - Autobacs Tentou Shiyuu Disc (Japan).bin, CRC: 8b9a0ba2
-### U - Underwater Unit (Korea) (Cheheompan).bin, CRC: f9fd91d6
