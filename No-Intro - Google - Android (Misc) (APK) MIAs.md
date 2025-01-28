@@ -1,3 +1,0 @@
-# No-Intro - Unofficial - Video Game OSTs (Digital) (RAW) MIAs
-## Games: 1, ROMs: 1, as of 2025-01-27
-### Minecraft (World) (1.17.11.01) (Beta) (Unreleased).apk, CRC: c010143f
