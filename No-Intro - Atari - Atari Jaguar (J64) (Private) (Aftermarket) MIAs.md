@@ -1,0 +1,16 @@
+# No-Intro - Atari - Atari Jaguar (J64) (Private) (Aftermarket) MIAs
+## Games: 2, ROMs: 2, as of 2025-02-08
+### Early Years CD Collection, The (World) (Aftermarket) (Unl)
+<details>
+<summary>ROMs</summary>
+
+- Early Years CD Collection, The (World) (Aftermarket) (Unl).j64, CRC: 83eea7d5
+</details>
+
+### Remute - There is Hope (World) (Aftermarket) (Unl)
+<details>
+<summary>ROMs</summary>
+
+- Remute - There is Hope (World) (Aftermarket) (Unl).j64, CRC: b28bf522
+</details>
+
