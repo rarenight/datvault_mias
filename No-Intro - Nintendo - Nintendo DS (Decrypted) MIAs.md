@@ -1,5 +1,5 @@
 # No-Intro - Nintendo - Nintendo DS (Decrypted) MIAs
-## Games: 5, ROMs: 5, as of 2025-03-18
+## Games: 5, ROMs: 5, as of 2025-03-19
 
 ### Contra (USA) (Beta) (2007-02-08).nds, CRC: fe8392a0
 ### Contra (USA) (Beta) (2007-04-05).nds, CRC: 3b47c558

@@ -1,5 +1,5 @@
 # No-Intro - Nintendo - Nintendo Entertainment System (Headered) (Private) MIAs
-## Games: 46, ROMs: 47, as of 2025-03-18
+## Games: 46, ROMs: 47, as of 2025-03-19
 
 ### Alfonzo's Arctic Adventure (World) (Kickstarter) (Aftermarket) (Unl).nes, CRC: 0db77f87
 ### Alfonzo's Arctic Adventure (USA) (Limited Run Games) (Aftermarket) (Unl).nes, CRC: 9cc3cac9

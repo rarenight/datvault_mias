@@ -1,4 +1,4 @@
 # No-Intro - Atari - 7800 (A78) (Private) MIAs
-## Games: 1, ROMs: 1, as of 2025-03-18
+## Games: 1, ROMs: 1, as of 2025-03-19
 
 ### Attack of the PETSCII Robots (World) (Aftermarket) (Unl).a78, CRC: 6b59ffa4
