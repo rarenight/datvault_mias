@@ -1,5 +1,5 @@
 # Redump - IBM - PC compatible MIAs
-## Games: 3346, ROMs: 7708, as of 2025-03-19
+## Games: 3345, ROMs: 7707, as of 2025-03-20
 
 ### %% - Fuuin no Otome (Japan) (Track 10).bin, CRC: 4481aa75
 ### Alley 19 Bowling (Europe) (Track 5).bin, CRC: dc835204
@@ -786,7 +786,6 @@
 ### Blue Heat - Haitoku no Tenshi-tachi (Japan) (Disc 3).bin, CRC: 2e4951c1
 ### Blue Heat - Haitoku no Tenshi-tachi (Japan) (Disc 4).bin, CRC: 77f60782
 ### Blue Sabers - Operation Orbital Hammer (Japan).bin, CRC: 857b31e6
-### Blur (Poland).iso, CRC: 26e0d091
 ### Bogstavleg Stav & Boj (Denmark).bin, CRC: 4659702c
 ### Boiling Point - Road to Hell (Hungary).iso, CRC: d76490fa
 ### Boku wa Koukuu Kanseikan 2 - Home Edition (Japan).bin, CRC: 2bde28b4
