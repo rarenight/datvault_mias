@@ -1,5 +1,5 @@
 # Redump - Audio CD MIAs
-## Games: 144, ROMs: 1811, as of 2025-03-21
+## Games: 144, ROMs: 1791, as of 2025-03-22
 
 ### Age of Empires III (Poland) (Plyta audio z muzyka z gry) (PC Game Bundle)
 <details>
@@ -1453,33 +1453,7 @@
 - Shirotsumesouwa - Episode of the Clovers - Original Soundtrack CD (Japan) (PC Game Bundle) (Track 15).bin, CRC: 25f405af
 </details>
 
-### SNK Arcade Sound Digital Collection Vol. 13 (Japan) (Disc 1)
-<details>
-<summary>ROMs</summary>
-
-- SNK Arcade Sound Digital Collection Vol. 13 (Japan) (Disc 1) (Track 01).bin, CRC: 9ed230e3
-- SNK Arcade Sound Digital Collection Vol. 13 (Japan) (Disc 1) (Track 02).bin, CRC: 4c40c5ae
-- SNK Arcade Sound Digital Collection Vol. 13 (Japan) (Disc 1) (Track 03).bin, CRC: 3b16967d
-- SNK Arcade Sound Digital Collection Vol. 13 (Japan) (Disc 1) (Track 04).bin, CRC: b138e7c1
-- SNK Arcade Sound Digital Collection Vol. 13 (Japan) (Disc 1) (Track 05).bin, CRC: b540b3cd
-- SNK Arcade Sound Digital Collection Vol. 13 (Japan) (Disc 1) (Track 06).bin, CRC: 6bc956ef
-- SNK Arcade Sound Digital Collection Vol. 13 (Japan) (Disc 1) (Track 07).bin, CRC: 7a7d4a8b
-- SNK Arcade Sound Digital Collection Vol. 13 (Japan) (Disc 1) (Track 08).bin, CRC: 9748977d
-- SNK Arcade Sound Digital Collection Vol. 13 (Japan) (Disc 1) (Track 09).bin, CRC: acac8636
-- SNK Arcade Sound Digital Collection Vol. 13 (Japan) (Disc 1) (Track 10).bin, CRC: 43196f5b
-- SNK Arcade Sound Digital Collection Vol. 13 (Japan) (Disc 1) (Track 11).bin, CRC: 4795ff10
-- SNK Arcade Sound Digital Collection Vol. 13 (Japan) (Disc 1) (Track 12).bin, CRC: 6db745af
-- SNK Arcade Sound Digital Collection Vol. 13 (Japan) (Disc 1) (Track 13).bin, CRC: 180718dc
-- SNK Arcade Sound Digital Collection Vol. 13 (Japan) (Disc 1) (Track 14).bin, CRC: b6f8e23c
-- SNK Arcade Sound Digital Collection Vol. 13 (Japan) (Disc 1) (Track 15).bin, CRC: b2b6e999
-- SNK Arcade Sound Digital Collection Vol. 13 (Japan) (Disc 1) (Track 16).bin, CRC: c6432640
-- SNK Arcade Sound Digital Collection Vol. 13 (Japan) (Disc 1) (Track 17).bin, CRC: bcb5584c
-- SNK Arcade Sound Digital Collection Vol. 13 (Japan) (Disc 1) (Track 18).bin, CRC: c9fcd376
-- SNK Arcade Sound Digital Collection Vol. 13 (Japan) (Disc 1) (Track 19).bin, CRC: 38134a65
-- SNK Arcade Sound Digital Collection Vol. 13 (Japan) (Disc 1) (Track 20).bin, CRC: cef2eb71
-- SNK Arcade Sound Digital Collection Vol. 13 (Japan) (Disc 1) (Track 21).bin, CRC: eef41ce3
-</details>
-
+### SNK Arcade Sound Digital Collection Vol. 13 (Japan) (Disc 1) (Track 21).bin, CRC: eef41ce3
 ### Soreyuke! Burunyanman Portable Soundtrack CD (Japan)
 <details>
 <summary>ROMs</summary>
