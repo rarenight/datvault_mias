@@ -1,5 +1,5 @@
 # Redump - IBM - PC compatible MIAs
-## Games: 3339, ROMs: 7692, as of 2025-03-23
+## Games: 3338, ROMs: 7679, as of 2025-03-23
 
 ### %% - Fuuin no Otome (Japan) (Track 10).bin, CRC: 4481aa75
 ### Alley 19 Bowling (Europe) (Track 5).bin, CRC: dc835204
@@ -9817,25 +9817,6 @@
 
 ### Xia Ke Lie Zhuan (Taiwan).bin, CRC: 4ae8781f
 ### Xiandai Ming-Che Xinshang (China).bin, CRC: fa8ce772
-### Xianjian Qixiazhuan (China)
-<details>
-<summary>ROMs</summary>
-
-- Xianjian Qixiazhuan (China) (Track 01).bin, CRC: a9bc5b5b
-- Xianjian Qixiazhuan (China) (Track 02).bin, CRC: d6a29851
-- Xianjian Qixiazhuan (China) (Track 03).bin, CRC: 4b8c205e
-- Xianjian Qixiazhuan (China) (Track 04).bin, CRC: b72741c0
-- Xianjian Qixiazhuan (China) (Track 05).bin, CRC: b35ffc53
-- Xianjian Qixiazhuan (China) (Track 06).bin, CRC: e1a4d033
-- Xianjian Qixiazhuan (China) (Track 07).bin, CRC: b0185afc
-- Xianjian Qixiazhuan (China) (Track 08).bin, CRC: 75ae5b56
-- Xianjian Qixiazhuan (China) (Track 09).bin, CRC: 52c635e0
-- Xianjian Qixiazhuan (China) (Track 10).bin, CRC: 18fa5f03
-- Xianjian Qixiazhuan (China) (Track 11).bin, CRC: c6574cee
-- Xianjian Qixiazhuan (China) (Track 12).bin, CRC: 3bb3cf2f
-- Xianjian Qixiazhuan (China) (Track 13).bin, CRC: 6b69ad16
-</details>
-
 ### XIII (Europe) (Sold Out Software).iso, CRC: 35cce705
 ### XIII (France) (En,Fr,De,Es,It) (Rerelease).iso, CRC: 435f1f41
 ### XIII (Hungary) (Disc 1).bin, CRC: 6aa61857
