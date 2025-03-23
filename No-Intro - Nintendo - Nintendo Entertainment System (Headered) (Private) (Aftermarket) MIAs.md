@@ -1,5 +1,5 @@
 # No-Intro - Nintendo - Nintendo Entertainment System (Headered) (Private) (Aftermarket) MIAs
-## Games: 34, ROMs: 34, as of 2025-03-22
+## Games: 34, ROMs: 34, as of 2025-03-23
 
 ### 8Bit Brix Design Studio & Snake Game (World) (2024-09-24) (Aftermarket) (Unl).nes, CRC: d95c7edd
 ### 8Bit Music Power Encore (World) (Aftermarket) (Unl).nes, CRC: dce20607

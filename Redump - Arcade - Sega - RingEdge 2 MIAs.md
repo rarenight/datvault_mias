@@ -1,5 +1,5 @@
 # Redump - Arcade - Sega - RingEdge 2 MIAs
-## Games: 10, ROMs: 10, as of 2025-03-22
+## Games: 10, ROMs: 10, as of 2025-03-23
 
 ### Code of Joker (Japan) (Rev C).iso, CRC: a48b8f7a
 ### Code of Joker (No. 2) (Japan) (Rev F).iso, CRC: c41ca3dd
