@@ -11,7 +11,7 @@
 ### Eskimo Bob Starring Alfonzo (Europe) (Aftermarket) (Unl).nes, CRC: 4f99b1d8
 ### Eskimo Bob Starring Alfonzo (USA) (Limited Run Games) (Aftermarket) (Unl).nes, CRC: e79efb92
 ### Force Bot (World) (Aftermarket) (Unl).nes, CRC: 83f67b84
-### Full Quiet (World) (Regular Edition) (Aftermarket) (Unl).nes
+### Full Quiet (World) (Regular Edition) (Aftermarket) (Unl)
 <details>
 <summary>ROMs</summary>
 
