@@ -53,11 +53,17 @@
 ### Legend of Heroes, The - Trails of Cold Steel (USA).psv, CRC: 6b2b78d2
 ### LEGO Batman 2 - DC Super Heroes (France).psv, CRC: 5e50645b
 ### LEGO Movie Videogame, The (France).psv, CRC: 5aba217d
-### Little Big Planet (USA) (Demo) (Kiosk)
+### Little Big Planet (USA) (Demo) (Kiosk).psv
 <details>
 <summary>ROMs</summary>
 
 - Little Big Planet (USA) (Demo) (Kiosk).psv, CRC: bd6e7699
+</details>
+
+### Little Big Planet (USA) (Demo) (Kiosk).rif
+<details>
+<summary>ROMs</summary>
+
 - Little Big Planet (USA) (Demo) (Kiosk).rif, CRC: ac14025c
 </details>
 
@@ -83,11 +89,17 @@
 ### Seven Days - Anata to Sugosu Nanoka-kan (Japan).psv, CRC: 521fba55
 ### Shi'in (Japan).psv, CRC: 6f095b08
 ### Silent Hill - Book of Memories (USA).psv, CRC: 6bdf1304
-### Sound Shapes (USA) (Demo) (Kiosk)
+### Sound Shapes (USA) (Demo) (Kiosk).psv
 <details>
 <summary>ROMs</summary>
 
 - Sound Shapes (USA) (Demo) (Kiosk).psv, CRC: 4a6e2624
+</details>
+
+### Sound Shapes (USA) (Demo) (Kiosk).rif
+<details>
+<summary>ROMs</summary>
+
 - Sound Shapes (USA) (Demo) (Kiosk).rif, CRC: 6323123c
 </details>
 

@@ -129,7 +129,7 @@
 </details>
 
 ### Brandish 3 Theme Kyoku & Eiyuu Densetsu III Mishuuroku Kyokushuu (Japan) (PC Game Bundle) (Track 16).bin, CRC: 30439a67
-### Castlevania - Lords of Shadow - Original Soundtrack (Japan) (PS3 Game Bundle)
+### Castlevania - Lords of Shadow - Original Soundtrack (Japan) (Multisystem Game Bundle)
 <details>
 <summary>ROMs</summary>
 
@@ -241,7 +241,7 @@
 - Crypt of the NecroDancer - Amplified (USA) (PS4 Game Bundle) (Track 6).bin, CRC: 22c99582
 </details>
 
-### Dark Souls III - Original Soundtrack (Japan)
+### Dark Souls III - Original Soundtrack (Japan) (PS4 Game Bundle)
 <details>
 <summary>ROMs</summary>
 
@@ -380,7 +380,7 @@
 ### FM Vertex III - Apex (Japan) (Track 13).bin, CRC: 3d3de3d0
 ### FM Vertex III - Apex - Game Shop 1983 Gentei Tokuten (Japan).bin, CRC: 82062833
 ### Fukakutei Sekai no Tantei Shinshi - Akugyou Souma no Jiken File (Japan) (Original Drama CD - Fukakutei Sekai no Hinichijou) (PS2 Game Bundle) (Track 12).bin, CRC: cb5c2016
-### FX Unit Yuki Original Soundtrack (USA)
+### FX Unit Yuki Original Soundtrack (USA) (PCE Game Bundle)
 <details>
 <summary>ROMs</summary>
 
@@ -548,7 +548,7 @@
 - Grimoire of Marisa (Japan) (Rev 1) (Track 3).bin, CRC: 654c3120
 </details>
 
-### Grimoire of Marisa, The (Japan)
+### Grimoire of Marisa (Japan)
 <details>
 <summary>ROMs</summary>
 
@@ -771,7 +771,7 @@
 ### Kalle Kunskap och Mysteriet pa Moln 9 (Sweden) (Track 26).bin, CRC: 889c9c28
 ### Karous - The Beast of Re-Eden - Original Soundtrack Chocolate Flavored Suicide (Japan) (Track 39).bin, CRC: 318783fa
 ### Kimagure Temptation 2 - Yuuyami Kaikitan - Fanza Gentei Tori-oroshi Drama CD - Kimagure Temptation 1.5 (Japan) (PC Game Bundle).bin, CRC: 9879b16e
-### King of Fighters 2002, The - Unlimited Match - Limited Sound Track (Japan)
+### King of Fighters 2002, The - Unlimited Match - Limited Sound Track (Japan) (PS4 Game Bundle)
 <details>
 <summary>ROMs</summary>
 
@@ -987,7 +987,7 @@
 - Music from the Original Game Sound Track - Hany in the Sky (Japan) (Track 25).bin, CRC: 353ad801
 </details>
 
-### Myth III - Era Wilka (Poland) (Audio)
+### Myth III - Era Wilka (Poland) (Audio) (PC Game Bundle)
 <details>
 <summary>ROMs</summary>
 
@@ -1275,7 +1275,7 @@
 
 ### SaGa Frontier II - Original Soundtrack (Japan) (Disc 1) (Track 28).bin, CRC: 825ccc5b
 ### SaGa Frontier II - Original Soundtrack (Japan) (Disc 3) (Track 21).bin, CRC: 5d4655a9
-### Sanae-chan wa Torawarete Shimatta! Soundtrack (Japan) (Disc 2)
+### Sanae-chan wa Torawarete Shimatta! (Japan) (Disc 2) (Sanatora - Sanatora no Santora) (PC Game Bundle)
 <details>
 <summary>ROMs</summary>
 
@@ -1323,7 +1323,7 @@
 - Senran Kagura - Burst Re-Newal - Limited Edition Drama CD (Japan) (PS4 Game Bundle) (Track 9).bin, CRC: b9ca77b3
 </details>
 
-### Shadowgrounds Survivor - Original Soundtrack (Finland)
+### Shadowgrounds Survivor - Original Soundtrack (Finland) (PC Game Bundle)
 <details>
 <summary>ROMs</summary>
 
@@ -1912,7 +1912,7 @@
 </details>
 
 ### Tetris - The Grand Master Trilogy - Sound Masters (Japan) (Track 37).bin, CRC: d945e021
-### That's Atari Music - G.S.M. Atari Games 1 (Japan)
+### That's Atari Music - G.S.M. Atari Games 1 (Japan) (Reprint)
 <details>
 <summary>ROMs</summary>
 
@@ -2000,7 +2000,7 @@
 - That's Atari Music - G.S.M. Atari Games 1 (Japan) (Reprint) (Track 82).bin, CRC: 729fef74
 </details>
 
-### That's Atari Music Vol. II - G.S.M. Atari Games 2 (Japan)
+### That's Atari Music Vol. II - G.S.M. Atari Games 2 (Japan) (Reprint)
 <details>
 <summary>ROMs</summary>
 
@@ -2055,7 +2055,7 @@
 - Tim Burton's The Nightmare Before Christmas - Boogie no Gyakushuu - Original Game Soundtrack (Japan) (Multisystem Game Bundle) (Track 7).bin, CRC: a8800e8f
 </details>
 
-### Tomak - Save the Earth, Again (Korea) (Original Sound Track) (PC Game Bundle)
+### Tomak - Save the Earth,Again (Korea) (Original Sound Track) (PC Game Bundle)
 <details>
 <summary>ROMs</summary>
 
