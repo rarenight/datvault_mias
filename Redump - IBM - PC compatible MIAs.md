@@ -1,5 +1,5 @@
 # Redump - IBM - PC compatible MIAs
-## Games: 3345, ROMs: 7707, as of 2025-03-22
+## Games: 3339, ROMs: 7692, as of 2025-03-22
 
 ### %% - Fuuin no Otome (Japan) (Track 10).bin, CRC: 4481aa75
 ### Alley 19 Bowling (Europe) (Track 5).bin, CRC: dc835204
@@ -3055,8 +3055,6 @@
 ### Grand Theft Auto III (Lithuania) (En,Fr,De,Es,It) (Install).bin, CRC: ffa8cbac
 ### Grand Theft Auto III (Lithuania) (En,Fr,De,Es,It) (Play).bin, CRC: ab8e085c
 ### Grandes Aventures De Wallace & Gromit, Les (France).iso, CRC: f96a4ae4
-### Grapple Gaia - Joou no Wing Crown (Japan) (Disc 1).bin, CRC: 88906925
-### Grapple Gaia - Joou no Wing Crown (Japan) (Disc 2).bin, CRC: b372a94d
 ### Great Battles of Alexander-Hannibal-Caesar, The (Poland).bin, CRC: fc88e9b1
 ### Great Escape, The - Gesprengte Ketten (Germany) (En,Fr,De,Es,It) (Disc 1).bin, CRC: 36dadf7e
 ### Great Escape, The - Gesprengte Ketten (Germany) (En,Fr,De,Es,It) (Disc 2).bin, CRC: 159ad903
@@ -4184,7 +4182,6 @@
 ### Keltsti Kralove - Punske Valky (Czech).bin, CRC: 1d4850c8
 ### Kelyje-II (Lithuania).bin, CRC: d0464f21
 ### Kenny's Adventure - In Search of Family Treasures (Hungary).bin, CRC: 5b4790b8
-### Keyboard de Tsuzuru Ginga Tetsudou no Yoru (Japan).bin, CRC: 78204bc9
 ### Kharoumenes Ores (Greece).bin, CRC: 6bb72ae5
 ### Ki - The Tree (Japan).bin, CRC: fab8129a
 ### Kick Off 3 (Europe) (En,Fr,De,Es,It,Sv,No,Da,Fi).bin, CRC: 684611f2
@@ -4398,20 +4395,6 @@
 ### Kuaile Hanyu Diyice (Singapore) (En,Zh).bin, CRC: 5b94304e
 ### Kult - Heretic Kingdoms (Turkey).bin, CRC: 520cd259
 ### Kurogane no Tsubasa - Taikan Disc (Japan).bin, CRC: dbc3e92d
-### Kusayakyuu EX (Japan)
-<details>
-<summary>ROMs</summary>
-
-- Kusayakyuu EX (Japan) (Track 1).bin, CRC: 1df3e5d3
-- Kusayakyuu EX (Japan) (Track 2).bin, CRC: 17c2be75
-- Kusayakyuu EX (Japan) (Track 3).bin, CRC: cd1c86e6
-- Kusayakyuu EX (Japan) (Track 4).bin, CRC: 70562145
-- Kusayakyuu EX (Japan) (Track 5).bin, CRC: b34f2f9d
-- Kusayakyuu EX (Japan) (Track 6).bin, CRC: fc07df93
-- Kusayakyuu EX (Japan) (Track 7).bin, CRC: d951feb8
-- Kusayakyuu EX (Japan) (Track 8).bin, CRC: 993e61b1
-</details>
-
 ### Kusuri to Mahou no Miriel (Japan).bin, CRC: 7998418c
 ### Kyojin no Hoshi - Typing Yousei Gips (Japan).bin, CRC: 0a36374d
 ### Kyuukyoku Puchi Pachi-Slot - Siosai-30 (Japan).bin, CRC: 9910d636
@@ -6974,14 +6957,6 @@
 - Ryuutei Sensou - Perpetuum Amor (Japan) (Disc 2) (Track 25).bin, CRC: e5206b26
 </details>
 
-### S.S.D.S. - Setsuna no Akogare (Japan)
-<details>
-<summary>ROMs</summary>
-
-- S.S.D.S. - Setsuna no Akogare (Japan) (Track 1).bin, CRC: 8acbc7da
-- S.S.D.S. - Setsuna no Akogare (Japan) (Track 2).bin, CRC: e43df50a
-</details>
-
 ### S.T.A.L.K.E.R. - Call of Pripyat (Ukraine).iso, CRC: 503aa9cf
 ### S.T.A.L.K.E.R. - Clear Sky (Hungary).iso, CRC: 90e0975d
 ### S.T.A.L.K.E.R. - Clear Sky (Poland).iso, CRC: ff67c47c
@@ -8148,14 +8123,6 @@
 - Sonic R (France) (En,Fr,De,Es,It) (Xplosiv) (Track 19).bin, CRC: baeb5440
 - Sonic R (France) (En,Fr,De,Es,It) (Xplosiv) (Track 20).bin, CRC: 5e04b97f
 - Sonic R (France) (En,Fr,De,Es,It) (Xplosiv) (Track 21).bin, CRC: 12483ee6
-</details>
-
-### Sora no Fudousan (Japan)
-<details>
-<summary>ROMs</summary>
-
-- Sora no Fudousan (Japan) (Track 02).bin, CRC: a4c234ed
-- Sora no Fudousan (Japan) (Track 18).bin, CRC: 00e57643
 </details>
 
 ### Sora no Fudousan (Japan) (Doukonban)
