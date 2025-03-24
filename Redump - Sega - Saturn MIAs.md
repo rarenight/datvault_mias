@@ -1,5 +1,5 @@
 # Redump - Sega - Saturn MIAs
-## Games: 2, ROMs: 3, as of 2025-03-23
+## Games: 3, ROMs: 4, as of 2025-03-24
 
 ### Game-Ware (Japan) (Soukan Junbigou Hibaihin)
 <details>
@@ -10,3 +10,4 @@
 </details>
 
 ### Hyper Golf, The - Devil's Course (Japan) (Demo).bin, CRC: c635a73b
+### King of Fighters '97, The (Japan) (Sample) (Track 01).bin, CRC: f73830c2
