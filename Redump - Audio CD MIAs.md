@@ -1,5 +1,5 @@
 # Redump - Audio CD MIAs
-## Games: 144, ROMs: 1791, as of 2025-03-23
+## Games: 142, ROMs: 1742, as of 2025-03-25
 
 ### Age of Empires III (Poland) (Plyta audio z muzyka z gry) (PC Game Bundle)
 <details>
@@ -1342,67 +1342,6 @@
 - Shadowgrounds Survivor - Original Soundtrack (Finland) (PC Game Bundle) (Track 13).bin, CRC: 1bebe37a
 - Shadowgrounds Survivor - Original Soundtrack (Finland) (PC Game Bundle) (Track 14).bin, CRC: 1304162b
 - Shadowgrounds Survivor - Original Soundtrack (Finland) (PC Game Bundle) (Track 15).bin, CRC: 32b9aade
-</details>
-
-### Shinji Hosoe Works Vol. 1 - Dragon Spirit (Japan) (Disc 1)
-<details>
-<summary>ROMs</summary>
-
-- Shinji Hosoe Works Vol. 1 - Dragon Spirit (Japan) (Disc 1) (Track 01).bin, CRC: 827c5805
-- Shinji Hosoe Works Vol. 1 - Dragon Spirit (Japan) (Disc 1) (Track 02).bin, CRC: c311462c
-- Shinji Hosoe Works Vol. 1 - Dragon Spirit (Japan) (Disc 1) (Track 03).bin, CRC: aa564fd2
-- Shinji Hosoe Works Vol. 1 - Dragon Spirit (Japan) (Disc 1) (Track 04).bin, CRC: 13d800fb
-- Shinji Hosoe Works Vol. 1 - Dragon Spirit (Japan) (Disc 1) (Track 05).bin, CRC: 5e227741
-- Shinji Hosoe Works Vol. 1 - Dragon Spirit (Japan) (Disc 1) (Track 06).bin, CRC: 14c7536f
-- Shinji Hosoe Works Vol. 1 - Dragon Spirit (Japan) (Disc 1) (Track 07).bin, CRC: cbd4b6ad
-- Shinji Hosoe Works Vol. 1 - Dragon Spirit (Japan) (Disc 1) (Track 08).bin, CRC: 2ef70ef3
-- Shinji Hosoe Works Vol. 1 - Dragon Spirit (Japan) (Disc 1) (Track 09).bin, CRC: 7e8c2ea0
-- Shinji Hosoe Works Vol. 1 - Dragon Spirit (Japan) (Disc 1) (Track 10).bin, CRC: 5d9b4560
-- Shinji Hosoe Works Vol. 1 - Dragon Spirit (Japan) (Disc 1) (Track 11).bin, CRC: b620498d
-- Shinji Hosoe Works Vol. 1 - Dragon Spirit (Japan) (Disc 1) (Track 12).bin, CRC: e1afabf8
-- Shinji Hosoe Works Vol. 1 - Dragon Spirit (Japan) (Disc 1) (Track 13).bin, CRC: 829ddd1c
-- Shinji Hosoe Works Vol. 1 - Dragon Spirit (Japan) (Disc 1) (Track 14).bin, CRC: e41c348f
-- Shinji Hosoe Works Vol. 1 - Dragon Spirit (Japan) (Disc 1) (Track 15).bin, CRC: 2cd0bcf1
-- Shinji Hosoe Works Vol. 1 - Dragon Spirit (Japan) (Disc 1) (Track 16).bin, CRC: 1a05bb06
-- Shinji Hosoe Works Vol. 1 - Dragon Spirit (Japan) (Disc 1) (Track 17).bin, CRC: 5eff6d67
-- Shinji Hosoe Works Vol. 1 - Dragon Spirit (Japan) (Disc 1) (Track 18).bin, CRC: afae63b9
-- Shinji Hosoe Works Vol. 1 - Dragon Spirit (Japan) (Disc 1) (Track 19).bin, CRC: 8c0fb81d
-- Shinji Hosoe Works Vol. 1 - Dragon Spirit (Japan) (Disc 1) (Track 20).bin, CRC: a0497721
-- Shinji Hosoe Works Vol. 1 - Dragon Spirit (Japan) (Disc 1) (Track 21).bin, CRC: 2f456439
-- Shinji Hosoe Works Vol. 1 - Dragon Spirit (Japan) (Disc 1) (Track 22).bin, CRC: 14c5ca83
-- Shinji Hosoe Works Vol. 1 - Dragon Spirit (Japan) (Disc 1) (Track 23).bin, CRC: dc19bdf9
-- Shinji Hosoe Works Vol. 1 - Dragon Spirit (Japan) (Disc 1) (Track 24).bin, CRC: 8ce3d4f3
-- Shinji Hosoe Works Vol. 1 - Dragon Spirit (Japan) (Disc 1) (Track 25).bin, CRC: 6251399f
-- Shinji Hosoe Works Vol. 1 - Dragon Spirit (Japan) (Disc 1) (Track 26).bin, CRC: bdd2ad7e
-- Shinji Hosoe Works Vol. 1 - Dragon Spirit (Japan) (Disc 1) (Track 27).bin, CRC: d7957bce
-- Shinji Hosoe Works Vol. 1 - Dragon Spirit (Japan) (Disc 1) (Track 28).bin, CRC: 1d917174
-- Shinji Hosoe Works Vol. 1 - Dragon Spirit (Japan) (Disc 1) (Track 29).bin, CRC: 8ae03380
-- Shinji Hosoe Works Vol. 1 - Dragon Spirit (Japan) (Disc 1) (Track 30).bin, CRC: 9852d716
-</details>
-
-### Shinji Hosoe Works Vol. 1 - Dragon Spirit (Japan) (Disc 2)
-<details>
-<summary>ROMs</summary>
-
-- Shinji Hosoe Works Vol. 1 - Dragon Spirit (Japan) (Disc 2) (Track 01).bin, CRC: 808d9217
-- Shinji Hosoe Works Vol. 1 - Dragon Spirit (Japan) (Disc 2) (Track 02).bin, CRC: 081d955f
-- Shinji Hosoe Works Vol. 1 - Dragon Spirit (Japan) (Disc 2) (Track 03).bin, CRC: f6ef709a
-- Shinji Hosoe Works Vol. 1 - Dragon Spirit (Japan) (Disc 2) (Track 04).bin, CRC: c88ef405
-- Shinji Hosoe Works Vol. 1 - Dragon Spirit (Japan) (Disc 2) (Track 05).bin, CRC: f9f4b221
-- Shinji Hosoe Works Vol. 1 - Dragon Spirit (Japan) (Disc 2) (Track 06).bin, CRC: 43bd4684
-- Shinji Hosoe Works Vol. 1 - Dragon Spirit (Japan) (Disc 2) (Track 07).bin, CRC: 2df98519
-- Shinji Hosoe Works Vol. 1 - Dragon Spirit (Japan) (Disc 2) (Track 08).bin, CRC: 280b1bb5
-- Shinji Hosoe Works Vol. 1 - Dragon Spirit (Japan) (Disc 2) (Track 09).bin, CRC: 0a45de4e
-- Shinji Hosoe Works Vol. 1 - Dragon Spirit (Japan) (Disc 2) (Track 10).bin, CRC: 06db2e2e
-- Shinji Hosoe Works Vol. 1 - Dragon Spirit (Japan) (Disc 2) (Track 11).bin, CRC: 3ae51e8d
-- Shinji Hosoe Works Vol. 1 - Dragon Spirit (Japan) (Disc 2) (Track 12).bin, CRC: cf8268f7
-- Shinji Hosoe Works Vol. 1 - Dragon Spirit (Japan) (Disc 2) (Track 13).bin, CRC: b162f728
-- Shinji Hosoe Works Vol. 1 - Dragon Spirit (Japan) (Disc 2) (Track 14).bin, CRC: c41444cf
-- Shinji Hosoe Works Vol. 1 - Dragon Spirit (Japan) (Disc 2) (Track 15).bin, CRC: bd3c4ae9
-- Shinji Hosoe Works Vol. 1 - Dragon Spirit (Japan) (Disc 2) (Track 16).bin, CRC: c9c77870
-- Shinji Hosoe Works Vol. 1 - Dragon Spirit (Japan) (Disc 2) (Track 17).bin, CRC: e88b6608
-- Shinji Hosoe Works Vol. 1 - Dragon Spirit (Japan) (Disc 2) (Track 18).bin, CRC: e6bf2220
-- Shinji Hosoe Works Vol. 1 - Dragon Spirit (Japan) (Disc 2) (Track 19).bin, CRC: 77192617
 </details>
 
 ### Shinji Hosoe Works Vol. 3 - Dragon Saber (Japan) (Disc 1)
