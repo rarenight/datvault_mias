@@ -1,5 +1,5 @@
 # No-Intro - Google - Android (Google Play Store) (APK) MIAs
-## Games: 15, ROMs: 25, as of 2025-03-25
+## Games: 15, ROMs: 25, as of 2025-03-27
 
 ### Angry Birds Epic (World) (v3.0.27463.4821).apk, CRC: ba4d88e0
 ### Angry Birds Star Wars HD (World) (1.5.13).apk, CRC: 24af0bbe

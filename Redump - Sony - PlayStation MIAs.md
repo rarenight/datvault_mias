@@ -1,5 +1,5 @@
 # Redump - Sony - PlayStation MIAs
-## Games: 4, ROMs: 7, as of 2025-03-25
+## Games: 4, ROMs: 7, as of 2025-03-27
 
 ### Casper - Friends Around the World (Korea).bin, CRC: 2632a935
 ### Jin Bao Re Shu (Taiwan) (Unl)
