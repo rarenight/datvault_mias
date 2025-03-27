@@ -1,5 +1,5 @@
 # Redump - Apple - Macintosh MIAs
-## Games: 173, ROMs: 205, as of 2025-03-25
+## Games: 172, ROMs: 204, as of 2025-03-25
 
 ### 3-D Ultra Pinball (Japan).bin, CRC: 610eb45d
 ### 3DO Content Library, The (USA) (Disc 88) (Music & Sound Effects).bin, CRC: c157b11b
@@ -210,7 +210,6 @@
 ### Sims 2, The - Open For Business (Expansion Pack) (USA).iso, CRC: 4941e2f0
 ### SimTown - The Town You Build Yourself! (Japan).bin, CRC: bcde4183
 ### Sinkha (USA).bin, CRC: 5b347810
-### Space Ace CD-ROM (USA, Canada) (En,Fr) (For Macintosh Computers).bin, CRC: cf08b6a7
 ### Star Wars - Rebel Assault (Europe).bin, CRC: 87398f45
 ### Star Wars - X-Wing - Collector's CD-ROM (Japan).bin, CRC: 4930c854
 ### Terry Pratchett's Discworld (UK).bin, CRC: 9ee34d30

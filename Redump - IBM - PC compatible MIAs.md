@@ -1,5 +1,5 @@
 # Redump - IBM - PC compatible MIAs
-## Games: 3338, ROMs: 7679, as of 2025-03-25
+## Games: 3332, ROMs: 7669, as of 2025-03-25
 
 ### %% - Fuuin no Otome (Japan) (Track 10).bin, CRC: 4481aa75
 ### Alley 19 Bowling (Europe) (Track 5).bin, CRC: dc835204
@@ -860,14 +860,6 @@
 - Bust-A-Move 3 DX (Europe) (Xplosiv) (Track 17).bin, CRC: 9cf3a4db
 - Bust-A-Move 3 DX (Europe) (Xplosiv) (Track 18).bin, CRC: a3f07efd
 - Bust-A-Move 3 DX (Europe) (Xplosiv) (Track 19).bin, CRC: 55a648c3
-</details>
-
-### Buzz Aldrin's Race into Space - Uchuu e no Chousen (Japan)
-<details>
-<summary>ROMs</summary>
-
-- Buzz Aldrin's Race into Space - Uchuu e no Chousen (Japan) (Track 1).bin, CRC: 24c53b0d
-- Buzz Aldrin's Race into Space - Uchuu e no Chousen (Japan) (Track 2).bin, CRC: 74137ba0
 </details>
 
 ### Yr Ardd (UK).bin, CRC: 16986cdb
@@ -1893,8 +1885,6 @@
 ### Disciples - Sacred Lands (France) (Gold Edition).bin, CRC: ff09f88b
 ### Disciples - Sacred Lands (USA) (Rerelease) (Alt).bin, CRC: 9ea5fb81
 ### Disciples II - Bunt Elfow (Poland) (Disc 1) (Alt).bin, CRC: 2fe5e328
-### Disciples II - Powrot Galleana (Straznicy Swiatla + Sludzy Ciemnosci) (Poland) (Disc 1).bin, CRC: b73a9141
-### Disciples II - Powrot Galleana (Straznicy Swiatla + Sludzy Ciemnosci) (Poland) (Disc 2).bin, CRC: a18148bd
 ### Disney - Pixar WALL-E (Portugal) (En,Es,Pt).iso, CRC: 3d05a8df
 ### Disney Bolt (Portugal) (En,Es,It,Pl,Cs).iso, CRC: 623d3af0
 ### Disney Dinosaurio (USA).bin, CRC: 84eff363
@@ -6438,7 +6428,6 @@
 - Ragna (Japan) (Disc 1) (Track 31).bin, CRC: 9eff667b
 </details>
 
-### Ragnarok Battle Offline (Japan).iso, CRC: ba97d238
 ### Ragnarok Battle Offline - Extra Scenario Vol.1 (Japan).bin, CRC: 4480a1fc
 ### Ragnarok Online - Sakura Romance (Asia).bin, CRC: 415e8edc
 ### Raiden II (Japan)
@@ -7628,16 +7617,6 @@
 ### Shen Hua (Taiwan).bin, CRC: 20c6e609
 ### Shengshu Waidian - Platina Pian (China) (Disc 1) (Anzhuangpan).bin, CRC: 0fe9f7b1
 ### Shengshu Waidian - Platina Pian (China) (Disc 2) (Anzhuangpan).bin, CRC: e825ebbc
-### Shengsi Zhijian (China)
-<details>
-<summary>ROMs</summary>
-
-- Shengsi Zhijian (China) (Track 1).bin, CRC: 0dbac5f0
-- Shengsi Zhijian (China) (Track 2).bin, CRC: 003f1d60
-- Shengsi Zhijian (China) (Track 3).bin, CRC: e1e0f939
-- Shengsi Zhijian (China) (Track 4).bin, CRC: 17897d6b
-</details>
-
 ### Sherlock Holmes - The Awakened (UK).iso, CRC: 8c24116d
 ### Shi Naki Shijin no Gogo (Japan).bin, CRC: b68bc708
 ### Shiki no Kyouken (Japan).bin, CRC: 8c9dd224
@@ -8188,7 +8167,6 @@
 
 ### Soulbringer (Europe) (En,Fr,De,Es,It) (Rerelease).bin, CRC: 68d26a8b
 ### Space Ace CD-ROM (Canada).bin, CRC: 35554c80
-### Space Ace CD-ROM (USA, Canada) (En,Fr) (PC and Compatibles).bin, CRC: 8a6e4d78
 ### Space Dynagon Kai (Japan).bin, CRC: fa8f3e21
 ### Space Hack (Hungary).bin, CRC: 85b812d8
 ### Space Invaders X (Japan).bin, CRC: 88d3b448
