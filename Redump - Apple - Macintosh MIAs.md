@@ -1,5 +1,5 @@
 # Redump - Apple - Macintosh MIAs
-## Games: 172, ROMs: 204, as of 2025-03-27
+## Games: 171, ROMs: 202, as of 2025-03-28
 
 ### 3-D Ultra Pinball (Japan).bin, CRC: 610eb45d
 ### 3DO Content Library, The (USA) (Disc 88) (Music & Sound Effects).bin, CRC: c157b11b
@@ -116,14 +116,6 @@
 ### Harry Potter und der Stein der Weisen (Germany).bin, CRC: 592649b2
 ### Harry Potter und die Kammer des Schreckens (Germany).bin, CRC: e31cd04f
 ### Hell - A Cyberpunk Thriller (Japan).bin, CRC: ff96379c
-### Inca Teikoku - Ougon Sato no Fukkatsu (Japan)
-<details>
-<summary>ROMs</summary>
-
-- Inca Teikoku - Ougon Sato no Fukkatsu (Japan) (Track 1).bin, CRC: a359db4e
-- Inca Teikoku - Ougon Sato no Fukkatsu (Japan) (Track 2).bin, CRC: 1ee05e50
-</details>
-
 ### Kana - Imouto (Japan).bin, CRC: 00df668a
 ### Klik & Play (France).bin, CRC: a7f8c388
 ### Leisure Suit Larry 6 - Shape Up or Slip Out! (USA).bin, CRC: d98b96e1

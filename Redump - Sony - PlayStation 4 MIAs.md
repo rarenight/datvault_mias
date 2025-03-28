@@ -1,5 +1,5 @@
 # Redump - Sony - PlayStation 4 MIAs
-## Games: 308, ROMs: 308, as of 2025-03-27
+## Games: 307, ROMs: 307, as of 2025-03-28
 
 ### 2Dark (Japan).iso, CRC: 51bd991f
 ### 8-Bit Adventure Anthology - Volume 1 (USA).iso, CRC: 1598191a
@@ -175,7 +175,6 @@
 ### Nex Machina (USA) (En,Fr,De,Es,It,Pt,Pl,Ru,Tr).iso, CRC: a6d983eb
 ### NHL 22 (USA) (En,Fr).iso, CRC: bc6d1edc
 ### Ni no Kuni - Wrath of the White Witch Remastered (Europe) (En,Fr,De,Es,It,Ru).iso, CRC: 758bf9dc
-### Ni no Kuni II - Revenant Kingdom (Japan).iso, CRC: 55dc3f90
 ### Nier - Automata (Japan).iso, CRC: 28e3ae7d
 ### Nioh - Complete Edition (Japan) (En,Ja,Zh,Ko).iso, CRC: 0949d36d
 ### Nioh 2 (Japan).iso, CRC: 4b8adff0
