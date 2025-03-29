@@ -1,5 +1,5 @@
 # No-Intro - Nintendo - Nintendo Switch (Digital) (NSP) MIAs
-## Games: 126, ROMs: 126, as of 2025-03-28
+## Games: 126, ROMs: 126, as of 2025-03-29
 
 ### #1 Anagrams (USA, Europe) (eShop).nsp, CRC: 5acc7c92
 ### #1 Anagrams Sudokus Bundle (Unknown) (eShop).nsp, CRC: 51d2cf34
