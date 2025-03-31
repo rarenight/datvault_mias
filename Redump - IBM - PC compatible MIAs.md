@@ -1,5 +1,5 @@
 # Redump - IBM - PC compatible MIAs
-## Games: 3306, ROMs: 7619, as of 2025-03-31
+## Games: 3303, ROMs: 7608, as of 2025-03-31
 
 ### %% - Fuuin no Otome (Japan) (Track 10).bin, CRC: 4481aa75
 ### Alley 19 Bowling (Europe) (Track 5).bin, CRC: dc835204
@@ -9371,8 +9371,6 @@
 ### Vormenrom Groep 1-2 (Netherlands).bin, CRC: 913e4e8d
 ### Wacky Wheels (USA) (Rerelease) (1997-01-24).bin, CRC: b5a370f0
 ### Wana no Kishi, Ginsen no Hime (Japan).bin, CRC: 308b4714
-### Wanglu Sanguo (Taiwan) (Disc 1).bin, CRC: c7d2b8ef
-### Wanglu Sanguo (Taiwan) (Disc 2).bin, CRC: 96cdbb72
 ### Wangzhan Eluosi (Taiwan)
 <details>
 <summary>ROMs</summary>
@@ -9590,21 +9588,6 @@
 ### Wing Commander IV - The Price of Freedom (Spain) (Disc 1).bin, CRC: 64630519
 ### Wings of Prey (Japan) (En,Ja,Fr,De,It,Pl,Cs).iso, CRC: 36ef65e7
 ### Wings! Remastered Edition (Europe) (En,Fr,De,Es,It,Ru).iso, CRC: f2f4ea2b
-### WipEout (Japan)
-<details>
-<summary>ROMs</summary>
-
-- Wipeout (Japan) (Track 1).bin, CRC: 1dede159
-- Wipeout (Japan) (Track 2).bin, CRC: 83ee1c9f
-- Wipeout (Japan) (Track 3).bin, CRC: 09c54e85
-- Wipeout (Japan) (Track 4).bin, CRC: f3f41513
-- Wipeout (Japan) (Track 5).bin, CRC: 864f5771
-- Wipeout (Japan) (Track 6).bin, CRC: ed71166c
-- Wipeout (Japan) (Track 7).bin, CRC: d5a5dec5
-- Wipeout (Japan) (Track 8).bin, CRC: 9d43cb0b
-- Wipeout (Japan) (Track 9).bin, CRC: 9dc18d77
-</details>
-
 ### Wisecrackers! The Interactive Trivia Jewish Game - Bar-Bat Mitzvah Edition (USA).bin, CRC: b8a2697e
 ### Witcher 2, The - Assassins of Kings - Enhanced Edition (Poland) (En,Fr,De,Pl,Ru) (Disc 1).iso, CRC: 7e63b168
 ### Witcher 2, The - Assassins of Kings - Enhanced Edition (Poland) (En,Fr,De,Pl,Ru) (Disc 2).iso, CRC: b812066d
