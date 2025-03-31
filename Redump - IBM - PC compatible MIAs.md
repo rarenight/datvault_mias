@@ -1,5 +1,5 @@
 # Redump - IBM - PC compatible MIAs
-## Games: 3326, ROMs: 7661, as of 2025-03-29
+## Games: 3306, ROMs: 7619, as of 2025-03-31
 
 ### %% - Fuuin no Otome (Japan) (Track 10).bin, CRC: 4481aa75
 ### Alley 19 Bowling (Europe) (Track 5).bin, CRC: dc835204
@@ -599,7 +599,6 @@
 ### Bakevot Hamilim Havudot (Israel).bin, CRC: 200c79b6
 ### Bakumatsu Giten Ibunroku (Japan).bin, CRC: e1d5ac34
 ### Baldies (Poland) (Sold Out Software).bin, CRC: eba9e33e
-### Baldur's Gate (Germany) (Disc 1) (v1.1.4315).bin, CRC: 5ac3c248
 ### Baldur's Gate + Opowiesci z Wybrzeza Mieczy (Poland) (Disc 1).bin, CRC: 512406a7
 ### Baldur's Gate + Opowiesci z Wybrzeza Mieczy (Poland) (Disc 6) (Addon).bin, CRC: df5b3785
 ### Baldur's Gate - The Original Saga (World) (Disc 3).bin, CRC: bfa87e64
@@ -1826,7 +1825,6 @@
 ### Devil Inside, The (Hungary).bin, CRC: 66d5ae7d
 ### Devil May Cry 3 - Dante's Awakening (Europe) (En,Fr,De,Es,It) (Special Edition) (Alt).iso, CRC: 1e8466b8
 ### Devil Whiskey (USA) (Rerelease).bin, CRC: 7e145133
-### Di-San Diqiu (Taiwan).bin, CRC: 0412f486
 ### Diablo (China) (Rerelease).bin, CRC: 61b034fd
 ### Diablo (Poland).bin, CRC: e63c7c55
 ### Diablo II (China) (Install Disc) (Rerelease).bin, CRC: 91311b3b
@@ -2771,18 +2769,9 @@
 
 ### Fragile Allegiance (USA) (20 Saved Asteroid War Games).bin, CRC: 4d163f30
 ### Frane II - Seikai no Kiseki (Japan).bin, CRC: d3023633
-### Freaks! Slammin' Traffic (Lithuania) (Lt,Lv).bin, CRC: 9a083c8d
 ### Freddi Fish 3 - De Zaak van de Gestolen Trompetschelp (Netherlands) (OEM).bin, CRC: 453f2cd0
 ### Freddi Fish en het Verhaal van de Verdwenen Zeewierzaadjes (Netherlands) (B8719043).bin, CRC: b8719043
-### Freddi Fish en het Verhaal van de Verdwenen Zeewierzaadjes (Netherlands) (Rerelease) (20050901)
-<details>
-<summary>ROMs</summary>
-
-- Freddi Fish en het Verhaal van de Verdwenen Zeewierzaadjes (Netherlands) (Rerelease) (2005-09-01) (Track 1).bin, CRC: 89118311
-- Freddi Fish en het Verhaal van de Verdwenen Zeewierzaadjes (Netherlands) (Rerelease) (2005-09-01) (Track 2).bin, CRC: ed1c9dda
-- Freddi Fish en het Verhaal van de Verdwenen Zeewierzaadjes (Netherlands) (Rerelease) (2005-09-01) (Track 3).bin, CRC: 2730e408
-</details>
-
+### Freddi Fish en het Verhaal van de Verdwenen Zeewierzaadjes (Netherlands) (Rerelease) (2005-09-01) (Track 3).bin, CRC: 2730e408
 ### Freedom Force (Germany) (En,Fr,De) (Rerelease).bin, CRC: bf6f87e2
 ### Freejia III - Blue Tears (Japan).bin, CRC: 7bdb020d
 ### Freejia III - Blue Tears (Japan) (Alt).bin, CRC: 5dff1d9e
@@ -3513,10 +3502,6 @@
 ### Heroes of Might and Magic III + IV - Complete (Europe) (En,Fr,De,Es,It).iso, CRC: e78c36c3
 ### Heroes of Might and Magic III - The Shadow of Death (Korea).bin, CRC: 7c2bb815
 ### Heroes of Might and Magic III Essential (Hungary).bin, CRC: e09254e2
-### Heroes of Might and Magic IV - Complete (Hungary) (Disc 1) (Install).bin, CRC: 04f5cece
-### Heroes of Might and Magic IV - Complete (Hungary) (Disc 2) (Play).bin, CRC: 77f23e39
-### Heroes of Might and Magic IV - The Gathering Storm (Hungary) (Kiegeszito).bin, CRC: 4a43a562
-### Heroes of Might and Magic IV - Winds of War (Hungary) (Kiegeszito).bin, CRC: 96a74cab
 ### Heroes of Might and Magic V (UK) (Demo).bin, CRC: c3cbf07b
 ### Heroes of the 357th, The (Scandinavia) (Hit Squad).bin, CRC: a663d80a
 ### Herr der Ringe, Der - Die Gefaehrten (Germany) (Alt).bin, CRC: 18e96b29
@@ -5508,7 +5493,6 @@
 ### Na Palauk! 4 Leidimas. Gaudynes (Lithuania).bin, CRC: 7501d85f
 ### Na Palauk! Antras Leidimas. Apvali Suma (Lithuania).bin, CRC: 3e307f17
 ### Na Palauk! Pirmas Leidimas. Gaudynes (Lithuania).bin, CRC: 223598d8
-### Na Palauk! Trecias Leidimas. Zuikio Dainos (Lithuania).bin, CRC: 37a156bf
 ### Nalara! Hoppangman (Korea).bin, CRC: feceb4ce
 ### Namie ir Svetur (Lithuania) (En,Lt).bin, CRC: 96759735
 ### Naminiai Gyvuneliai (Lithuania).bin, CRC: 3fdfb37f
@@ -6051,7 +6035,6 @@
 ### Pixeline Skolehjaelp - Dansk 2 - Pixeline i Bogstavjunglen (Denmark).bin, CRC: 5de39fe5
 ### Pixeline Skolehjaelp - Dinosaurer - De Frygtelige Ogler (Denmark).bin, CRC: 5dbe9445
 ### Pizza Tycoon (UK) (Sold Out Software).bin, CRC: de8e9ccf
-### Planas - Dvieju Paveikslu Istorija (Lithuania).bin, CRC: 95e340fd
 ### Platoon (Belgium, Netherlands).bin, CRC: a02667a8
 ### Platoon (Hungary).bin, CRC: b30935fa
 ### Platoon (Lithuania).bin, CRC: 0f25e7f6
@@ -6086,7 +6069,6 @@
 ### PokeROM - Schiggy (Germany).bin, CRC: bb052240
 ### Neighbours from Hell (Hungary).bin, CRC: a1351f2a
 ### Neighbours from Hell 2 - On Vacation (Hungary).bin, CRC: 33131ba2
-### Polda 2 (Czech).bin, CRC: f4c9fa27
 ### Police Quest - SWAT 2 (Germany) (Rerelease) (5012E377).bin, CRC: 5012e377
 ### Polski Wiatr (Poland) (En,De,Pl)
 <details>
@@ -6103,7 +6085,6 @@
 ### Pompei - De Dreiging van de Vesuvius (Netherlands) (Disc 1).bin, CRC: 5ffa3bab
 ### Pompei - De Dreiging van de Vesuvius (Netherlands) (Disc 2).bin, CRC: 771c96be
 ### Ponkickies CD-ROM Vol. 2 - Kazoete Pon! (Japan).bin, CRC: 0f96b3f2
-### Pony World (Lithuania).bin, CRC: 41015854
 ### Pool of Radiance - Ruiny Myth Drannor (Poland) (Dysk Instalacyjny).bin, CRC: 9aa4755f
 ### Pop'n Music Be-Mouse (Japan).bin, CRC: 64671b28
 ### Porno Poker (USA).bin, CRC: f3b387a7
@@ -6676,9 +6657,6 @@
 
 ### Revolution - 25th Anniversary Collection (Belgium, Netherlands) (Disc 1) (Revolution Games 1992 - 2010).iso, CRC: 6aa8bff5
 ### rFactor Special Edition 2008 (Europe) (En,Fr,De,Es,It,Pt,Cs).iso, CRC: ec137255
-### Riana Rouge (Japan) (Disc 1).bin, CRC: 2055b420
-### Riana Rouge (Japan) (Disc 2).bin, CRC: 2ed17191
-### Riana Rouge (Japan) (Disc 3).bin, CRC: 78c60539
 ### Richard Burns Rally (Czech).iso, CRC: 0fcfa5a9
 ### Rift (Australia) (En,Fr,De).iso, CRC: 4b95e3c3
 ### Riot (Taiwan)
@@ -6933,7 +6911,6 @@
 </details>
 
 ### S.T.A.L.K.E.R. - Call of Pripyat (Ukraine).iso, CRC: 503aa9cf
-### S.T.A.L.K.E.R. - Clear Sky (Hungary).iso, CRC: 90e0975d
 ### S.T.A.L.K.E.R. - Clear Sky (Poland).iso, CRC: ff67c47c
 ### S.T.A.L.K.E.R. - Clear Sky (Poland) (Plyta Dodatkowa).bin, CRC: 92ec1126
 ### S.T.A.L.K.E.R. - Shadow of Chernobyl (Europe) (En,Fr,Es,It) (Alt).iso, CRC: 4ee1eee3
@@ -8720,7 +8697,6 @@
 </details>
 
 ### Thunderscape (Scandinavia).bin, CRC: a94eff4a
-### Tielu Daheng (Taiwan).bin, CRC: 0289089a
 ### Tiger Woods PGA Tour 2000 (USA) (Disc 1) (Rerelease) (2000-08-23).bin, CRC: d903eb1c
 ### Heath - The Unchosen Path (Hungary).bin, CRC: f951fa6c
 ### Timon Synttaerijuhlat (Finland).bin, CRC: e498bc76
@@ -9056,7 +9032,6 @@
 ### Town with No Name, The (UK) (En,Fr,De,Es,It,Da) (Track 2).bin, CRC: 02084d02
 ### Toyland Racer (Poland).bin, CRC: a5507e4d
 ### TrackMania United (Taiwan).iso, CRC: 55fce750
-### Trade Empires (Japan).bin, CRC: d87bcfb0
 ### Tradicni Ceske Pohadky pro Pocitac s Windows (Czech) (En,Es,Cs).bin, CRC: 34b0c57a
 ### Traffic Giant (Netherlands)
 <details>
@@ -9250,7 +9225,6 @@
 ### Under Occupation - Aghdam (Asia).iso, CRC: 2540b7af
 ### Under Occupation - Revenge (Asia) (En,Ru).iso, CRC: 01370d3d
 ### Under Occupation - Shusha (Asia).iso, CRC: 20c33ec6
-### Underground Fighting (Lithuania).bin, CRC: d4278131
 ### Underground Fighting (Lithuania) (Rerelease).bin, CRC: 62ea95e2
 ### Undinele (Lithuania) (En,De,Ru,Lt).bin, CRC: 2263a09c
 ### Unendliche Geschichte, Die - Teil 1 - Auryn Quest (Germany).bin, CRC: b7237871
@@ -9803,34 +9777,6 @@
 ### XtremPC 100 (07-08-2008) (DVD) (Romania).iso, CRC: 72c72a1e
 ### Xuan-Yuan Jian 3 Wai Zhuan - Tien Zhi Hen (Taiwan).bin, CRC: 41940733
 ### Yak Druzhyly Vovk ta Zayets' (Ukraine).bin, CRC: ed82a490
-### Yaojingmen De Quqingshi (Taiwan) (Disc A).bin, CRC: aa3ab41f
-### Yaojingmen De Quqingshi (Taiwan) (Disc B)
-<details>
-<summary>ROMs</summary>
-
-- Yaojingmen De Quqingshi (Taiwan) (Disc B) (Track 01).bin, CRC: 8c660338
-- Yaojingmen De Quqingshi (Taiwan) (Disc B) (Track 02).bin, CRC: 4aafb44d
-- Yaojingmen De Quqingshi (Taiwan) (Disc B) (Track 03).bin, CRC: d78f6542
-- Yaojingmen De Quqingshi (Taiwan) (Disc B) (Track 04).bin, CRC: 8b9e854e
-- Yaojingmen De Quqingshi (Taiwan) (Disc B) (Track 05).bin, CRC: 7e523671
-- Yaojingmen De Quqingshi (Taiwan) (Disc B) (Track 06).bin, CRC: ca6e2c47
-- Yaojingmen De Quqingshi (Taiwan) (Disc B) (Track 07).bin, CRC: 2174d636
-- Yaojingmen De Quqingshi (Taiwan) (Disc B) (Track 08).bin, CRC: 3b97e622
-- Yaojingmen De Quqingshi (Taiwan) (Disc B) (Track 09).bin, CRC: 95c3e265
-- Yaojingmen De Quqingshi (Taiwan) (Disc B) (Track 10).bin, CRC: 0a62b57e
-- Yaojingmen De Quqingshi (Taiwan) (Disc B) (Track 11).bin, CRC: d79d7510
-- Yaojingmen De Quqingshi (Taiwan) (Disc B) (Track 12).bin, CRC: b340065c
-- Yaojingmen De Quqingshi (Taiwan) (Disc B) (Track 13).bin, CRC: 99a7f2bc
-- Yaojingmen De Quqingshi (Taiwan) (Disc B) (Track 14).bin, CRC: 66b2dc1a
-- Yaojingmen De Quqingshi (Taiwan) (Disc B) (Track 15).bin, CRC: e8f09c13
-- Yaojingmen De Quqingshi (Taiwan) (Disc B) (Track 16).bin, CRC: 4f89fa94
-- Yaojingmen De Quqingshi (Taiwan) (Disc B) (Track 17).bin, CRC: 28e4ed93
-- Yaojingmen De Quqingshi (Taiwan) (Disc B) (Track 18).bin, CRC: a67d4bbc
-- Yaojingmen De Quqingshi (Taiwan) (Disc B) (Track 19).bin, CRC: a2f589c8
-- Yaojingmen De Quqingshi (Taiwan) (Disc B) (Track 20).bin, CRC: 8910bc22
-- Yaojingmen De Quqingshi (Taiwan) (Disc B) (Track 21).bin, CRC: a6856a69
-</details>
-
 ### Yaraticiligimi Gelistiriyorum (Turkey).bin, CRC: b70cd3e5
 ### Yatterman Typing - Doronbow no Oshioki Dabeee (Japan).bin, CRC: 08400842
 ### Yetisports World Tour (Germany).bin, CRC: e873ccfa

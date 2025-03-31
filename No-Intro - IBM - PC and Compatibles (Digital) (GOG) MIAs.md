@@ -1,5 +1,5 @@
 # No-Intro - IBM - PC and Compatibles (Digital) (GOG) MIAs
-## Games: 146, ROMs: 373, as of 2025-03-29
+## Games: 140, ROMs: 360, as of 2025-03-31
 
 ### setup_a.i.m._2_-_clan_wars_1.4.31_water_fix_(59308)-1.bin, CRC: b969691a
 ### AI War 2 (Unknown)
@@ -303,7 +303,6 @@
 - setup_gamedec_-_torkil_aymore_skin_20220928_1.7.0.r64951_shipping_(turkish_64bit)_(59101).exe, CRC: 24a36816
 </details>
 
-### patch_garden_simulator_1.0.5.2_(58913)_to_1.0.6.1_(59239).exe, CRC: 8510831f
 ### GRAVEN (Unknown)
 <details>
 <summary>ROMs</summary>
@@ -337,7 +336,6 @@
 </details>
 
 ### setup_harvest_days_my_dream_farm_-_digital_supporter_pack_0.7.1-dsp_(59816).exe, CRC: 511a62e4
-### patch_hextech_mayhem_a_league_of_legends_storytm_1.22.05.13_(8735715)_(55901)_to_1.22.08.19_(9350875)_(58612).exe, CRC: 515da715
 ### Highrise City (Unknown)
 <details>
 <summary>ROMs</summary>
@@ -575,17 +573,6 @@
 - patch_serious_sam_siberian_mayhem_1.05_(59744)_to_1.05b_(59803).exe, CRC: 55ed9e77
 </details>
 
-### Serious Sam 4 (Unknown)
-<details>
-<summary>ROMs</summary>
-
-- patch_serious_sam_4_1.08_(45801)_to_1.09_(58764)-1.bin, CRC: e26572fa
-- patch_serious_sam_4_1.08_(45801)_to_1.09_(58764)-2.bin, CRC: 28e63e04
-- patch_serious_sam_4_1.08_(45801)_to_1.09_(58764)-3.bin, CRC: 6f733102
-- patch_serious_sam_4_1.08_(45801)_to_1.09_(58764)-4.bin, CRC: 4ebc8b81
-- patch_serious_sam_4_1.08_(45801)_to_1.09_(58764).exe, CRC: d9cbdb5a
-</details>
-
 ### Severed Steel (Unknown)
 <details>
 <summary>ROMs</summary>
@@ -600,7 +587,6 @@
 <details>
 <summary>ROMs</summary>
 
-- patch_sins_of_a_solar_empire_rebellion_ultimate_edition_1.975_(59220)_to_1.975.1_(59461).exe, CRC: 8639d052
 - setup_sins_of_a_solar_empire_rebellion_ultimate_edition_1.975.1_(59461)-1.bin, CRC: 7625dfb1
 - setup_sins_of_a_solar_empire_rebellion_ultimate_edition_1.975.1_(59461).exe, CRC: febfa6dd
 </details>
@@ -613,22 +599,6 @@
 
 - patch_songs_of_conquest_a17e2c9adb108db4684911ca53fa75647351048e_(58906)_to_5c235210cf90b4552f72d41a0b96302f2be77ada_(58933).exe, CRC: 2cf35c9a
 - patch_songs_of_conquest_bcfde06d3d6701acea0af67083ac6bc3a4e65694_(57204)_to_a17e2c9adb108db4684911ca53fa75647351048e_(58906).exe, CRC: 4f961282
-</details>
-
-### SpellForce 3 - Fallen God (Unknown)
-<details>
-<summary>ROMs</summary>
-
-- patch_spellforce_3_-_fallen_god_161554.339115a_(54528)_to_163175.365556_(59246)-1.bin, CRC: 0dc196c1
-- patch_spellforce_3_-_fallen_god_161554.339115a_(54528)_to_163175.365556_(59246).exe, CRC: e3fd5145
-</details>
-
-### SpellForce 3 - Soul Harvest (Unknown)
-<details>
-<summary>ROMs</summary>
-
-- patch_spellforce_3_-_soul_harvest_161554.339115a_(54528)_to_163175.365556_(59246)-1.bin, CRC: 91154d53
-- patch_spellforce_3_-_soul_harvest_161554.339115a_(54528)_to_163175.365556_(59246).exe, CRC: 26e44054
 </details>
 
 ### Sphere - Flying Cities (Unknown)
@@ -769,7 +739,6 @@
 - patch_vagrus_-_the_riven_realms_1.1250922F_(58953)_to_1.1251003L_(59214).exe, CRC: f9c7785a
 </details>
 
-### patch_velone_v1.0.1_(55246)_to_v1.0.2_(55398).exe, CRC: e634ec70
 ### warhammer_40_000__shootas__blood___teef_enUS_1_0_20_.pkg, CRC: ced9fae1
 ### setup_warlock_character_for_b.i.o.t.a._halloween_4_dlc_(64bit)_(59744).exe, CRC: af5165df
 ### setup_winkeltje_the_little_shop_7505_(64bit)_(59843).exe, CRC: dd73f881

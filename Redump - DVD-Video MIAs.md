@@ -1,5 +1,5 @@
 # Redump - DVD-Video MIAs
-## Games: 193, ROMs: 193, as of 2025-03-29
+## Games: 191, ROMs: 191, as of 2025-03-31
 
 ### 2002 Autumn Tokyo Game Show (Taiwan).iso, CRC: 92c99685
 ### 3-nen B-gumi Kinpachi Sensei - Densetsu no Kyoudan ni Tate! Promotion Video-2 (Japan).iso, CRC: d346598e
@@ -50,7 +50,6 @@
 ### Forza Motorsport (Europe) (En,Fr,De,Es) (Limited Edition Bonus Content).iso, CRC: 99672b1e
 ### G1 Jockey 4 + Nobunaga no Yabou - Kakushin (Japan).iso, CRC: 263d5008
 ### Games Aktuell 10-10 (Germany) (Seite 1).iso, CRC: 1e07c3f9
-### Gokkun! Onii-chan Milk - Punipuni Oppai na Imoto to (Japan).iso, CRC: bdb19e53
 ### Grinch, The (Korea) (En,Es,Pt,Zh,Ko,Th).iso, CRC: 20fa6582
 ### Halo 2 (France) (Limited Collector's Edition Disc) (Xbox Game Bundle).iso, CRC: 916f50ac
 ### Halo Interactive Strategy Game (USA).iso, CRC: 6873d235
@@ -191,6 +190,5 @@
 ### XboxDVD DVD07 - Nov 2003 (UK).iso, CRC: 491bb2d3
 ### XboxGamer DVD01 (UK).iso, CRC: 27fff1e7
 ### Yabou no Keifu DVD (Japan) (PSP Game Bundle).iso, CRC: 71310102
-### Yagai Gakushuu 3 (Japan).iso, CRC: d44cd549
 ### Yoshitsune-ki - Tentou-you Eizou Vol. 1 (Japan).iso, CRC: 6a507856
 ### Zero (Japan).iso, CRC: 9ec77f15

@@ -1,5 +1,5 @@
 # Redump - Apple - Macintosh MIAs
-## Games: 171, ROMs: 202, as of 2025-03-29
+## Games: 170, ROMs: 201, as of 2025-03-31
 
 ### 3-D Ultra Pinball (Japan).bin, CRC: 610eb45d
 ### 3DO Content Library, The (USA) (Disc 88) (Music & Sound Effects).bin, CRC: c157b11b
@@ -102,7 +102,6 @@
 - Eberouge (Japan) (Track 24).bin, CRC: 5ef2df1a
 </details>
 
-### F-A-18 Hornet 2.0 (Japan) (En,Ja).bin, CRC: f7b62479
 ### Flashback (USA).bin, CRC: 820d1217
 ### Flying Nightmares (Japan).bin, CRC: 79029bb7
 ### Frankenstein - Through the Eyes of the Monster (USA).bin, CRC: 96dda09e
