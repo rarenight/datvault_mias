@@ -1,5 +1,5 @@
 # Redump - IBM - PC compatible MIAs
-## Games: 3303, ROMs: 7608, as of 2025-03-31
+## Games: 3288, ROMs: 7485, as of 2025-04-01
 
 ### %% - Fuuin no Otome (Japan) (Track 10).bin, CRC: 4481aa75
 ### Alley 19 Bowling (Europe) (Track 5).bin, CRC: dc835204
@@ -1098,108 +1098,6 @@
 ### Chrome (Poland) (Disc 2).bin, CRC: 09b4e9c6
 ### Chrome (Poland) (Update 1.2.0.0).bin, CRC: 5c67ffec
 ### Chronicles of Mystery - Tajemnica Zaginionego Krolestwa (Poland).bin, CRC: 8185a6e7
-### Chronicles of the Sword (Taiwan) (Disc 1)
-<details>
-<summary>ROMs</summary>
-
-- Chronicles of the Sword (Taiwan) (Disc 2) (Track 02).bin, CRC: f4e27475
-- Chronicles of the Sword (Taiwan) (Disc 2) (Track 03).bin, CRC: 79fefacb
-- Chronicles of the Sword (Taiwan) (Disc 1) (Track 04).bin, CRC: 33db7da6
-- Chronicles of the Sword (Taiwan) (Disc 1) (Track 05).bin, CRC: fb26161c
-- Chronicles of the Sword (Taiwan) (Disc 1) (Track 06).bin, CRC: 50741067
-- Chronicles of the Sword (Taiwan) (Disc 1) (Track 07).bin, CRC: 7e578e76
-- Chronicles of the Sword (Taiwan) (Disc 1) (Track 08).bin, CRC: 4d334408
-- Chronicles of the Sword (Taiwan) (Disc 1) (Track 09).bin, CRC: 876b5598
-- Chronicles of the Sword (Taiwan) (Disc 1) (Track 10).bin, CRC: bdf150d8
-- Chronicles of the Sword (Taiwan) (Disc 1) (Track 11).bin, CRC: 6a2e5aa3
-- Chronicles of the Sword (Taiwan) (Disc 1) (Track 12).bin, CRC: 32d075f8
-- Chronicles of the Sword (Taiwan) (Disc 1) (Track 13).bin, CRC: 225a6cc0
-- Chronicles of the Sword (Taiwan) (Disc 1) (Track 14).bin, CRC: 05158962
-- Chronicles of the Sword (Taiwan) (Disc 1) (Track 15).bin, CRC: 45815cc7
-- Chronicles of the Sword (Taiwan) (Disc 1) (Track 16).bin, CRC: 80e04f59
-- Chronicles of the Sword (Taiwan) (Disc 1) (Track 17).bin, CRC: b15dd34e
-- Chronicles of the Sword (Taiwan) (Disc 1) (Track 18).bin, CRC: 0f21f31c
-- Chronicles of the Sword (Taiwan) (Disc 1) (Track 19).bin, CRC: 98415d7f
-- Chronicles of the Sword (Taiwan) (Disc 1) (Track 20).bin, CRC: 0f9a56d6
-- Chronicles of the Sword (Taiwan) (Disc 1) (Track 21).bin, CRC: e609f93d
-- Chronicles of the Sword (Taiwan) (Disc 1) (Track 22).bin, CRC: 04501bc0
-- Chronicles of the Sword (Taiwan) (Disc 1) (Track 23).bin, CRC: 95a1d2e2
-- Chronicles of the Sword (Taiwan) (Disc 1) (Track 24).bin, CRC: d6574592
-- Chronicles of the Sword (Taiwan) (Disc 1) (Track 25).bin, CRC: bd4861fe
-- Chronicles of the Sword (Taiwan) (Disc 1) (Track 26).bin, CRC: 8dc65f86
-- Chronicles of the Sword (Taiwan) (Disc 1) (Track 27).bin, CRC: abefe4bd
-- Chronicles of the Sword (Taiwan) (Disc 1) (Track 28).bin, CRC: 6157335c
-- Chronicles of the Sword (Taiwan) (Disc 1) (Track 29).bin, CRC: 99fb96ef
-- Chronicles of the Sword (Taiwan) (Disc 1) (Track 30).bin, CRC: 6bdb71af
-- Chronicles of the Sword (Taiwan) (Disc 1) (Track 31).bin, CRC: 4a1cf8bf
-- Chronicles of the Sword (Taiwan) (Disc 1) (Track 32).bin, CRC: 1c7543e5
-- Chronicles of the Sword (Taiwan) (Disc 1) (Track 33).bin, CRC: a2591db1
-- Chronicles of the Sword (Taiwan) (Disc 1) (Track 34).bin, CRC: 242e0968
-- Chronicles of the Sword (Taiwan) (Disc 1) (Track 35).bin, CRC: 9f836510
-- Chronicles of the Sword (Taiwan) (Disc 1) (Track 36).bin, CRC: eadde818
-- Chronicles of the Sword (Taiwan) (Disc 1) (Track 37).bin, CRC: 0d0f5905
-- Chronicles of the Sword (Taiwan) (Disc 1) (Track 38).bin, CRC: 9bad7526
-- Chronicles of the Sword (Taiwan) (Disc 1) (Track 39).bin, CRC: d29cf381
-- Chronicles of the Sword (Taiwan) (Disc 1) (Track 40).bin, CRC: 30e40388
-- Chronicles of the Sword (Taiwan) (Disc 1) (Track 41).bin, CRC: fc1ae2a7
-- Chronicles of the Sword (Taiwan) (Disc 1) (Track 42).bin, CRC: 127441b3
-- Chronicles of the Sword (Taiwan) (Disc 1) (Track 43).bin, CRC: ec01d6b6
-- Chronicles of the Sword (Taiwan) (Disc 1) (Track 44).bin, CRC: fcbd2c67
-- Chronicles of the Sword (Taiwan) (Disc 1) (Track 45).bin, CRC: a569cdc4
-- Chronicles of the Sword (Taiwan) (Disc 1) (Track 46).bin, CRC: f2a83385
-</details>
-
-### Chronicles of the Sword (Taiwan) (Disc 2)
-<details>
-<summary>ROMs</summary>
-
-- Chronicles of the Sword (Taiwan) (Disc 2) (Track 04).bin, CRC: 085cd3cd
-- Chronicles of the Sword (Taiwan) (Disc 2) (Track 05).bin, CRC: 19871a57
-- Chronicles of the Sword (Taiwan) (Disc 2) (Track 06).bin, CRC: 96e6632e
-- Chronicles of the Sword (Taiwan) (Disc 2) (Track 07).bin, CRC: f88a40b8
-- Chronicles of the Sword (Taiwan) (Disc 2) (Track 08).bin, CRC: ad8fdc8c
-- Chronicles of the Sword (Taiwan) (Disc 2) (Track 09).bin, CRC: 5c06ad6f
-- Chronicles of the Sword (Taiwan) (Disc 2) (Track 10).bin, CRC: 4db447fd
-- Chronicles of the Sword (Taiwan) (Disc 2) (Track 11).bin, CRC: 23728a4a
-- Chronicles of the Sword (Taiwan) (Disc 2) (Track 12).bin, CRC: da9afbac
-- Chronicles of the Sword (Taiwan) (Disc 2) (Track 13).bin, CRC: 547d60bb
-- Chronicles of the Sword (Taiwan) (Disc 2) (Track 14).bin, CRC: 51393355
-- Chronicles of the Sword (Taiwan) (Disc 2) (Track 15).bin, CRC: e39228e1
-- Chronicles of the Sword (Taiwan) (Disc 2) (Track 16).bin, CRC: 91c9820a
-- Chronicles of the Sword (Taiwan) (Disc 2) (Track 17).bin, CRC: a0d389a3
-- Chronicles of the Sword (Taiwan) (Disc 2) (Track 18).bin, CRC: bf9c7f24
-- Chronicles of the Sword (Taiwan) (Disc 2) (Track 19).bin, CRC: 4ffc6604
-- Chronicles of the Sword (Taiwan) (Disc 2) (Track 20).bin, CRC: 26911aae
-- Chronicles of the Sword (Taiwan) (Disc 2) (Track 21).bin, CRC: 2da3935d
-- Chronicles of the Sword (Taiwan) (Disc 2) (Track 22).bin, CRC: f828f791
-- Chronicles of the Sword (Taiwan) (Disc 2) (Track 23).bin, CRC: 7636c642
-- Chronicles of the Sword (Taiwan) (Disc 2) (Track 24).bin, CRC: 1cf1acfc
-- Chronicles of the Sword (Taiwan) (Disc 2) (Track 25).bin, CRC: 9be0de91
-- Chronicles of the Sword (Taiwan) (Disc 2) (Track 26).bin, CRC: 371635b8
-- Chronicles of the Sword (Taiwan) (Disc 2) (Track 27).bin, CRC: b4c881b5
-- Chronicles of the Sword (Taiwan) (Disc 2) (Track 28).bin, CRC: 62d2143f
-- Chronicles of the Sword (Taiwan) (Disc 2) (Track 29).bin, CRC: 7b51937a
-- Chronicles of the Sword (Taiwan) (Disc 2) (Track 30).bin, CRC: 4e0eff16
-- Chronicles of the Sword (Taiwan) (Disc 2) (Track 31).bin, CRC: 7d4ee3b9
-- Chronicles of the Sword (Taiwan) (Disc 2) (Track 32).bin, CRC: 306a7437
-- Chronicles of the Sword (Taiwan) (Disc 2) (Track 33).bin, CRC: d057eba3
-- Chronicles of the Sword (Taiwan) (Disc 2) (Track 34).bin, CRC: ce8b0171
-- Chronicles of the Sword (Taiwan) (Disc 2) (Track 35).bin, CRC: 30e3c473
-- Chronicles of the Sword (Taiwan) (Disc 2) (Track 36).bin, CRC: 78bb5c2e
-- Chronicles of the Sword (Taiwan) (Disc 2) (Track 37).bin, CRC: a932541b
-- Chronicles of the Sword (Taiwan) (Disc 2) (Track 38).bin, CRC: 06758478
-- Chronicles of the Sword (Taiwan) (Disc 2) (Track 39).bin, CRC: 29990696
-- Chronicles of the Sword (Taiwan) (Disc 2) (Track 40).bin, CRC: fcbd5170
-- Chronicles of the Sword (Taiwan) (Disc 2) (Track 41).bin, CRC: ad56dcc5
-- Chronicles of the Sword (Taiwan) (Disc 2) (Track 42).bin, CRC: 0e64f48d
-- Chronicles of the Sword (Taiwan) (Disc 2) (Track 43).bin, CRC: f0c8176e
-- Chronicles of the Sword (Taiwan) (Disc 2) (Track 44).bin, CRC: c7876b1e
-- Chronicles of the Sword (Taiwan) (Disc 2) (Track 45).bin, CRC: a40125ae
-- Chronicles of the Sword (Taiwan) (Disc 2) (Track 46).bin, CRC: d7410810
-- Chronicles of the Sword (Taiwan) (Disc 2) (Track 47).bin, CRC: 10a0e5c5
-- Chronicles of the Sword (Taiwan) (Disc 2) (Track 48).bin, CRC: 8d183c60
-</details>
-
 ### Chuck Yeager's Air Combat (Scandinavia) (Hit Squad).bin, CRC: dec3ccf7
 ### Chutes and Ladders (USA) (Alt).bin, CRC: 6a1ad4ca
 ### Chuusei Dai Kaisen (Japan).bin, CRC: 76d76169
@@ -1269,7 +1167,6 @@
 
 ### Classic Arcadia & Eddy's Adventure (Scandinavia).bin, CRC: 2e477ad2
 ### Cleopatra - Queen of the Nile (Sweden).bin, CRC: d12436a9
-### Clifford the Big Red Dog - Musical Memory Games (USA) (Alt).bin, CRC: fcfd352a
 ### Clive Barker's Undying (USA) (Rerelease).bin, CRC: 7d60252d
 ### Close Combat (Japan).bin, CRC: 72d34315
 ### Close Combat 4 - La Bataille des Ardennes (France).bin, CRC: 0bb98478
@@ -1751,9 +1648,6 @@
 ### DarkStar (Europe) (Installer Disc 2).iso, CRC: 93ea687a
 ### Darkstar One (India) (En,Fr).iso, CRC: 57f3b395
 ### Darmowy Dodatek do Gier z Serii Kolekcja Klasyki Komputerowej 2001 (Poland).bin, CRC: 33ac8a73
-### Daryl F. Gates' Police Quest - SWAT (USA) (Disc 1) (v1.1) (Alt).bin, CRC: 05c7231f
-### Daryl F. Gates' Police Quest - SWAT (USA) (Disc 2) (v1.1) (Alt).bin, CRC: 8d4c4917
-### Daryl F. Gates' Police Quest - SWAT (USA) (Disc 4) (v1.1) (Alt).bin, CRC: 01613921
 ### David and Goliath (USA).bin, CRC: 8f841cb7
 ### David Baddiel & Frank Skinner Fantasy Manager '95-'96 (Europe) (Hit Squad).bin, CRC: f16d3d75
 ### Davka Classic Game Pack II (USA) (En,He).bin, CRC: 28b67cd9
@@ -2566,8 +2460,6 @@
 ### Feder (Japan).bin, CRC: b6a8e10b
 ### Feiying Xingdong (China) (Disc 1) (Anzhuang Yunxingpan).bin, CRC: f92863b3
 ### Femme Fatale (Japan).bin, CRC: eb1ae434
-### Fengkuang Kongjianwang (Taiwan) (Disc 1) (Anzhuangpian).bin, CRC: f4dbb267
-### Fengkuang Kongjianwang (Taiwan) (Disc 2) (Youxipian).bin, CRC: 3d4bcf12
 ### Fengkuang Tanke (Taiwan).bin, CRC: 9653876e
 ### Fengkuang Tanke II (China).bin, CRC: cb54dc34
 ### Fette Sau - Sports - XXL Version (Germany).bin, CRC: 8d554cf6
@@ -3283,7 +3175,6 @@
 </details>
 
 ### Half-Life - Counter-Strike (Canada).bin, CRC: 0a697452
-### Half-Life - Counter-Strike (France).bin, CRC: 486a52d9
 ### Half-Life - Day One (Japan) (OEM)
 <details>
 <summary>ROMs</summary>
@@ -4381,7 +4272,6 @@
 ### Last Remnant, The (Europe) (En,Ja,Fr,De,Es,It) (Disc 1).iso, CRC: 03de599f
 ### Last Remnant, The (Europe) (En,Ja,Fr,De,Es,It) (Disc 2).iso, CRC: 147c2441
 ### Last Scene - Boku ga Kimi ni Dekiru Koto (Japan) (Disc 2) (Game Disc) (Track 02).bin, CRC: cc830c96
-### Launch - The New Millennium Business Game (Japan).bin, CRC: af6ecb83
 ### Layer Section (China)
 <details>
 <summary>ROMs</summary>
@@ -4700,25 +4590,6 @@
 ### Mafia (Korea) (Disc 1) (Play CD).bin, CRC: f6e6ca3f
 ### Mafia (Korea) (Disc 2).bin, CRC: 1d1ae0ae
 ### Mafia (Korea) (Disc 3).bin, CRC: 0804c4a9
-### Magic & Mayhem (Japan)
-<details>
-<summary>ROMs</summary>
-
-- Magic & Mayhem (Japan) (Track 01).bin, CRC: 36417233
-- Magic & Mayhem (Japan) (Track 02).bin, CRC: 47d7ab96
-- Magic & Mayhem (Japan) (Track 03).bin, CRC: 4f6f6700
-- Magic & Mayhem (Japan) (Track 04).bin, CRC: acca525d
-- Magic & Mayhem (Japan) (Track 05).bin, CRC: caa9c9b7
-- Magic & Mayhem (Japan) (Track 06).bin, CRC: 27ac9564
-- Magic & Mayhem (Japan) (Track 07).bin, CRC: 228b6a20
-- Magic & Mayhem (Japan) (Track 08).bin, CRC: c47a520f
-- Magic & Mayhem (Japan) (Track 09).bin, CRC: 34128a69
-- Magic & Mayhem (Japan) (Track 10).bin, CRC: ba1d1655
-- Magic & Mayhem (Japan) (Track 11).bin, CRC: 23ba85f4
-- Magic & Mayhem (Japan) (Track 12).bin, CRC: 1407cd10
-- Magic & Mayhem (Japan) (Track 13).bin, CRC: bc8f42d7
-</details>
-
 ### Magic - Die Zusammenkunft - Anfaenger (Germany) (Fr,De,Es) (Track 1).bin, CRC: 0a470a71
 ### Magic - The Gathering - Spells of the Ancients (Japan).bin, CRC: 1180b8d8
 ### Magic Builder (Europe) (Rerelease).bin, CRC: 9ba1d417
@@ -9173,9 +9044,6 @@
 </details>
 
 ### Uchebna Kompyutarna Igra - Poznaj Notite (Bulgaria).bin, CRC: b304b5f2
-### Uchuu no Rendezvous - Rama (Japan) (Disc 1).bin, CRC: 6ff430d3
-### Uchuu no Rendezvous - Rama (Japan) (Disc 2).bin, CRC: 030649e3
-### Uchuu no Rendezvous - Rama (Japan) (Disc 3).bin, CRC: 44bb7c4d
 ### Ucim Engleski s Hlapicem (Croatia).bin, CRC: 3d584e41
 ### UEFA Euro 2000 (Germany).bin, CRC: 5cf2c3dc
 ### UEFA Euro 2004 - Portugal (Thailand) (En,Es) (Disc 1).bin, CRC: 95e36759
@@ -9371,21 +9239,6 @@
 ### Vormenrom Groep 1-2 (Netherlands).bin, CRC: 913e4e8d
 ### Wacky Wheels (USA) (Rerelease) (1997-01-24).bin, CRC: b5a370f0
 ### Wana no Kishi, Ginsen no Hime (Japan).bin, CRC: 308b4714
-### Wangzhan Eluosi (Taiwan)
-<details>
-<summary>ROMs</summary>
-
-- Wangzhan Eluosi (Taiwan) (Track 1).bin, CRC: 87d3a8b0
-- Wangzhan Eluosi (Taiwan) (Track 2).bin, CRC: 56e6a5ff
-- Wangzhan Eluosi (Taiwan) (Track 3).bin, CRC: 093aba08
-- Wangzhan Eluosi (Taiwan) (Track 4).bin, CRC: ed847931
-- Wangzhan Eluosi (Taiwan) (Track 5).bin, CRC: 2912bd2e
-- Wangzhan Eluosi (Taiwan) (Track 6).bin, CRC: dd40398a
-- Wangzhan Eluosi (Taiwan) (Track 7).bin, CRC: 43f40e01
-- Wangzhan Eluosi (Taiwan) (Track 8).bin, CRC: 6a66bf4e
-- Wangzhan Eluosi (Taiwan) (Track 9).bin, CRC: 86f73fa1
-</details>
-
 ### War in the Gulf (Europe) (En,Fr,De,Es).bin, CRC: d7cf5c00
 ### War of the Tribes (Israel).bin, CRC: b3eb4812
 ### War Wind II - Human Onslaught (France).bin, CRC: 9f36f2d8

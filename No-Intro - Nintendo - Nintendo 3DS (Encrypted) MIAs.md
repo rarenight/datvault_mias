@@ -1,4 +1,4 @@
 # No-Intro - Nintendo - Nintendo 3DS (Encrypted) MIAs
-## Games: 1, ROMs: 1, as of 2025-03-31
+## Games: 1, ROMs: 1, as of 2025-04-01
 
 ### DEMO (Japan) (Program).3ds, CRC: da62e936
