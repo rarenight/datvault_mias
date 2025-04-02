@@ -1,5 +1,5 @@
 # Redump - Audio CD MIAs
-## Games: 142, ROMs: 1742, as of 2025-04-01
+## Games: 150, ROMs: 1877, as of 2025-04-02
 
 ### Age of Empires III (Poland) (Plyta audio z muzyka z gry) (PC Game Bundle)
 <details>
@@ -195,6 +195,7 @@
 </details>
 
 ### Chocobo no Fushigi na Dungeon - Original Soundtrack (Japan) (Disc 2) (Special Pack CD) (SSCX 10014) (Track 2).bin, CRC: b7c42356
+### Command & Conquer - Remastered Collection - Original Soundtrack (USA) (Disc 4) (Red Alert - Original Soundtrack - Remastered) (PC Game Bundle) (Track 01).bin, CRC: 24e72c88
 ### Cotton - Original Soundtrack (Japan) (Disc 3) (Track 48).bin, CRC: 08bb35a4
 ### Crypt of the NecroDancer (USA) (NSW Game Bundle)
 <details>
@@ -576,6 +577,27 @@
 - Halo 2 - Exclusive Mix By DJ Kyx (Europe) (Track 8).bin, CRC: 42213ded
 </details>
 
+### Heart & Slash - Original Soundtrack (Asia) (PS4 Game Bundle)
+<details>
+<summary>ROMs</summary>
+
+- Heart & Slash - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 01).bin, CRC: b7bfd633
+- Heart & Slash - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 02).bin, CRC: fa35291e
+- Heart & Slash - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 03).bin, CRC: 251caeef
+- Heart & Slash - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 04).bin, CRC: a6c7f9c9
+- Heart & Slash - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 05).bin, CRC: fbef68da
+- Heart & Slash - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 06).bin, CRC: f8531ccd
+- Heart & Slash - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 07).bin, CRC: e32e970c
+- Heart & Slash - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 08).bin, CRC: 7746d461
+- Heart & Slash - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 09).bin, CRC: 42e6b917
+- Heart & Slash - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 10).bin, CRC: 97258a9a
+- Heart & Slash - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 11).bin, CRC: c9bbf4ec
+- Heart & Slash - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 12).bin, CRC: 051f84a6
+- Heart & Slash - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 13).bin, CRC: 4fae4ecb
+- Heart & Slash - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 14).bin, CRC: bdd56157
+- Heart & Slash - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 15).bin, CRC: f7418aea
+</details>
+
 ### Heavy Metal Raiden - International CD (Japan) (Disc 1)
 <details>
 <summary>ROMs</summary>
@@ -702,6 +724,38 @@
 - Kaguya-chan no Okozukai Daisakusen Original Soundtrack (Japan) (PC Game Bundle) (Track 20).bin, CRC: d6626a2b
 - Kaguya-chan no Okozukai Daisakusen Original Soundtrack (Japan) (PC Game Bundle) (Track 21).bin, CRC: a7ba021c
 - Kaguya-chan no Okozukai Daisakusen Original Soundtrack (Japan) (PC Game Bundle) (Track 22).bin, CRC: 63ab2adb
+</details>
+
+### Kalle Kunskap och den Mystiska Ordtjuven (Sweden)
+<details>
+<summary>ROMs</summary>
+
+- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 01).bin, CRC: 9c7dcc50
+- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 02).bin, CRC: c91c3e71
+- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 03).bin, CRC: 431ef6ce
+- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 04).bin, CRC: 7b67ae9d
+- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 05).bin, CRC: d6af2806
+- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 06).bin, CRC: 91a951d4
+- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 07).bin, CRC: a331d483
+- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 08).bin, CRC: 4f670c09
+- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 09).bin, CRC: ef738d69
+- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 10).bin, CRC: 615d14a5
+- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 11).bin, CRC: dcc25d55
+- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 12).bin, CRC: 838be8b3
+- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 13).bin, CRC: 96f57aab
+- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 14).bin, CRC: 7667829b
+- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 15).bin, CRC: cb6eb275
+- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 16).bin, CRC: 05b61018
+- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 17).bin, CRC: 4d1c4671
+- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 18).bin, CRC: a5ef3b00
+- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 19).bin, CRC: d2ab63b8
+- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 20).bin, CRC: 75add5dd
+- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 21).bin, CRC: 91c2f08e
+- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 22).bin, CRC: 97babb52
+- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 23).bin, CRC: a4161d0d
+- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 24).bin, CRC: 91cc76b4
+- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 25).bin, CRC: 88437aef
+- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 26).bin, CRC: 6fc91fe1
 </details>
 
 ### Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle)
@@ -876,6 +930,7 @@
 </details>
 
 ### Legend of Laqia, The (Korea) (Track 16).bin, CRC: ff63362f
+### Loulan Er - Lunhui Zhi Guiji - Yuan Sheng Yinle CD (Taiwan) (PC Game Bundle) (Track 22).bin, CRC: 3b291ff0
 ### Magistr Temple (Japan) (PC Game Bundle)
 <details>
 <summary>ROMs</summary>
@@ -1115,6 +1170,83 @@
 - PaRappa the Rapper - Original Soundtrack (Japan) (Rerelease) (Track 42).bin, CRC: cde62031
 - PaRappa the Rapper - Original Soundtrack (Japan) (Rerelease) (Track 43).bin, CRC: d5b04bca
 - PaRappa the Rapper - Original Soundtrack (Japan) (Rerelease) (Track 44).bin, CRC: 4cc9f22e
+</details>
+
+### Persona 3 Portable - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle)
+<details>
+<summary>ROMs</summary>
+
+- Persona 3 Portable - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 01).bin, CRC: 668f6cd9
+- Persona 3 Portable - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 02).bin, CRC: f75612f0
+- Persona 3 Portable - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 03).bin, CRC: ad551b30
+- Persona 3 Portable - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 04).bin, CRC: 40980179
+- Persona 3 Portable - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 05).bin, CRC: b33d4922
+- Persona 3 Portable - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 06).bin, CRC: e8d3e1e5
+- Persona 3 Portable - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 07).bin, CRC: d2833778
+- Persona 3 Portable - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 08).bin, CRC: e24f62a7
+- Persona 3 Portable - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 09).bin, CRC: e425ccea
+- Persona 3 Portable - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 10).bin, CRC: bef8fde1
+- Persona 3 Portable - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 11).bin, CRC: b286ab25
+- Persona 3 Portable - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 12).bin, CRC: 4d10504b
+- Persona 3 Portable - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 13).bin, CRC: 2785d966
+- Persona 3 Portable - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 14).bin, CRC: ec7f4134
+- Persona 3 Portable - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 15).bin, CRC: 1f0c3f53
+- Persona 3 Portable - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 16).bin, CRC: cc8edd2a
+- Persona 3 Portable - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 17).bin, CRC: dc034a63
+- Persona 3 Portable - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 18).bin, CRC: dcc34ce1
+- Persona 3 Portable - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 19).bin, CRC: ba825bb5
+- Persona 3 Portable - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 20).bin, CRC: 9f45bfe8
+- Persona 3 Portable - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 21).bin, CRC: 121dcc1d
+- Persona 3 Portable - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 22).bin, CRC: d57837f7
+- Persona 3 Portable - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 23).bin, CRC: a1b6579c
+- Persona 3 Portable - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 24).bin, CRC: d838e393
+- Persona 3 Portable - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 25).bin, CRC: db080ea3
+- Persona 3 Portable - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 26).bin, CRC: 6655ecc2
+- Persona 3 Portable - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 27).bin, CRC: a6688587
+- Persona 3 Portable - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 28).bin, CRC: 4131558e
+- Persona 3 Portable - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 29).bin, CRC: 469dc835
+- Persona 3 Portable - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 30).bin, CRC: 6eb914ca
+- Persona 3 Portable - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 31).bin, CRC: 6e99f873
+- Persona 3 Portable - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 32).bin, CRC: 6deede32
+- Persona 3 Portable - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 33).bin, CRC: 89e3a1b8
+- Persona 3 Portable - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 34).bin, CRC: 5935cabe
+- Persona 3 Portable - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 35).bin, CRC: cec87604
+- Persona 3 Portable - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 36).bin, CRC: 4088f70f
+- Persona 3 Portable - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 37).bin, CRC: d469e913
+</details>
+
+### Persona 3 Portable - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle)
+<details>
+<summary>ROMs</summary>
+
+- Persona 3 Portable - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 01).bin, CRC: 0e2801bb
+- Persona 3 Portable - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 02).bin, CRC: 2ed2574e
+- Persona 3 Portable - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 03).bin, CRC: b8f95c8b
+- Persona 3 Portable - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 04).bin, CRC: d656b66f
+- Persona 3 Portable - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 05).bin, CRC: 0b3293a8
+- Persona 3 Portable - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 06).bin, CRC: e2159229
+- Persona 3 Portable - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 07).bin, CRC: d6b01fc9
+- Persona 3 Portable - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 08).bin, CRC: b0efce22
+- Persona 3 Portable - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 09).bin, CRC: 1b807cc7
+- Persona 3 Portable - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 10).bin, CRC: b7a1e926
+- Persona 3 Portable - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 11).bin, CRC: e72eb6e8
+- Persona 3 Portable - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 12).bin, CRC: 5c6d2fd3
+- Persona 3 Portable - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 13).bin, CRC: 52ae9802
+- Persona 3 Portable - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 14).bin, CRC: 6a996b63
+- Persona 3 Portable - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 15).bin, CRC: 473e1d38
+- Persona 3 Portable - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 16).bin, CRC: 28b3bc1c
+- Persona 3 Portable - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 17).bin, CRC: c2c2ffdf
+- Persona 3 Portable - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 18).bin, CRC: 136e934f
+- Persona 3 Portable - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 19).bin, CRC: fe88b47d
+- Persona 3 Portable - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 20).bin, CRC: 853ddbd1
+- Persona 3 Portable - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 21).bin, CRC: 5d608d03
+- Persona 3 Portable - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 22).bin, CRC: d094435e
+- Persona 3 Portable - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 23).bin, CRC: ab80f500
+- Persona 3 Portable - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 24).bin, CRC: c67a4650
+- Persona 3 Portable - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 25).bin, CRC: b48f1158
+- Persona 3 Portable - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 26).bin, CRC: 0758d9f1
+- Persona 3 Portable - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 27).bin, CRC: c83016cc
+- Persona 3 Portable - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 28).bin, CRC: 9061e526
 </details>
 
 ### Pil Sound Gear (Japan) (PC Game Bundle)
@@ -1390,6 +1522,23 @@
 - Shirotsumesouwa - Episode of the Clovers - Original Soundtrack CD (Japan) (PC Game Bundle) (Track 13).bin, CRC: b446f9e3
 - Shirotsumesouwa - Episode of the Clovers - Original Soundtrack CD (Japan) (PC Game Bundle) (Track 14).bin, CRC: 30c56429
 - Shirotsumesouwa - Episode of the Clovers - Original Soundtrack CD (Japan) (PC Game Bundle) (Track 15).bin, CRC: 25f405af
+</details>
+
+### Sims, The - Celebrating 100 Million Sold - Music CD (Europe)
+<details>
+<summary>ROMs</summary>
+
+- Sims, The - Celebrating 100 Million Sold - Music CD (Europe) (Track 01).bin, CRC: e0ca2c07
+- Sims, The - Celebrating 100 Million Sold - Music CD (Europe) (Track 02).bin, CRC: cf7ee942
+- Sims, The - Celebrating 100 Million Sold - Music CD (Europe) (Track 03).bin, CRC: 7072c09c
+- Sims, The - Celebrating 100 Million Sold - Music CD (Europe) (Track 04).bin, CRC: 1950b61b
+- Sims, The - Celebrating 100 Million Sold - Music CD (Europe) (Track 05).bin, CRC: 03da9e4b
+- Sims, The - Celebrating 100 Million Sold - Music CD (Europe) (Track 06).bin, CRC: f542bfd5
+- Sims, The - Celebrating 100 Million Sold - Music CD (Europe) (Track 07).bin, CRC: 3c6e87f6
+- Sims, The - Celebrating 100 Million Sold - Music CD (Europe) (Track 08).bin, CRC: 20abd7bc
+- Sims, The - Celebrating 100 Million Sold - Music CD (Europe) (Track 09).bin, CRC: cc3a34a5
+- Sims, The - Celebrating 100 Million Sold - Music CD (Europe) (Track 10).bin, CRC: c4aac74e
+- Sims, The - Celebrating 100 Million Sold - Music CD (Europe) (Track 11).bin, CRC: d6f0ad6d
 </details>
 
 ### SNK Arcade Sound Digital Collection Vol. 13 (Japan) (Disc 1) (Track 21).bin, CRC: eef41ce3
@@ -2054,6 +2203,28 @@
 - Toutes les Musiques de l'Emission Micro Kid's (France) (Track 13).bin, CRC: 67a305b6
 - Toutes les Musiques de l'Emission Micro Kid's (France) (Track 14).bin, CRC: d82ea1e2
 - Toutes les Musiques de l'Emission Micro Kid's (France) (Track 15).bin, CRC: 1cec054d
+</details>
+
+### TV Game Super Hero Daishuugou (Japan)
+<details>
+<summary>ROMs</summary>
+
+- TV Game Super Hero Daishuugou (Japan) (Track 01).bin, CRC: 818ca25c
+- TV Game Super Hero Daishuugou (Japan) (Track 02).bin, CRC: 19e22c94
+- TV Game Super Hero Daishuugou (Japan) (Track 03).bin, CRC: bf111d3f
+- TV Game Super Hero Daishuugou (Japan) (Track 04).bin, CRC: 6ca01e09
+- TV Game Super Hero Daishuugou (Japan) (Track 05).bin, CRC: d626301b
+- TV Game Super Hero Daishuugou (Japan) (Track 06).bin, CRC: 97bd8588
+- TV Game Super Hero Daishuugou (Japan) (Track 07).bin, CRC: c1a906cd
+- TV Game Super Hero Daishuugou (Japan) (Track 08).bin, CRC: ebb68e5a
+- TV Game Super Hero Daishuugou (Japan) (Track 09).bin, CRC: aa9148be
+- TV Game Super Hero Daishuugou (Japan) (Track 10).bin, CRC: a6eb1a85
+- TV Game Super Hero Daishuugou (Japan) (Track 11).bin, CRC: ca71a938
+- TV Game Super Hero Daishuugou (Japan) (Track 12).bin, CRC: 9415e2bd
+- TV Game Super Hero Daishuugou (Japan) (Track 13).bin, CRC: 5f195bb0
+- TV Game Super Hero Daishuugou (Japan) (Track 14).bin, CRC: 9962a76c
+- TV Game Super Hero Daishuugou (Japan) (Track 15).bin, CRC: 57fcf0cf
+- TV Game Super Hero Daishuugou (Japan) (Track 16).bin, CRC: 5d529c7e
 </details>
 
 ### Ultimate Hunter - Shudaika CD (Japan) (PC Game Bundle).bin, CRC: e90dc17e

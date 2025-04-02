@@ -1,5 +1,5 @@
 # Redump - IBM - PC compatible MIAs
-## Games: 3288, ROMs: 7485, as of 2025-04-01
+## Games: 3268, ROMs: 7414, as of 2025-04-02
 
 ### %% - Fuuin no Otome (Japan) (Track 10).bin, CRC: 4481aa75
 ### Alley 19 Bowling (Europe) (Track 5).bin, CRC: dc835204
@@ -814,7 +814,6 @@
 ### Brothers in Arms - Hell's Highway (Hungary) (Pl,Cs,Hu).iso, CRC: d761d269
 ### Brothers in Arms - Hell's Highway (Japan) (En,Fr,Es,It).iso, CRC: 5dd002c2
 ### Brothers in Arms - Road to Hill 30 (Asia).iso, CRC: 5390214b
-### Brothers in Arms - Road to Hill 30 (Japan) (En,Ja).iso, CRC: cb94b490
 ### Bugs Bunny - Lost in Time (Europe) (Rerelease).bin, CRC: 3c2eaf1b
 ### Bukvenka (Bulgaria).bin, CRC: 0837f441
 ### Bundesliga Manager Professional (Germany).bin, CRC: a15f9468
@@ -3248,7 +3247,6 @@
 ### Harry Potter and the Prisoner of Azkaban (Thailand).bin, CRC: 6a1edc1b
 ### Harry Potter i Komnata Tajemnic (Poland).bin, CRC: b5fc3bef
 ### Harry Potter i Ksiaze Polkrwi (Poland).iso, CRC: 0049ab73
-### Harry Potter i Wiezien Azkabanu (Poland) (Alt).bin, CRC: c1745885
 ### Harvest (USA).bin, CRC: fce55934
 ### Hattrick! (Germany) (Rerelease).bin, CRC: e2feec4e
 ### My Farm Life (Turkey).bin, CRC: 2d9b7da1
@@ -3270,31 +3268,6 @@
 - Heavy Gear (Germany) (Disc 2) (Spiel) (Track 10).bin, CRC: 835a5269
 - Heavy Gear (Germany) (Disc 2) (Spiel) (Track 11).bin, CRC: 371964cd
 - Heavy Gear (Germany) (Disc 2) (Spiel) (Track 12).bin, CRC: 16291787
-</details>
-
-### Heavy Gear II (Japan)
-<details>
-<summary>ROMs</summary>
-
-- Heavy Gear II (Japan) (Track 01).bin, CRC: 850da399
-- Heavy Gear II (Japan) (Track 02).bin, CRC: 47e9d78b
-- Heavy Gear II (Japan) (Track 03).bin, CRC: d2222ac8
-- Heavy Gear II (Japan) (Track 04).bin, CRC: fb987759
-- Heavy Gear II (Japan) (Track 05).bin, CRC: 11fd288b
-- Heavy Gear II (Japan) (Track 06).bin, CRC: c4314d4f
-- Heavy Gear II (Japan) (Track 07).bin, CRC: e3365603
-- Heavy Gear II (Japan) (Track 08).bin, CRC: a542fff4
-- Heavy Gear II (Japan) (Track 09).bin, CRC: 0efa80a0
-- Heavy Gear II (Japan) (Track 10).bin, CRC: d48e1098
-- Heavy Gear II (Japan) (Track 11).bin, CRC: 76b31e84
-- Heavy Gear II (Japan) (Track 12).bin, CRC: f47779bd
-- Heavy Gear II (Japan) (Track 13).bin, CRC: 717f56a3
-- Heavy Gear II (Japan) (Track 14).bin, CRC: 8565052e
-- Heavy Gear II (Japan) (Track 15).bin, CRC: 0d232ed7
-- Heavy Gear II (Japan) (Track 16).bin, CRC: bd0029db
-- Heavy Gear II (Japan) (Track 17).bin, CRC: b1f0a3c0
-- Heavy Gear II (Japan) (Track 18).bin, CRC: c26fde5d
-- Heavy Gear II (Japan) (Track 19).bin, CRC: 3d9a5e32
 </details>
 
 ### Heavy Gear II (USA) (Linux)
@@ -3909,17 +3882,6 @@
 ### Kaj & Andrea i Hojeste Gear (Denmark).bin, CRC: 55179bc8
 ### Kaj & Andrea pa Bondegarden (Denmark).bin, CRC: 3954f03a
 ### Kajko i Kokosz - Twierdza Czarnoksieznika (Poland).iso, CRC: 8db2e247
-### Kajko i Kokosz - W Krainie Borostworow (Poland) (Covermount) (Alt)
-<details>
-<summary>ROMs</summary>
-
-- Kajko i Kokosz - W Krainie Borostworow (Poland) (Covermount) (Alt) (Track 2).bin, CRC: 4e777daa
-- Kajko i Kokosz - W Krainie Borostworow (Poland) (Covermount) (Alt) (Track 3).bin, CRC: e00e7590
-- Kajko i Kokosz - W Krainie Borostworow (Poland) (Covermount) (Alt) (Track 4).bin, CRC: ebdef871
-- Kajko i Kokosz - W Krainie Borostworow (Poland) (Covermount) (Alt) (Track 5).bin, CRC: 6401351e
-- Kajko i Kokosz - W Krainie Borostworow (Poland) (Covermount) (Alt) (Track 6).bin, CRC: 53f59699
-</details>
-
 ### Kakera Fan Disc (Japan).bin, CRC: 4cf480c3
 ### Kakesoba Dash - Shiriagari Kotobuki no Tachisoba Chuumon Game (Japan).bin, CRC: 3c81ba11
 ### Kakurezuki (Japan)
@@ -4059,7 +4021,6 @@
 
 ### King of Beast (Japan).bin, CRC: c450f360
 ### King of Chicago, The (Europe).bin, CRC: ca29dd3c
-### King's Bounty - The Legend (Europe).iso, CRC: 3917c255
 ### Kingdom Under Fire (Korea) (Disc 1).bin, CRC: a4fdbefd
 ### Kingdom Under Fire (Korea) (Disc 2).bin, CRC: 373c1c7b
 ### Kingdom Under Fire (Poland) (Disc 1).bin, CRC: ffcf0236
@@ -4387,11 +4348,9 @@
 - LEGO Creator - Knights' Kingdom (Japan) (Track 4).bin, CRC: 8c6e3e3d
 </details>
 
-### LEGO Creator - Knights' Kingdom (USA) (Alt).bin, CRC: 98adfcc6
 ### LEGO Island (Korea).bin, CRC: a84b5f74
 ### LEGO Island (USA) (Rerelease) (2000-09-04).bin, CRC: d5081667
 ### LEGO Island (USA) (Rerelease) (2000-09-19).bin, CRC: 12192652
-### LEGO Island 2 - The Brickster's Revenge (USA) (Alt).bin, CRC: 4127736d
 ### LEGO Legoland (USA) (Rerelease) (2002-02-18).bin, CRC: 44ec4bbd
 ### LEGO Loco (Japan).bin, CRC: 66089d1d
 ### LEGO Racers (Japan).bin, CRC: 2d29a81d
@@ -4584,9 +4543,6 @@
 ### Maelstrom (Scandinavia).bin, CRC: 140f7c63
 ### Mafalda Juegos Interactivos (Argentina).bin, CRC: 69f44b15
 ### Mafia (Germany) (Rerelease) (2004-03-30).iso, CRC: 0fdd7358
-### Mafia (Japan) (Disc 1).bin, CRC: b8d4d4ff
-### Mafia (Japan) (Disc 2).bin, CRC: 2b783e6f
-### Mafia (Japan) (Disc 3).bin, CRC: cf2c9bdc
 ### Mafia (Korea) (Disc 1) (Play CD).bin, CRC: f6e6ca3f
 ### Mafia (Korea) (Disc 2).bin, CRC: 1d1ae0ae
 ### Mafia (Korea) (Disc 3).bin, CRC: 0804c4a9
@@ -4674,7 +4630,6 @@
 
 ### Mamono Musume - Life with a Lamia (USA).iso, CRC: 11f80af2
 ### Man Parts (USA).bin, CRC: feba3afe
-### Maniac Mansion - Day of the Tentacle (Germany) (Alt).bin, CRC: 8723096c
 ### Mantigimi Gelistiriyorum (Turkey).bin, CRC: ad4790cb
 ### Manx TT SuperBike (Japan)
 <details>
@@ -5212,30 +5167,6 @@
 </details>
 
 ### Moe Pon (Japan).bin, CRC: 6134bbf2
-### Moebius Link 2 - Preiades Sisters (Japan)
-<details>
-<summary>ROMs</summary>
-
-- Moebius Link 2 - Preiades Sisters (Japan) (Track 01).bin, CRC: 4fb2a722
-- Moebius Link 2 - Preiades Sisters (Japan) (Track 02).bin, CRC: ad08e674
-- Moebius Link 2 - Preiades Sisters (Japan) (Track 03).bin, CRC: 20656a15
-- Moebius Link 2 - Preiades Sisters (Japan) (Track 04).bin, CRC: 2d0c7467
-- Moebius Link 2 - Preiades Sisters (Japan) (Track 05).bin, CRC: aa6a70af
-- Moebius Link 2 - Preiades Sisters (Japan) (Track 06).bin, CRC: 36c8daf5
-- Moebius Link 2 - Preiades Sisters (Japan) (Track 07).bin, CRC: 764e3594
-- Moebius Link 2 - Preiades Sisters (Japan) (Track 08).bin, CRC: ea8a2807
-- Moebius Link 2 - Preiades Sisters (Japan) (Track 09).bin, CRC: d6dabc0d
-- Moebius Link 2 - Preiades Sisters (Japan) (Track 10).bin, CRC: 96fd9d63
-- Moebius Link 2 - Preiades Sisters (Japan) (Track 11).bin, CRC: 472e1dbd
-- Moebius Link 2 - Preiades Sisters (Japan) (Track 12).bin, CRC: 82b774e7
-- Moebius Link 2 - Preiades Sisters (Japan) (Track 13).bin, CRC: 09fd26ad
-- Moebius Link 2 - Preiades Sisters (Japan) (Track 14).bin, CRC: 0e456eb8
-- Moebius Link 2 - Preiades Sisters (Japan) (Track 15).bin, CRC: d014e6a0
-- Moebius Link 2 - Preiades Sisters (Japan) (Track 16).bin, CRC: a831e5e3
-- Moebius Link 2 - Preiades Sisters (Japan) (Track 17).bin, CRC: badd0002
-- Moebius Link 2 - Preiades Sisters (Japan) (Track 18).bin, CRC: fcc250e5
-</details>
-
 ### Moebius Link 2 - Red Star Shift (Japan).bin, CRC: 567a9318
 ### Moebius Link 3 First (Japan).bin, CRC: 3a31a131
 ### Moero Downhill Night (USA).iso, CRC: 2b0efa22
@@ -5564,11 +5495,6 @@
 </details>
 
 ### Obscure (Germany) (De,Es) (Rerelease) (2006-01-05).iso, CRC: 82afddbb
-### Obsidian (Japan) (Disc 1) (En).bin, CRC: 7bc7d813
-### Obsidian (Japan) (Disc 2) (En).bin, CRC: 01ce99e8
-### Obsidian (Japan) (Disc 3) (En).bin, CRC: 9e1aaaf5
-### Obsidian (Japan) (Disc 4) (En).bin, CRC: 674213d3
-### Obsidian (Japan) (Disc 5) (En).bin, CRC: 83c47c1c
 ### Ochazukenori - Kaiki!! Mushi Danshaku no Yakata (Japan).bin, CRC: 76c2a022
 ### Odlikas za Prvake (Serbia).bin, CRC: 64d94650
 ### Official Guide to The Daedalus Encounter, The - Companion Disc (USA, Canada)
@@ -5653,20 +5579,10 @@
 <details>
 <summary>ROMs</summary>
 
-- Panzer Dragoon (Japan) (Alt) (Track 02).bin, CRC: 91fea222
-- Panzer Dragoon (Japan) (Alt) (Track 03).bin, CRC: 8bd0cef4
-- Panzer Dragoon (Japan) (Alt) (Track 04).bin, CRC: 5680d5e8
-- Panzer Dragoon (Japan) (Alt) (Track 05).bin, CRC: 09700c60
-- Panzer Dragoon (Japan) (Alt) (Track 06).bin, CRC: 283574b0
 - Panzer Dragoon (Japan) (Alt) (Track 07).bin, CRC: 398a7864
-- Panzer Dragoon (Japan) (Alt) (Track 08).bin, CRC: d2fd46cf
-- Panzer Dragoon (Japan) (Alt) (Track 09).bin, CRC: d30b7263
 - Panzer Dragoon (Japan) (Alt) (Track 10).bin, CRC: 69dd195b
-- Panzer Dragoon (Japan) (Alt) (Track 11).bin, CRC: 51d79800
-- Panzer Dragoon (Japan) (Alt) (Track 12).bin, CRC: a6d1961b
 - Panzer Dragoon (Japan) (Alt) (Track 13).bin, CRC: 5b9cd60e
 - Panzer Dragoon (Japan) (Alt) (Track 14).bin, CRC: 08ce1b12
-- Panzer Dragoon (Japan) (Alt) (Track 15).bin, CRC: 804fee35
 - Panzer Dragoon (Japan) (Alt) (Track 16).bin, CRC: 29a77347
 </details>
 
@@ -7486,7 +7402,6 @@
 ### Ship Simulator 2008 (Europe).bin, CRC: 56940e61
 ### Ship, The (Spain).iso, CRC: 06146d4f
 ### Shippuu Dotou!! (Japan) (Track 11).bin, CRC: a73e1094
-### Shiqi Shidai (Taiwan).bin, CRC: e4638c81
 ### Shivers Two - Harvest of Souls (USA) (Disc 2) (Track 2).bin, CRC: eb5b4450
 ### Shizuku (Japan)
 <details>
@@ -8242,7 +8157,6 @@
 
 ### Stellar 7 (USA) (Alt 4) (Track 2).bin, CRC: 6e886ef2
 ### Stormovik - SU-25 Soviet Attack Fighter (Scandinavia).bin, CRC: b5e7a9bc
-### Strike Commander (Japan).bin, CRC: 183f38c8
 ### Strike Commander (Poland).bin, CRC: a6854898
 ### Strike Commander (USA) (Rerelease) (1996-08-28).bin, CRC: fed2c5f2
 ### Strong Bad's Cool Game for Attractive People (Germany).iso, CRC: 9262e589
@@ -8600,15 +8514,6 @@
 ### Toku-Uchi Heroes - Meitantei Conan (Japan) (Rerelease) (2003-09-04).bin, CRC: 069f32b0
 ### Toku-Uchi Heroes - Meitantei Conan (Japan) (Rerelease) (2004-08-25).bin, CRC: b4fd2da3
 ### Toku-Uchi Heroes - Meitantei Conan (Japan) (Rerelease) (2009-11-12).bin, CRC: 4b0ca8f5
-### Tokushu Kousaku Daisakusen (Japan)
-<details>
-<summary>ROMs</summary>
-
-- Tokushu Kousaku Daisakusen (Japan) (Track 1).bin, CRC: 26b4b944
-- Tokushu Kousaku Daisakusen (Japan) (Track 3).bin, CRC: 463b42db
-- Tokushu Kousaku Daisakusen (Japan) (Track 4).bin, CRC: 42c2e883
-</details>
-
 ### Tolle Spiele-Box, Die (Germany).bin, CRC: 28496af2
 ### Tom and Jerry in Fists of Furry (Europe) (En,Fr,De,Es,It,Nl) (Alt) (Track 02).bin, CRC: 8aff96f7
 ### Tom Clancy's EndWar (Taiwan) (En,Zh).bin, CRC: c8bd1460
