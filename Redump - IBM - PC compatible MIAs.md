@@ -1,10 +1,9 @@
 # Redump - IBM - PC compatible MIAs
-## Games: 3268, ROMs: 7414, as of 2025-04-02
+## Games: 3259, ROMs: 7367, as of 2025-04-02
 
 ### %% - Fuuin no Otome (Japan) (Track 10).bin, CRC: 4481aa75
 ### Alley 19 Bowling (Europe) (Track 5).bin, CRC: dc835204
 ### 10 voor Taal Junior (Netherlands).bin, CRC: fbf30f1f
-### 100% Orange Juice (Japan).bin, CRC: cc10fd64
 ### 123 - Riian Nap Lek Duuay Pleng (Thailand).bin, CRC: 1355b15d
 ### 13th Century - Death or Glory (Germany).iso, CRC: 523a0074
 ### 18 Wheels of Steel - Big City Rigs (USA).iso, CRC: 3b57d131
@@ -1062,25 +1061,6 @@
 
 ### Che Guevara (Lithuania).bin, CRC: 704c16d0
 ### Che Guevara (Poland).bin, CRC: 24b69644
-### Chenmo De Jiandui (Taiwan)
-<details>
-<summary>ROMs</summary>
-
-- Chenmo De Jiandui (Taiwan) (Track 01).bin, CRC: 2df6b477
-- Chenmo De Jiandui (Taiwan) (Track 02).bin, CRC: bb09dd48
-- Chenmo De Jiandui (Taiwan) (Track 03).bin, CRC: 3f40fa52
-- Chenmo De Jiandui (Taiwan) (Track 04).bin, CRC: 8d1977a5
-- Chenmo De Jiandui (Taiwan) (Track 05).bin, CRC: bbca0b2c
-- Chenmo De Jiandui (Taiwan) (Track 06).bin, CRC: e3fd5a1a
-- Chenmo De Jiandui (Taiwan) (Track 07).bin, CRC: 4781b15e
-- Chenmo De Jiandui (Taiwan) (Track 08).bin, CRC: 48c22bf4
-- Chenmo De Jiandui (Taiwan) (Track 09).bin, CRC: b2cd51e9
-- Chenmo De Jiandui (Taiwan) (Track 10).bin, CRC: 143ed67c
-- Chenmo De Jiandui (Taiwan) (Track 11).bin, CRC: 158e7f5b
-- Chenmo De Jiandui (Taiwan) (Track 12).bin, CRC: b50b4057
-- Chenmo De Jiandui (Taiwan) (Track 13).bin, CRC: 757a84e6
-</details>
-
 ### Chess Housers (Germany).bin, CRC: b92cbdad
 ### Chessmaster 10eme Edition (France) (Disc 1).bin, CRC: eeec2b56
 ### Chessmaster 10eme Edition (France) (Disc 2).bin, CRC: e94b1d89
@@ -1099,7 +1079,6 @@
 ### Chronicles of Mystery - Tajemnica Zaginionego Krolestwa (Poland).bin, CRC: 8185a6e7
 ### Chuck Yeager's Air Combat (Scandinavia) (Hit Squad).bin, CRC: dec3ccf7
 ### Chutes and Ladders (USA) (Alt).bin, CRC: 6a1ad4ca
-### Chuusei Dai Kaisen (Japan).bin, CRC: 76d76169
 ### Chytrolin - Hvezdny Konflikt (Czech).bin, CRC: 9c927bdf
 ### Ciconia no Naku Koro ni - Phase 1 - Kawari no Iru Kimitachi e (Japan).iso, CRC: c88898bd
 ### Farm Frenzy 3 - Ice Age (Turkey).bin, CRC: c5fc30de
@@ -1756,13 +1735,9 @@
 - Die Gekirin II (Japan) (Track 05).bin, CRC: 0223c2c9
 - Die Gekirin II (Japan) (Track 06).bin, CRC: 96535434
 - Die Gekirin II (Japan) (Track 07).bin, CRC: aaaf6462
-- Die Gekirin II (Japan) (Track 08).bin, CRC: 67bdddf6
 - Die Gekirin II (Japan) (Track 09).bin, CRC: f115ca71
-- Die Gekirin II (Japan) (Track 10).bin, CRC: 69391530
 - Die Gekirin II (Japan) (Track 11).bin, CRC: 71374ccc
 - Die Gekirin II (Japan) (Track 12).bin, CRC: 355875ac
-- Die Gekirin II (Japan) (Track 13).bin, CRC: 5160125f
-- Die Gekirin II (Japan) (Track 14).bin, CRC: 3b9679cd
 - Die Gekirin II (Japan) (Track 15).bin, CRC: 78f063a0
 </details>
 
@@ -2439,7 +2414,6 @@
 ### Fallout (Estonia) (En,Fr,Es).bin, CRC: cacc7163
 ### Fallout 2 (Poland).bin, CRC: d0d44cd2
 ### Fallout 2 (Poland) (Rerelease).bin, CRC: 7abba6d2
-### Fallout 2 (Taiwan).bin, CRC: 13d55264
 ### Fallout 3 (France).iso, CRC: 01754c8e
 ### Fallout Tactics - Brotherhood of Steel (Greece) (Covermount).iso, CRC: a044edf7
 ### Family Mahjong Kyoushitsu (Japan).bin, CRC: f3231389
@@ -3310,29 +3284,7 @@
 <details>
 <summary>ROMs</summary>
 
-- Henry Explorers (Japan) (Track 01).bin, CRC: d11a392d
 - Henry Explorers (Japan) (Track 02).bin, CRC: 32eb23b0
-- Henry Explorers (Japan) (Track 03).bin, CRC: b27a95e5
-- Henry Explorers (Japan) (Track 04).bin, CRC: 7d8f02bc
-- Henry Explorers (Japan) (Track 05).bin, CRC: 4cb328e0
-- Henry Explorers (Japan) (Track 06).bin, CRC: 5bc3ecfd
-- Henry Explorers (Japan) (Track 07).bin, CRC: 7a711a04
-- Henry Explorers (Japan) (Track 08).bin, CRC: 3570467f
-- Henry Explorers (Japan) (Track 09).bin, CRC: 730f724f
-- Henry Explorers (Japan) (Track 10).bin, CRC: 749d9a4d
-- Henry Explorers (Japan) (Track 11).bin, CRC: cdd052d2
-- Henry Explorers (Japan) (Track 12).bin, CRC: 07ee4584
-- Henry Explorers (Japan) (Track 13).bin, CRC: 0970fd48
-- Henry Explorers (Japan) (Track 14).bin, CRC: 8ca6d3bc
-- Henry Explorers (Japan) (Track 15).bin, CRC: e4a0ff19
-- Henry Explorers (Japan) (Track 16).bin, CRC: b70e5b4e
-- Henry Explorers (Japan) (Track 17).bin, CRC: d70fa22c
-- Henry Explorers (Japan) (Track 18).bin, CRC: 7a31a63c
-- Henry Explorers (Japan) (Track 19).bin, CRC: 66c72730
-- Henry Explorers (Japan) (Track 20).bin, CRC: fa0997e7
-- Henry Explorers (Japan) (Track 21).bin, CRC: 13e066cf
-- Henry Explorers (Japan) (Track 22).bin, CRC: 72654ec2
-- Henry Explorers (Japan) (Track 23).bin, CRC: 1603d411
 - Henry Explorers (Japan) (Track 24).bin, CRC: 038f034c
 </details>
 
@@ -4507,10 +4459,6 @@
 </details>
 
 ### Lomdim Likro Dapey Avoda (Israel) (Sidi 3).bin, CRC: b315faf7
-### Longest Journey, The (Taiwan) (Disc I).bin, CRC: ef62ebeb
-### Longest Journey, The (Taiwan) (Disc II).bin, CRC: 17d9ead4
-### Longest Journey, The (Taiwan) (Disc III).bin, CRC: a489220a
-### Longest Journey, The (Taiwan) (Disc IV).bin, CRC: 006f67a8
 ### Looney Tunes - Sheep Raider (USA) (En,Fr,Es,Pt).bin, CRC: c441bfa6
 ### Lord of the Rings Enhanced CD-ROM, The (USA) (OEM) (Track 01).bin, CRC: e9e65cab
 ### Lord of the Rings Online, The - Shadows of Angmar (Europe) (En,Fr,De).iso, CRC: bfb3776a
@@ -7070,7 +7018,6 @@
 
 ### Sega Game Honpo - Wonder Boy V, Monster World III (Japan).bin, CRC: 4858b70a
 ### Sega Mega Drive Classic Collection - Zlota Edycja (Poland).bin, CRC: 6a442056
-### Sega PC Greatest Hits Series Vol. 3 (Japan) (Rerelease) (Alt).bin, CRC: 15c0ffc0
 ### Sega Rally 2 - Sega Rally Championship (Japan) (Install Disc).bin, CRC: 4caff937
 ### Sega Rally 2 - Sega Rally Championship (Japan) (Play Disc)
 <details>

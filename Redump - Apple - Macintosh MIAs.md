@@ -1,5 +1,5 @@
 # Redump - Apple - Macintosh MIAs
-## Games: 170, ROMs: 201, as of 2025-04-02
+## Games: 169, ROMs: 200, as of 2025-04-02
 
 ### 3-D Ultra Pinball (Japan).bin, CRC: 610eb45d
 ### 3DO Content Library, The (USA) (Disc 88) (Music & Sound Effects).bin, CRC: c157b11b
@@ -165,7 +165,6 @@
 ### Obsidian (Japan) (Disc 4).bin, CRC: 0887b0e7
 ### Obsidian (Japan) (Disc 5).bin, CRC: 426db03b
 ### Oceans Below (Japan).bin, CRC: bedc32ab
-### P.A.W.S - Personal Automated Wagging System (Japan).bin, CRC: 77d48354
 ### Phantasmagoria (Europe) (Disc 1).bin, CRC: d64946e5
 ### Phantasmagoria (Europe) (Disc 2).bin, CRC: 13fb7b31
 ### Phantasmagoria (Europe) (Disc 3).bin, CRC: 316bc735
