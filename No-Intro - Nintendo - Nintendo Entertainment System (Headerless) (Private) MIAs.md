@@ -1,5 +1,5 @@
 # No-Intro - Nintendo - Nintendo Entertainment System (Headerless) (Private) MIAs
-## Games: 44, ROMs: 44, as of 2025-04-02
+## Games: 42, ROMs: 42, as of 2025-04-03
 
 ### 8-Bit Slasher 4-in-1 Horror Demakes (World) (Aftermarket) (Unl).unh, CRC: 905e90cb
 ### Alfonzo's Arctic Adventure (World) (Kickstarter) (Aftermarket) (Unl).unh, CRC: da586fa5
@@ -11,7 +11,6 @@
 ### Dragon Master (USA) (Aftermarket) (Unl).unh, CRC: c6da7be2
 ### Eskimo Bob Starring Alfonzo (Europe) (Aftermarket) (Unl).unh, CRC: 93c15643
 ### Eskimo Bob Starring Alfonzo (USA) (Limited Run Games) (Aftermarket) (Unl).unh, CRC: 8af84702
-### Force Bot (World) (Aftermarket) (Unl).nes, CRC: 4a6e9c4d
 ### Full Quiet (World) (Regular Edition) (Aftermarket) (Unl).unh, CRC: 71509e3c
 ### Garbage Pail Kids - Mad Mike and the Quest for Stale Gum (USA) (iam8bit) (Aftermarket) (Unl).unh, CRC: 54b24c05
 ### Gemaboy Zero (World) (Aftermarket) (Unl).unh, CRC: 8a2084ee
@@ -21,7 +20,6 @@
 ### Hammerin' Harry (World) (Retro-Bit).unh, CRC: 9e2a837c
 ### Hammerin' Harry 2 (World) (Retro-Bit).unh, CRC: 0de8c4d4
 ### House in the Cemetery, The (World) (Broke Studio) (Aftermarket) (Unl).unh, CRC: c264485a
-### Hungry Ghost Night - Sydney Wang Version (Taiwan) (En) (Aftermarket) (Unl).nes, CRC: 720acb75
 ### ILEVAN (Japan) (En) (Aftermarket) (Unl).unh, CRC: 36d66731
 ### Jim & Dill - The Legend of Weed N' Stiff (World) (2024-06-19) (Aftermarket) (Unl).unh, CRC: 3dc09060
 ### KUBO 3 (USA) (En,Ja,Fr) (Limited Run Games) (Aftermarket) (Unl).unh, CRC: 0e577e47

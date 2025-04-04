@@ -1,5 +1,5 @@
 # Redump - DVD-Video MIAs
-## Games: 190, ROMs: 190, as of 2025-04-02
+## Games: 188, ROMs: 188, as of 2025-04-03
 
 ### 2002 Autumn Tokyo Game Show (Taiwan).iso, CRC: 92c99685
 ### 3-nen B-gumi Kinpachi Sensei - Densetsu no Kyoudan ni Tate! Promotion Video-2 (Japan).iso, CRC: d346598e
@@ -93,7 +93,6 @@
 ### Nobunaga no Yabou - Souzou Tentou Promotion Movie (Japan).iso, CRC: 6f1416d0
 ### Nobunaga no Yabou - Souzou with Power-Up Kit Tentou PV (Japan).iso, CRC: 130a0c63
 ### Nouryoku Trainer Portable 2, Mogi Kenichiro Hakase Kanshuu - Nou ni Kaikan AHA Taiken! (Japan).iso, CRC: 92703a82
-### Official Review of the 2000 FIA Formula One World Championship, The (Europe).iso, CRC: 65679d24
 ### One Piece - Pirates Carnival - Tentou-you Houei DVD (Japan).iso, CRC: 7ac7a280
 ### Oshare Majo Love and Berry - DS Collection (Japan).iso, CRC: 47656f09
 ### Oshare Majo Love and Berry - DS Collection + Dance Collection - 2006 Spring & Summer (Japan).iso, CRC: 20d71945
@@ -129,7 +128,6 @@
 ### Shingeki no Kyojin 2 - Final Battle - Tentou PV 1 (Japan).iso, CRC: 356e6692
 ### Shingeki no Kyojin 2 - Final Battle - Tentou PV 2 (Japan).iso, CRC: ae57e096
 ### Shingeki no Kyojin 2 - Tentou PV 2 (Japan).iso, CRC: 4c12b915
-### Silent Hill Sounds Box (Japan) (En,Ja) (Disc 9) (Bonus Material).iso, CRC: 2595aae1
 ### Silver Gene - The Mutia Chronicle 1 (Japan).iso, CRC: 1325381b
 ### Sinbad - Legend of the Seven Seas (USA) (En,Fr,Es) (Fullscreen).iso, CRC: 48099cb2
 ### Soccer Life! (Japan).iso, CRC: 716e05a2

@@ -1,5 +1,5 @@
 # Redump - Audio CD MIAs
-## Games: 149, ROMs: 1857, as of 2025-04-02
+## Games: 145, ROMs: 1788, as of 2025-04-03
 
 ### Age of Empires III (Poland) (Plyta audio z muzyka z gry) (PC Game Bundle)
 <details>
@@ -197,51 +197,6 @@
 ### Chocobo no Fushigi na Dungeon - Original Soundtrack (Japan) (Disc 2) (Special Pack CD) (SSCX 10014) (Track 2).bin, CRC: b7c42356
 ### Command & Conquer - Remastered Collection - Original Soundtrack (USA) (Disc 4) (Red Alert - Original Soundtrack - Remastered) (PC Game Bundle) (Track 01).bin, CRC: 24e72c88
 ### Cotton - Original Soundtrack (Japan) (Disc 3) (Track 48).bin, CRC: 08bb35a4
-### Crypt of the NecroDancer (USA) (NSW Game Bundle)
-<details>
-<summary>ROMs</summary>
-
-- Crypt of the NecroDancer (USA) (NSW Game Bundle) (Track 01).bin, CRC: ffb91319
-- Crypt of the NecroDancer (USA) (NSW Game Bundle) (Track 02).bin, CRC: 7d44de92
-- Crypt of the NecroDancer (USA) (NSW Game Bundle) (Track 03).bin, CRC: d808aeca
-- Crypt of the NecroDancer (USA) (NSW Game Bundle) (Track 04).bin, CRC: f2f00505
-- Crypt of the NecroDancer (USA) (NSW Game Bundle) (Track 05).bin, CRC: 27230c27
-- Crypt of the NecroDancer (USA) (NSW Game Bundle) (Track 06).bin, CRC: 6d5457d7
-- Crypt of the NecroDancer (USA) (NSW Game Bundle) (Track 07).bin, CRC: a3decb2c
-- Crypt of the NecroDancer (USA) (NSW Game Bundle) (Track 08).bin, CRC: 2fa7ec97
-- Crypt of the NecroDancer (USA) (NSW Game Bundle) (Track 09).bin, CRC: 98fe2559
-- Crypt of the NecroDancer (USA) (NSW Game Bundle) (Track 10).bin, CRC: e76cf57d
-- Crypt of the NecroDancer (USA) (NSW Game Bundle) (Track 11).bin, CRC: eff55dd9
-- Crypt of the NecroDancer (USA) (NSW Game Bundle) (Track 12).bin, CRC: f0780eac
-- Crypt of the NecroDancer (USA) (NSW Game Bundle) (Track 13).bin, CRC: 99bd77be
-- Crypt of the NecroDancer (USA) (NSW Game Bundle) (Track 14).bin, CRC: c26ab5f2
-- Crypt of the NecroDancer (USA) (NSW Game Bundle) (Track 15).bin, CRC: 6520e6db
-- Crypt of the NecroDancer (USA) (NSW Game Bundle) (Track 16).bin, CRC: 2c5c8043
-- Crypt of the NecroDancer (USA) (NSW Game Bundle) (Track 17).bin, CRC: b82f87c1
-- Crypt of the NecroDancer (USA) (NSW Game Bundle) (Track 18).bin, CRC: 64fad053
-- Crypt of the NecroDancer (USA) (NSW Game Bundle) (Track 19).bin, CRC: cf80c0ac
-- Crypt of the NecroDancer (USA) (NSW Game Bundle) (Track 20).bin, CRC: 60b8870d
-- Crypt of the NecroDancer (USA) (NSW Game Bundle) (Track 21).bin, CRC: d09721ec
-- Crypt of the NecroDancer (USA) (NSW Game Bundle) (Track 22).bin, CRC: 853f1101
-- Crypt of the NecroDancer (USA) (NSW Game Bundle) (Track 23).bin, CRC: 6e715647
-- Crypt of the NecroDancer (USA) (NSW Game Bundle) (Track 24).bin, CRC: 174ba730
-- Crypt of the NecroDancer (USA) (NSW Game Bundle) (Track 25).bin, CRC: 27a95778
-- Crypt of the NecroDancer (USA) (NSW Game Bundle) (Track 26).bin, CRC: 8cef638f
-- Crypt of the NecroDancer (USA) (NSW Game Bundle) (Track 27).bin, CRC: e88ef34f
-</details>
-
-### Crypt of the NecroDancer - Amplified (USA) (PS4 Game Bundle)
-<details>
-<summary>ROMs</summary>
-
-- Crypt of the NecroDancer - Amplified (USA) (PS4 Game Bundle) (Track 1).bin, CRC: 24ccd840
-- Crypt of the NecroDancer - Amplified (USA) (PS4 Game Bundle) (Track 2).bin, CRC: 4d82a93a
-- Crypt of the NecroDancer - Amplified (USA) (PS4 Game Bundle) (Track 3).bin, CRC: 913462d3
-- Crypt of the NecroDancer - Amplified (USA) (PS4 Game Bundle) (Track 4).bin, CRC: 8efbd281
-- Crypt of the NecroDancer - Amplified (USA) (PS4 Game Bundle) (Track 5).bin, CRC: a97b3b76
-- Crypt of the NecroDancer - Amplified (USA) (PS4 Game Bundle) (Track 6).bin, CRC: 22c99582
-</details>
-
 ### Dark Souls III - Original Soundtrack (Japan)
 <details>
 <summary>ROMs</summary>
@@ -860,7 +815,6 @@
 - Konami Game Music Vol. 1 (Japan) (Reprint) (Track 40).bin, CRC: af6e6b96
 </details>
 
-### Konami Game Music Vol. 2 (Japan) (Track 48).bin, CRC: fc9dc6d9
 ### Konami Game Music Vol. 2 (Japan) (Rerelease)
 <details>
 <summary>ROMs</summary>
@@ -1325,47 +1279,6 @@
 - R4 - Ridge Racer Type 4 - The 20th Anniv. Sounds (Japan) (Disc 2) (2nd Heat - Remastered Sounds) (Alt 2) (Track 23).bin, CRC: 05645a79
 - R4 - Ridge Racer Type 4 - The 20th Anniv. Sounds (Japan) (Disc 2) (2nd Heat - Remastered Sounds) (Alt 2) (Track 24).bin, CRC: 07b895b2
 - R4 - Ridge Racer Type 4 - The 20th Anniv. Sounds (Japan) (Disc 2) (2nd Heat - Remastered Sounds) (Alt 2) (Track 25).bin, CRC: 09b10cd6
-</details>
-
-### Re-Zero -Starting Life in Another World- - The Prophecy of the Throne - Collector's Edition Soundtrack (USA) (NSW Game Bundle)
-<details>
-<summary>ROMs</summary>
-
-- Re-Zero -Starting Life in Another World- - The Prophecy of the Throne - Collector's Edition Soundtrack (USA) (NSW Game Bundle) (Track 01).bin, CRC: 714660a7
-- Re-Zero -Starting Life in Another World- - The Prophecy of the Throne - Collector's Edition Soundtrack (USA) (NSW Game Bundle) (Track 02).bin, CRC: 9d295a5b
-- Re-Zero -Starting Life in Another World- - The Prophecy of the Throne - Collector's Edition Soundtrack (USA) (NSW Game Bundle) (Track 03).bin, CRC: 024d29bd
-- Re-Zero -Starting Life in Another World- - The Prophecy of the Throne - Collector's Edition Soundtrack (USA) (NSW Game Bundle) (Track 04).bin, CRC: 32666b7d
-- Re-Zero -Starting Life in Another World- - The Prophecy of the Throne - Collector's Edition Soundtrack (USA) (NSW Game Bundle) (Track 05).bin, CRC: 4a8e4704
-- Re-Zero -Starting Life in Another World- - The Prophecy of the Throne - Collector's Edition Soundtrack (USA) (NSW Game Bundle) (Track 06).bin, CRC: 6a0c3a41
-- Re-Zero -Starting Life in Another World- - The Prophecy of the Throne - Collector's Edition Soundtrack (USA) (NSW Game Bundle) (Track 07).bin, CRC: f78e2acf
-- Re-Zero -Starting Life in Another World- - The Prophecy of the Throne - Collector's Edition Soundtrack (USA) (NSW Game Bundle) (Track 08).bin, CRC: c340b817
-- Re-Zero -Starting Life in Another World- - The Prophecy of the Throne - Collector's Edition Soundtrack (USA) (NSW Game Bundle) (Track 09).bin, CRC: a8a0abd8
-- Re-Zero -Starting Life in Another World- - The Prophecy of the Throne - Collector's Edition Soundtrack (USA) (NSW Game Bundle) (Track 10).bin, CRC: d32eaf3d
-- Re-Zero -Starting Life in Another World- - The Prophecy of the Throne - Collector's Edition Soundtrack (USA) (NSW Game Bundle) (Track 11).bin, CRC: bc8e52bd
-- Re-Zero -Starting Life in Another World- - The Prophecy of the Throne - Collector's Edition Soundtrack (USA) (NSW Game Bundle) (Track 12).bin, CRC: 1dd82760
-- Re-Zero -Starting Life in Another World- - The Prophecy of the Throne - Collector's Edition Soundtrack (USA) (NSW Game Bundle) (Track 13).bin, CRC: 9f80f20b
-- Re-Zero -Starting Life in Another World- - The Prophecy of the Throne - Collector's Edition Soundtrack (USA) (NSW Game Bundle) (Track 14).bin, CRC: f4e202fa
-- Re-Zero -Starting Life in Another World- - The Prophecy of the Throne - Collector's Edition Soundtrack (USA) (NSW Game Bundle) (Track 15).bin, CRC: 08e75d8c
-- Re-Zero -Starting Life in Another World- - The Prophecy of the Throne - Collector's Edition Soundtrack (USA) (NSW Game Bundle) (Track 16).bin, CRC: 9e46cb03
-- Re-Zero -Starting Life in Another World- - The Prophecy of the Throne - Collector's Edition Soundtrack (USA) (NSW Game Bundle) (Track 17).bin, CRC: 6740358d
-- Re-Zero -Starting Life in Another World- - The Prophecy of the Throne - Collector's Edition Soundtrack (USA) (NSW Game Bundle) (Track 18).bin, CRC: 55dabae3
-- Re-Zero -Starting Life in Another World- - The Prophecy of the Throne - Collector's Edition Soundtrack (USA) (NSW Game Bundle) (Track 19).bin, CRC: dce20fd6
-- Re-Zero -Starting Life in Another World- - The Prophecy of the Throne - Collector's Edition Soundtrack (USA) (NSW Game Bundle) (Track 20).bin, CRC: a0e41bdd
-- Re-Zero -Starting Life in Another World- - The Prophecy of the Throne - Collector's Edition Soundtrack (USA) (NSW Game Bundle) (Track 21).bin, CRC: d155c3a5
-- Re-Zero -Starting Life in Another World- - The Prophecy of the Throne - Collector's Edition Soundtrack (USA) (NSW Game Bundle) (Track 22).bin, CRC: ff095b57
-- Re-Zero -Starting Life in Another World- - The Prophecy of the Throne - Collector's Edition Soundtrack (USA) (NSW Game Bundle) (Track 23).bin, CRC: ec47cdf4
-- Re-Zero -Starting Life in Another World- - The Prophecy of the Throne - Collector's Edition Soundtrack (USA) (NSW Game Bundle) (Track 24).bin, CRC: 3efe34be
-- Re-Zero -Starting Life in Another World- - The Prophecy of the Throne - Collector's Edition Soundtrack (USA) (NSW Game Bundle) (Track 25).bin, CRC: 6629c982
-- Re-Zero -Starting Life in Another World- - The Prophecy of the Throne - Collector's Edition Soundtrack (USA) (NSW Game Bundle) (Track 26).bin, CRC: eac6d2a5
-- Re-Zero -Starting Life in Another World- - The Prophecy of the Throne - Collector's Edition Soundtrack (USA) (NSW Game Bundle) (Track 27).bin, CRC: 98dd28a6
-- Re-Zero -Starting Life in Another World- - The Prophecy of the Throne - Collector's Edition Soundtrack (USA) (NSW Game Bundle) (Track 28).bin, CRC: 42fd7c9f
-- Re-Zero -Starting Life in Another World- - The Prophecy of the Throne - Collector's Edition Soundtrack (USA) (NSW Game Bundle) (Track 29).bin, CRC: c86d0dab
-- Re-Zero -Starting Life in Another World- - The Prophecy of the Throne - Collector's Edition Soundtrack (USA) (NSW Game Bundle) (Track 30).bin, CRC: e1ba137a
-- Re-Zero -Starting Life in Another World- - The Prophecy of the Throne - Collector's Edition Soundtrack (USA) (NSW Game Bundle) (Track 31).bin, CRC: e6342301
-- Re-Zero -Starting Life in Another World- - The Prophecy of the Throne - Collector's Edition Soundtrack (USA) (NSW Game Bundle) (Track 32).bin, CRC: e4bdbbb1
-- Re-Zero -Starting Life in Another World- - The Prophecy of the Throne - Collector's Edition Soundtrack (USA) (NSW Game Bundle) (Track 33).bin, CRC: 6b3f2c91
-- Re-Zero -Starting Life in Another World- - The Prophecy of the Throne - Collector's Edition Soundtrack (USA) (NSW Game Bundle) (Track 34).bin, CRC: 9da5b512
-- Re-Zero -Starting Life in Another World- - The Prophecy of the Throne - Collector's Edition Soundtrack (USA) (NSW Game Bundle) (Track 35).bin, CRC: 828558a5
 </details>
 
 ### Rei Chou Aniki Original Soundtrack (Japan)
