@@ -1,5 +1,5 @@
 # Redump - Sony - PlayStation 3 MIAs
-## Games: 6, ROMs: 6, as of 2025-04-03
+## Games: 6, ROMs: 6, as of 2025-04-04
 
 ### Drag-on Dragoon 3 (Asia).iso, CRC: 2f88b9d8
 ### Dragon Ball Z - Budokai HD Collection (Asia) (En,Fr,Es).iso, CRC: 280e81f0
