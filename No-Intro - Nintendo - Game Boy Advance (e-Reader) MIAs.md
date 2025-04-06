@@ -1,5 +1,5 @@
 # No-Intro - Nintendo - Game Boy Advance (e-Reader) MIAs
-## Games: 5, ROMs: 7, as of 2025-04-04
+## Games: 5, ROMs: 7, as of 2025-04-06
 
 ### Kirby Contest Card - 00-A001 - 1st Prize (USA) (Promo).raw, CRC: 9f4b56e3
 ### Mario vs. Donkey Kong Card-e+ - 18-M001 (Japan) (Promo)

@@ -1,5 +1,5 @@
 # No-Intro - Nintendo - Game Boy Color (Private) (Aftermarket) MIAs
-## Games: 16, ROMs: 16, as of 2025-04-04
+## Games: 15, ROMs: 15, as of 2025-04-06
 
 ### DiveBlob (World) (GB Compatible) (Aftermarket) (Unl).gbc, CRC: 1c43b0c4
 ### Dream Shark - Part 1 (World) (Digital) (Batteryless) (MBC3) (Aftermarket) (Unl).gbc, CRC: 18f5ddd8
@@ -10,7 +10,6 @@
 ### Inspector Waffles Early Days (World) (GB Compatible) (Aftermarket) (Unl).gbc, CRC: b5094777
 ### Magical Tale, A - Revoke (World) (2024-08-21) (Aftermarket) (Unl).gbc, CRC: 2aceb298
 ### Magical Tale, A - Revoke (World) (2024-08-24) (Aftermarket) (Unl).gbc, CRC: 36856315
-### Project S-11 (World) (ModRetro Chromatic) (Aftermarket) (Unl).gbc, CRC: eddf2923
 ### PSY - Psychic Love Damage (World) (GB Compatible) (Aftermarket) (Unl).gbc, CRC: a8763d24
 ### Tools of Nexaura (World) (Beta 1) (SGB Enhanced) (GB Compatible) (Aftermarket) (Unl).gbc, CRC: 3635f176
 ### Tools of Nexaura (World) (Beta 2) (SGB Enhanced) (GB Compatible) (Aftermarket) (Unl).gbc, CRC: 7d099d36
