@@ -1,5 +1,5 @@
 # Redump - IBM - PC compatible MIAs
-## Games: 3290, ROMs: 7423, as of 2025-04-06
+## Games: 3289, ROMs: 7326, as of 2025-04-06
 
 ### %% - Fuuin no Otome (Japan) (Track 10).bin, CRC: 4481aa75
 ### Alley 19 Bowling (Europe) (Track 5).bin, CRC: dc835204
@@ -5632,18 +5632,7 @@
 ### PC Collector 11 (France) (Disc 3).bin, CRC: 38b0739a
 ### PC Extreme Issue 10 (UK).bin, CRC: d8613947
 ### PC Flugsimulation '96 (Germany).bin, CRC: 24e73dc6
-### PC Game Best Series Vol. 35 - J. B. Harold no Jikenbo - Murder Club - Satsujin Club (Japan)
-<details>
-<summary>ROMs</summary>
-
-- J. B. Harold no Jikenbo - Murder Club - Satsujin Club (Japan) (Rerelease) (Alt) (Track 2).bin, CRC: f0576ca1
-- J. B. Harold no Jikenbo - Murder Club - Satsujin Club (Japan) (Rerelease) (Alt) (Track 3).bin, CRC: 6b5a4dd2
-- J. B. Harold no Jikenbo - Murder Club - Satsujin Club (Japan) (Rerelease) (Alt) (Track 4).bin, CRC: a9b1ac2b
-- J. B. Harold no Jikenbo - Murder Club - Satsujin Club (Japan) (Rerelease) (Alt) (Track 5).bin, CRC: 1d3c16e6
-- J. B. Harold no Jikenbo - Murder Club - Satsujin Club (Japan) (Rerelease) (Alt) (Track 6).bin, CRC: 6b91c180
-- J. B. Harold no Jikenbo - Murder Club - Satsujin Club (Japan) (Rerelease) (Alt) (Track 7).bin, CRC: 96954013
-</details>
-
+### J. B. Harold no Jikenbo - Murder Club - Satsujin Club (Japan) (Rerelease) (Alt) (Track 2).bin, CRC: f0576ca1
 ### PC Game Best Series Vol. 36 - Thinking Rabbit Meisaku Adventure - Toki o Koeta Tegami (Japan)
 <details>
 <summary>ROMs</summary>
@@ -6754,111 +6743,7 @@
 ### Sacrifice (USA) (Editors Press Kit).bin, CRC: 62d352db
 ### Sacrifice (USA) (Hewlett Packard OEM).bin, CRC: d5d91581
 ### Safecracker (Europe) (En,Fr,De,Es,It,Nl,Sv).bin, CRC: 84352fe0
-### Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic II)
-<details>
-<summary>ROMs</summary>
-
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic II) (Track 01).bin, CRC: 3ea191dc
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic II) (Track 02).bin, CRC: e7e2d4ff
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic II) (Track 03).bin, CRC: 0bd89261
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic II) (Track 04).bin, CRC: 4ef3718e
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic II) (Track 05).bin, CRC: c58b01c9
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic II) (Track 06).bin, CRC: 6b931c8e
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic II) (Track 07).bin, CRC: 997f886c
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic II) (Track 08).bin, CRC: b6aaa73b
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic II) (Track 09).bin, CRC: ac579f0c
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic II) (Track 10).bin, CRC: 86ae8ee4
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic II) (Track 11).bin, CRC: ab03d65b
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic II) (Track 12).bin, CRC: 03264308
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic II) (Track 13).bin, CRC: 4b8d1d3e
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic II) (Track 14).bin, CRC: 0aa584a7
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic II) (Track 15).bin, CRC: ff61d8a7
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic II) (Track 16).bin, CRC: 1889b76c
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic II) (Track 17).bin, CRC: 2c7cfa68
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic II) (Track 18).bin, CRC: 186e2dab
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic II) (Track 19).bin, CRC: 47d85d73
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic II) (Track 20).bin, CRC: c53a0a3b
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic II) (Track 21).bin, CRC: fa4cca5f
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic II) (Track 22).bin, CRC: 55ab6e2d
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic II) (Track 23).bin, CRC: b421f655
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic II) (Track 24).bin, CRC: 3b4a19d6
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic II) (Track 25).bin, CRC: ffe17686
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic II) (Track 26).bin, CRC: 131f689c
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic II) (Track 27).bin, CRC: aa465d05
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic II) (Track 28).bin, CRC: d82f2f5e
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic II) (Track 29).bin, CRC: fc11cb49
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic II) (Track 30).bin, CRC: 5e9f008d
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic II) (Track 31).bin, CRC: 6d203c59
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic II) (Track 32).bin, CRC: 9b03abcf
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic II) (Track 33).bin, CRC: 4ff28dfd
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic II) (Track 34).bin, CRC: b1502936
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic II) (Track 35).bin, CRC: a9994f4a
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic II) (Track 36).bin, CRC: 26c86695
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic II) (Track 37).bin, CRC: ce89a22f
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic II) (Track 38).bin, CRC: af7c7c3b
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic II) (Track 39).bin, CRC: 533fcb14
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic II) (Track 40).bin, CRC: b5e13a92
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic II) (Track 41).bin, CRC: 6a284201
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic II) (Track 42).bin, CRC: f9a45877
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic II) (Track 43).bin, CRC: b6ed978c
-</details>
-
-### Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic)
-<details>
-<summary>ROMs</summary>
-
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic) (Track 01).bin, CRC: f44401c5
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic) (Track 02).bin, CRC: 06d50524
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic) (Track 03).bin, CRC: d768565e
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic) (Track 04).bin, CRC: f9666e26
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic) (Track 05).bin, CRC: 261b0ffb
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic) (Track 06).bin, CRC: 3473d8f9
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic) (Track 07).bin, CRC: f814d519
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic) (Track 08).bin, CRC: a277096f
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic) (Track 09).bin, CRC: 1c6b8ca6
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic) (Track 10).bin, CRC: 4341a322
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic) (Track 11).bin, CRC: f37151ad
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic) (Track 12).bin, CRC: 1c6d0325
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic) (Track 13).bin, CRC: b16b3cb9
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic) (Track 14).bin, CRC: 0194b3ee
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic) (Track 15).bin, CRC: a69e0781
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic) (Track 16).bin, CRC: 5fffa71a
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic) (Track 17).bin, CRC: 0fc0fa62
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic) (Track 18).bin, CRC: 52cd1f08
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic) (Track 19).bin, CRC: 30681405
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic) (Track 20).bin, CRC: 3a8c4c04
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic) (Track 21).bin, CRC: cc2d956a
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic) (Track 22).bin, CRC: 3a3f94a0
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic) (Track 23).bin, CRC: 9dc52289
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic) (Track 24).bin, CRC: c579e4bf
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic) (Track 25).bin, CRC: 1e31ec10
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic) (Track 26).bin, CRC: fbe479ec
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic) (Track 27).bin, CRC: f8d978f7
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic) (Track 28).bin, CRC: 92a1ba89
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic) (Track 29).bin, CRC: 719f4670
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic) (Track 30).bin, CRC: a83c4dc5
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic) (Track 31).bin, CRC: a3238767
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic) (Track 32).bin, CRC: e0ddd27c
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic) (Track 33).bin, CRC: 86bdc186
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic) (Track 34).bin, CRC: ce4a5782
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic) (Track 35).bin, CRC: 138c4ac2
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic) (Track 36).bin, CRC: 52dcb5a2
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic) (Track 37).bin, CRC: a404a3ee
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic) (Track 38).bin, CRC: 9caba5e5
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic) (Track 39).bin, CRC: fa5f7a33
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic) (Track 40).bin, CRC: 12398b85
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic) (Track 41).bin, CRC: 3982f65f
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic) (Track 42).bin, CRC: 95b588ad
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic) (Track 43).bin, CRC: f65afcab
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic) (Track 44).bin, CRC: 0c416c32
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic) (Track 45).bin, CRC: 550b12e4
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic) (Track 46).bin, CRC: c78afcf9
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic) (Track 47).bin, CRC: 1e86bd5c
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic) (Track 48).bin, CRC: 3b8ea287
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic) (Track 49).bin, CRC: f02fa510
-- Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic) (Track 50).bin, CRC: f49fcca5
-</details>
-
+### Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic) (Track 31).bin, CRC: a3238767
 ### Saikyou Densetsu - Mahjong Haou 2 - Kanzenban (Japan).bin, CRC: 44625585
 ### Saint Eyes (Japan)
 <details>
