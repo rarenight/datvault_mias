@@ -1,5 +1,5 @@
 # Redump - Audio CD MIAs
-## Games: 145, ROMs: 1788, as of 2025-04-06
+## Games: 144, ROMs: 1787, as of 2025-04-07
 
 ### Age of Empires III (Poland) (Plyta audio z muzyka z gry) (PC Game Bundle)
 <details>
@@ -195,7 +195,6 @@
 </details>
 
 ### Chocobo no Fushigi na Dungeon - Original Soundtrack (Japan) (Disc 2) (Special Pack CD) (SSCX 10014) (Track 2).bin, CRC: b7c42356
-### Command & Conquer - Remastered Collection - Original Soundtrack (USA) (Disc 4) (Red Alert - Original Soundtrack - Remastered) (PC Game Bundle) (Track 01).bin, CRC: 24e72c88
 ### Cotton - Original Soundtrack (Japan) (Disc 3) (Track 48).bin, CRC: 08bb35a4
 ### Dark Souls III - Original Soundtrack (Japan)
 <details>
