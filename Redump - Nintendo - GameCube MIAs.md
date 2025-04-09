@@ -1,4 +1,4 @@
 # Redump - Nintendo - GameCube MIAs
-## Games: 1, ROMs: 1, as of 2025-04-07
+## Games: 1, ROMs: 1, as of 2025-04-09
 
 ### SmaBro DX Event-you Disc (Japan).iso, CRC: 0dd683ce

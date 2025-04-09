@@ -1,5 +1,5 @@
 # Redump - IBM - PC compatible MIAs
-## Games: 3239, ROMs: 7211, as of 2025-04-07
+## Games: 3233, ROMs: 7191, as of 2025-04-09
 
 ### %% - Fuuin no Otome (Japan) (Track 10).bin, CRC: 4481aa75
 ### Alley 19 Bowling (Europe) (Track 5).bin, CRC: dc835204
@@ -722,7 +722,6 @@
 ### BB - Oh Yes! Jonny! (Japan).bin, CRC: 555dcda4
 ### BBC Muzzy Interactive - Level II Part 1 (USA) (En,Fr,De,Es,It,Nl,Pt).bin, CRC: da85bd0d
 ### Be With! (Japan).bin, CRC: 6ab6960e
-### Beach Life (Europe).bin, CRC: 7d18fc89
 ### Beach Life (Europe) (Fr,De,Es,It,Pl).bin, CRC: 0554ad44
 ### Beat Angel Escalayer (Japan).iso, CRC: 6bb847bd
 ### Beat Up Miljonairs (Netherlands).bin, CRC: bf669d68
@@ -1169,12 +1168,6 @@
 
 - Command & Conquer - Operations Survie (France) (Track 1).bin, CRC: 48b0dd7c
 - Command & Conquer - Operations Survie (France) (Track 2).bin, CRC: a63648b2
-- Command & Conquer - Operations Survie (France) (Track 3).bin, CRC: 2db6c137
-- Command & Conquer - Operations Survie (France) (Track 4).bin, CRC: 458a9112
-- Command & Conquer - Operations Survie (France) (Track 5).bin, CRC: c1ca55f2
-- Command & Conquer - Operations Survie (France) (Track 6).bin, CRC: 904aa224
-- Command & Conquer - Operations Survie (France) (Track 7).bin, CRC: 5a60cc60
-- Command & Conquer - Operations Survie (France) (Track 8).bin, CRC: 5045c53e
 </details>
 
 ### Command & Conquer - Remastered Collection - Digital Assets Collection (USA).iso, CRC: fab2dc84
@@ -1575,22 +1568,6 @@
 ### Da Vinci Code, The (Europe) (En,Fr,De,Es,It,Nl) (Rerelease).iso, CRC: edce8418
 ### Daemonica (Poland) (Disc 1) (Rerelease).bin, CRC: 0adc4de2
 ### Daemonica (Poland) (Disc 2) (Rerelease).bin, CRC: 0f8879aa
-### Dafuweng 4 (Taiwan) (Disc 1) (Anzhuangpian) (Rerelease) (v2.03).bin, CRC: ed0a2e55
-### Dafuweng 4 (Taiwan) (Disc 2) (Youxipian)
-<details>
-<summary>ROMs</summary>
-
-- Dafuweng 4 (Taiwan) (Disc 2) (Youxipian) (Rerelease) (v2.03) (Track 1).bin, CRC: 1ee4d90c
-- Dafuweng 4 (Taiwan) (Disc 2) (Youxipian) (Rerelease) (v2.03) (Track 2).bin, CRC: ffeef20b
-- Dafuweng 4 (Taiwan) (Disc 2) (Youxipian) (Rerelease) (v2.03) (Track 3).bin, CRC: 3214f149
-- Dafuweng 4 (Taiwan) (Disc 2) (Youxipian) (Rerelease) (v2.03) (Track 4).bin, CRC: 27a6757c
-- Dafuweng 4 (Taiwan) (Disc 2) (Youxipian) (Rerelease) (v2.03) (Track 5).bin, CRC: 9ddce19e
-- Dafuweng 4 (Taiwan) (Disc 2) (Youxipian) (Rerelease) (v2.03) (Track 6).bin, CRC: 2a93a312
-- Dafuweng 4 (Taiwan) (Disc 2) (Youxipian) (Rerelease) (v2.03) (Track 7).bin, CRC: b77ffa4a
-- Dafuweng 4 (Taiwan) (Disc 2) (Youxipian) (Rerelease) (v2.03) (Track 8).bin, CRC: 7f5faadd
-- Dafuweng 4 (Taiwan) (Disc 2) (Youxipian) (Rerelease) (v2.03) (Track 9).bin, CRC: 9fb76db4
-</details>
-
 ### Daikoukai Jidai IV - Porto Estado (Japan) (Rerelease)
 <details>
 <summary>ROMs</summary>
@@ -5142,7 +5119,6 @@
 ### Monster Hunter Frontier Online - Season 7.0 (Japan).iso, CRC: cadf015c
 ### Monster Truck Fury (Bulgaria).bin, CRC: 63a3209d
 ### Monster Truck Madness 2 (Europe) (OEM) (Track 10).bin, CRC: f15f498d
-### Montezuma's Return! (Europe) (Sold Out Software).bin, CRC: 9d5d17d9
 ### Montezuma's Return! (Poland) (Sold Out Software).bin, CRC: 2a2a88cd
 ### Moon. (Japan)
 <details>
@@ -5218,7 +5194,6 @@
 
 ### Muumit ja Taikurin Hattu (Finland).bin, CRC: b1ebb333
 ### Muzzy at the Seaside (USA) (En,Fr,De,Es,It).bin, CRC: 176657d0
-### MX vs. ATV Unleashed (Europe).bin, CRC: a36f84a8
 ### My Alphabet Tutor (New Zealand).bin, CRC: 73a236a6
 ### My First 100 Words in Greek (USA) (En,El).bin, CRC: 3ccb304d
 ### My India (India).bin, CRC: 1b0fdc30
@@ -6464,7 +6439,6 @@
 ### RollerCoaster Tycoon 2 (Europe) (En,Fr,De,Es,It,Nl,Sv) (Rev 1).bin, CRC: 49ea8c56
 ### RollerCoaster Tycoon 3 (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da,Fi) (Rerelease) (2005-06-09).bin, CRC: c99fdd9f
 ### RollerCoaster Tycoon 3 (Japan).bin, CRC: ebe88c50
-### RollerCoaster Tycoon 3 Deluxe Edition (Europe).bin, CRC: 16af40cf
 ### RollerCoaster World (Europe).bin, CRC: ec65cb0c
 ### RollerCoaster World (Europe) (F8E26303).bin, CRC: f8e26303
 ### Rolling Marbles (Europe) (Rerelease) (2003-01-06).bin, CRC: 412f30d4
