@@ -1,5 +1,5 @@
 # Redump - IBM - PC compatible MIAs
-## Games: 3233, ROMs: 7191, as of 2025-04-09
+## Games: 3231, ROMs: 7189, as of 2025-04-11
 
 ### %% - Fuuin no Otome (Japan) (Track 10).bin, CRC: 4481aa75
 ### Alley 19 Bowling (Europe) (Track 5).bin, CRC: dc835204
@@ -1159,7 +1159,6 @@
 ### Command & Conquer - Alarmstufe Rot 2 (Germany) (Sowjets) (Rerelease).bin, CRC: a9e54ee5
 ### Command & Conquer - Alerte Rouge 2 (France) (Disc 1) (Allie).bin, CRC: 7a268191
 ### Command & Conquer - Alerte Rouge 2 (France) (Disc 2) (Sovietique).bin, CRC: 7315a38d
-### Command & Conquer - Alerte Rouge 2 - La Revanche de Yuri (France).bin, CRC: 1d288a62
 ### Command & Conquer - Alerte Rouge 3 (France) (Rerelease).iso, CRC: 65d2daea
 ### Command & Conquer - Generals (Japan) (Nihongo Support Disc).bin, CRC: 51008412
 ### Command & Conquer - Operations Survie (France)
@@ -5617,7 +5616,6 @@
 ### Perfect Sport (Scandinavia) (En,Fr,De).bin, CRC: 7ab25157
 ### PES 2009 - Pro Evolution Soccer (Europe) (En,Fr,De,Es,It).iso, CRC: f0961d1e
 ### PES 2013 - Pro Evolution Soccer (France).iso, CRC: 014a486b
-### Peter Jackson's King Kong - The Official Game of the Movie (Canada) (En,Fr,Es,It) (Demo).bin, CRC: 90518349
 ### Peter Schmeichel Soccer (Scandinavia).bin, CRC: e9d6cdea
 ### Phantasy Star Online - Blue Burst (Japan).bin, CRC: e3e501a4
 ### Pharaoh (Sweden).bin, CRC: fa9206bd

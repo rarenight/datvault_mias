@@ -1,5 +1,5 @@
 # Redump - Sega - Saturn MIAs
-## Games: 2, ROMs: 3, as of 2025-04-09
+## Games: 2, ROMs: 3, as of 2025-04-11
 
 ### Game-Ware (Japan) (Soukan Junbigou Hibaihin)
 <details>
