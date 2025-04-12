@@ -1,5 +1,5 @@
 # Redump - IBM - PC compatible MIAs
-## Games: 3231, ROMs: 7189, as of 2025-04-11
+## Games: 3230, ROMs: 7178, as of 2025-04-12
 
 ### %% - Fuuin no Otome (Japan) (Track 10).bin, CRC: 4481aa75
 ### Alley 19 Bowling (Europe) (Track 5).bin, CRC: dc835204
@@ -3117,23 +3117,7 @@
 - Half-Life - Day One (Japan) (OEM) (Track 11).bin, CRC: 149d85d3
 </details>
 
-### Half-Life - Day One (USA) (1999-02-25)
-<details>
-<summary>ROMs</summary>
-
-- Half-Life - Day One (USA) (1999-02-25) (Track 01).bin, CRC: cff147a7
-- Half-Life - Day One (USA) (1999-02-25) (Track 02).bin, CRC: 58f04a30
-- Half-Life - Day One (USA) (1999-02-25) (Track 03).bin, CRC: 01e53193
-- Half-Life - Day One (USA) (1999-02-25) (Track 04).bin, CRC: c1af6111
-- Half-Life - Day One (USA) (1999-02-25) (Track 05).bin, CRC: 99be5693
-- Half-Life - Day One (USA) (1999-02-25) (Track 06).bin, CRC: deaca5e7
-- Half-Life - Day One (USA) (1999-02-25) (Track 07).bin, CRC: 8d6163cd
-- Half-Life - Day One (USA) (1999-02-25) (Track 08).bin, CRC: 78e61b3f
-- Half-Life - Day One (USA) (1999-02-25) (Track 09).bin, CRC: 11871c2b
-- Half-Life - Day One (USA) (1999-02-25) (Track 10).bin, CRC: a9fa9118
-- Half-Life - Day One (USA) (1999-02-25) (Track 11).bin, CRC: 308f4473
-</details>
-
+### Half-Life - Day One (USA) (1999-02-25) (Track 11).bin, CRC: 308f4473
 ### Half-Life - Opposing Force (Canada)
 <details>
 <summary>ROMs</summary>
@@ -3241,7 +3225,6 @@
 ### Heavy Metal - F.A.K.K. 2 (Thailand).bin, CRC: fb8fcef7
 ### Hebrew Adventures of Kef Li (Israel).bin, CRC: 9fdcea4b
 ### Heimdall & Curse of Enchantia (Scandinavia).bin, CRC: 389397f4
-### Heliotrope - Sore wa Shi ni Itaru Kami no Ai (Japan) (Taikenban).bin, CRC: f5d4ff4c
 ### Hell Strike (Japan).bin, CRC: ce958dc2
 ### Helldorado (Poland).iso, CRC: 9f12ac1c
 ### HellForces (Czech).iso, CRC: 913262e2
