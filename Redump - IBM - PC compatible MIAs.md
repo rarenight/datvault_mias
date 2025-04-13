@@ -1,5 +1,5 @@
 # Redump - IBM - PC compatible MIAs
-## Games: 3230, ROMs: 7178, as of 2025-04-12
+## Games: 3227, ROMs: 7175, as of 2025-04-13
 
 ### %% - Fuuin no Otome (Japan) (Track 10).bin, CRC: 4481aa75
 ### Alley 19 Bowling (Europe) (Track 5).bin, CRC: dc835204
@@ -733,7 +733,6 @@
 ### Beyond Honor (Hungary).bin, CRC: c624b1f3
 ### Biblia Tysiaclecia - Pismo Swiete Starego i Nowego Testamentu (Poland).bin, CRC: d3e61581
 ### Big Red Racing (Japan) (En,Ja,Fr,De,Es,It).bin, CRC: ed861e77
-### Big Scale Racing (Germany).bin, CRC: 9d585c37
 ### Bilgisayar Bulmacalari Eslestirme (Turkey).bin, CRC: f25902cb
 ### Biohazard 2 (Japan) (Disc 1) (Leon-hen) (v1.04).bin, CRC: c5c8470d
 ### Biohazard 2 (Japan) (Disc 2) (Claire-hen) (v1.04).bin, CRC: c66b4732
@@ -6157,7 +6156,6 @@
 - Rally Championships (Netherlands) (En,Fr,De,Es,It,Nl,Pt,Pl) (Rerelease) (Track 10).bin, CRC: d246aece
 </details>
 
-### Rally Trophy - Volvo Cars Special Edition (UK).bin, CRC: d26741dd
 ### Raman of Tenali (India).bin, CRC: e4a85482
 ### Raptor - Call of the Shadows (USA) (Rerelease) (2000-09-13).bin, CRC: 5ad1bb77
 ### Rashid Games (Asia).bin, CRC: e9497751
@@ -6746,7 +6744,6 @@
 ### SATS Test & Learn Science Key Stage 2 (UK) (Disc 2).bin, CRC: b87b36b6
 ### Savage 2 - A Tortured Soul (Europe).bin, CRC: 9e7efc4c
 ### Sayma (Turkey).bin, CRC: 32f8753e
-### SCAR - Squadra Corse Alfa Romeo (Poland).bin, CRC: 6f05e52c
 ### Schach & Matt (Germany).bin, CRC: 5cf6d60e
 ### Schach & Matt 2 (Germany).bin, CRC: dcfde3bf
 ### Schizm - Mysterious Journey (Netherlands) (Disc 1).bin, CRC: 589bd8cc
