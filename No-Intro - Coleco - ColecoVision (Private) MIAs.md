@@ -1,4 +1,4 @@
 # No-Intro - Coleco - ColecoVision (Private) MIAs
-## Games: 1, ROMs: 1, as of 2025-04-13
+## Games: 1, ROMs: 1, as of 2025-04-14
 
 ### CVDRUM (World) (Aftermarket) (Unl).col, CRC: 46254775
