@@ -1,5 +1,5 @@
 # Redump - IBM - PC compatible MIAs
-## Games: 3283, ROMs: 7399, as of 2025-04-14
+## Games: 3279, ROMs: 7395, as of 2025-04-15
 
 ### %% - Fuuin no Otome (Japan) (Track 10).bin, CRC: 4481aa75
 ### Alley 19 Bowling (Europe) (Track 5).bin, CRC: dc835204
@@ -1319,7 +1319,6 @@
 ### Computer Bild Spiele CD-ROM zur Ausgabe 4-2003 (Germany) (Track 20).bin, CRC: b06e130a
 ### Computer Gia Olous January 1998 (Greece).bin, CRC: dfef6f07
 ### Concerto Gate (Taiwan).bin, CRC: 77166e98
-### Conejo Lector Kinder, El - Saltando en la ciudad de los globos! (Argentina).bin, CRC: c4ec5a42
 ### Conflict - FreeSpace - The Great War (France) (Disc 1).bin, CRC: 8d3b52a9
 ### Conflict - FreeSpace - The Great War (France) (Disc 2).bin, CRC: 94c9dd0a
 ### Conflict Zone (China).bin, CRC: 8f78d179
@@ -7536,8 +7535,6 @@
 ### SimPark (Europe).bin, CRC: 700ff318
 ### SimPeople - Pets & Gardening! (Data Set) (Japan) (Disc 1).bin, CRC: 32a64801
 ### Simpsons, The - Hit & Run (Korea) (Disc 1).bin, CRC: 482565c8
-### Sims 2, Los - Abren Negocios (Disco de Expansion) (Argentina) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Cs,Hu).bin, CRC: 83ac702d
-### Sims 2, Los - Bon Voyage (Disco de Expansion) (Argentina) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,Cs,Hu).iso, CRC: 8d99e0cf
 ### Sims 2, The (Hungary) (En,Cs,Hu).iso, CRC: 4b1e3f45
 ### Sims 2, The - Apartment Life (Expansion Pack) (Germany) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,Cs,Hu).iso, CRC: 56f8291a
 ### Sims 2, The - Bon Voyage (Expansion Pack) (Germany) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,Cs,Hu).iso, CRC: ad4f0273
@@ -7555,7 +7552,6 @@
 ### Sims, The (Korea) (En,Ko).bin, CRC: 46e979d1
 ### Sims, The - Livin' It Up (Expansion Pack) (Germany) (En,Fr,De,Es,It,Nl,Sv).bin, CRC: 3ef66178
 ### Sims, The - On Holiday (Expansion Pack) (Germany) (En,Fr,De,Es,It,Nl,Sv).bin, CRC: 8e62e794
-### SimStad (Sweden).bin, CRC: 44d9c059
 ### Simulation Pro Yakyuu '99 (Japan)
 <details>
 <summary>ROMs</summary>
