@@ -1,5 +1,5 @@
 # No-Intro - Benesse - Pocket Challenge W MIAs
-## Games: 3, ROMs: 3, as of 2025-04-15
+## Games: 3, ROMs: 3, as of 2025-04-16
 
 ### Shinkenzemi 'Chuugaku Kouza' - Chuu 1 Eigo (Japan) (5BB113NC).pcw, CRC: 1a3716ec
 ### Shinkenzemi 'Chuugaku Kouza' - Chuugaku Chiri (Japan) (6BD410) (Alt 2).pcw, CRC: f8bb9d68

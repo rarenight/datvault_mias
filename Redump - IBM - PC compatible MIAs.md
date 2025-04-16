@@ -1,5 +1,5 @@
 # Redump - IBM - PC compatible MIAs
-## Games: 3279, ROMs: 7395, as of 2025-04-15
+## Games: 3261, ROMs: 7377, as of 2025-04-16
 
 ### %% - Fuuin no Otome (Japan) (Track 10).bin, CRC: 4481aa75
 ### Alley 19 Bowling (Europe) (Track 5).bin, CRC: dc835204
@@ -669,8 +669,6 @@
 ### Battlefield 2 (UK) (En,Ja,Fr,De,Es,It,Nl,Sv,Zh,Ko,Pl,Th) (Rerelease).iso, CRC: 4a3be43a
 ### Battlefield 2 - Special Forces (Japan) (En,Ja,Fr,De,Es,It,Nl,Sv,Zh,Ko,Pl,Th) (Disc 1).bin, CRC: 9380b173
 ### Battlefield 2 - Special Forces (Japan) (En,Ja,Fr,De,Es,It,Nl,Sv,Zh,Ko,Pl,Th) (Disc 2).bin, CRC: b563ef1e
-### Battlefield 3 (Poland) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Cs) (Disc 1).iso, CRC: 1979cf3c
-### Battlefield 3 (Poland) (En,Ja,Fr,De,Es,It,Zh,Ko,Pl,Cs) (Disc 2).iso, CRC: 33015da8
 ### Battlehawks 1942 (Europe).bin, CRC: 74edb7f7
 ### Battleship (Japan) (Second Player CD).bin, CRC: 33d2d939
 ### Battlezone (France)
@@ -906,8 +904,6 @@
 ### Call of Duty (Japan) (Disc 1) (Rerelease).bin, CRC: 27297d83
 ### Call of Duty (Japan) (Disc 2) (Rerelease).bin, CRC: cc312f16
 ### Call of Duty (Taiwan) (Demo).bin, CRC: 589a93e6
-### Call of Duty - Modern Warfare 2 (Poland) (Disc 1).iso, CRC: 1c6b19a4
-### Call of Duty - Modern Warfare 2 (Poland) (Disc 2).iso, CRC: 8a91d21e
 ### Call of Duty - United Offensive (France) (Disc 1).bin, CRC: aea50fae
 ### Call of Duty - World at War (France).iso, CRC: 095c3fad
 ### Call of Duty 2 (France)
@@ -1105,7 +1101,6 @@
 
 ### Che Guevara (Lithuania).bin, CRC: 704c16d0
 ### Che Guevara (Poland).bin, CRC: 24b69644
-### Chefren's Pyramid (Sweden) (En,Fr,De,Sv,No,Da) (v2.0).bin, CRC: 6c6c12e5
 ### Chess Housers (Germany).bin, CRC: b92cbdad
 ### Chessmaster 10eme Edition (France) (Disc 1).bin, CRC: eeec2b56
 ### Chessmaster 10eme Edition (France) (Disc 2).bin, CRC: e94b1d89
@@ -1681,7 +1676,6 @@
 ### Dawn Patrol (Germany).bin, CRC: 6fa97d1e
 ### Day of Defeat - Source (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru,Th).iso, CRC: 24df9473
 ### Dead Island (Japan).iso, CRC: bef62332
-### Dead Island (Poland) (En,Fr,De,Es,It,Pl,Cs).iso, CRC: 784ddb5e
 ### Dead Rising 2 (Japan).iso, CRC: e32581f7
 ### Dead Space (Europe) (En,Pl,Ru,Cs,Hu) (Alt).iso, CRC: a30ce5d2
 ### Dead Space (Germany) (Rerelease).iso, CRC: 9681c312
@@ -1997,7 +1991,6 @@
 - Driver (Israel) (Track 10).bin, CRC: 5fa5c58d
 </details>
 
-### Driver - San Francisco (Poland) (En,Pl).iso, CRC: ef2dd6c3
 ### Droga do Indii (Poland) (Disc 1).bin, CRC: 4a3060d4
 ### Droga do Indii (Poland) (Disc 2).bin, CRC: b55b1513
 ### DropTeam (Europe).bin, CRC: a4efb5e6
@@ -2163,7 +2156,6 @@
 ### Elder Scrolls III, The - Tribunal (France).bin, CRC: ca6bea9c
 ### Elder Scrolls IV, The - Knights of the Nine (USA) (Alt).bin, CRC: 99d3f231
 ### Elder Scrolls IV, The - Oblivion (Germany) (Covermount).iso, CRC: b2683914
-### Elder Scrolls V, The - Skyrim - Premium Edition Content (Europe) (PS3 Game Bundle).iso, CRC: cbca9ada
 ### Electric Jigsaw & ABC's Coloring Book (Scandinavia).bin, CRC: 28c664b6
 ### Electro Body (Poland) (Collector's Edition)
 <details>
@@ -2512,12 +2504,6 @@
 ### FIFA 11 (Europe) (En,Pl,Ru,Cs,Hu).iso, CRC: 11e1abdb
 ### FIFA 2000 (Greece).bin, CRC: 95c86152
 ### FIFA 2001 (Europe) (En,De,Es,Nl,Pt,Sv) (Rerelease).bin, CRC: 8aa443ce
-### FIFA 21 (Poland) (Disc 1).iso, CRC: 40b7628b
-### FIFA 21 (Poland) (Disc 2).iso, CRC: 397aaac2
-### FIFA 21 (Poland) (Disc 3).iso, CRC: 1d753d26
-### FIFA 21 (Poland) (Disc 4).iso, CRC: 1aa48f7d
-### FIFA 21 (Poland) (Disc 5).iso, CRC: 01e19b5d
-### FIFA 21 (Poland) (Disc 6).iso, CRC: 45212a99
 ### FIFA 97 (Spain) (En,Fr,De,Es,It,Sv)
 <details>
 <summary>ROMs</summary>
@@ -6103,7 +6089,6 @@
 </details>
 
 ### Puchikko Mairo-do (Japan).bin, CRC: f01bfc85
-### Pussel & klurigheter (Sweden) (Sv,No).bin, CRC: 2e449485
 ### Puzzle Bobble 2 (Japan)
 <details>
 <summary>ROMs</summary>
@@ -6829,7 +6814,6 @@
 - Saint Eyes (Japan) (Track 23).bin, CRC: 79c316ec
 </details>
 
-### Saints Row - The Third (Poland) (En,Ja,Fr,De,Es,It,Nl,Ko,Pl,Ru,Cs).iso, CRC: c203cc5d
 ### Saints Row 2 (Taiwan) (En,Zh).iso, CRC: 4ad07e7b
 ### Salad Days - Shin Seitouha Ren'ai Typing (Japan).bin, CRC: 43d7dbfd
 ### Salaryman Kintarou (Japan).bin, CRC: 2f241b75
@@ -9316,8 +9300,6 @@
 ### Wings of Prey (Japan) (En,Ja,Fr,De,It,Pl,Cs).iso, CRC: 36ef65e7
 ### Wings! Remastered Edition (Europe) (En,Fr,De,Es,It,Ru).iso, CRC: f2f4ea2b
 ### Wisecrackers! The Interactive Trivia Jewish Game - Bar-Bat Mitzvah Edition (USA).bin, CRC: b8a2697e
-### Witcher 2, The - Assassins of Kings - Enhanced Edition (Poland) (En,Fr,De,Pl,Ru) (Disc 1).iso, CRC: 7e63b168
-### Witcher 2, The - Assassins of Kings - Enhanced Edition (Poland) (En,Fr,De,Pl,Ru) (Disc 2).iso, CRC: b812066d
 ### Wizard's Harmony 2 (Japan)
 <details>
 <summary>ROMs</summary>

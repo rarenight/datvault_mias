@@ -1,5 +1,5 @@
 # Redump - DVD-Video MIAs
-## Games: 188, ROMs: 188, as of 2025-04-15
+## Games: 187, ROMs: 187, as of 2025-04-16
 
 ### 2002 Autumn Tokyo Game Show (Taiwan).iso, CRC: 92c99685
 ### 3-nen B-gumi Kinpachi Sensei - Densetsu no Kyoudan ni Tate! Promotion Video-2 (Japan).iso, CRC: d346598e
@@ -64,7 +64,6 @@
 ### Katamari Damacy + Netchuu! Pro Yakyuu 2004 + Kaena (Japan).iso, CRC: 98b6b4bf
 ### Kikou Heidan J-Phoenix PF Lips Shoutai Dai-3-wa - Chuu Suru Yousai! (Japan).iso, CRC: adf2624f
 ### Kouchuu Ouja Mushi King - Greatest Champion e no Michi 2 (Japan).iso, CRC: 859229e4
-### Lara Croft Tomb Raider - Legend (USA) (First Look).iso, CRC: 6606ec56
 ### Last Bounty Hunter, The (Europe).iso, CRC: 18507f9f
 ### Legend of Game Music - Premium Box - Expert Eizou Disc (Japan) (Special Bonus DVD).iso, CRC: 9ef37dd1
 ### Level-5 Premium Himitsu Disc - Ano Uwasa no Title no Himitsu Eizou ga Kokoni (Japan).iso, CRC: d25d739b
