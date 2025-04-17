@@ -1,5 +1,5 @@
 # No-Intro - IBM - PC and Compatibles (Digital) (Ci-en) MIAs
-## Games: 2, ROMs: 14, as of 2025-04-16
+## Games: 2, ROMs: 14, as of 2025-04-17
 
 ### 1175 - Iris to Makutsu no Labyrinth (World) (Ja) (2023-04-20) (Windows)
 <details>
