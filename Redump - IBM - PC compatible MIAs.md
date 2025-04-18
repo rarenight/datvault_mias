@@ -1,5 +1,5 @@
 # Redump - IBM - PC compatible MIAs
-## Games: 3261, ROMs: 7377, as of 2025-04-17
+## Games: 3263, ROMs: 7379, as of 2025-04-18
 
 ### %% - Fuuin no Otome (Japan) (Track 10).bin, CRC: 4481aa75
 ### Alley 19 Bowling (Europe) (Track 5).bin, CRC: dc835204
@@ -1716,6 +1716,8 @@
 ### Descent 3 (China) (Disc 1).bin, CRC: dd6c33a9
 ### Descent 3 (China) (Disc 2).bin, CRC: 60256ad0
 ### Descent 3 (Japan) (Disc 1) (OEM) (1999-10-19).bin, CRC: f564742e
+### Descent 3 (USA) (Disc 1) (Linux).bin, CRC: 5a1e1212
+### Descent 3 (USA) (Disc 2) (Linux).bin, CRC: 398556e7
 ### Descent II - Destination Quartzon (Japan)
 <details>
 <summary>ROMs</summary>
