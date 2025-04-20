@@ -1,5 +1,5 @@
 # Redump - Apple - Macintosh MIAs
-## Games: 169, ROMs: 200, as of 2025-04-19
+## Games: 179, ROMs: 210, as of 2025-04-20
 
 ### 3-D Ultra Pinball (Japan).bin, CRC: 610eb45d
 ### 3DO Content Library, The (USA) (Disc 88) (Music & Sound Effects).bin, CRC: c157b11b
@@ -61,6 +61,8 @@
 ### CD-ROM MacLife No. 41 (Japan).bin, CRC: 063dcf88
 ### CD-ROM MacLife No. 46 (Japan).bin, CRC: d9e13503
 ### CD-ROM MacLife No. 6 (Japan) (Track 2).bin, CRC: ad813c0f
+### Corpse Killer (Japan).bin, CRC: 877758ee
+### Corpse Killer (USA).bin, CRC: f657f2af
 ### Crescent Satsujin Jiken - Hyena no Jijou (Japan).bin, CRC: 5bf3e292
 ### Crescent Satsujin Jiken - Tozasareta Nikki (Japan).bin, CRC: c96364d9
 ### Critical Path (Japan).bin, CRC: 54d24f02
@@ -115,6 +117,8 @@
 ### Harry Potter und der Stein der Weisen (Germany).bin, CRC: 592649b2
 ### Harry Potter und die Kammer des Schreckens (Germany).bin, CRC: e31cd04f
 ### Hell - A Cyberpunk Thriller (Japan).bin, CRC: ff96379c
+### Janou Touryuumon (Japan).bin, CRC: 3a8d1d29
+### Journeyman Project, The (Japan) (v1.2J).bin, CRC: 20c6fe74
 ### Kana - Imouto (Japan).bin, CRC: 00df668a
 ### Klik & Play (France).bin, CRC: a7f8c388
 ### Leisure Suit Larry 6 - Shape Up or Slip Out! (USA).bin, CRC: d98b96e1
@@ -148,6 +152,8 @@
 ### MacUser - MacBin 18 (Japan).bin, CRC: 13903296
 ### Mad Dog McCree (USA).bin, CRC: 70252738
 ### Maniac Mansion - Day of the Tentacle (France).bin, CRC: b784da91
+### Masters of Media - The Making of Sakura Taisen (Japan).bin, CRC: e00b692d
+### Medicom Vol. 1 (Japan).bin, CRC: dde483c6
 ### Myst (Japan).bin, CRC: 2b2a6951
 ### Myst (Japan) (Kinen Kakaku-ban).bin, CRC: d161800b
 ### Myst - Masterpiece Edition (Germany) (Rerelease).bin, CRC: ef1b07c8
@@ -172,6 +178,7 @@
 ### Phantasmagoria (Europe) (Disc 5).bin, CRC: 30698a53
 ### Phantasmagoria (Europe) (Disc 6).bin, CRC: 2a7f210b
 ### Phantasmagoria (Europe) (Disc 7).bin, CRC: 2ff01f09
+### Pinna - Desktop Life (Japan).bin, CRC: 5115ad18
 ### Princess Maker 2 (Japan) (Rerelease).bin, CRC: 3802b610
 ### Prisoner of Ice (France) (En,Fr,De,Nl,Sv) (Covermount).bin, CRC: e7a6b097
 ### Puyo Puyo Tsuu (Japan).bin, CRC: 3782d4ec
@@ -195,11 +202,14 @@
 ### Quake III - Arena (Europe).bin, CRC: 70459c63
 ### Quantum Gate I - Akumu no Joshou (Japan).bin, CRC: c784c5ab
 ### Safecracker (USA, Canada) (Rerelease).bin, CRC: 7b1383c0
+### SimCity Enhanced CD-ROM (Japan).bin, CRC: 1f13028c
 ### Sims 2, The (USA) (En,Ja,Fr,De,It).iso, CRC: 9864370c
 ### Sims 2, The - Bon Voyage (Expansion Pack) (USA).iso, CRC: a45610d1
 ### Sims 2, The - Open For Business (Expansion Pack) (USA).iso, CRC: 4941e2f0
+### SimTown (Japan) (Rev 1).bin, CRC: 6c9c286a
 ### SimTown - The Town You Build Yourself! (Japan).bin, CRC: bcde4183
 ### Sinkha (USA).bin, CRC: 5b347810
+### Star Trek - 25th Anniversary Enhanced CD-ROM (Japan).bin, CRC: 87ada810
 ### Star Wars - Rebel Assault (Europe).bin, CRC: 87398f45
 ### Star Wars - X-Wing - Collector's CD-ROM (Japan).bin, CRC: 4930c854
 ### Terry Pratchett's Discworld (UK).bin, CRC: 9ee34d30

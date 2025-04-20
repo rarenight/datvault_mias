@@ -1,5 +1,5 @@
 # Redump - Sony - PlayStation 4 MIAs
-## Games: 307, ROMs: 307, as of 2025-04-19
+## Games: 306, ROMs: 306, as of 2025-04-20
 
 ### 2Dark (Japan).iso, CRC: 51bd991f
 ### 8-Bit Adventure Anthology - Volume 1 (USA).iso, CRC: 1598191a
@@ -38,7 +38,6 @@
 ### Borderlands - Double Deluxe Collection (Japan).iso, CRC: 85410e97
 ### Bunny Must Die! Chelsea and the 7 Devils. (Europe).iso, CRC: d2da6681
 ### Call of Duty - Infinite Warfare (Europe) (Es,It).iso, CRC: cc989a5d
-### Call of Duty - WWII (Japan).iso, CRC: f78b535c
 ### Chicken Police - Paint It Red! (USA) (En,Ja,Fr,De,Es,Zh,Ru,Hu).iso, CRC: 2321f268
 ### Chou Jijigen Game Neptune Re;Birth 1 Plus (Japan).iso, CRC: 837c1a3e
 ### Conception Plus - Ore no Kodomo o Undekure! (Japan).iso, CRC: 84f199b6
