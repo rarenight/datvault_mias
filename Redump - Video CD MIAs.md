@@ -1,5 +1,5 @@
 # Redump - Video CD MIAs
-## Games: 19, ROMs: 77, as of 2025-04-20
+## Games: 17, ROMs: 63, as of 2025-04-21
 
 ### Apocalypse Now (Germany) (Disc 1)
 <details>
@@ -127,32 +127,6 @@
 - Style Game Magazine - October 1999 - Weiss kreuz (Taiwan) (Track 4).bin, CRC: 7166a28e
 - Style Game Magazine - October 1999 - Weiss kreuz (Taiwan) (Track 5).bin, CRC: e9f522a8
 - Style Game Magazine - October 1999 - Weiss kreuz (Taiwan) (Track 6).bin, CRC: f37c3f9b
-</details>
-
-### Super Gamer No. 10 (Taiwan)
-<details>
-<summary>ROMs</summary>
-
-- Super Gamer No. 10 (Taiwan) (Track 1).bin, CRC: 7f9f077f
-- Super Gamer No. 10 (Taiwan) (Track 2).bin, CRC: 89ab4a14
-- Super Gamer No. 10 (Taiwan) (Track 3).bin, CRC: 9d7df206
-- Super Gamer No. 10 (Taiwan) (Track 4).bin, CRC: e8ad0562
-- Super Gamer No. 10 (Taiwan) (Track 5).bin, CRC: 7719cd43
-- Super Gamer No. 10 (Taiwan) (Track 6).bin, CRC: 190d60d8
-- Super Gamer No. 10 (Taiwan) (Track 7).bin, CRC: 83b215bc
-- Super Gamer No. 10 (Taiwan) (Track 8).bin, CRC: 875bc9dc
-</details>
-
-### Super Gamer No. 5 (Taiwan)
-<details>
-<summary>ROMs</summary>
-
-- Super Gamer No. 5 (Taiwan) (Track 1).bin, CRC: 724ddf04
-- Super Gamer No. 5 (Taiwan) (Track 2).bin, CRC: 869ff55d
-- Super Gamer No. 5 (Taiwan) (Track 3).bin, CRC: d09b99df
-- Super Gamer No. 5 (Taiwan) (Track 4).bin, CRC: 1270589f
-- Super Gamer No. 5 (Taiwan) (Track 5).bin, CRC: 24134d10
-- Super Gamer No. 5 (Taiwan) (Track 6).bin, CRC: f7e8dafc
 </details>
 
 ### Tokyo Game Show - Ceon 1998 (Asia)

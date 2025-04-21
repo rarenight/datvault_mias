@@ -1,5 +1,5 @@
 # Redump - Audio CD MIAs
-## Games: 144, ROMs: 1787, as of 2025-04-20
+## Games: 150, ROMs: 1855, as of 2025-04-21
 
 ### Age of Empires III (Poland) (Plyta audio z muzyka z gry) (PC Game Bundle)
 <details>
@@ -195,6 +195,16 @@
 </details>
 
 ### Chocobo no Fushigi na Dungeon - Original Soundtrack (Japan) (Disc 2) (Special Pack CD) (SSCX 10014) (Track 2).bin, CRC: b7c42356
+### Conroy Bumpus - Live From Bumpusville (USA) (PC Game Bundle)
+<details>
+<summary>ROMs</summary>
+
+- Conroy Bumpus - Live From Bumpusville (USA) (PC Game Bundle) (Track 1).bin, CRC: 6a94bc5e
+- Conroy Bumpus - Live From Bumpusville (USA) (PC Game Bundle) (Track 2).bin, CRC: 5b30776f
+- Conroy Bumpus - Live From Bumpusville (USA) (PC Game Bundle) (Track 3).bin, CRC: 38aaf12a
+- Conroy Bumpus - Live From Bumpusville (USA) (PC Game Bundle) (Track 4).bin, CRC: 8f29252a
+</details>
+
 ### Cotton - Original Soundtrack (Japan) (Disc 3) (Track 48).bin, CRC: 08bb35a4
 ### Dark Souls III - Original Soundtrack (Japan)
 <details>
@@ -252,6 +262,7 @@
 
 ### Double Dragon - Sound Collection Vol. 1 (Japan) (Disc 1) (Track 51).bin, CRC: 2f919305
 ### Double Dragon - Sound Collection Vol. 1 (Japan) (Disc 2) (Track 33).bin, CRC: 97abc4b7
+### Drama CD - Boku to Kimi no, Chotto Saki no Hanashi (Japan) (NSW Game Bundle).bin, CRC: 0515d2bf
 ### Einhaender - Original Soundtrack (Japan) (Track 29).bin, CRC: 0fe74650
 ### Eiyuu Senki - The World Conquest - Original Sound Track (Japan) (Disc 1) (Track 18).bin, CRC: cb3451d3
 ### Final Fight - Original Sound Collection (Japan) (Disc 1) (Track 67).bin, CRC: fb49bec6
@@ -583,6 +594,49 @@
 - Heavy Metal Raiden - International CD (Japan) (Disc 2) (Track 09).bin, CRC: c88e02cc
 - Heavy Metal Raiden - International CD (Japan) (Disc 2) (Track 10).bin, CRC: 02f50a97
 - Heavy Metal Raiden - International CD (Japan) (Disc 2) (Track 11).bin, CRC: 28dd9f99
+</details>
+
+### Hoshi no Oujo 3 - Ten Chi Jin no Souseiki - Original Soundtrack (Japan) (PC Game Bundle)
+<details>
+<summary>ROMs</summary>
+
+- Hoshi no Oujo 3 - Ten Chi Jin no Souseiki - Original Soundtrack (Japan) (PC Game Bundle) (Track 01).bin, CRC: 90cb23d8
+- Hoshi no Oujo 3 - Ten Chi Jin no Souseiki - Original Soundtrack (Japan) (PC Game Bundle) (Track 02).bin, CRC: 4ee8cd0a
+- Hoshi no Oujo 3 - Ten Chi Jin no Souseiki - Original Soundtrack (Japan) (PC Game Bundle) (Track 03).bin, CRC: a4f45b00
+- Hoshi no Oujo 3 - Ten Chi Jin no Souseiki - Original Soundtrack (Japan) (PC Game Bundle) (Track 04).bin, CRC: 494b5366
+- Hoshi no Oujo 3 - Ten Chi Jin no Souseiki - Original Soundtrack (Japan) (PC Game Bundle) (Track 05).bin, CRC: af3bd303
+- Hoshi no Oujo 3 - Ten Chi Jin no Souseiki - Original Soundtrack (Japan) (PC Game Bundle) (Track 06).bin, CRC: 49583341
+- Hoshi no Oujo 3 - Ten Chi Jin no Souseiki - Original Soundtrack (Japan) (PC Game Bundle) (Track 07).bin, CRC: e0d590bd
+- Hoshi no Oujo 3 - Ten Chi Jin no Souseiki - Original Soundtrack (Japan) (PC Game Bundle) (Track 08).bin, CRC: d8c548e1
+- Hoshi no Oujo 3 - Ten Chi Jin no Souseiki - Original Soundtrack (Japan) (PC Game Bundle) (Track 09).bin, CRC: 91166af3
+- Hoshi no Oujo 3 - Ten Chi Jin no Souseiki - Original Soundtrack (Japan) (PC Game Bundle) (Track 10).bin, CRC: 0bcb6ee8
+- Hoshi no Oujo 3 - Ten Chi Jin no Souseiki - Original Soundtrack (Japan) (PC Game Bundle) (Track 11).bin, CRC: 4c068662
+- Hoshi no Oujo 3 - Ten Chi Jin no Souseiki - Original Soundtrack (Japan) (PC Game Bundle) (Track 12).bin, CRC: fcb7e91a
+- Hoshi no Oujo 3 - Ten Chi Jin no Souseiki - Original Soundtrack (Japan) (PC Game Bundle) (Track 13).bin, CRC: 8e8debb4
+- Hoshi no Oujo 3 - Ten Chi Jin no Souseiki - Original Soundtrack (Japan) (PC Game Bundle) (Track 14).bin, CRC: 670f0179
+- Hoshi no Oujo 3 - Ten Chi Jin no Souseiki - Original Soundtrack (Japan) (PC Game Bundle) (Track 15).bin, CRC: fb365c09
+- Hoshi no Oujo 3 - Ten Chi Jin no Souseiki - Original Soundtrack (Japan) (PC Game Bundle) (Track 16).bin, CRC: d6105c56
+- Hoshi no Oujo 3 - Ten Chi Jin no Souseiki - Original Soundtrack (Japan) (PC Game Bundle) (Track 17).bin, CRC: 8905bb40
+- Hoshi no Oujo 3 - Ten Chi Jin no Souseiki - Original Soundtrack (Japan) (PC Game Bundle) (Track 18).bin, CRC: bb2890e8
+- Hoshi no Oujo 3 - Ten Chi Jin no Souseiki - Original Soundtrack (Japan) (PC Game Bundle) (Track 19).bin, CRC: 71cc263f
+- Hoshi no Oujo 3 - Ten Chi Jin no Souseiki - Original Soundtrack (Japan) (PC Game Bundle) (Track 20).bin, CRC: 245db22f
+- Hoshi no Oujo 3 - Ten Chi Jin no Souseiki - Original Soundtrack (Japan) (PC Game Bundle) (Track 21).bin, CRC: 2b3e5374
+- Hoshi no Oujo 3 - Ten Chi Jin no Souseiki - Original Soundtrack (Japan) (PC Game Bundle) (Track 22).bin, CRC: 88c6e1b8
+- Hoshi no Oujo 3 - Ten Chi Jin no Souseiki - Original Soundtrack (Japan) (PC Game Bundle) (Track 23).bin, CRC: c56f04ad
+- Hoshi no Oujo 3 - Ten Chi Jin no Souseiki - Original Soundtrack (Japan) (PC Game Bundle) (Track 24).bin, CRC: f7fad2a1
+- Hoshi no Oujo 3 - Ten Chi Jin no Souseiki - Original Soundtrack (Japan) (PC Game Bundle) (Track 25).bin, CRC: e337affb
+- Hoshi no Oujo 3 - Ten Chi Jin no Souseiki - Original Soundtrack (Japan) (PC Game Bundle) (Track 26).bin, CRC: a5a08b05
+- Hoshi no Oujo 3 - Ten Chi Jin no Souseiki - Original Soundtrack (Japan) (PC Game Bundle) (Track 27).bin, CRC: 1e1d365c
+- Hoshi no Oujo 3 - Ten Chi Jin no Souseiki - Original Soundtrack (Japan) (PC Game Bundle) (Track 28).bin, CRC: eb13600e
+- Hoshi no Oujo 3 - Ten Chi Jin no Souseiki - Original Soundtrack (Japan) (PC Game Bundle) (Track 29).bin, CRC: 377c1bb5
+- Hoshi no Oujo 3 - Ten Chi Jin no Souseiki - Original Soundtrack (Japan) (PC Game Bundle) (Track 30).bin, CRC: bffc50f3
+- Hoshi no Oujo 3 - Ten Chi Jin no Souseiki - Original Soundtrack (Japan) (PC Game Bundle) (Track 31).bin, CRC: 40ea407c
+- Hoshi no Oujo 3 - Ten Chi Jin no Souseiki - Original Soundtrack (Japan) (PC Game Bundle) (Track 32).bin, CRC: ac5a8bfc
+- Hoshi no Oujo 3 - Ten Chi Jin no Souseiki - Original Soundtrack (Japan) (PC Game Bundle) (Track 33).bin, CRC: 7ce221ca
+- Hoshi no Oujo 3 - Ten Chi Jin no Souseiki - Original Soundtrack (Japan) (PC Game Bundle) (Track 34).bin, CRC: 739eee8a
+- Hoshi no Oujo 3 - Ten Chi Jin no Souseiki - Original Soundtrack (Japan) (PC Game Bundle) (Track 35).bin, CRC: 59d48712
+- Hoshi no Oujo 3 - Ten Chi Jin no Souseiki - Original Soundtrack (Japan) (PC Game Bundle) (Track 36).bin, CRC: 2323cf31
+- Hoshi no Oujo 3 - Ten Chi Jin no Souseiki - Original Soundtrack (Japan) (PC Game Bundle) (Track 37).bin, CRC: 1db95ae0
 </details>
 
 ### Infinite Stratos 2 - Ignition Hearts - Original Soundtrack (Japan) (PSV Game Bundle) (Track 22).bin, CRC: 7e5288f9
@@ -1025,6 +1079,44 @@
 
 ### Nekketsu Koukou Sound-bu SFC-hen (Japan) (Disc 1) (Track 43).bin, CRC: 4f7280c8
 ### Nekketsu Koukou Sound-bu SFC-hen (Japan) (Disc 2) (Track 51).bin, CRC: 648a6912
+### Nora, Princess, and Crying Cat. 2 - Original Soundtrack (Japan) (Disc 4) (PSV Game Bundle) (Track 23).bin, CRC: c315b9b1
+### Nora, Princess, and Stray Cat. - Soundtrack (Japan) (PSV Game Bundle)
+<details>
+<summary>ROMs</summary>
+
+- Nora, Princess, and Stray Cat. - Soundtrack (Japan) (PSV Game Bundle) (Track 01).bin, CRC: f89146c9
+- Nora, Princess, and Stray Cat. - Soundtrack (Japan) (PSV Game Bundle) (Track 02).bin, CRC: 6f7ab5b3
+- Nora, Princess, and Stray Cat. - Soundtrack (Japan) (PSV Game Bundle) (Track 03).bin, CRC: 4df71b50
+- Nora, Princess, and Stray Cat. - Soundtrack (Japan) (PSV Game Bundle) (Track 04).bin, CRC: 4388fbe0
+- Nora, Princess, and Stray Cat. - Soundtrack (Japan) (PSV Game Bundle) (Track 05).bin, CRC: 20058822
+- Nora, Princess, and Stray Cat. - Soundtrack (Japan) (PSV Game Bundle) (Track 06).bin, CRC: 161c09f0
+- Nora, Princess, and Stray Cat. - Soundtrack (Japan) (PSV Game Bundle) (Track 07).bin, CRC: 86d2d701
+- Nora, Princess, and Stray Cat. - Soundtrack (Japan) (PSV Game Bundle) (Track 08).bin, CRC: 8300e32f
+- Nora, Princess, and Stray Cat. - Soundtrack (Japan) (PSV Game Bundle) (Track 09).bin, CRC: e230a013
+- Nora, Princess, and Stray Cat. - Soundtrack (Japan) (PSV Game Bundle) (Track 10).bin, CRC: 3433414f
+- Nora, Princess, and Stray Cat. - Soundtrack (Japan) (PSV Game Bundle) (Track 11).bin, CRC: 72c9ff2a
+- Nora, Princess, and Stray Cat. - Soundtrack (Japan) (PSV Game Bundle) (Track 12).bin, CRC: 28bd55ed
+- Nora, Princess, and Stray Cat. - Soundtrack (Japan) (PSV Game Bundle) (Track 13).bin, CRC: c0406846
+- Nora, Princess, and Stray Cat. - Soundtrack (Japan) (PSV Game Bundle) (Track 14).bin, CRC: 1f1ba634
+- Nora, Princess, and Stray Cat. - Soundtrack (Japan) (PSV Game Bundle) (Track 15).bin, CRC: 8e58ecd1
+- Nora, Princess, and Stray Cat. - Soundtrack (Japan) (PSV Game Bundle) (Track 16).bin, CRC: 3246eafb
+</details>
+
+### Okayunyumu! Original Soundtrack CD (Japan) (NSW Game Bundle)
+<details>
+<summary>ROMs</summary>
+
+- Okayunyumu! Original Soundtrack CD (Japan) (NSW Game Bundle) (Track 1).bin, CRC: 5d596ef5
+- Okayunyumu! Original Soundtrack CD (Japan) (NSW Game Bundle) (Track 2).bin, CRC: 4a965c7c
+- Okayunyumu! Original Soundtrack CD (Japan) (NSW Game Bundle) (Track 3).bin, CRC: f02aef1d
+- Okayunyumu! Original Soundtrack CD (Japan) (NSW Game Bundle) (Track 4).bin, CRC: c8e6d35a
+- Okayunyumu! Original Soundtrack CD (Japan) (NSW Game Bundle) (Track 5).bin, CRC: c42a556c
+- Okayunyumu! Original Soundtrack CD (Japan) (NSW Game Bundle) (Track 6).bin, CRC: 32050329
+- Okayunyumu! Original Soundtrack CD (Japan) (NSW Game Bundle) (Track 7).bin, CRC: a697beae
+- Okayunyumu! Original Soundtrack CD (Japan) (NSW Game Bundle) (Track 8).bin, CRC: 2d3051d1
+- Okayunyumu! Original Soundtrack CD (Japan) (NSW Game Bundle) (Track 9).bin, CRC: 5b22b33f
+</details>
+
 ### Opening Seigi no Tsubasa Maxi CD (Japan) (PC Game Bundle) (Track 4).bin, CRC: 9f6b5c13
 ### Pachi-Slot Ganbare Goemon 2 - Original Soundtrack (Japan) (Track 45).bin, CRC: 90a0bf97
 ### Pachi-Slot Metal Gear Solid - Snake Eater - Original Soundtrack (Japan) (Disc 1) (Track 18).bin, CRC: e4336915

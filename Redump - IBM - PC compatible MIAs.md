@@ -1,5 +1,5 @@
 # Redump - IBM - PC compatible MIAs
-## Games: 3482, ROMs: 7892, as of 2025-04-20
+## Games: 3478, ROMs: 7888, as of 2025-04-21
 
 ### %% - Fuuin no Otome (Japan) (Track 10).bin, CRC: 4481aa75
 ### Alley 19 Bowling (Europe) (Track 5).bin, CRC: dc835204
@@ -4156,7 +4156,6 @@
 </details>
 
 ### JoJo no Kimyou na Gekida (Japan).bin, CRC: 127f65b8
-### Joystick n. 95 - CD-ROM Collection - Juillet-Aout 98 (Belgium) (Track 2).bin, CRC: 37418530
 ### Ju Shang (Taiwan).bin, CRC: 2321cf6d
 ### Judge August (Japan) (Track 13).bin, CRC: 777e2e78
 ### Jumoku Hime (Japan)
@@ -6746,8 +6745,6 @@
 </details>
 
 ### Raimuiro Jankitan - Meiji Nihon, Otome Sakitsumosu. (Japan) (Disc 1).bin, CRC: f506dd0c
-### Raimuiro Jankitan - Meiji Nihon, Otome Sakitsumosu. (Japan) (Disc 2).bin, CRC: 94e4199f
-### Raimuiro Jankitan - Meiji Nihon, Otome Sakitsumosu. (Japan) (Disc 3).bin, CRC: 3607525c
 ### Rainbow Six 3 - Raven Shield (Germany) (Disc 1).bin, CRC: 51e77714
 ### Rainbow Six 3 - Raven Shield (Germany) (Disc 2).bin, CRC: 661ac2e7
 ### Rakopiska (Bulgaria).bin, CRC: b972df6c
@@ -8876,7 +8873,6 @@
 ### Tennis Critters (Europe).bin, CRC: f6395656
 ### Tenseiha (Japan).bin, CRC: 406179d6
 ### Tenshi no Kakera - The Lost Article of Memory (Japan) (Demo).bin, CRC: 94586ddf
-### Teriru no Christmas Box (Japan).bin, CRC: a5fc0842
 ### Terra Nova - Strike Force Centauri (Netherlands) (Rerelease).bin, CRC: 27b226e5
 ### Terre-tou no Meikyuu (Japan) (Disc 1) (Game Honpen).bin, CRC: 0a39d695
 ### Test Drive 4 (Greece) (Covermount)
