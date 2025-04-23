@@ -1,5 +1,5 @@
 # Redump - IBM - PC compatible MIAs
-## Games: 3462, ROMs: 7871, as of 2025-04-23
+## Games: 3456, ROMs: 7865, as of 2025-04-23
 
 ### %% - Fuuin no Otome (Japan) (Track 10).bin, CRC: 4481aa75
 ### Alley 19 Bowling (Europe) (Track 5).bin, CRC: dc835204
@@ -2719,10 +2719,6 @@
 ### FIFA Football 2003 (Europe) (En,Fr,De,Es,It,Nl,Sv) (Disc 1).bin, CRC: fbc37384
 ### FIFA Football 2005 (Thailand) (Disc 1).bin, CRC: a2ad95dd
 ### FIFA Football 2005 (Thailand) (Disc 2).bin, CRC: 8222f30e
-### FIFA Soccer 06 (USA) (Disc 1).bin, CRC: a1144707
-### FIFA Soccer 06 (USA) (Disc 3).bin, CRC: a1fa1e10
-### FIFA Soccer 06 (USA) (Disc 4).bin, CRC: 8b429444
-### FIFA Soccer 06 (USA) (En,Es) (Disc 2).bin, CRC: 7470fa83
 ### FIFA Soccer 07 (USA).iso, CRC: 85352dee
 ### FIFA World Cup Germany 2006 (USA).iso, CRC: 9491bcbe
 ### Fifth Element, The (Germany) (En,Fr,De,Es,It) (Rerelease).bin, CRC: 15124d62
@@ -3470,7 +3466,6 @@
 ### Harry Potter and the Goblet of Fire (Thailand) (Disc 2).bin, CRC: 3b29b9e4
 ### Harry Potter and the Philosopher's Stone (Czech) (Cestina pro Hru Harry Potter).bin, CRC: e324611c
 ### Harry Potter and the Prisoner of Azkaban (Thailand).bin, CRC: 6a1edc1b
-### Harry Potter i Komnata Tajemnic (Poland).bin, CRC: b5fc3bef
 ### Harry Potter i Ksiaze Polkrwi (Poland).iso, CRC: 0049ab73
 ### Harvest (USA).bin, CRC: fce55934
 ### Hattrick! (Germany) (Rerelease).bin, CRC: e2feec4e
@@ -9944,7 +9939,6 @@
 ### Wizardry 8 (Poland) (Disc 3).bin, CRC: 4201a400
 ### Wizardry 8 (Poland) (En,Pl) (Dysk Dodatkowy).bin, CRC: c81f3e0c
 ### Wizardry Legacy - BCF, CDS & 8 (Japan).iso, CRC: a9152366
-### Wizards Star (Japan).bin, CRC: 388800a4
 ### Wizkid - The Story of Wizball II (Europe) (En,Fr,De) (Hit Squad - Regenerator).bin, CRC: b7de14ea
 ### Wo Bei Shile Mofa - Flash Donghua Moshushi (China).bin, CRC: fa80c646
 ### Wo Bei Shile Mofa - Flash Donghua Moshushi (China) (Zengsongpan).bin, CRC: 7a4018f7
