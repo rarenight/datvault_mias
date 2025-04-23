@@ -1,5 +1,5 @@
 # Redump - Audio CD MIAs
-## Games: 150, ROMs: 1855, as of 2025-04-22
+## Games: 140, ROMs: 1731, as of 2025-04-23
 
 ### Age of Empires III (Poland) (Plyta audio z muzyka z gry) (PC Game Bundle)
 <details>
@@ -262,7 +262,6 @@
 
 ### Double Dragon - Sound Collection Vol. 1 (Japan) (Disc 1) (Track 51).bin, CRC: 2f919305
 ### Double Dragon - Sound Collection Vol. 1 (Japan) (Disc 2) (Track 33).bin, CRC: 97abc4b7
-### Drama CD - Boku to Kimi no, Chotto Saki no Hanashi (Japan) (NSW Game Bundle).bin, CRC: 0515d2bf
 ### Einhaender - Original Soundtrack (Japan) (Track 29).bin, CRC: 0fe74650
 ### Eiyuu Senki - The World Conquest - Original Sound Track (Japan) (Disc 1) (Track 18).bin, CRC: cb3451d3
 ### Final Fight - Original Sound Collection (Japan) (Disc 1) (Track 67).bin, CRC: fb49bec6
@@ -640,72 +639,6 @@
 </details>
 
 ### Infinite Stratos 2 - Ignition Hearts - Original Soundtrack (Japan) (PSV Game Bundle) (Track 22).bin, CRC: 7e5288f9
-### Jet Girls DX Jet Pack - Sound Track (Japan) (Disc 1) (PS4 Game Bundle)
-<details>
-<summary>ROMs</summary>
-
-- Jet Girls DX Jet Pack - Sound Track (Japan) (Disc 1) (PS4 Game Bundle) (Track 01).bin, CRC: d14c04d6
-- Jet Girls DX Jet Pack - Sound Track (Japan) (Disc 1) (PS4 Game Bundle) (Track 02).bin, CRC: 1889b395
-- Jet Girls DX Jet Pack - Sound Track (Japan) (Disc 1) (PS4 Game Bundle) (Track 03).bin, CRC: 53f07f97
-- Jet Girls DX Jet Pack - Sound Track (Japan) (Disc 1) (PS4 Game Bundle) (Track 04).bin, CRC: bdb9d2f2
-- Jet Girls DX Jet Pack - Sound Track (Japan) (Disc 1) (PS4 Game Bundle) (Track 05).bin, CRC: 4ab0ba3d
-- Jet Girls DX Jet Pack - Sound Track (Japan) (Disc 1) (PS4 Game Bundle) (Track 06).bin, CRC: b296e0c0
-- Jet Girls DX Jet Pack - Sound Track (Japan) (Disc 1) (PS4 Game Bundle) (Track 07).bin, CRC: a8fb4303
-- Jet Girls DX Jet Pack - Sound Track (Japan) (Disc 1) (PS4 Game Bundle) (Track 08).bin, CRC: 5f8ee101
-- Jet Girls DX Jet Pack - Sound Track (Japan) (Disc 1) (PS4 Game Bundle) (Track 09).bin, CRC: ef96c656
-- Jet Girls DX Jet Pack - Sound Track (Japan) (Disc 1) (PS4 Game Bundle) (Track 10).bin, CRC: a8026664
-- Jet Girls DX Jet Pack - Sound Track (Japan) (Disc 1) (PS4 Game Bundle) (Track 11).bin, CRC: 661cd261
-- Jet Girls DX Jet Pack - Sound Track (Japan) (Disc 1) (PS4 Game Bundle) (Track 12).bin, CRC: af44dd87
-- Jet Girls DX Jet Pack - Sound Track (Japan) (Disc 1) (PS4 Game Bundle) (Track 13).bin, CRC: 9eff4740
-- Jet Girls DX Jet Pack - Sound Track (Japan) (Disc 1) (PS4 Game Bundle) (Track 14).bin, CRC: bcb67104
-- Jet Girls DX Jet Pack - Sound Track (Japan) (Disc 1) (PS4 Game Bundle) (Track 15).bin, CRC: 407b3234
-- Jet Girls DX Jet Pack - Sound Track (Japan) (Disc 1) (PS4 Game Bundle) (Track 16).bin, CRC: ca9fde43
-- Jet Girls DX Jet Pack - Sound Track (Japan) (Disc 1) (PS4 Game Bundle) (Track 17).bin, CRC: 73ccd086
-- Jet Girls DX Jet Pack - Sound Track (Japan) (Disc 1) (PS4 Game Bundle) (Track 18).bin, CRC: 11be0644
-- Jet Girls DX Jet Pack - Sound Track (Japan) (Disc 1) (PS4 Game Bundle) (Track 19).bin, CRC: 454cf37b
-- Jet Girls DX Jet Pack - Sound Track (Japan) (Disc 1) (PS4 Game Bundle) (Track 20).bin, CRC: e4986644
-</details>
-
-### Jet Girls DX Jet Pack - Sound Track (Japan) (Disc 2) (PS4 Game Bundle)
-<details>
-<summary>ROMs</summary>
-
-- Jet Girls DX Jet Pack - Sound Track (Japan) (Disc 2) (PS4 Game Bundle) (Track 01).bin, CRC: b0e8144b
-- Jet Girls DX Jet Pack - Sound Track (Japan) (Disc 2) (PS4 Game Bundle) (Track 02).bin, CRC: d1978248
-- Jet Girls DX Jet Pack - Sound Track (Japan) (Disc 2) (PS4 Game Bundle) (Track 03).bin, CRC: be2d1535
-- Jet Girls DX Jet Pack - Sound Track (Japan) (Disc 2) (PS4 Game Bundle) (Track 04).bin, CRC: b982cc78
-- Jet Girls DX Jet Pack - Sound Track (Japan) (Disc 2) (PS4 Game Bundle) (Track 05).bin, CRC: f352fe83
-- Jet Girls DX Jet Pack - Sound Track (Japan) (Disc 2) (PS4 Game Bundle) (Track 06).bin, CRC: cca7ce59
-- Jet Girls DX Jet Pack - Sound Track (Japan) (Disc 2) (PS4 Game Bundle) (Track 07).bin, CRC: 32ab04a9
-- Jet Girls DX Jet Pack - Sound Track (Japan) (Disc 2) (PS4 Game Bundle) (Track 08).bin, CRC: c76c5f2a
-- Jet Girls DX Jet Pack - Sound Track (Japan) (Disc 2) (PS4 Game Bundle) (Track 09).bin, CRC: 541f72f7
-- Jet Girls DX Jet Pack - Sound Track (Japan) (Disc 2) (PS4 Game Bundle) (Track 10).bin, CRC: 03285ada
-- Jet Girls DX Jet Pack - Sound Track (Japan) (Disc 2) (PS4 Game Bundle) (Track 11).bin, CRC: 14109cf2
-- Jet Girls DX Jet Pack - Sound Track (Japan) (Disc 2) (PS4 Game Bundle) (Track 12).bin, CRC: 16a4e5e8
-- Jet Girls DX Jet Pack - Sound Track (Japan) (Disc 2) (PS4 Game Bundle) (Track 13).bin, CRC: bfe75b57
-- Jet Girls DX Jet Pack - Sound Track (Japan) (Disc 2) (PS4 Game Bundle) (Track 14).bin, CRC: 609c7ca4
-- Jet Girls DX Jet Pack - Sound Track (Japan) (Disc 2) (PS4 Game Bundle) (Track 15).bin, CRC: 5a0836f7
-- Jet Girls DX Jet Pack - Sound Track (Japan) (Disc 2) (PS4 Game Bundle) (Track 16).bin, CRC: 6ae44bf9
-- Jet Girls DX Jet Pack - Sound Track (Japan) (Disc 2) (PS4 Game Bundle) (Track 17).bin, CRC: d804710d
-- Jet Girls DX Jet Pack - Sound Track (Japan) (Disc 2) (PS4 Game Bundle) (Track 18).bin, CRC: f27577c2
-- Jet Girls DX Jet Pack - Sound Track (Japan) (Disc 2) (PS4 Game Bundle) (Track 19).bin, CRC: 8439a1ee
-- Jet Girls DX Jet Pack - Sound Track (Japan) (Disc 2) (PS4 Game Bundle) (Track 20).bin, CRC: 4a2eb2cb
-- Jet Girls DX Jet Pack - Sound Track (Japan) (Disc 2) (PS4 Game Bundle) (Track 21).bin, CRC: f5e15d96
-- Jet Girls DX Jet Pack - Sound Track (Japan) (Disc 2) (PS4 Game Bundle) (Track 22).bin, CRC: ba39f105
-- Jet Girls DX Jet Pack - Sound Track (Japan) (Disc 2) (PS4 Game Bundle) (Track 23).bin, CRC: 3dcd2c9e
-- Jet Girls DX Jet Pack - Sound Track (Japan) (Disc 2) (PS4 Game Bundle) (Track 24).bin, CRC: 105dbb6e
-- Jet Girls DX Jet Pack - Sound Track (Japan) (Disc 2) (PS4 Game Bundle) (Track 25).bin, CRC: 1882f967
-- Jet Girls DX Jet Pack - Sound Track (Japan) (Disc 2) (PS4 Game Bundle) (Track 26).bin, CRC: 3be25d03
-- Jet Girls DX Jet Pack - Sound Track (Japan) (Disc 2) (PS4 Game Bundle) (Track 27).bin, CRC: d37384a6
-- Jet Girls DX Jet Pack - Sound Track (Japan) (Disc 2) (PS4 Game Bundle) (Track 28).bin, CRC: 8737f496
-- Jet Girls DX Jet Pack - Sound Track (Japan) (Disc 2) (PS4 Game Bundle) (Track 29).bin, CRC: 63c2f539
-- Jet Girls DX Jet Pack - Sound Track (Japan) (Disc 2) (PS4 Game Bundle) (Track 30).bin, CRC: 11edd06f
-- Jet Girls DX Jet Pack - Sound Track (Japan) (Disc 2) (PS4 Game Bundle) (Track 31).bin, CRC: c4a19317
-- Jet Girls DX Jet Pack - Sound Track (Japan) (Disc 2) (PS4 Game Bundle) (Track 32).bin, CRC: b3f08392
-- Jet Girls DX Jet Pack - Sound Track (Japan) (Disc 2) (PS4 Game Bundle) (Track 33).bin, CRC: 432d43fa
-- Jet Girls DX Jet Pack - Sound Track (Japan) (Disc 2) (PS4 Game Bundle) (Track 34).bin, CRC: 2de61655
-</details>
-
 ### Kaguya-chan no Okozukai Daisakusen Original Soundtrack (Japan) (PC Game Bundle)
 <details>
 <summary>ROMs</summary>
@@ -832,7 +765,6 @@
 
 ### Kalle Kunskap och Mysteriet pa Moln 9 (Sweden) (Track 26).bin, CRC: 889c9c28
 ### Karous - The Beast of Re-Eden - Original Soundtrack Chocolate Flavored Suicide (Japan) (Track 39).bin, CRC: 318783fa
-### Kimagure Temptation 2 - Yuuyami Kaikitan - Fanza Gentei Tori-oroshi Drama CD - Kimagure Temptation 1.5 (Japan) (PC Game Bundle).bin, CRC: 9879b16e
 ### King of Fighters 2002, The - Unlimited Match - Limited Sound Track (Japan)
 <details>
 <summary>ROMs</summary>
@@ -874,51 +806,6 @@
 
 - Konami Game Music Vol. 2 (Japan) (Rerelease) (Track 01).bin, CRC: fa082a24
 - Konami Game Music Vol. 2 (Japan) (Rerelease) (Track 48).bin, CRC: 90915fed
-</details>
-
-### Kono Subarashii Sekai ni Shukufuku o! - Kono Yokubukai Game ni Shinpan o! - Kono Hikikomori Seikatsu ni Makuhiki o! - Genteiban Tokuten Drama CD (Japan) (PS4 Game Bundle)
-<details>
-<summary>ROMs</summary>
-
-- Kono Subarashii Sekai ni Shukufuku o! - Kono Yokubukai Game ni Shinpan o! - Kono Hikikomori Seikatsu ni Makuhiki o! - Genteiban Tokuten Drama CD (Japan) (PS4 Game Bundle) (Track 1).bin, CRC: 75df4b1d
-- Kono Subarashii Sekai ni Shukufuku o! - Kono Yokubukai Game ni Shinpan o! - Kono Hikikomori Seikatsu ni Makuhiki o! - Genteiban Tokuten Drama CD (Japan) (PS4 Game Bundle) (Track 2).bin, CRC: c8e4f689
-- Kono Subarashii Sekai ni Shukufuku o! - Kono Yokubukai Game ni Shinpan o! - Kono Hikikomori Seikatsu ni Makuhiki o! - Genteiban Tokuten Drama CD (Japan) (PS4 Game Bundle) (Track 3).bin, CRC: ed69db60
-- Kono Subarashii Sekai ni Shukufuku o! - Kono Yokubukai Game ni Shinpan o! - Kono Hikikomori Seikatsu ni Makuhiki o! - Genteiban Tokuten Drama CD (Japan) (PS4 Game Bundle) (Track 4).bin, CRC: 639f0f50
-- Kono Subarashii Sekai ni Shukufuku o! - Kono Yokubukai Game ni Shinpan o! - Kono Hikikomori Seikatsu ni Makuhiki o! - Genteiban Tokuten Drama CD (Japan) (PS4 Game Bundle) (Track 5).bin, CRC: b801206b
-- Kono Subarashii Sekai ni Shukufuku o! - Kono Yokubukai Game ni Shinpan o! - Kono Hikikomori Seikatsu ni Makuhiki o! - Genteiban Tokuten Drama CD (Japan) (PS4 Game Bundle) (Track 6).bin, CRC: 6843d9b1
-- Kono Subarashii Sekai ni Shukufuku o! - Kono Yokubukai Game ni Shinpan o! - Kono Hikikomori Seikatsu ni Makuhiki o! - Genteiban Tokuten Drama CD (Japan) (PS4 Game Bundle) (Track 7).bin, CRC: 2f75fe35
-- Kono Subarashii Sekai ni Shukufuku o! - Kono Yokubukai Game ni Shinpan o! - Kono Hikikomori Seikatsu ni Makuhiki o! - Genteiban Tokuten Drama CD (Japan) (PS4 Game Bundle) (Track 8).bin, CRC: 50ab3fac
-</details>
-
-### Kono Subarashii Sekai ni Shukufuku o! - Kono Yokubukai Game ni Shinpan o! - Original Soundtrack (Japan) (PS4 Game Bundle)
-<details>
-<summary>ROMs</summary>
-
-- Kono Subarashii Sekai ni Shukufuku o! - Kono Yokubukai Game ni Shinpan o! - Original Soundtrack (Japan) (PS4 Game Bundle) (Track 01).bin, CRC: d33aad70
-- Kono Subarashii Sekai ni Shukufuku o! - Kono Yokubukai Game ni Shinpan o! - Original Soundtrack (Japan) (PS4 Game Bundle) (Track 02).bin, CRC: 9a5c292e
-- Kono Subarashii Sekai ni Shukufuku o! - Kono Yokubukai Game ni Shinpan o! - Original Soundtrack (Japan) (PS4 Game Bundle) (Track 03).bin, CRC: 40d5c47f
-- Kono Subarashii Sekai ni Shukufuku o! - Kono Yokubukai Game ni Shinpan o! - Original Soundtrack (Japan) (PS4 Game Bundle) (Track 04).bin, CRC: f96ffe14
-- Kono Subarashii Sekai ni Shukufuku o! - Kono Yokubukai Game ni Shinpan o! - Original Soundtrack (Japan) (PS4 Game Bundle) (Track 05).bin, CRC: 38b1acec
-- Kono Subarashii Sekai ni Shukufuku o! - Kono Yokubukai Game ni Shinpan o! - Original Soundtrack (Japan) (PS4 Game Bundle) (Track 06).bin, CRC: b32b0a4e
-- Kono Subarashii Sekai ni Shukufuku o! - Kono Yokubukai Game ni Shinpan o! - Original Soundtrack (Japan) (PS4 Game Bundle) (Track 07).bin, CRC: 4f3dd791
-- Kono Subarashii Sekai ni Shukufuku o! - Kono Yokubukai Game ni Shinpan o! - Original Soundtrack (Japan) (PS4 Game Bundle) (Track 08).bin, CRC: f14d2199
-- Kono Subarashii Sekai ni Shukufuku o! - Kono Yokubukai Game ni Shinpan o! - Original Soundtrack (Japan) (PS4 Game Bundle) (Track 09).bin, CRC: bcb005b1
-- Kono Subarashii Sekai ni Shukufuku o! - Kono Yokubukai Game ni Shinpan o! - Original Soundtrack (Japan) (PS4 Game Bundle) (Track 10).bin, CRC: a8acf38a
-- Kono Subarashii Sekai ni Shukufuku o! - Kono Yokubukai Game ni Shinpan o! - Original Soundtrack (Japan) (PS4 Game Bundle) (Track 11).bin, CRC: 47f641ad
-- Kono Subarashii Sekai ni Shukufuku o! - Kono Yokubukai Game ni Shinpan o! - Original Soundtrack (Japan) (PS4 Game Bundle) (Track 12).bin, CRC: 422ba980
-- Kono Subarashii Sekai ni Shukufuku o! - Kono Yokubukai Game ni Shinpan o! - Original Soundtrack (Japan) (PS4 Game Bundle) (Track 13).bin, CRC: 8dd2e67d
-- Kono Subarashii Sekai ni Shukufuku o! - Kono Yokubukai Game ni Shinpan o! - Original Soundtrack (Japan) (PS4 Game Bundle) (Track 14).bin, CRC: 74ccf517
-- Kono Subarashii Sekai ni Shukufuku o! - Kono Yokubukai Game ni Shinpan o! - Original Soundtrack (Japan) (PS4 Game Bundle) (Track 15).bin, CRC: 9c44815f
-- Kono Subarashii Sekai ni Shukufuku o! - Kono Yokubukai Game ni Shinpan o! - Original Soundtrack (Japan) (PS4 Game Bundle) (Track 16).bin, CRC: 61aa7eb7
-- Kono Subarashii Sekai ni Shukufuku o! - Kono Yokubukai Game ni Shinpan o! - Original Soundtrack (Japan) (PS4 Game Bundle) (Track 17).bin, CRC: 50f5b4ad
-- Kono Subarashii Sekai ni Shukufuku o! - Kono Yokubukai Game ni Shinpan o! - Original Soundtrack (Japan) (PS4 Game Bundle) (Track 18).bin, CRC: 17c409ec
-- Kono Subarashii Sekai ni Shukufuku o! - Kono Yokubukai Game ni Shinpan o! - Original Soundtrack (Japan) (PS4 Game Bundle) (Track 19).bin, CRC: 62e9e76b
-- Kono Subarashii Sekai ni Shukufuku o! - Kono Yokubukai Game ni Shinpan o! - Original Soundtrack (Japan) (PS4 Game Bundle) (Track 20).bin, CRC: daced903
-- Kono Subarashii Sekai ni Shukufuku o! - Kono Yokubukai Game ni Shinpan o! - Original Soundtrack (Japan) (PS4 Game Bundle) (Track 21).bin, CRC: 0818614a
-- Kono Subarashii Sekai ni Shukufuku o! - Kono Yokubukai Game ni Shinpan o! - Original Soundtrack (Japan) (PS4 Game Bundle) (Track 22).bin, CRC: c4efcfe0
-- Kono Subarashii Sekai ni Shukufuku o! - Kono Yokubukai Game ni Shinpan o! - Original Soundtrack (Japan) (PS4 Game Bundle) (Track 23).bin, CRC: 4df155f9
-- Kono Subarashii Sekai ni Shukufuku o! - Kono Yokubukai Game ni Shinpan o! - Original Soundtrack (Japan) (PS4 Game Bundle) (Track 24).bin, CRC: 19457124
-- Kono Subarashii Sekai ni Shukufuku o! - Kono Yokubukai Game ni Shinpan o! - Original Soundtrack (Japan) (PS4 Game Bundle) (Track 25).bin, CRC: 67a9762b
 </details>
 
 ### Kuon no Kizuna Sairinshou Full Voice-ban - Man'you no Niizuma Diary (Japan) (PC Game Bundle) (Track 7).bin, CRC: 224b73d1
@@ -1079,44 +966,6 @@
 
 ### Nekketsu Koukou Sound-bu SFC-hen (Japan) (Disc 1) (Track 43).bin, CRC: 4f7280c8
 ### Nekketsu Koukou Sound-bu SFC-hen (Japan) (Disc 2) (Track 51).bin, CRC: 648a6912
-### Nora, Princess, and Crying Cat. 2 - Original Soundtrack (Japan) (Disc 4) (PSV Game Bundle) (Track 23).bin, CRC: c315b9b1
-### Nora, Princess, and Stray Cat. - Soundtrack (Japan) (PSV Game Bundle)
-<details>
-<summary>ROMs</summary>
-
-- Nora, Princess, and Stray Cat. - Soundtrack (Japan) (PSV Game Bundle) (Track 01).bin, CRC: f89146c9
-- Nora, Princess, and Stray Cat. - Soundtrack (Japan) (PSV Game Bundle) (Track 02).bin, CRC: 6f7ab5b3
-- Nora, Princess, and Stray Cat. - Soundtrack (Japan) (PSV Game Bundle) (Track 03).bin, CRC: 4df71b50
-- Nora, Princess, and Stray Cat. - Soundtrack (Japan) (PSV Game Bundle) (Track 04).bin, CRC: 4388fbe0
-- Nora, Princess, and Stray Cat. - Soundtrack (Japan) (PSV Game Bundle) (Track 05).bin, CRC: 20058822
-- Nora, Princess, and Stray Cat. - Soundtrack (Japan) (PSV Game Bundle) (Track 06).bin, CRC: 161c09f0
-- Nora, Princess, and Stray Cat. - Soundtrack (Japan) (PSV Game Bundle) (Track 07).bin, CRC: 86d2d701
-- Nora, Princess, and Stray Cat. - Soundtrack (Japan) (PSV Game Bundle) (Track 08).bin, CRC: 8300e32f
-- Nora, Princess, and Stray Cat. - Soundtrack (Japan) (PSV Game Bundle) (Track 09).bin, CRC: e230a013
-- Nora, Princess, and Stray Cat. - Soundtrack (Japan) (PSV Game Bundle) (Track 10).bin, CRC: 3433414f
-- Nora, Princess, and Stray Cat. - Soundtrack (Japan) (PSV Game Bundle) (Track 11).bin, CRC: 72c9ff2a
-- Nora, Princess, and Stray Cat. - Soundtrack (Japan) (PSV Game Bundle) (Track 12).bin, CRC: 28bd55ed
-- Nora, Princess, and Stray Cat. - Soundtrack (Japan) (PSV Game Bundle) (Track 13).bin, CRC: c0406846
-- Nora, Princess, and Stray Cat. - Soundtrack (Japan) (PSV Game Bundle) (Track 14).bin, CRC: 1f1ba634
-- Nora, Princess, and Stray Cat. - Soundtrack (Japan) (PSV Game Bundle) (Track 15).bin, CRC: 8e58ecd1
-- Nora, Princess, and Stray Cat. - Soundtrack (Japan) (PSV Game Bundle) (Track 16).bin, CRC: 3246eafb
-</details>
-
-### Okayunyumu! Original Soundtrack CD (Japan) (NSW Game Bundle)
-<details>
-<summary>ROMs</summary>
-
-- Okayunyumu! Original Soundtrack CD (Japan) (NSW Game Bundle) (Track 1).bin, CRC: 5d596ef5
-- Okayunyumu! Original Soundtrack CD (Japan) (NSW Game Bundle) (Track 2).bin, CRC: 4a965c7c
-- Okayunyumu! Original Soundtrack CD (Japan) (NSW Game Bundle) (Track 3).bin, CRC: f02aef1d
-- Okayunyumu! Original Soundtrack CD (Japan) (NSW Game Bundle) (Track 4).bin, CRC: c8e6d35a
-- Okayunyumu! Original Soundtrack CD (Japan) (NSW Game Bundle) (Track 5).bin, CRC: c42a556c
-- Okayunyumu! Original Soundtrack CD (Japan) (NSW Game Bundle) (Track 6).bin, CRC: 32050329
-- Okayunyumu! Original Soundtrack CD (Japan) (NSW Game Bundle) (Track 7).bin, CRC: a697beae
-- Okayunyumu! Original Soundtrack CD (Japan) (NSW Game Bundle) (Track 8).bin, CRC: 2d3051d1
-- Okayunyumu! Original Soundtrack CD (Japan) (NSW Game Bundle) (Track 9).bin, CRC: 5b22b33f
-</details>
-
 ### Opening Seigi no Tsubasa Maxi CD (Japan) (PC Game Bundle) (Track 4).bin, CRC: 9f6b5c13
 ### Pachi-Slot Ganbare Goemon 2 - Original Soundtrack (Japan) (Track 45).bin, CRC: 90a0bf97
 ### Pachi-Slot Metal Gear Solid - Snake Eater - Original Soundtrack (Japan) (Disc 1) (Track 18).bin, CRC: e4336915
@@ -1444,21 +1293,6 @@
 ### Sega Game Music Vol. 2 (Japan) (Reprint) (Track 28).bin, CRC: 020b006c
 ### Seiken Densetsu - Legend of Mana - Original Soundtrack (Japan) (Disc 1) (Track 01).bin, CRC: ea2cd7fe
 ### Seiken no Fairies - Les Chevalliers de Pucelles - Shokaiban Tokuten Extra CD (Japan) (PC Game Bundle) (Track 3).bin, CRC: ac6e196a
-### Senran Kagura - Burst Re-Newal - Limited Edition Drama CD (Japan) (PS4 Game Bundle)
-<details>
-<summary>ROMs</summary>
-
-- Senran Kagura - Burst Re-Newal - Limited Edition Drama CD (Japan) (PS4 Game Bundle) (Track 1).bin, CRC: 614c8a71
-- Senran Kagura - Burst Re-Newal - Limited Edition Drama CD (Japan) (PS4 Game Bundle) (Track 2).bin, CRC: d679ec4a
-- Senran Kagura - Burst Re-Newal - Limited Edition Drama CD (Japan) (PS4 Game Bundle) (Track 3).bin, CRC: 07353b65
-- Senran Kagura - Burst Re-Newal - Limited Edition Drama CD (Japan) (PS4 Game Bundle) (Track 4).bin, CRC: 417a9f53
-- Senran Kagura - Burst Re-Newal - Limited Edition Drama CD (Japan) (PS4 Game Bundle) (Track 5).bin, CRC: 2b4918a7
-- Senran Kagura - Burst Re-Newal - Limited Edition Drama CD (Japan) (PS4 Game Bundle) (Track 6).bin, CRC: 7fe0128f
-- Senran Kagura - Burst Re-Newal - Limited Edition Drama CD (Japan) (PS4 Game Bundle) (Track 7).bin, CRC: d7b8f0d1
-- Senran Kagura - Burst Re-Newal - Limited Edition Drama CD (Japan) (PS4 Game Bundle) (Track 8).bin, CRC: be575e35
-- Senran Kagura - Burst Re-Newal - Limited Edition Drama CD (Japan) (PS4 Game Bundle) (Track 9).bin, CRC: b9ca77b3
-</details>
-
 ### Shadowgrounds Survivor - Original Soundtrack (Finland)
 <details>
 <summary>ROMs</summary>

@@ -1,5 +1,5 @@
 # Redump - DVD-Video MIAs
-## Games: 205, ROMs: 205, as of 2025-04-22
+## Games: 202, ROMs: 202, as of 2025-04-23
 
 ### 2002 Autumn Tokyo Game Show (Taiwan).iso, CRC: 92c99685
 ### 3-nen B-gumi Kinpachi Sensei - Densetsu no Kyoudan ni Tate! Promotion Video-2 (Japan).iso, CRC: d346598e
@@ -52,9 +52,7 @@
 ### Final Fight - Original Sound Collection - Bonus DVD (Japan).iso, CRC: e3b6bb26
 ### Forza Motorsport (Europe) (En,Fr,De,Es) (Limited Edition Bonus Content).iso, CRC: 99672b1e
 ### G1 Jockey 4 + Nobunaga no Yabou - Kakushin (Japan).iso, CRC: 263d5008
-### G4 Television Network Premiere Broadcast 4.30.02 (USA).iso, CRC: 0e184647
 ### Games Aktuell 10-10 (Germany) (Seite 1).iso, CRC: 1e07c3f9
-### Golden Compass, The - Special Sneak Preview of the Movie and SEGA Video Game (USA).iso, CRC: 51bc7979
 ### Grinch, The (Korea) (En,Es,Pt,Zh,Ko,Th).iso, CRC: 20fa6582
 ### Halo 2 (France) (Limited Collector's Edition Disc) (Xbox Game Bundle).iso, CRC: 916f50ac
 ### Halo Interactive Strategy Game (USA).iso, CRC: 6873d235
@@ -113,7 +111,6 @@
 ### Play Zone DVD Vol. 6 - Mai 2001 (France).iso, CRC: 97dc3c00
 ### Play Zone DVD Vol. 8 - Juillet-Aout 2001 (France).iso, CRC: 92a342a8
 ### PlayStation 2 the Best (Japan).iso, CRC: 3890c791
-### Polar Express, The (USA) (En,Fr,Es) (Disc 2) (Special Features).iso, CRC: b864cfcc
 ### Prince of Persia - The Forgotten Sands (Europe) (En,Fr,De,Es,It,Pl) (DVD Bonus) (PS3 Game Bundle).iso, CRC: 9edb03e1
 ### Pro Soccer Club o Tsukurou! Europe Championship (Japan).iso, CRC: dfeab306
 ### Pro Yakyuu Spirits 2004 Climax (Japan).iso, CRC: 1c9b24d4

@@ -1,5 +1,5 @@
 # Redump - IBM - PC compatible MIAs
-## Games: 3478, ROMs: 7888, as of 2025-04-22
+## Games: 3462, ROMs: 7871, as of 2025-04-23
 
 ### %% - Fuuin no Otome (Japan) (Track 10).bin, CRC: 4481aa75
 ### Alley 19 Bowling (Europe) (Track 5).bin, CRC: dc835204
@@ -193,7 +193,6 @@
 ### Age of Empires III - The WarChiefs (Japan).bin, CRC: 767d4da9
 ### Age of Empires III - The WarChiefs (Poland).bin, CRC: afd5db96
 ### Age of Empires III - The WarChiefs (Poland) (Bonus) (PC Game Bundle).bin, CRC: 819e08d4
-### Age of Mythology (Europe) (Disc 2) (Install Disc) (Rerelease).bin, CRC: b5903d3e
 ### Age of Mythology (Japan) (Disc 1).bin, CRC: 292397ff
 ### Age of Mythology (Japan) (Disc 2).bin, CRC: 1568ce97
 ### Age of Mythology - The Titans (Expansion) (Germany).bin, CRC: 03b12c58
@@ -894,7 +893,6 @@
 - Britney's Dance Beat (France) (Track 3).bin, CRC: b9bb5c30
 </details>
 
-### Broderbund's Living Books - Interactive Story Sampler (USA).bin, CRC: b5fd464a
 ### Broken Sword - The Sleeping Dragon (USA) (Disc 1) (Alt).bin, CRC: 20f1845c
 ### Brothers in Arms - Hell's Highway (Hungary) (Pl,Cs,Hu).iso, CRC: d761d269
 ### Brothers in Arms - Hell's Highway (Japan) (En,Fr,Es,It).iso, CRC: 5dd002c2
@@ -2500,9 +2498,6 @@
 ### EverQuest - Shadows of Luclin (USA) (Disc 1).bin, CRC: 58b139e3
 ### EverQuest - Shadows of Luclin (USA) (Disc 2).bin, CRC: 70fe8ef6
 ### EverQuest - Shadows of Luclin (USA) (Disc 3).bin, CRC: 5deb93ac
-### EverQuest Evolution (USA) (Disc 1).bin, CRC: 8899a86e
-### EverQuest Evolution (USA) (Disc 2).bin, CRC: 23d23e2b
-### EverQuest Evolution (USA) (Disc 3).bin, CRC: 93a6be2d
 ### EverQuest II (USA) (Disc 1) (DVD-ROM) (Rerelease).iso, CRC: 7a1ef1f7
 ### EverQuest II (USA) (Disc 2) (DVD-ROM) (Rerelease).iso, CRC: 5962966b
 ### Evil Dead - Hail to the King (Czech) (Disc 1)
@@ -2731,7 +2726,6 @@
 ### FIFA Soccer 07 (USA).iso, CRC: 85352dee
 ### FIFA World Cup Germany 2006 (USA).iso, CRC: 9491bcbe
 ### Fifth Element, The (Germany) (En,Fr,De,Es,It) (Rerelease).bin, CRC: 15124d62
-### Fifth Element, The - Self-Running & Playable Demo (Europe).bin, CRC: ad1b5808
 ### Fighter Wing (Scandinavia).bin, CRC: c5ad3d1a
 ### Fighting Force (France)
 <details>
@@ -4349,7 +4343,6 @@
 ### Kid's Typing Tutor - A Fun Interactive Space Adventure (Australia).bin, CRC: ae234141
 ### Kidou Senshi Gundam Seed - Cinema Typing Game 1+2 (Japan).iso, CRC: e45a15a5
 ### Kikan - Return (Japan) (Track 16).bin, CRC: 4a8cdced
-### Kimagure Temptation 2 - Yuuyami Kaikitan (Japan).iso, CRC: 1baa0a15
 ### Kimi no Tonari ni Boku ga Ikiteru (Japan).bin, CRC: dd7f1ad7
 ### King of Ardania - Madou Oukoku no Yoake (Japan)
 <details>
@@ -4366,14 +4359,6 @@
 ### King of Beast (Japan).bin, CRC: c450f360
 ### King of Chicago, The (Europe).bin, CRC: ca29dd3c
 ### King's Quest V - Absence Makes the Heart Go Yonder (USA) (Rerelease) (1995-11-03).bin, CRC: 17bb5b8c
-### King's Quest VI - Heir Today, Gone Tomorrow (USA) (Rerelease) (CD90BE00)
-<details>
-<summary>ROMs</summary>
-
-- King's Quest VI - Heir Today, Gone Tomorrow (USA) (Rerelease) (CD90BE00) (Track 1).bin, CRC: cd90be00
-- King's Quest VI - Heir Today, Gone Tomorrow (USA) (Rerelease) (CD90BE00) (Track 2).bin, CRC: 9291ee67
-</details>
-
 ### Kingdom Under Fire (Korea) (Disc 1).bin, CRC: a4fdbefd
 ### Kingdom Under Fire (Korea) (Disc 2).bin, CRC: 373c1c7b
 ### Kingdom Under Fire (Poland) (Disc 1).bin, CRC: ffcf0236
@@ -5756,7 +5741,6 @@
 ### Muzzy at the Seaside (USA) (En,Fr,De,Es,It).bin, CRC: 176657d0
 ### My Alphabet Tutor (New Zealand).bin, CRC: 73a236a6
 ### My First 100 Words in Greek (USA) (En,El).bin, CRC: 3ccb304d
-### My First Math Adventure 2 - Adding and Subtracting (USA).bin, CRC: 0b58f4e1
 ### My India (India).bin, CRC: 1b0fdc30
 ### My Little Princess Part 1 - Little Princess and Angel Ammy (Thailand) (En,Th).bin, CRC: bb840d33
 ### Myst (Japan) (v1.3) (Rerelease).bin, CRC: 90764b1d
@@ -6024,7 +6008,6 @@
 ### Original War (France) (Disc 1).bin, CRC: b0c33e1c
 ### Original War (France) (Disc 2).bin, CRC: 5a33ada1
 ### Oryouri Jouzu - Kihon Kateiryouri-hen (Japan).bin, CRC: 5dbd1491
-### OS-2-Spiele Shareware (Germany).bin, CRC: a68a919b
 ### Osef Minei Mischakim (Israel).bin, CRC: 8f198e38
 ### Outcast (France) (Disc 1).bin, CRC: fce98532
 ### Outlaws (France) (Disc 1) (Rerelease) (1998-04-28).bin, CRC: 99f78cbf
@@ -6814,7 +6797,6 @@
 </details>
 
 ### Reach for the Stars (UK).bin, CRC: 9bd19453
-### Reader Rabbit - Learn to Read with Phonics - Preschool & Kindergarten (USA).bin, CRC: 4ed308dc
 ### Realms of Arkania - Star Trail (Europe).bin, CRC: a44a108e
 ### realMyst - Masterpiece Edition (USA).iso, CRC: 627c29e1
 ### Reap, The (Scandinavia) (En,Fr,De,Es,It,Fi) (Rerelease).bin, CRC: c080d29b
@@ -7405,7 +7387,6 @@
 ### Schleichfahrt (Germany) (1996-12-17) (Track 1).bin, CRC: 9a9d746f
 ### School Rumble - Neru Musume wa Sodatsu. - DTA Daisuki Tenma Accessory (Japan).bin, CRC: f80c685b
 ### School Tycoon (USA) (Rerelease) (2005-07-08).bin, CRC: b4ec3f90
-### Schoolhouse Rock! 1st-4th Grade Math Essentials (USA) (Disc 1).bin, CRC: 5f03d1c0
 ### Schwarze Auge, Das - Drakensang (Germany).iso, CRC: 498509fe
 ### Scooby-Doo! Jinx at the Sphinx (Europe).bin, CRC: e6a3c1fe
 ### Scooter Pro (Europe) (Rerelease).bin, CRC: 06793034
@@ -8550,7 +8531,6 @@
 ### Startopia (Germany).bin, CRC: d335da81
 ### Startopia (Poland).bin, CRC: eb6b3bb6
 ### State of War (Europe) (Rerelease).bin, CRC: a742fe82
-### STCC - The Game (Brazil) (En,Pt) (Covermount).iso, CRC: 72e9088b
 ### STCC 2 - Swedish Touring Car Championship (Sweden) (En,Sv)
 <details>
 <summary>ROMs</summary>
@@ -9318,7 +9298,6 @@
 </details>
 
 ### Town with No Name, The (UK) (En,Fr,De,Es,It,Da) (Track 2).bin, CRC: 02084d02
-### Toyland Racer (Poland).bin, CRC: a5507e4d
 ### TrackMania United (Taiwan).iso, CRC: 55fce750
 ### Tradicni Ceske Pohadky pro Pocitac s Windows (Czech) (En,Es,Cs).bin, CRC: 34b0c57a
 ### Traffic Giant (Netherlands)
@@ -9972,7 +9951,6 @@
 ### Wolflame (Japan).bin, CRC: 62277fea
 ### Wolfpack (USA).bin, CRC: d30e3083
 ### Wonderful World of Modhesh, The (United Arab Emirates) (En,Ar).bin, CRC: 00609ce9
-### Word Blaster (USA).bin, CRC: 78ee4c64
 ### WordChess (Sweden)
 <details>
 <summary>ROMs</summary>
@@ -10245,7 +10223,6 @@
 
 ### Zerstreute Pharao, Der (Germany).bin, CRC: 32795dc3
 ### Zettai Imouto Shijou Shugi!! Imouto kara Ijirareru Drama CD - Mochiron Seiteki na Imi de (Japan) (Track 5).bin, CRC: ef39ef13
-### Zeus - Pan Olimpu Zlota Edycja (Poland).bin, CRC: d89a0b3f
 ### Zheng Zhi Ma Jiang San Que Yi (Taiwan).bin, CRC: 2ce3ce87
 ### Ziemia we Wszechswiecie (Poland).bin, CRC: 768a014a
 ### Zoldiras (Japan).bin, CRC: 410452f7
