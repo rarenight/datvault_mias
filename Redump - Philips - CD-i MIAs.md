@@ -1,5 +1,5 @@
 # Redump - Philips - CD-i MIAs
-## Games: 10, ROMs: 26, as of 2025-04-25
+## Games: 10, ROMs: 26, as of 2025-04-27
 
 ### Caesars World of Gambling (Japan).bin, CRC: 3f508714
 ### French Impressionists, The - France Inshouha (Japan).bin, CRC: 49d0003b

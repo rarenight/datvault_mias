@@ -1,6 +1,8 @@
 # Redump - DVD-Video MIAs
-## Games: 202, ROMs: 202, as of 2025-04-25
+## Games: 204, ROMs: 204, as of 2025-04-27
 
+### $100,000 Pyramid, The (USA).iso, CRC: 7a419207
+### 2 Free Scorchin' Games from MGA DVD (USA).iso, CRC: 3758bc39
 ### 2002 Autumn Tokyo Game Show (Taiwan).iso, CRC: 92c99685
 ### 3-nen B-gumi Kinpachi Sensei - Densetsu no Kyoudan ni Tate! Promotion Video-2 (Japan).iso, CRC: d346598e
 ### Activision Domination Tour 2005 (USA).iso, CRC: f9fe9b65

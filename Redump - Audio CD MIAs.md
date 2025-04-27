@@ -1,6 +1,33 @@
 # Redump - Audio CD MIAs
-## Games: 140, ROMs: 1731, as of 2025-04-25
+## Games: 153, ROMs: 1962, as of 2025-04-27
 
+### 16Bit Rhythm Land - Original Sound Track (Japan) (Mega Drive Game Bundle)
+<details>
+<summary>ROMs</summary>
+
+- 16Bit Rhythm Land - Original Sound Track (Japan) (Mega Drive Game Bundle) (Track 01).bin, CRC: 55ed0804
+- 16Bit Rhythm Land - Original Sound Track (Japan) (Mega Drive Game Bundle) (Track 02).bin, CRC: 726b4d4f
+- 16Bit Rhythm Land - Original Sound Track (Japan) (Mega Drive Game Bundle) (Track 03).bin, CRC: 59ab77e3
+- 16Bit Rhythm Land - Original Sound Track (Japan) (Mega Drive Game Bundle) (Track 04).bin, CRC: 9ab56f8e
+- 16Bit Rhythm Land - Original Sound Track (Japan) (Mega Drive Game Bundle) (Track 05).bin, CRC: 71d6521a
+- 16Bit Rhythm Land - Original Sound Track (Japan) (Mega Drive Game Bundle) (Track 06).bin, CRC: f1bf485d
+- 16Bit Rhythm Land - Original Sound Track (Japan) (Mega Drive Game Bundle) (Track 07).bin, CRC: fac6e1c7
+- 16Bit Rhythm Land - Original Sound Track (Japan) (Mega Drive Game Bundle) (Track 08).bin, CRC: 23b880ec
+- 16Bit Rhythm Land - Original Sound Track (Japan) (Mega Drive Game Bundle) (Track 09).bin, CRC: df291259
+- 16Bit Rhythm Land - Original Sound Track (Japan) (Mega Drive Game Bundle) (Track 10).bin, CRC: 1a086d8a
+- 16Bit Rhythm Land - Original Sound Track (Japan) (Mega Drive Game Bundle) (Track 11).bin, CRC: 0ed56214
+- 16Bit Rhythm Land - Original Sound Track (Japan) (Mega Drive Game Bundle) (Track 12).bin, CRC: 484bc1ad
+- 16Bit Rhythm Land - Original Sound Track (Japan) (Mega Drive Game Bundle) (Track 13).bin, CRC: 866ba1a8
+- 16Bit Rhythm Land - Original Sound Track (Japan) (Mega Drive Game Bundle) (Track 14).bin, CRC: 0d631ff2
+- 16Bit Rhythm Land - Original Sound Track (Japan) (Mega Drive Game Bundle) (Track 15).bin, CRC: 709c46e2
+- 16Bit Rhythm Land - Original Sound Track (Japan) (Mega Drive Game Bundle) (Track 16).bin, CRC: c4e93971
+- 16Bit Rhythm Land - Original Sound Track (Japan) (Mega Drive Game Bundle) (Track 17).bin, CRC: 32d64f7f
+- 16Bit Rhythm Land - Original Sound Track (Japan) (Mega Drive Game Bundle) (Track 18).bin, CRC: 849230f1
+- 16Bit Rhythm Land - Original Sound Track (Japan) (Mega Drive Game Bundle) (Track 19).bin, CRC: d0bcf66f
+- 16Bit Rhythm Land - Original Sound Track (Japan) (Mega Drive Game Bundle) (Track 20).bin, CRC: d5598969
+</details>
+
+### 8Bit Rhythm Land - Original Sound Track (Japan) (Famicom Game Bundle) (Track 01).bin, CRC: c5f43089
 ### Age of Empires III (Poland) (Plyta audio z muzyka z gry) (PC Game Bundle)
 <details>
 <summary>ROMs</summary>
@@ -129,6 +156,15 @@
 </details>
 
 ### Brandish 3 Theme Kyoku & Eiyuu Densetsu III Mishuuroku Kyokushuu (Japan) (PC Game Bundle) (Track 16).bin, CRC: 30439a67
+### Bullet Butlers - Butler's Dictionary (Japan) (PC Game Bundle)
+<details>
+<summary>ROMs</summary>
+
+- Bullet Butlers - Butler's Dictionary (Japan) (PC Game Bundle) (Track 1).bin, CRC: 56ddc633
+- Bullet Butlers - Butler's Dictionary (Japan) (PC Game Bundle) (Track 2).bin, CRC: 44c46189
+- Bullet Butlers - Butler's Dictionary (Japan) (PC Game Bundle) (Track 3).bin, CRC: 6b92dd45
+</details>
+
 ### Castlevania - Lords of Shadow - Original Soundtrack (Japan) (PS3 Game Bundle)
 <details>
 <summary>ROMs</summary>
@@ -260,8 +296,57 @@
 - Diablo II (Poland) (PC Game Bundle) (Track 17).bin, CRC: 8e63d57d
 </details>
 
+### Donkey Kong Country - Go Ape! (UK) (SNES Game Bundle)
+<details>
+<summary>ROMs</summary>
+
+- Donkey Kong Country - Go Ape! (UK) (SNES Game Bundle) (Track 1).bin, CRC: ca18a8a9
+- Donkey Kong Country - Go Ape! (UK) (SNES Game Bundle) (Track 2).bin, CRC: 3f97ae76
+- Donkey Kong Country - Go Ape! (UK) (SNES Game Bundle) (Track 3).bin, CRC: 9a9fc8bd
+- Donkey Kong Country - Go Ape! (UK) (SNES Game Bundle) (Track 4).bin, CRC: b8d06016
+- Donkey Kong Country - Go Ape! (UK) (SNES Game Bundle) (Track 5).bin, CRC: aca47116
+- Donkey Kong Country - Go Ape! (UK) (SNES Game Bundle) (Track 6).bin, CRC: ec861539
+- Donkey Kong Country - Go Ape! (UK) (SNES Game Bundle) (Track 7).bin, CRC: 95b3c6a2
+- Donkey Kong Country - Go Ape! (UK) (SNES Game Bundle) (Track 8).bin, CRC: c025c922
+</details>
+
 ### Double Dragon - Sound Collection Vol. 1 (Japan) (Disc 1) (Track 51).bin, CRC: 2f919305
 ### Double Dragon - Sound Collection Vol. 1 (Japan) (Disc 2) (Track 33).bin, CRC: 97abc4b7
+### Dungeon ni Deai o Motomeru no wa Machigatteiru Darou ka - Infinite Combate - Original Soundtrack (Japan) (NSW Game Bundle)
+<details>
+<summary>ROMs</summary>
+
+- Dungeon ni Deai o Motomeru no wa Machigatteiru Darou ka - Infinite Combate - Original Soundtrack (Japan) (NSW Game Bundle) (Track 01).bin, CRC: f782fa9c
+- Dungeon ni Deai o Motomeru no wa Machigatteiru Darou ka - Infinite Combate - Original Soundtrack (Japan) (NSW Game Bundle) (Track 02).bin, CRC: 814aa857
+- Dungeon ni Deai o Motomeru no wa Machigatteiru Darou ka - Infinite Combate - Original Soundtrack (Japan) (NSW Game Bundle) (Track 03).bin, CRC: 785f9018
+- Dungeon ni Deai o Motomeru no wa Machigatteiru Darou ka - Infinite Combate - Original Soundtrack (Japan) (NSW Game Bundle) (Track 04).bin, CRC: c052333d
+- Dungeon ni Deai o Motomeru no wa Machigatteiru Darou ka - Infinite Combate - Original Soundtrack (Japan) (NSW Game Bundle) (Track 05).bin, CRC: 7c6b4e9b
+- Dungeon ni Deai o Motomeru no wa Machigatteiru Darou ka - Infinite Combate - Original Soundtrack (Japan) (NSW Game Bundle) (Track 06).bin, CRC: 13e04eea
+- Dungeon ni Deai o Motomeru no wa Machigatteiru Darou ka - Infinite Combate - Original Soundtrack (Japan) (NSW Game Bundle) (Track 07).bin, CRC: e2b15689
+- Dungeon ni Deai o Motomeru no wa Machigatteiru Darou ka - Infinite Combate - Original Soundtrack (Japan) (NSW Game Bundle) (Track 08).bin, CRC: 182a839f
+- Dungeon ni Deai o Motomeru no wa Machigatteiru Darou ka - Infinite Combate - Original Soundtrack (Japan) (NSW Game Bundle) (Track 09).bin, CRC: e0aa6cce
+- Dungeon ni Deai o Motomeru no wa Machigatteiru Darou ka - Infinite Combate - Original Soundtrack (Japan) (NSW Game Bundle) (Track 10).bin, CRC: 64d4bbf9
+- Dungeon ni Deai o Motomeru no wa Machigatteiru Darou ka - Infinite Combate - Original Soundtrack (Japan) (NSW Game Bundle) (Track 11).bin, CRC: d396ac02
+- Dungeon ni Deai o Motomeru no wa Machigatteiru Darou ka - Infinite Combate - Original Soundtrack (Japan) (NSW Game Bundle) (Track 12).bin, CRC: 9d73d00a
+- Dungeon ni Deai o Motomeru no wa Machigatteiru Darou ka - Infinite Combate - Original Soundtrack (Japan) (NSW Game Bundle) (Track 13).bin, CRC: 7836d61b
+- Dungeon ni Deai o Motomeru no wa Machigatteiru Darou ka - Infinite Combate - Original Soundtrack (Japan) (NSW Game Bundle) (Track 14).bin, CRC: d2a4696e
+- Dungeon ni Deai o Motomeru no wa Machigatteiru Darou ka - Infinite Combate - Original Soundtrack (Japan) (NSW Game Bundle) (Track 15).bin, CRC: 053e141b
+- Dungeon ni Deai o Motomeru no wa Machigatteiru Darou ka - Infinite Combate - Original Soundtrack (Japan) (NSW Game Bundle) (Track 16).bin, CRC: cac1f10e
+- Dungeon ni Deai o Motomeru no wa Machigatteiru Darou ka - Infinite Combate - Original Soundtrack (Japan) (NSW Game Bundle) (Track 17).bin, CRC: b1b0b389
+- Dungeon ni Deai o Motomeru no wa Machigatteiru Darou ka - Infinite Combate - Original Soundtrack (Japan) (NSW Game Bundle) (Track 18).bin, CRC: c2759774
+- Dungeon ni Deai o Motomeru no wa Machigatteiru Darou ka - Infinite Combate - Original Soundtrack (Japan) (NSW Game Bundle) (Track 19).bin, CRC: 0684f2fe
+- Dungeon ni Deai o Motomeru no wa Machigatteiru Darou ka - Infinite Combate - Original Soundtrack (Japan) (NSW Game Bundle) (Track 20).bin, CRC: 0cf12760
+- Dungeon ni Deai o Motomeru no wa Machigatteiru Darou ka - Infinite Combate - Original Soundtrack (Japan) (NSW Game Bundle) (Track 21).bin, CRC: 1772c389
+- Dungeon ni Deai o Motomeru no wa Machigatteiru Darou ka - Infinite Combate - Original Soundtrack (Japan) (NSW Game Bundle) (Track 22).bin, CRC: fd04730c
+- Dungeon ni Deai o Motomeru no wa Machigatteiru Darou ka - Infinite Combate - Original Soundtrack (Japan) (NSW Game Bundle) (Track 23).bin, CRC: 65179116
+- Dungeon ni Deai o Motomeru no wa Machigatteiru Darou ka - Infinite Combate - Original Soundtrack (Japan) (NSW Game Bundle) (Track 24).bin, CRC: 0beac09e
+- Dungeon ni Deai o Motomeru no wa Machigatteiru Darou ka - Infinite Combate - Original Soundtrack (Japan) (NSW Game Bundle) (Track 25).bin, CRC: efd98ee2
+- Dungeon ni Deai o Motomeru no wa Machigatteiru Darou ka - Infinite Combate - Original Soundtrack (Japan) (NSW Game Bundle) (Track 26).bin, CRC: 41fbb67d
+- Dungeon ni Deai o Motomeru no wa Machigatteiru Darou ka - Infinite Combate - Original Soundtrack (Japan) (NSW Game Bundle) (Track 27).bin, CRC: 98c95f62
+- Dungeon ni Deai o Motomeru no wa Machigatteiru Darou ka - Infinite Combate - Original Soundtrack (Japan) (NSW Game Bundle) (Track 28).bin, CRC: 65ed9a9f
+- Dungeon ni Deai o Motomeru no wa Machigatteiru Darou ka - Infinite Combate - Original Soundtrack (Japan) (NSW Game Bundle) (Track 29).bin, CRC: 54276e76
+</details>
+
 ### Einhaender - Original Soundtrack (Japan) (Track 29).bin, CRC: 0fe74650
 ### Eiyuu Senki - The World Conquest - Original Sound Track (Japan) (Disc 1) (Track 18).bin, CRC: cb3451d3
 ### Final Fight - Original Sound Collection (Japan) (Disc 1) (Track 67).bin, CRC: fb49bec6
@@ -667,6 +752,38 @@
 - Kaguya-chan no Okozukai Daisakusen Original Soundtrack (Japan) (PC Game Bundle) (Track 22).bin, CRC: 63ab2adb
 </details>
 
+### Kalle Kunskap - Pa aeventyr i Balongstaden (Sweden)
+<details>
+<summary>ROMs</summary>
+
+- Kalle Kunskap - Pa aeventyr i Balongstaden (Sweden) (Track 01).bin, CRC: 4444fc71
+- Kalle Kunskap - Pa aeventyr i Balongstaden (Sweden) (Track 02).bin, CRC: 2ee40aae
+- Kalle Kunskap - Pa aeventyr i Balongstaden (Sweden) (Track 03).bin, CRC: 3a1b7361
+- Kalle Kunskap - Pa aeventyr i Balongstaden (Sweden) (Track 04).bin, CRC: 699737be
+- Kalle Kunskap - Pa aeventyr i Balongstaden (Sweden) (Track 05).bin, CRC: 19317ade
+- Kalle Kunskap - Pa aeventyr i Balongstaden (Sweden) (Track 06).bin, CRC: ab16e8f8
+- Kalle Kunskap - Pa aeventyr i Balongstaden (Sweden) (Track 07).bin, CRC: 8706a44f
+- Kalle Kunskap - Pa aeventyr i Balongstaden (Sweden) (Track 08).bin, CRC: 9bda6e53
+- Kalle Kunskap - Pa aeventyr i Balongstaden (Sweden) (Track 09).bin, CRC: f2551667
+- Kalle Kunskap - Pa aeventyr i Balongstaden (Sweden) (Track 10).bin, CRC: 2b1a7b3c
+- Kalle Kunskap - Pa aeventyr i Balongstaden (Sweden) (Track 11).bin, CRC: 0621c44e
+- Kalle Kunskap - Pa aeventyr i Balongstaden (Sweden) (Track 12).bin, CRC: c37f3ec0
+- Kalle Kunskap - Pa aeventyr i Balongstaden (Sweden) (Track 13).bin, CRC: 77164e7d
+- Kalle Kunskap - Pa aeventyr i Balongstaden (Sweden) (Track 14).bin, CRC: c314fcbf
+- Kalle Kunskap - Pa aeventyr i Balongstaden (Sweden) (Track 15).bin, CRC: a2937099
+- Kalle Kunskap - Pa aeventyr i Balongstaden (Sweden) (Track 16).bin, CRC: 81ee74ad
+- Kalle Kunskap - Pa aeventyr i Balongstaden (Sweden) (Track 17).bin, CRC: e7576823
+- Kalle Kunskap - Pa aeventyr i Balongstaden (Sweden) (Track 18).bin, CRC: 90999333
+- Kalle Kunskap - Pa aeventyr i Balongstaden (Sweden) (Track 19).bin, CRC: 7af5cab5
+- Kalle Kunskap - Pa aeventyr i Balongstaden (Sweden) (Track 20).bin, CRC: 9668c4ed
+- Kalle Kunskap - Pa aeventyr i Balongstaden (Sweden) (Track 21).bin, CRC: 4587fd36
+- Kalle Kunskap - Pa aeventyr i Balongstaden (Sweden) (Track 22).bin, CRC: eabbd28f
+- Kalle Kunskap - Pa aeventyr i Balongstaden (Sweden) (Track 23).bin, CRC: 595ba6d6
+- Kalle Kunskap - Pa aeventyr i Balongstaden (Sweden) (Track 24).bin, CRC: ed90f804
+- Kalle Kunskap - Pa aeventyr i Balongstaden (Sweden) (Track 25).bin, CRC: b7ce4a6e
+- Kalle Kunskap - Pa aeventyr i Balongstaden (Sweden) (Track 26).bin, CRC: 507cd80b
+</details>
+
 ### Kalle Kunskap och den Mystiska Ordtjuven (Sweden)
 <details>
 <summary>ROMs</summary>
@@ -704,30 +821,55 @@
 <summary>ROMs</summary>
 
 - Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 01).bin, CRC: 9b3a7b6a
+- Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 01).bin, CRC: 0123175f
 - Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 02).bin, CRC: cb01ce6a
+- Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 02).bin, CRC: 4d777fe8
 - Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 03).bin, CRC: fc0e3e6e
+- Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 03).bin, CRC: 26c955e2
 - Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 04).bin, CRC: 95f9b953
+- Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 04).bin, CRC: 6b584f49
 - Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 05).bin, CRC: f1ca550f
+- Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 05).bin, CRC: bcff18cb
 - Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 06).bin, CRC: 24064c59
+- Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 06).bin, CRC: ea8452e8
 - Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 07).bin, CRC: 01d01cf0
+- Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 07).bin, CRC: 7cc117c2
 - Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 08).bin, CRC: 6cf27cd3
+- Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 08).bin, CRC: 793953a3
 - Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 09).bin, CRC: c35a785b
+- Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 09).bin, CRC: b8f4fefd
 - Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 10).bin, CRC: 3f8c4df0
+- Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 10).bin, CRC: 73409fd5
 - Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 11).bin, CRC: 55c49f85
+- Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 11).bin, CRC: 0bc5fe76
 - Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 12).bin, CRC: 07ecb83b
+- Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 12).bin, CRC: fbf93a38
 - Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 13).bin, CRC: 7fbc6f83
+- Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 13).bin, CRC: 7af2086c
 - Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 14).bin, CRC: b551aefd
+- Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 14).bin, CRC: ed07aebd
 - Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 15).bin, CRC: 91f2bfde
+- Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 15).bin, CRC: e02e52eb
 - Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 16).bin, CRC: abe9b497
+- Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 16).bin, CRC: f3b1b695
 - Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 17).bin, CRC: 7234bc21
+- Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 17).bin, CRC: 0f800796
 - Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 18).bin, CRC: a0c304ae
+- Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 18).bin, CRC: bd616e4b
 - Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 19).bin, CRC: fde3fac0
+- Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 19).bin, CRC: 18d712e8
 - Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 20).bin, CRC: 64a035c1
+- Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 20).bin, CRC: aea6a67c
 - Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 21).bin, CRC: 5f1b1e9a
+- Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 21).bin, CRC: 94129c24
 - Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 22).bin, CRC: 751f8e70
+- Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 22).bin, CRC: a4b46a2f
 - Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 23).bin, CRC: 20865e32
+- Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 23).bin, CRC: 6006bf8b
 - Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 24).bin, CRC: 57a1f97f
+- Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 24).bin, CRC: 9fef620d
 - Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 25).bin, CRC: 5e628569
+- Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 25).bin, CRC: 9fe598ca
 - Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 26).bin, CRC: eb995b8c
 </details>
 
@@ -806,6 +948,56 @@
 
 - Konami Game Music Vol. 2 (Japan) (Rerelease) (Track 01).bin, CRC: fa082a24
 - Konami Game Music Vol. 2 (Japan) (Rerelease) (Track 48).bin, CRC: 90915fed
+</details>
+
+### Kono Subarashii Sekai ni Syukufuku wo! - Noroi no Ibutsu to Madoishi Boukensha-tachi - Original Sound Track (Japan) (Disc 1) (NSW Game Bundle)
+<details>
+<summary>ROMs</summary>
+
+- Kono Subarashii Sekai ni Syukufuku wo! - Noroi no Ibutsu to Madoishi Boukensha-tachi - Original Sound Track (Japan) (Disc 1) (NSW Game Bundle) (Track 01).bin, CRC: cef55bc9
+- Kono Subarashii Sekai ni Syukufuku wo! - Noroi no Ibutsu to Madoishi Boukensha-tachi - Original Sound Track (Japan) (Disc 1) (NSW Game Bundle) (Track 02).bin, CRC: 11d4e6fa
+- Kono Subarashii Sekai ni Syukufuku wo! - Noroi no Ibutsu to Madoishi Boukensha-tachi - Original Sound Track (Japan) (Disc 1) (NSW Game Bundle) (Track 03).bin, CRC: ea11f27e
+- Kono Subarashii Sekai ni Syukufuku wo! - Noroi no Ibutsu to Madoishi Boukensha-tachi - Original Sound Track (Japan) (Disc 1) (NSW Game Bundle) (Track 04).bin, CRC: 5e9f6e55
+- Kono Subarashii Sekai ni Syukufuku wo! - Noroi no Ibutsu to Madoishi Boukensha-tachi - Original Sound Track (Japan) (Disc 1) (NSW Game Bundle) (Track 05).bin, CRC: 733ae7bf
+- Kono Subarashii Sekai ni Syukufuku wo! - Noroi no Ibutsu to Madoishi Boukensha-tachi - Original Sound Track (Japan) (Disc 1) (NSW Game Bundle) (Track 06).bin, CRC: 73da7584
+- Kono Subarashii Sekai ni Syukufuku wo! - Noroi no Ibutsu to Madoishi Boukensha-tachi - Original Sound Track (Japan) (Disc 1) (NSW Game Bundle) (Track 07).bin, CRC: 58042d6e
+- Kono Subarashii Sekai ni Syukufuku wo! - Noroi no Ibutsu to Madoishi Boukensha-tachi - Original Sound Track (Japan) (Disc 1) (NSW Game Bundle) (Track 08).bin, CRC: 6abf312f
+- Kono Subarashii Sekai ni Syukufuku wo! - Noroi no Ibutsu to Madoishi Boukensha-tachi - Original Sound Track (Japan) (Disc 1) (NSW Game Bundle) (Track 09).bin, CRC: 4c38e991
+- Kono Subarashii Sekai ni Syukufuku wo! - Noroi no Ibutsu to Madoishi Boukensha-tachi - Original Sound Track (Japan) (Disc 1) (NSW Game Bundle) (Track 10).bin, CRC: 7d6bd17e
+- Kono Subarashii Sekai ni Syukufuku wo! - Noroi no Ibutsu to Madoishi Boukensha-tachi - Original Sound Track (Japan) (Disc 1) (NSW Game Bundle) (Track 11).bin, CRC: 90779d13
+- Kono Subarashii Sekai ni Syukufuku wo! - Noroi no Ibutsu to Madoishi Boukensha-tachi - Original Sound Track (Japan) (Disc 1) (NSW Game Bundle) (Track 12).bin, CRC: 434283a4
+- Kono Subarashii Sekai ni Syukufuku wo! - Noroi no Ibutsu to Madoishi Boukensha-tachi - Original Sound Track (Japan) (Disc 1) (NSW Game Bundle) (Track 13).bin, CRC: d165b4b5
+- Kono Subarashii Sekai ni Syukufuku wo! - Noroi no Ibutsu to Madoishi Boukensha-tachi - Original Sound Track (Japan) (Disc 1) (NSW Game Bundle) (Track 14).bin, CRC: 50ea257e
+- Kono Subarashii Sekai ni Syukufuku wo! - Noroi no Ibutsu to Madoishi Boukensha-tachi - Original Sound Track (Japan) (Disc 1) (NSW Game Bundle) (Track 15).bin, CRC: dfc647c6
+- Kono Subarashii Sekai ni Syukufuku wo! - Noroi no Ibutsu to Madoishi Boukensha-tachi - Original Sound Track (Japan) (Disc 1) (NSW Game Bundle) (Track 16).bin, CRC: 1cb83dc2
+- Kono Subarashii Sekai ni Syukufuku wo! - Noroi no Ibutsu to Madoishi Boukensha-tachi - Original Sound Track (Japan) (Disc 1) (NSW Game Bundle) (Track 17).bin, CRC: be01ebde
+- Kono Subarashii Sekai ni Syukufuku wo! - Noroi no Ibutsu to Madoishi Boukensha-tachi - Original Sound Track (Japan) (Disc 1) (NSW Game Bundle) (Track 18).bin, CRC: f74a86e0
+- Kono Subarashii Sekai ni Syukufuku wo! - Noroi no Ibutsu to Madoishi Boukensha-tachi - Original Sound Track (Japan) (Disc 1) (NSW Game Bundle) (Track 19).bin, CRC: 0622460b
+</details>
+
+### Kono Subarashii Sekai ni Syukufuku wo! - Noroi no Ibutsu to Madoishi Boukensha-tachi - Original Sound Track (Japan) (Disc 2) (NSW Game Bundle)
+<details>
+<summary>ROMs</summary>
+
+- Kono Subarashii Sekai ni Syukufuku wo! - Noroi no Ibutsu to Madoishi Boukensha-tachi - Original Sound Track (Japan) (Disc 2) (NSW Game Bundle) (Track 01).bin, CRC: 0a0ddc1b
+- Kono Subarashii Sekai ni Syukufuku wo! - Noroi no Ibutsu to Madoishi Boukensha-tachi - Original Sound Track (Japan) (Disc 2) (NSW Game Bundle) (Track 02).bin, CRC: c3339dec
+- Kono Subarashii Sekai ni Syukufuku wo! - Noroi no Ibutsu to Madoishi Boukensha-tachi - Original Sound Track (Japan) (Disc 2) (NSW Game Bundle) (Track 03).bin, CRC: fc09f7bb
+- Kono Subarashii Sekai ni Syukufuku wo! - Noroi no Ibutsu to Madoishi Boukensha-tachi - Original Sound Track (Japan) (Disc 2) (NSW Game Bundle) (Track 04).bin, CRC: 1f90deae
+- Kono Subarashii Sekai ni Syukufuku wo! - Noroi no Ibutsu to Madoishi Boukensha-tachi - Original Sound Track (Japan) (Disc 2) (NSW Game Bundle) (Track 05).bin, CRC: 1cfc46b6
+- Kono Subarashii Sekai ni Syukufuku wo! - Noroi no Ibutsu to Madoishi Boukensha-tachi - Original Sound Track (Japan) (Disc 2) (NSW Game Bundle) (Track 06).bin, CRC: 6a3805cb
+- Kono Subarashii Sekai ni Syukufuku wo! - Noroi no Ibutsu to Madoishi Boukensha-tachi - Original Sound Track (Japan) (Disc 2) (NSW Game Bundle) (Track 07).bin, CRC: 1eb0ce9a
+- Kono Subarashii Sekai ni Syukufuku wo! - Noroi no Ibutsu to Madoishi Boukensha-tachi - Original Sound Track (Japan) (Disc 2) (NSW Game Bundle) (Track 08).bin, CRC: 038afca8
+- Kono Subarashii Sekai ni Syukufuku wo! - Noroi no Ibutsu to Madoishi Boukensha-tachi - Original Sound Track (Japan) (Disc 2) (NSW Game Bundle) (Track 09).bin, CRC: 6adeda97
+- Kono Subarashii Sekai ni Syukufuku wo! - Noroi no Ibutsu to Madoishi Boukensha-tachi - Original Sound Track (Japan) (Disc 2) (NSW Game Bundle) (Track 10).bin, CRC: ece53308
+- Kono Subarashii Sekai ni Syukufuku wo! - Noroi no Ibutsu to Madoishi Boukensha-tachi - Original Sound Track (Japan) (Disc 2) (NSW Game Bundle) (Track 11).bin, CRC: cf8bbb9e
+- Kono Subarashii Sekai ni Syukufuku wo! - Noroi no Ibutsu to Madoishi Boukensha-tachi - Original Sound Track (Japan) (Disc 2) (NSW Game Bundle) (Track 12).bin, CRC: 5b9ca961
+- Kono Subarashii Sekai ni Syukufuku wo! - Noroi no Ibutsu to Madoishi Boukensha-tachi - Original Sound Track (Japan) (Disc 2) (NSW Game Bundle) (Track 13).bin, CRC: ef2b1555
+- Kono Subarashii Sekai ni Syukufuku wo! - Noroi no Ibutsu to Madoishi Boukensha-tachi - Original Sound Track (Japan) (Disc 2) (NSW Game Bundle) (Track 14).bin, CRC: ba87d7b9
+- Kono Subarashii Sekai ni Syukufuku wo! - Noroi no Ibutsu to Madoishi Boukensha-tachi - Original Sound Track (Japan) (Disc 2) (NSW Game Bundle) (Track 15).bin, CRC: 46d2ed8b
+- Kono Subarashii Sekai ni Syukufuku wo! - Noroi no Ibutsu to Madoishi Boukensha-tachi - Original Sound Track (Japan) (Disc 2) (NSW Game Bundle) (Track 16).bin, CRC: 9df7db53
+- Kono Subarashii Sekai ni Syukufuku wo! - Noroi no Ibutsu to Madoishi Boukensha-tachi - Original Sound Track (Japan) (Disc 2) (NSW Game Bundle) (Track 17).bin, CRC: f89c2146
+- Kono Subarashii Sekai ni Syukufuku wo! - Noroi no Ibutsu to Madoishi Boukensha-tachi - Original Sound Track (Japan) (Disc 2) (NSW Game Bundle) (Track 18).bin, CRC: 689e7726
+- Kono Subarashii Sekai ni Syukufuku wo! - Noroi no Ibutsu to Madoishi Boukensha-tachi - Original Sound Track (Japan) (Disc 2) (NSW Game Bundle) (Track 19).bin, CRC: 5214f635
 </details>
 
 ### Kuon no Kizuna Sairinshou Full Voice-ban - Man'you no Niizuma Diary (Japan) (PC Game Bundle) (Track 7).bin, CRC: 224b73d1
@@ -1066,81 +1258,23 @@
 - PaRappa the Rapper - Original Soundtrack (Japan) (Rerelease) (Track 44).bin, CRC: 4cc9f22e
 </details>
 
-### Persona 3 Portable - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle)
+### Path of Exile - Soundtrack (New Zealand) (PC Game Bundle)
 <details>
 <summary>ROMs</summary>
 
-- Persona 3 Portable - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 01).bin, CRC: 668f6cd9
-- Persona 3 Portable - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 02).bin, CRC: f75612f0
-- Persona 3 Portable - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 03).bin, CRC: ad551b30
-- Persona 3 Portable - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 04).bin, CRC: 40980179
-- Persona 3 Portable - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 05).bin, CRC: b33d4922
-- Persona 3 Portable - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 06).bin, CRC: e8d3e1e5
-- Persona 3 Portable - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 07).bin, CRC: d2833778
-- Persona 3 Portable - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 08).bin, CRC: e24f62a7
-- Persona 3 Portable - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 09).bin, CRC: e425ccea
-- Persona 3 Portable - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 10).bin, CRC: bef8fde1
-- Persona 3 Portable - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 11).bin, CRC: b286ab25
-- Persona 3 Portable - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 12).bin, CRC: 4d10504b
-- Persona 3 Portable - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 13).bin, CRC: 2785d966
-- Persona 3 Portable - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 14).bin, CRC: ec7f4134
-- Persona 3 Portable - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 15).bin, CRC: 1f0c3f53
-- Persona 3 Portable - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 16).bin, CRC: cc8edd2a
-- Persona 3 Portable - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 17).bin, CRC: dc034a63
-- Persona 3 Portable - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 18).bin, CRC: dcc34ce1
-- Persona 3 Portable - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 19).bin, CRC: ba825bb5
-- Persona 3 Portable - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 20).bin, CRC: 9f45bfe8
-- Persona 3 Portable - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 21).bin, CRC: 121dcc1d
-- Persona 3 Portable - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 22).bin, CRC: d57837f7
-- Persona 3 Portable - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 23).bin, CRC: a1b6579c
-- Persona 3 Portable - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 24).bin, CRC: d838e393
-- Persona 3 Portable - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 25).bin, CRC: db080ea3
-- Persona 3 Portable - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 26).bin, CRC: 6655ecc2
-- Persona 3 Portable - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 27).bin, CRC: a6688587
-- Persona 3 Portable - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 28).bin, CRC: 4131558e
-- Persona 3 Portable - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 29).bin, CRC: 469dc835
-- Persona 3 Portable - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 30).bin, CRC: 6eb914ca
-- Persona 3 Portable - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 31).bin, CRC: 6e99f873
-- Persona 3 Portable - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 32).bin, CRC: 6deede32
-- Persona 3 Portable - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 33).bin, CRC: 89e3a1b8
-- Persona 3 Portable - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 34).bin, CRC: 5935cabe
-- Persona 3 Portable - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 35).bin, CRC: cec87604
-- Persona 3 Portable - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 36).bin, CRC: 4088f70f
-- Persona 3 Portable - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 37).bin, CRC: d469e913
-</details>
-
-### Persona 3 Portable - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle)
-<details>
-<summary>ROMs</summary>
-
-- Persona 3 Portable - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 01).bin, CRC: 0e2801bb
-- Persona 3 Portable - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 02).bin, CRC: 2ed2574e
-- Persona 3 Portable - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 03).bin, CRC: b8f95c8b
-- Persona 3 Portable - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 04).bin, CRC: d656b66f
-- Persona 3 Portable - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 05).bin, CRC: 0b3293a8
-- Persona 3 Portable - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 06).bin, CRC: e2159229
-- Persona 3 Portable - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 07).bin, CRC: d6b01fc9
-- Persona 3 Portable - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 08).bin, CRC: b0efce22
-- Persona 3 Portable - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 09).bin, CRC: 1b807cc7
-- Persona 3 Portable - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 10).bin, CRC: b7a1e926
-- Persona 3 Portable - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 11).bin, CRC: e72eb6e8
-- Persona 3 Portable - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 12).bin, CRC: 5c6d2fd3
-- Persona 3 Portable - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 13).bin, CRC: 52ae9802
-- Persona 3 Portable - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 14).bin, CRC: 6a996b63
-- Persona 3 Portable - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 15).bin, CRC: 473e1d38
-- Persona 3 Portable - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 16).bin, CRC: 28b3bc1c
-- Persona 3 Portable - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 17).bin, CRC: c2c2ffdf
-- Persona 3 Portable - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 18).bin, CRC: 136e934f
-- Persona 3 Portable - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 19).bin, CRC: fe88b47d
-- Persona 3 Portable - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 20).bin, CRC: 853ddbd1
-- Persona 3 Portable - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 21).bin, CRC: 5d608d03
-- Persona 3 Portable - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 22).bin, CRC: d094435e
-- Persona 3 Portable - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 23).bin, CRC: ab80f500
-- Persona 3 Portable - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 24).bin, CRC: c67a4650
-- Persona 3 Portable - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 25).bin, CRC: b48f1158
-- Persona 3 Portable - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 26).bin, CRC: 0758d9f1
-- Persona 3 Portable - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 27).bin, CRC: c83016cc
-- Persona 3 Portable - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 28).bin, CRC: 9061e526
+- Path of Exile - Soundtrack (New Zealand) (PC Game Bundle) (Track 01).bin, CRC: 69385e25
+- Path of Exile - Soundtrack (New Zealand) (PC Game Bundle) (Track 02).bin, CRC: 62da781a
+- Path of Exile - Soundtrack (New Zealand) (PC Game Bundle) (Track 03).bin, CRC: 93e4759a
+- Path of Exile - Soundtrack (New Zealand) (PC Game Bundle) (Track 04).bin, CRC: 2aa03798
+- Path of Exile - Soundtrack (New Zealand) (PC Game Bundle) (Track 05).bin, CRC: 63b46ac5
+- Path of Exile - Soundtrack (New Zealand) (PC Game Bundle) (Track 06).bin, CRC: 2f80e78d
+- Path of Exile - Soundtrack (New Zealand) (PC Game Bundle) (Track 07).bin, CRC: cf5c3802
+- Path of Exile - Soundtrack (New Zealand) (PC Game Bundle) (Track 08).bin, CRC: 666c117d
+- Path of Exile - Soundtrack (New Zealand) (PC Game Bundle) (Track 09).bin, CRC: fa50970b
+- Path of Exile - Soundtrack (New Zealand) (PC Game Bundle) (Track 10).bin, CRC: b04f3989
+- Path of Exile - Soundtrack (New Zealand) (PC Game Bundle) (Track 11).bin, CRC: f231b764
+- Path of Exile - Soundtrack (New Zealand) (PC Game Bundle) (Track 12).bin, CRC: 502a86de
+- Path of Exile - Soundtrack (New Zealand) (PC Game Bundle) (Track 13).bin, CRC: cf6fa3d4
 </details>
 
 ### Pil Sound Gear (Japan) (PC Game Bundle)
@@ -1189,6 +1323,38 @@
 - Postujte Nase Znakove (Croatia) (PC Game Bundle) (Track 12).bin, CRC: 5f3f45a3
 </details>
 
+### Pure Song Garden! Sound Track Mirai Record! (Japan)
+<details>
+<summary>ROMs</summary>
+
+- Pure Song Garden! Sound Track Mirai Record! (Japan) (Track 01).bin, CRC: 2ad3727d
+- Pure Song Garden! Sound Track Mirai Record! (Japan) (Track 02).bin, CRC: 3bfa2cd4
+- Pure Song Garden! Sound Track Mirai Record! (Japan) (Track 03).bin, CRC: ee2ea6b2
+- Pure Song Garden! Sound Track Mirai Record! (Japan) (Track 04).bin, CRC: e44176de
+- Pure Song Garden! Sound Track Mirai Record! (Japan) (Track 05).bin, CRC: b2322089
+- Pure Song Garden! Sound Track Mirai Record! (Japan) (Track 06).bin, CRC: 3c98de7c
+- Pure Song Garden! Sound Track Mirai Record! (Japan) (Track 07).bin, CRC: a9aaac6b
+- Pure Song Garden! Sound Track Mirai Record! (Japan) (Track 08).bin, CRC: d9b97d68
+- Pure Song Garden! Sound Track Mirai Record! (Japan) (Track 09).bin, CRC: cfb0a92f
+- Pure Song Garden! Sound Track Mirai Record! (Japan) (Track 10).bin, CRC: 9aac26a7
+- Pure Song Garden! Sound Track Mirai Record! (Japan) (Track 11).bin, CRC: 6f5af379
+- Pure Song Garden! Sound Track Mirai Record! (Japan) (Track 12).bin, CRC: 1b77b464
+- Pure Song Garden! Sound Track Mirai Record! (Japan) (Track 13).bin, CRC: 4e429822
+- Pure Song Garden! Sound Track Mirai Record! (Japan) (Track 14).bin, CRC: d1dfcb88
+- Pure Song Garden! Sound Track Mirai Record! (Japan) (Track 15).bin, CRC: c4b56981
+- Pure Song Garden! Sound Track Mirai Record! (Japan) (Track 16).bin, CRC: ab1f3002
+- Pure Song Garden! Sound Track Mirai Record! (Japan) (Track 17).bin, CRC: 7300d58d
+- Pure Song Garden! Sound Track Mirai Record! (Japan) (Track 18).bin, CRC: 01b21268
+- Pure Song Garden! Sound Track Mirai Record! (Japan) (Track 19).bin, CRC: 3c9a8fe9
+- Pure Song Garden! Sound Track Mirai Record! (Japan) (Track 20).bin, CRC: 00504793
+- Pure Song Garden! Sound Track Mirai Record! (Japan) (Track 21).bin, CRC: fe8a8061
+- Pure Song Garden! Sound Track Mirai Record! (Japan) (Track 22).bin, CRC: cdaf0c14
+- Pure Song Garden! Sound Track Mirai Record! (Japan) (Track 23).bin, CRC: 1a1df89e
+- Pure Song Garden! Sound Track Mirai Record! (Japan) (Track 24).bin, CRC: dc60353b
+- Pure Song Garden! Sound Track Mirai Record! (Japan) (Track 25).bin, CRC: 36dc9c1e
+- Pure Song Garden! Sound Track Mirai Record! (Japan) (Track 26).bin, CRC: 29fcca68
+</details>
+
 ### Quartett! - Gengakukyoku Original Sound Track (Japan) (PC Game Bundle) (Track 9).bin, CRC: 3458116c
 ### R4 - Ridge Racer Type 4 - The 20th Anniv. Sounds (Japan) (Disc 2) (2nd Heat - Remastered Sounds) (Alt 2)
 <details>
@@ -1221,6 +1387,7 @@
 - R4 - Ridge Racer Type 4 - The 20th Anniv. Sounds (Japan) (Disc 2) (2nd Heat - Remastered Sounds) (Alt 2) (Track 25).bin, CRC: 09b10cd6
 </details>
 
+### Reflex - Original Soundtrack++ (Japan) (Disc 2) (Kamui & Reflection & Reflex Trial Version) (Track 14).bin, CRC: 2638019f
 ### Rei Chou Aniki Original Soundtrack (Japan)
 <details>
 <summary>ROMs</summary>
@@ -1230,6 +1397,100 @@
 - Rei Chou Aniki Original Soundtrack (Japan) (Track 3).bin, CRC: a1784551
 - Rei Chou Aniki Original Soundtrack (Japan) (Track 4).bin, CRC: 4e94dc8d
 - Rei Chou Aniki Original Soundtrack (Japan) (Track 5).bin, CRC: 7464b7d1
+</details>
+
+### Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1)
+<details>
+<summary>ROMs</summary>
+
+- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 01).bin, CRC: c9a035d8
+- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 02).bin, CRC: f3039e15
+- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 03).bin, CRC: cdab2ea7
+- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 04).bin, CRC: ae555fac
+- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 05).bin, CRC: 9d15149d
+- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 06).bin, CRC: 5f48f452
+- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 07).bin, CRC: 9f6c4389
+- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 08).bin, CRC: 9ae64769
+- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 09).bin, CRC: 8dd7beb8
+- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 10).bin, CRC: 2af2ae0d
+- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 11).bin, CRC: b4de4e80
+- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 12).bin, CRC: 42c535bc
+- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 13).bin, CRC: f8990a16
+- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 14).bin, CRC: 18f47b10
+- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 15).bin, CRC: 61784255
+- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 16).bin, CRC: 5a4ad499
+- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 17).bin, CRC: 530562ae
+- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 18).bin, CRC: 3102972e
+- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 19).bin, CRC: c68ff76b
+- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 20).bin, CRC: 36d6fcb4
+- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 21).bin, CRC: 7c077881
+- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 22).bin, CRC: fc19f5f6
+- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 23).bin, CRC: af0760b8
+- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 24).bin, CRC: 66a559f7
+- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 25).bin, CRC: 079ff19f
+- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 26).bin, CRC: 831fd53d
+- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 27).bin, CRC: 00543e97
+- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 28).bin, CRC: 91a47ab1
+- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 29).bin, CRC: 93d90d29
+- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 30).bin, CRC: 1e18a2ef
+- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 31).bin, CRC: 93f312e2
+- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 32).bin, CRC: 52fea844
+- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 33).bin, CRC: 128c45df
+- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 34).bin, CRC: 35e1997f
+- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 35).bin, CRC: b2aa0871
+- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 36).bin, CRC: 339deda8
+- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 37).bin, CRC: 5886c913
+- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 38).bin, CRC: 58d43e1c
+- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 39).bin, CRC: 2b2878b9
+- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 40).bin, CRC: 3a45c966
+- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 41).bin, CRC: 3fdf1d34
+- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 42).bin, CRC: db61582a
+- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 43).bin, CRC: f29a45c3
+- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 44).bin, CRC: 9df609b9
+- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 45).bin, CRC: ad48c4c6
+- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 46).bin, CRC: b42a85ec
+- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 47).bin, CRC: 38fb29b6
+- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 48).bin, CRC: 78f890f8
+- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 49).bin, CRC: 3ac9fce9
+- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 50).bin, CRC: 9b0c640e
+- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 51).bin, CRC: 57cfd04b
+- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 52).bin, CRC: 4cdddbf9
+- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 53).bin, CRC: 46a68d63
+- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 54).bin, CRC: f1d60c44
+- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 55).bin, CRC: 09311cdc
+- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 56).bin, CRC: 19606d60
+- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 57).bin, CRC: 2094922c
+- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 58).bin, CRC: a5411ae6
+- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 59).bin, CRC: f7873704
+</details>
+
+### Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 2)
+<details>
+<summary>ROMs</summary>
+
+- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 2) (Track 01).bin, CRC: f9fd7c0d
+- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 2) (Track 02).bin, CRC: be1e9aa5
+- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 2) (Track 03).bin, CRC: 04350b37
+- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 2) (Track 04).bin, CRC: a5096eb5
+- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 2) (Track 05).bin, CRC: 2ab0bc0d
+- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 2) (Track 06).bin, CRC: cb4dd564
+- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 2) (Track 07).bin, CRC: ebe99e7e
+- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 2) (Track 08).bin, CRC: 47f29888
+- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 2) (Track 09).bin, CRC: 73d5419f
+- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 2) (Track 10).bin, CRC: 1b4d7ecd
+- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 2) (Track 11).bin, CRC: 842271e7
+- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 2) (Track 12).bin, CRC: 0d902f4a
+- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 2) (Track 13).bin, CRC: 3719a04b
+- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 2) (Track 14).bin, CRC: 4874259b
+- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 2) (Track 15).bin, CRC: 4b61dfd8
+- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 2) (Track 16).bin, CRC: 63b3e2db
+- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 2) (Track 17).bin, CRC: 4557cb36
+- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 2) (Track 18).bin, CRC: 09e84a0f
+- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 2) (Track 19).bin, CRC: f64ea915
+- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 2) (Track 20).bin, CRC: 4635064f
+- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 2) (Track 21).bin, CRC: 57004897
+- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 2) (Track 22).bin, CRC: f28622ed
+- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 2) (Track 23).bin, CRC: aa30e4af
 </details>
 
 ### Rondo Leaflet Arrange Minialbum - Allow Time to Brew (Japan) (Track 7).bin, CRC: 7a7bf76f
@@ -1291,6 +1552,7 @@
 </details>
 
 ### Sega Game Music Vol. 2 (Japan) (Reprint) (Track 28).bin, CRC: 020b006c
+### Seifuku Kanojo 2 - Tori-oroshi Drama CD - Mio to Issho ni Training! (Japan) (NSW Game Bundle).bin, CRC: 80537c47
 ### Seiken Densetsu - Legend of Mana - Original Soundtrack (Japan) (Disc 1) (Track 01).bin, CRC: ea2cd7fe
 ### Seiken no Fairies - Les Chevalliers de Pucelles - Shokaiban Tokuten Extra CD (Japan) (PC Game Bundle) (Track 3).bin, CRC: ac6e196a
 ### Shadowgrounds Survivor - Original Soundtrack (Finland)
@@ -2234,5 +2496,34 @@
 - Wizardry Variants Daphne - Original Soundtrack (Japan) (Disc 2) (Track 18).bin, CRC: cda48a03
 - Wizardry Variants Daphne - Original Soundtrack (Japan) (Disc 2) (Track 19).bin, CRC: 9ef84b09
 - Wizardry Variants Daphne - Original Soundtrack (Japan) (Disc 2) (Track 20).bin, CRC: de5da191
+</details>
+
+### Yuru Camp - Have a Nice Day! - Original Sound Track (Japan) (NSW Game Bundle)
+<details>
+<summary>ROMs</summary>
+
+- Yuru Camp - Have a Nice Day! - Original Sound Track (Japan) (NSW Game Bundle) (Track 01).bin, CRC: b71aa1de
+- Yuru Camp - Have a Nice Day! - Original Sound Track (Japan) (NSW Game Bundle) (Track 02).bin, CRC: 7aa01f42
+- Yuru Camp - Have a Nice Day! - Original Sound Track (Japan) (NSW Game Bundle) (Track 03).bin, CRC: ebb3cb82
+- Yuru Camp - Have a Nice Day! - Original Sound Track (Japan) (NSW Game Bundle) (Track 04).bin, CRC: 30965821
+- Yuru Camp - Have a Nice Day! - Original Sound Track (Japan) (NSW Game Bundle) (Track 05).bin, CRC: 31ed619b
+- Yuru Camp - Have a Nice Day! - Original Sound Track (Japan) (NSW Game Bundle) (Track 06).bin, CRC: 5fb45c84
+- Yuru Camp - Have a Nice Day! - Original Sound Track (Japan) (NSW Game Bundle) (Track 07).bin, CRC: 8f701cbb
+- Yuru Camp - Have a Nice Day! - Original Sound Track (Japan) (NSW Game Bundle) (Track 08).bin, CRC: dfe46e12
+- Yuru Camp - Have a Nice Day! - Original Sound Track (Japan) (NSW Game Bundle) (Track 09).bin, CRC: 4e8fbc9c
+- Yuru Camp - Have a Nice Day! - Original Sound Track (Japan) (NSW Game Bundle) (Track 10).bin, CRC: 18eba93b
+- Yuru Camp - Have a Nice Day! - Original Sound Track (Japan) (NSW Game Bundle) (Track 11).bin, CRC: a114db96
+- Yuru Camp - Have a Nice Day! - Original Sound Track (Japan) (NSW Game Bundle) (Track 12).bin, CRC: 94b0a45f
+- Yuru Camp - Have a Nice Day! - Original Sound Track (Japan) (NSW Game Bundle) (Track 13).bin, CRC: cc9e9f5a
+- Yuru Camp - Have a Nice Day! - Original Sound Track (Japan) (NSW Game Bundle) (Track 14).bin, CRC: 7c89c18c
+- Yuru Camp - Have a Nice Day! - Original Sound Track (Japan) (NSW Game Bundle) (Track 15).bin, CRC: 0daf5415
+- Yuru Camp - Have a Nice Day! - Original Sound Track (Japan) (NSW Game Bundle) (Track 16).bin, CRC: fc2ba578
+- Yuru Camp - Have a Nice Day! - Original Sound Track (Japan) (NSW Game Bundle) (Track 17).bin, CRC: ac075318
+- Yuru Camp - Have a Nice Day! - Original Sound Track (Japan) (NSW Game Bundle) (Track 18).bin, CRC: a091984c
+- Yuru Camp - Have a Nice Day! - Original Sound Track (Japan) (NSW Game Bundle) (Track 19).bin, CRC: 10c86581
+- Yuru Camp - Have a Nice Day! - Original Sound Track (Japan) (NSW Game Bundle) (Track 20).bin, CRC: d19026ac
+- Yuru Camp - Have a Nice Day! - Original Sound Track (Japan) (NSW Game Bundle) (Track 21).bin, CRC: ce5ea950
+- Yuru Camp - Have a Nice Day! - Original Sound Track (Japan) (NSW Game Bundle) (Track 22).bin, CRC: 403efa64
+- Yuru Camp - Have a Nice Day! - Original Sound Track (Japan) (NSW Game Bundle) (Track 23).bin, CRC: ec57b898
 </details>
 
