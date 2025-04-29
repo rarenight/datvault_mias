@@ -1,5 +1,5 @@
 # Redump - IBM - PC compatible MIAs
-## Games: 3410, ROMs: 7683, as of 2025-04-27
+## Games: 3407, ROMs: 7680, as of 2025-04-28
 
 ### %% - Fuuin no Otome (Japan) (Track 10).bin, CRC: 4481aa75
 ### Alley 19 Bowling (Europe) (Track 5).bin, CRC: dc835204
@@ -5881,7 +5881,6 @@
 ### Pasiutusi Ferma 2 (Lithuania).bin, CRC: 5348d448
 ### Path of Exile (New Zealand) (Installer).iso, CRC: 50e6c733
 ### Pathways Through Jerusalem (USA) (Disc 1).bin, CRC: 98f1aadc
-### Patrician IV - Imperio de los Mares (Spain).iso, CRC: 55d393d3
 ### Pawarumi (France) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru).iso, CRC: fca4f50c
 ### PC Club Dekemvri 2004 (Bulgaria) (Disc 2).bin, CRC: 9ffdb19e
 ### PC Collector 11 (France) (Disc 3).bin, CRC: 38b0739a
@@ -6420,7 +6419,6 @@
 ### Quraish (UK) (En,Ar) (Disc 2).bin, CRC: d1b8e245
 ### Racing 8 - Hit Kolekcija (Croatia).bin, CRC: 5763c6aa
 ### Racing Simulation 3 (Europe) (En,Fr,De,Es,It) (Rerelease) (2003-09-30).bin, CRC: 319bb027
-### Rage of Mages II - Necromancer (Portugal).bin, CRC: abbbceb9
 ### Ragna (Japan) (Disc 1)
 <details>
 <summary>ROMs</summary>
@@ -8597,7 +8595,6 @@
 </details>
 
 ### Tatakae! Ore no Kenkyuujo!! (Japan).bin, CRC: 8d41d752
-### Taz - Wanted - Source Delivery DVD - Xbox for Far East (Europe) (Dev Assets).iso, CRC: 7414982f
 ### Team F1 (Europe)
 <details>
 <summary>ROMs</summary>
