@@ -1,5 +1,5 @@
 # No-Intro - Nintendo - Nintendo Switch MIAs
-## Games: 8, ROMs: 11, as of 2025-04-28
+## Games: 8, ROMs: 11, as of 2025-04-29
 
 ### Angry Alligator (Japan) (En,Ja,Zh-Hant,Zh-Hans,Ko)
 <details>

@@ -1,5 +1,5 @@
 # No-Intro - Nintendo - Game Boy (Private) MIAs
-## Games: 6, ROMs: 6, as of 2025-04-28
+## Games: 6, ROMs: 6, as of 2025-04-29
 
 ### Glory Hunters (World) (v1.1) (SGB Enhanced) (Aftermarket) (Unl).gb, CRC: e6d43ab2
 ### Leo Legend (World) (Aftermarket) (Unl).gb, CRC: 96b85ee6
