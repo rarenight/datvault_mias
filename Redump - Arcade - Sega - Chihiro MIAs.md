@@ -1,5 +1,5 @@
 # Redump - Arcade - Sega - Chihiro MIAs
-## Games: 1, ROMs: 2, as of 2025-04-29
+## Games: 1, ROMs: 2, as of 2025-04-30
 
 ### Sega Network Taisen Mahjong MJ2 (Japan) (Rev D)
 <details>
