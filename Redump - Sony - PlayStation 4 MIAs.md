@@ -1,5 +1,5 @@
 # Redump - Sony - PlayStation 4 MIAs
-## Games: 306, ROMs: 306, as of 2025-04-30
+## Games: 306, ROMs: 306, as of 2025-05-02
 
 ### 2Dark (Japan).iso, CRC: 51bd991f
 ### 8-Bit Adventure Anthology - Volume 1 (USA).iso, CRC: 1598191a
