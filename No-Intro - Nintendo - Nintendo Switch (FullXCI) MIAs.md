@@ -1,5 +1,5 @@
 # No-Intro - Nintendo - Nintendo Switch (FullXCI) MIAs
-## Games: 258, ROMs: 258, as of 2025-05-02
+## Games: 257, ROMs: 257, as of 2025-05-03
 
 ### 51 Worldwide Games (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh-Hant,Zh-Hans,Ko,Ru) (Rev 3).xci, CRC: ef6c1cee
 ### 60-in-1 Game Collection (Europe) (En,Fr,De,Es,It).xci, CRC: 73795e37
@@ -92,7 +92,6 @@
 ### Just Dance 2020 (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh-Hant,Zh-Hans,Ko,Ru).xci, CRC: dbda5103
 ### Kentucky Route Zero - TV Edition (USA) (En,Ja,Fr,De,Es,It,Ko,Ru).xci, CRC: dde1891e
 ### Kingdom Come Deliverance - Royal Edition (USA).xci, CRC: 0beb0ad7
-### Kirby and the Forgotten Land (World) (En,Ja,Fr,De,Es,It,Nl,Zh-Hant,Zh-Hans,Ko).xci, CRC: 9f67f3df
 ### Kirby Star Allies (World) (En,Ja,Fr,De,Es,It,Nl,Zh,Ko) (Rev 1).xci, CRC: fb474bf8
 ### Kirby Star Allies (World) (En,Ja,Fr,De,Es,It,Nl,Zh,Ko) (Rev 2).xci, CRC: 6c7a3e2f
 ### Kirby's Return to Dream Land Deluxe (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh-Hant,Zh-Hans,Ko).xci, CRC: 685a19d6

@@ -1,5 +1,5 @@
 # Redump - IBM - PC compatible MIAs
-## Games: 3407, ROMs: 7680, as of 2025-05-02
+## Games: 3387, ROMs: 7624, as of 2025-05-03
 
 ### %% - Fuuin no Otome (Japan) (Track 10).bin, CRC: 4481aa75
 ### Alley 19 Bowling (Europe) (Track 5).bin, CRC: dc835204
@@ -279,7 +279,6 @@
 - Alles fuer Rollenspiele (Germany) (Track 2).bin, CRC: 0a418e49
 </details>
 
-### Alltynex Second (Japan).bin, CRC: d7627d12
 ### Alone in the Dark - The New Nightmare (Japan) (Disc 1).bin, CRC: 1a950d6e
 ### Alone in the Dark - The New Nightmare (Japan) (Disc 2).bin, CRC: 6d6e10e2
 ### Alone in the Dark - The New Nightmare (Japan) (Disc 3).bin, CRC: 6b2054ce
@@ -526,7 +525,6 @@
 ### Arma - Armed Assault (Germany).iso, CRC: 6c42d52f
 ### Arma - Combat Operations (USA).iso, CRC: 16d08e4d
 ### Arma II - Operation Arrowhead (USA).iso, CRC: ea5f5b93
-### Armed Seven (Japan).bin, CRC: 0495fc3b
 ### Army Men II (Argentina).bin, CRC: 20bb7992
 ### Around the World (India).bin, CRC: 764486d7
 ### Arthur's Knights - Chapter II - The Secret of Merlin (Europe) (Disc 1).bin, CRC: 23603566
@@ -553,8 +551,6 @@
 ### Assassin's Creed - Director's Cut Edition (World) (En,Fr,De,Es,It) (OEM).iso, CRC: a3f190fd
 ### Assassin's Creed - Revelations (World) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Pl) (OEM).iso, CRC: 1b4b61ef
 ### Assassin's Creed II - Deluxe Edition (World) (En,Fr,De,Es,It,Nl,Sv,No,Da) (OEM).iso, CRC: 977462c8
-### Astebreed (Japan) (Trial C82).bin, CRC: fe4fb657
-### Astebreed (Japan) (Trial C84).bin, CRC: 0428e00c
 ### Asteroids (Japan)
 <details>
 <summary>ROMs</summary>
@@ -885,18 +881,6 @@
 ### Brothers in Arms - Road to Hill 30 (Asia).iso, CRC: 5390214b
 ### Bugs Bunny - Lost in Time (Europe) (Rerelease).bin, CRC: 3c2eaf1b
 ### Bukvenka (Bulgaria).bin, CRC: 0837f441
-### Bundesliga Manager Gold Edition (Germany)
-<details>
-<summary>ROMs</summary>
-
-- Bundesliga Manager Gold Edition (Germany) (Track 1).bin, CRC: 87456d33
-- Bundesliga Manager Gold Edition (Germany) (Track 2).bin, CRC: 3798e7af
-- Bundesliga Manager Gold Edition (Germany) (Track 3).bin, CRC: 31c35bcd
-- Bundesliga Manager Gold Edition (Germany) (Track 4).bin, CRC: 0e7085ff
-- Bundesliga Manager Gold Edition (Germany) (Track 5).bin, CRC: 11566b78
-- Bundesliga Manager Gold Edition (Germany) (Track 6).bin, CRC: 251e3e63
-</details>
-
 ### Bundesliga Manager Professional (Germany).bin, CRC: a15f9468
 ### Bunny na Hip (Japan)
 <details>
@@ -3213,7 +3197,6 @@
 - Gunman Chronicles (Spain) (Track 12).bin, CRC: ea402f59
 </details>
 
-### Gunners Heart - For Five Most Peaceful Days (Japan).bin, CRC: 6b3c5fe6
 ### Gunship! (Australia) (En,Fr,De).bin, CRC: e2da42c8
 ### Gustavinho em o Enigma da Esfinge (Brazil).bin, CRC: 73df843f
 ### Guy - Second Target - Ougon no Megami-hen (Japan).bin, CRC: 53ac032d
@@ -4119,27 +4102,6 @@
 ### Kalle Kunskap 2 - Tvaan - Kalabalik pa Ostoen (Sweden) (2006-05-02).bin, CRC: cf176440
 ### Kalle Kunskap 2 - Tvaan - Kalabalik pa Ostoen (Sweden) (2006-10-19).bin, CRC: 48ebe0c8
 ### Kamieshi Training School - Noa Side (Japan).bin, CRC: 193c9635
-### Kamui (Japan)
-<details>
-<summary>ROMs</summary>
-
-- Kamui (Japan) (Track 01).bin, CRC: e908f8aa
-- Kamui (Japan) (Track 02).bin, CRC: c36b90b6
-- Kamui (Japan) (Track 03).bin, CRC: 64a7c07f
-- Kamui (Japan) (Track 04).bin, CRC: 38c8dbb5
-- Kamui (Japan) (Track 05).bin, CRC: e345e8cd
-- Kamui (Japan) (Track 06).bin, CRC: 91febcad
-- Kamui (Japan) (Track 07).bin, CRC: aee1a9a3
-- Kamui (Japan) (Track 08).bin, CRC: 30cc14d7
-- Kamui (Japan) (Track 09).bin, CRC: 38d14b21
-- Kamui (Japan) (Track 10).bin, CRC: 068615d8
-- Kamui (Japan) (Track 11).bin, CRC: 8a0c7f41
-- Kamui (Japan) (Track 12).bin, CRC: 44d47aad
-- Kamui (Japan) (Track 13).bin, CRC: fe4cea51
-- Kamui (Japan) (Track 14).bin, CRC: c798ace9
-- Kamui (Japan) (Track 15).bin, CRC: 20a08a9a
-</details>
-
 ### Kanaete Ageru - Fuyu ga Kureta Present (Japan).bin, CRC: b0ec28a7
 ### Kane & Lynch - Dead Men (Germany) (En,Fr,De,Es,It).iso, CRC: 4ab88154
 ### Kanji no Mori no Robin Hood (Japan).bin, CRC: ecf1a59e
@@ -6618,8 +6580,6 @@
 ### Reel Deal Vegas Casino Experience (USA).bin, CRC: 0587562f
 ### Refine - Variety Package (Japan).bin, CRC: 22d9b2ff
 ### RefRain - Prism Memories (Japan) (C78 Relation Trial Ver.).bin, CRC: cde72b70
-### RefRain - Prism Memories (Japan) (v1.03.3).bin, CRC: fd57a6d7
-### RefRain - Prism Memories (Japan) (v1.03.5).bin, CRC: 8dd00663
 ### Rekishi Adventure-gata Typing Renshuu Soft - Ryouma ga Utsu (Japan).bin, CRC: 30b72015
 ### Relics - The Recur of Origin (Japan) (Rerelease)
 <details>
@@ -6825,7 +6785,6 @@
 ### RollerCoaster Tycoon 3 (Japan).bin, CRC: ebe88c50
 ### RollerCoaster World (Europe).bin, CRC: ec65cb0c
 ### RollerCoaster World (Europe) (F8E26303).bin, CRC: f8e26303
-### Rolling Gunner (Japan) (En,Ja).iso, CRC: 1a4c78da
 ### Rolling Marbles (Europe) (Rerelease) (2003-01-06).bin, CRC: 412f30d4
 ### Roman Reine (Japan) (Disc A).bin, CRC: 133c448a
 ### Romdia Series Vol. 29 - Satsui no Senritsu (Japan).bin, CRC: 033a42b1
@@ -7046,9 +7005,6 @@
 - Samgukji II 2000 Plus (Korea) (Track 15).bin, CRC: eab3e0cc
 </details>
 
-### Samidare (Japan) (Trial C67).bin, CRC: 9d044ad9
-### Samidare (Japan) (v1.052).bin, CRC: 5857e348
-### Samidare (Japan) (v1.053).bin, CRC: 901c6568
 ### Sammy's Science House (China) (En,Zh).bin, CRC: c277ed82
 ### Samorost 2 (Czech).bin, CRC: b5d1dbde
 ### Sandy's Circus Adventure (USA).bin, CRC: 51042a08
@@ -7188,7 +7144,6 @@
 </details>
 
 ### Sansuu Senshi Blaster - Anzan Power de Spot-kun o Sukue! (Japan).bin, CRC: 5eac78bc
-### Satazius (Japan).bin, CRC: 8fb6abad
 ### SATS Test & Learn English Key Stage 2 (UK) (Disc 1).bin, CRC: aed2d0a9
 ### SATS Test & Learn English Key Stage 2 (UK) (Disc 2).bin, CRC: 10c0a186
 ### SATS Test & Learn Maths Key Stage 2 (UK) (Disc 1).bin, CRC: 628d74d8
@@ -8249,37 +8204,6 @@
 - Star Wars - Galactic Battlegrounds - Clone Campaigns (Thailand) (Track 2).bin, CRC: aa296efd
 </details>
 
-### Star Wars - Jedi Knight (Germany) (Disc 1) (En) (Rerelease)
-<details>
-<summary>ROMs</summary>
-
-- Star Wars - Jedi Knight (Germany) (Disc 1) (En) (Rerelease) (Track 1).bin, CRC: 5d289fdb
-- Star Wars - Jedi Knight (Germany) (Disc 1) (En) (Rerelease) (Track 2).bin, CRC: 5df8f9c5
-- Star Wars - Jedi Knight (Germany) (Disc 1) (En) (Rerelease) (Track 3).bin, CRC: 52e655fb
-- Star Wars - Jedi Knight (Germany) (Disc 1) (En) (Rerelease) (Track 4).bin, CRC: 0254e09b
-- Star Wars - Jedi Knight (Germany) (Disc 1) (En) (Rerelease) (Track 5).bin, CRC: 93791570
-- Star Wars - Jedi Knight (Germany) (Disc 1) (En) (Rerelease) (Track 6).bin, CRC: 9bd8efdf
-- Star Wars - Jedi Knight (Germany) (Disc 1) (En) (Rerelease) (Track 7).bin, CRC: b2801596
-- Star Wars - Jedi Knight (Germany) (Disc 1) (En) (Rerelease) (Track 8).bin, CRC: fe9c1920
-</details>
-
-### Star Wars - Jedi Knight (Germany) (Disc 2) (En) (Rerelease)
-<details>
-<summary>ROMs</summary>
-
-- Star Wars - Jedi Knight (Germany) (Disc 2) (En) (Rerelease) (Track 02).bin, CRC: 2a63db96
-- Star Wars - Jedi Knight (Germany) (Disc 2) (En) (Rerelease) (Track 03).bin, CRC: 28fa3a1b
-- Star Wars - Jedi Knight (Germany) (Disc 2) (En) (Rerelease) (Track 04).bin, CRC: 7c37a51f
-- Star Wars - Jedi Knight (Germany) (Disc 2) (En) (Rerelease) (Track 05).bin, CRC: a0f53418
-- Star Wars - Jedi Knight (Germany) (Disc 2) (En) (Rerelease) (Track 06).bin, CRC: 8b1a0c15
-- Star Wars - Jedi Knight (Germany) (Disc 2) (En) (Rerelease) (Track 07).bin, CRC: ea58f2a0
-- Star Wars - Jedi Knight (Germany) (Disc 2) (En) (Rerelease) (Track 08).bin, CRC: 1a08bd52
-- Star Wars - Jedi Knight (Germany) (Disc 2) (En) (Rerelease) (Track 09).bin, CRC: 2f4b52d8
-- Star Wars - Jedi Knight (Germany) (Disc 2) (En) (Rerelease) (Track 10).bin, CRC: 395db2f1
-- Star Wars - Jedi Knight (Germany) (Disc 2) (En) (Rerelease) (Track 11).bin, CRC: 110a87eb
-- Star Wars - Jedi Knight (Germany) (Disc 2) (En) (Rerelease) (Track 12).bin, CRC: 0db489cf
-</details>
-
 ### Star Wars - Starfighter (Spain).bin, CRC: fa585d85
 ### Star Wars - The Clone Wars - Republic Heroes (Poland).iso, CRC: a9fb2d6c
 ### Star Wars - X-Wing Alliance (Poland) (Disc 1).bin, CRC: 118d3bef
@@ -8346,7 +8270,6 @@
 </details>
 
 ### Steel Empire (Korea).bin, CRC: 6d68e524
-### Steel Strider (Japan).bin, CRC: 4f44da77
 ### Steel Thunder - American Battle Tank Simulation (Europe).bin, CRC: bf27561a
 ### Steffy Nr. 8 (Romania).bin, CRC: 5e01728c
 ### Steffy Nr. 9 (Romania).bin, CRC: 736cfc1f
@@ -8492,8 +8415,6 @@
 </details>
 
 ### Supreme Commander (Europe) (En,Fr,De,Es,It,Pl) (Rerelease).iso, CRC: b0398498
-### Suzumiya Haruhi no Gyakuten! (Japan).bin, CRC: 2bb05ffe
-### Suzumiya Haruhi no Gyakuten! 3 (Japan).bin, CRC: c84f36e2
 ### SWAT 3 - Close Quarters Battle (France) (Elite Edition) (Rerelease).bin, CRC: 1f011c2a
 ### SWAT 3 - Close Quarters Battle (Hungary) (Elite Edition).bin, CRC: 2058aa55
 ### SWAT 4 (Hungary) (Disc 1) (Gold Edition).bin, CRC: 692538f3
@@ -9649,7 +9570,6 @@
 ### Wizkid - The Story of Wizball II (Europe) (En,Fr,De) (Hit Squad - Regenerator).bin, CRC: b7de14ea
 ### Wo Bei Shile Mofa - Flash Donghua Moshushi (China).bin, CRC: fa80c646
 ### Wo Bei Shile Mofa - Flash Donghua Moshushi (China) (Zengsongpan).bin, CRC: 7a4018f7
-### Wolflame (Japan).bin, CRC: 62277fea
 ### Wolfpack (USA).bin, CRC: d30e3083
 ### Wonderful World of Modhesh, The (United Arab Emirates) (En,Ar).bin, CRC: 00609ce9
 ### WordChess (Sweden)
