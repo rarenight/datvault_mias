@@ -1,5 +1,5 @@
 # Redump - IBM - PC compatible MIAs
-## Games: 3387, ROMs: 7624, as of 2025-05-03
+## Games: 3379, ROMs: 7593, as of 2025-05-03
 
 ### %% - Fuuin no Otome (Japan) (Track 10).bin, CRC: 4481aa75
 ### Alley 19 Bowling (Europe) (Track 5).bin, CRC: dc835204
@@ -1929,7 +1929,6 @@
 </details>
 
 ### Doko Demo Sukishite Itsu Demo Sukishite (Japan) (Demo).bin, CRC: 30c988ea
-### Doom 3 (France) (Disc 1).bin, CRC: a2f8286e
 ### Doomsday (Poland).iso, CRC: 823c899c
 ### Dorapeko (Japan) (Taikenban).bin, CRC: 236de1aa
 ### Double Clutch (Japan).iso, CRC: 2da615c4
@@ -2813,7 +2812,6 @@
 - Forsaken (Denmark) (Covermount) (Track 10).bin, CRC: 173d7d3a
 </details>
 
-### Fragile Allegiance (USA) (20 Saved Asteroid War Games).bin, CRC: 4d163f30
 ### Frane II - Seikai no Kiseki (Japan).bin, CRC: d3023633
 ### Freddi Fish 3 - De Zaak van de Gestolen Trompetschelp (Netherlands) (OEM).bin, CRC: 453f2cd0
 ### Freddi Fish en het Verhaal van de Verdwenen Zeewierzaadjes (Netherlands) (B8719043).bin, CRC: b8719043
@@ -3012,7 +3010,6 @@
 ### Goodbye Deponia (Germany).iso, CRC: f49940bf
 ### Goodbye Deponia (Germany) (En,Fr,De,Es,It,Pl,Ru) (Rerelease).iso, CRC: cb760360
 ### Gooka - Tajemnica Janatris (Poland).bin, CRC: f8f09b7a
-### Gore - Ultimate Soldier (Japan).bin, CRC: 4b329a96
 ### Gorky 17 (Korea).bin, CRC: 2b5f9378
 ### Gothic 3 (USA) (Collector's Edition).iso, CRC: c8aaf54d
 ### Gothic II - Gold Edition (Romania) (Covermount).iso, CRC: 46126f68
@@ -7441,43 +7438,6 @@
 </details>
 
 ### Shareware Magazine No. 1 (Greece) (En,El).bin, CRC: 2e601195
-### Shattered Steel (USA) (Alt)
-<details>
-<summary>ROMs</summary>
-
-- Shattered Steel (USA) (Alt) (Track 01).bin, CRC: f709ded4
-- Shattered Steel (USA) (Alt) (Track 02).bin, CRC: 73129fb9
-- Shattered Steel (USA) (Alt) (Track 03).bin, CRC: 51f4f8af
-- Shattered Steel (USA) (Alt) (Track 04).bin, CRC: f3655e1a
-- Shattered Steel (USA) (Alt) (Track 05).bin, CRC: 1af4735d
-- Shattered Steel (USA) (Alt) (Track 06).bin, CRC: a54a66d8
-- Shattered Steel (USA) (Alt) (Track 07).bin, CRC: 4216f47b
-- Shattered Steel (USA) (Alt) (Track 08).bin, CRC: 0d0bb0e2
-- Shattered Steel (USA) (Alt) (Track 09).bin, CRC: ad3b139f
-- Shattered Steel (USA) (Alt) (Track 10).bin, CRC: 74413497
-- Shattered Steel (USA) (Alt) (Track 11).bin, CRC: c667e4be
-- Shattered Steel (USA) (Alt) (Track 12).bin, CRC: f793e888
-- Shattered Steel (USA) (Alt) (Track 13).bin, CRC: 9204a492
-</details>
-
-### Shattered Steel (USA) (v1.01)
-<details>
-<summary>ROMs</summary>
-
-- Shattered Steel (USA) (v1.01) (Track 02).bin, CRC: a2198877
-- Shattered Steel (USA) (v1.01) (Track 03).bin, CRC: 409ffb5f
-- Shattered Steel (USA) (v1.01) (Track 04).bin, CRC: f7d144f2
-- Shattered Steel (USA) (v1.01) (Track 05).bin, CRC: 1c823275
-- Shattered Steel (USA) (v1.01) (Track 06).bin, CRC: 883b4d99
-- Shattered Steel (USA) (v1.01) (Track 07).bin, CRC: 1da21413
-- Shattered Steel (USA) (v1.01) (Track 08).bin, CRC: eb660cdd
-- Shattered Steel (USA) (v1.01) (Track 09).bin, CRC: 8269ca16
-- Shattered Steel (USA) (v1.01) (Track 10).bin, CRC: 3fced231
-- Shattered Steel (USA) (v1.01) (Track 11).bin, CRC: 5ed0c22b
-- Shattered Steel (USA) (v1.01) (Track 12).bin, CRC: 42c9c27f
-- Shattered Steel (USA) (v1.01) (Track 13).bin, CRC: 0d0f8fe3
-</details>
-
 ### Sheep (Europe) (En,Fr,De,Es,It) (Xplosiv).bin, CRC: 8f8a8839
 ### Sheep (Europe) (En,Fr,Es,It) (Rerelease).bin, CRC: e3891372
 ### Shen Hua (Taiwan).bin, CRC: 20c6e609
@@ -8575,7 +8535,6 @@
 ### Tetsudou Unten Simulation - Keisei Skyliner (Japan).bin, CRC: 19f936aa
 ### That's Life - The Ultimate Tool for The Sims (USA, Germany) (En,De).bin, CRC: ca1a46f1
 ### That's Life 2 - Shopping-Add-On fuer das Spiel Die Sims (Germany) (En,De).bin, CRC: bd734e1a
-### Chronicles of Narnia, The - Prince Caspian (Europe).iso, CRC: 75283159
 ### Talking Fish, The (USA) (En,Hy) (Rerelease).bin, CRC: 5599e1e8
 ### Worlds of Billy 2, The (Netherlands).bin, CRC: 6a9192b4
 ### Theme Park (Australia).bin, CRC: ce13403e
@@ -9217,8 +9176,6 @@
 ### Vampyre Story, A (Japan).iso, CRC: 161fac25
 ### Vanguard - Saga of Heroes (Germany) (En,De) (Disc 1).iso, CRC: b1cb6594
 ### Vanguard - Saga of Heroes (Germany) (En,De) (Disc 2).iso, CRC: 03075b4a
-### Versailles - Complot a la Cour du Roi Soleil (France) (Disc 1).bin, CRC: 051fbacb
-### Versailles - Complot a la Cour du Roi Soleil (France) (Disc 2).bin, CRC: 03272c0b
 ### Versailles 1685 - Intriga na Corte de Luis XIV (Brazil) (Disc 1).bin, CRC: 1dcde2d2
 ### Versailles 1685 - Intriga na Corte de Luis XIV (Brazil) (Disc 2).bin, CRC: a28b2270
 ### VFR Photographic Scenery Volume 4 - Northern England (UK) (Disc 1).bin, CRC: ddf2f1b8
