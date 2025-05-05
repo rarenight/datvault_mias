@@ -1,5 +1,5 @@
 # Redump - IBM - PC compatible MIAs
-## Games: 3379, ROMs: 7593, as of 2025-05-03
+## Games: 3365, ROMs: 7578, as of 2025-05-05
 
 ### %% - Fuuin no Otome (Japan) (Track 10).bin, CRC: 4481aa75
 ### Alley 19 Bowling (Europe) (Track 5).bin, CRC: dc835204
@@ -647,10 +647,6 @@
 ### Baldies (Poland) (Sold Out Software).bin, CRC: eba9e33e
 ### Baldur's Gate + Opowiesci z Wybrzeza Mieczy (Poland) (Disc 1).bin, CRC: 512406a7
 ### Baldur's Gate + Opowiesci z Wybrzeza Mieczy (Poland) (Disc 6) (Addon).bin, CRC: df5b3785
-### Baldur's Gate II - Shadows of Amn (France) (Disc 1).bin, CRC: 8c5ab98e
-### Baldur's Gate II - Shadows of Amn (France) (Disc 2).bin, CRC: 6c34d972
-### Baldur's Gate II - Shadows of Amn (France) (Disc 3).bin, CRC: 3e1722cc
-### Baldur's Gate II - Shadows of Amn (France) (Disc 4).bin, CRC: a3f99061
 ### Baldur's Gate II - Shadows of Amn (Taiwan) (Disc 1).bin, CRC: 9cfd67e1
 ### Baldur's Gate II - Shadows of Amn (Taiwan) (Disc 2).bin, CRC: a58a35f4
 ### Baldur's Gate II - Shadows of Amn (Taiwan) (Disc 3).bin, CRC: 1faf2737
@@ -940,7 +936,6 @@
 ### Call of Duty (Japan) (Disc 1) (Rerelease).bin, CRC: 27297d83
 ### Call of Duty (Japan) (Disc 2) (Rerelease).bin, CRC: cc312f16
 ### Call of Duty (Taiwan) (Demo).bin, CRC: 589a93e6
-### Call of Duty - World at War (France).iso, CRC: 095c3fad
 ### Call of Duty 2 (France)
 <details>
 <summary>ROMs</summary>
@@ -1139,9 +1134,6 @@
 ### Che Guevara (Lithuania).bin, CRC: 704c16d0
 ### Che Guevara (Poland).bin, CRC: 24b69644
 ### Chess Housers (Germany).bin, CRC: b92cbdad
-### Chessmaster 10eme Edition (France) (Disc 1).bin, CRC: eeec2b56
-### Chessmaster 10eme Edition (France) (Disc 2).bin, CRC: e94b1d89
-### Chessmaster 10eme Edition (France) (Disc 3).bin, CRC: 871dec53
 ### Chessmaster 3000, The (Europe) (Rerelease).bin, CRC: 52913b4e
 ### Chessmaster 9000 (France) (Disc 1).bin, CRC: 1714a0bd
 ### Chessmaster 9000 (France) (Disc 2).bin, CRC: f7c1d6c9
@@ -1228,14 +1220,7 @@
 ### Command & Conquer - Alarmstufe Rot 2 (Germany) (Alliierte) (Rerelease).bin, CRC: 0bee1857
 ### Command & Conquer - Alarmstufe Rot 2 (Germany) (Sowjets) (Rerelease).bin, CRC: a9e54ee5
 ### Command & Conquer - Alerte Rouge 2 (France) (Disc 1) (Allie).bin, CRC: 7a268191
-### Command & Conquer - Alerte Rouge 2 (France) (Disc 2) (Sovietique)
-<details>
-<summary>ROMs</summary>
-
-- Command & Conquer - Alerte Rouge 2 (France) (Disc 2) (Sovietique).bin, CRC: 7315a38d
-- Command & Conquer - Alerte Rouge 2 (France) (Disc 2) (Sovietique).bin, CRC: 47222173
-</details>
-
+### Command & Conquer - Alerte Rouge 2 (France) (Disc 2) (Sovietique).bin, CRC: 7315a38d
 ### Command & Conquer - Alerte Rouge 3 (France) (Rerelease).iso, CRC: 65d2daea
 ### Command & Conquer - Generals (Japan) (Disc 1).bin, CRC: 85dd303b
 ### Command & Conquer - Generals (Japan) (Disc 2).bin, CRC: 522f5b22
@@ -3490,7 +3475,6 @@
 ### Highland Warriors (Netherlands) (Disc 2).bin, CRC: a8cf0b9b
 ### Hikokumin ga Yatchimasu - Oyaji no Tekken (Japan).bin, CRC: cf442529
 ### Hilarius-Hiiri ja Suuri Sirkusseikkailu (Finland).bin, CRC: 302228d6
-### Historia Camelotu (Poland).bin, CRC: e47c6ab9
 ### Hitman - Contracts (Netherlands) (Disc 1) (Rerelease).bin, CRC: b603ddaf
 ### Hitman - Contracts (Netherlands) (Disc 2) (Rerelease).bin, CRC: 81d5dca8
 ### Hitman 2 - Silent Assassin (France).bin, CRC: 20d68048
@@ -5786,8 +5770,6 @@
 ### Opsys (Europe).bin, CRC: 2921ee69
 ### Orgazumi (Japan) (Disc 1).bin, CRC: a40de6e3
 ### Orgazumi (Japan) (Disc 2).bin, CRC: 76e6af6c
-### Original War (France) (Disc 1).bin, CRC: b0c33e1c
-### Original War (France) (Disc 2).bin, CRC: 5a33ada1
 ### Oryouri Jouzu - Kihon Kateiryouri-hen (Japan).bin, CRC: 5dbd1491
 ### Osef Minei Mischakim (Israel).bin, CRC: 8f198e38
 ### Outcast (France) (Disc 1).bin, CRC: fce98532
@@ -5802,7 +5784,6 @@
 </details>
 
 ### Outward (Europe) (En,Fr,De,Es,It).iso, CRC: cd4c3675
-### Overlord (Germany).iso, CRC: ea0894fa
 ### Oynayarak Ogreniyorum 1 (Turkey).bin, CRC: 1414e5ff
 ### Oyunlarla Dil Bilgisi Oyunlarla Matematik (Turkey).bin, CRC: 3fd6a001
 ### Ozawa-Ken+ (Japan).bin, CRC: 18a588de
@@ -8154,8 +8135,6 @@
 ### Star Wars - Empire at War - Forces of Corruption (Poland).iso, CRC: a5ba11f9
 ### Star Wars - Episode I - Racer (Poland).bin, CRC: d0383fde
 ### Star Wars - Force Commander (Germany) (Disc 1) (Rerelease) (2001-08-17).bin, CRC: 63ca655a
-### Star Wars - Galactic Battlegrounds (France) (Disc 1) (Installation) (Rerelease).bin, CRC: c6bb3d75
-### Star Wars - Galactic Battlegrounds (France) (Disc 2) (Jeu) (Rerelease).bin, CRC: 603b21ce
 ### Star Wars - Galactic Battlegrounds - Clone Campaigns (Thailand)
 <details>
 <summary>ROMs</summary>
