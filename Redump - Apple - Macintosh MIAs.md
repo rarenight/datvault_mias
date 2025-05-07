@@ -1,5 +1,5 @@
 # Redump - Apple - Macintosh MIAs
-## Games: 165, ROMs: 196, as of 2025-05-05
+## Games: 155, ROMs: 186, as of 2025-05-07
 
 ### 3-D Ultra Pinball (Japan).bin, CRC: 610eb45d
 ### 3DO Content Library, The (USA) (Disc 88) (Music & Sound Effects).bin, CRC: c157b11b
@@ -37,8 +37,6 @@
 ### BrainDead 13 (USA).bin, CRC: 6140cda5
 ### CD-ROM MacLife No. 1 (Japan).bin, CRC: 5c3b6de7
 ### CD-ROM MacLife No. 131 (Japan).bin, CRC: f3fffc00
-### CD-ROM MacLife No. 132 (Japan).bin, CRC: f06a668f
-### CD-ROM MacLife No. 133 (Japan).bin, CRC: 51ff439d
 ### CD-ROM MacLife No. 134 (Japan).bin, CRC: 0c8abdfe
 ### CD-ROM MacLife No. 135 (Japan).bin, CRC: c592f01e
 ### CD-ROM MacLife No. 136 (Japan).bin, CRC: 0d300bcb
@@ -53,7 +51,6 @@
 ### CD-ROM MacLife No. 149 (Japan).bin, CRC: 5bb6b803
 ### CD-ROM MacLife No. 150 (Japan).bin, CRC: dfd52dbe
 ### CD-ROM MacLife No. 151 (Japan).bin, CRC: 01e54fbd
-### CD-ROM MacLife No. 152 (Japan).bin, CRC: 74e0f27f
 ### CD-ROM MacLife No. 153 (Japan).bin, CRC: 2931c335
 ### CD-ROM MacLife No. 154 (Japan).bin, CRC: 78dfcf35
 ### CD-ROM MacLife No. 155 (Japan).bin, CRC: dc182800
@@ -127,15 +124,8 @@
 
 ### MacPeople 1998 No. 10 5.15 (Japan).bin, CRC: 749ae1fb
 ### MacPeople 1998 No. 12 6.15 (Japan).bin, CRC: c66b4d11
-### MacPeople 1998 No. 15 8.1 (Japan).bin, CRC: 3a976806
-### MacPeople 1998 No. 16 8.15-9.1 (Japan).bin, CRC: 0c20b39e
-### MacPeople 1998 No. 18 9.15 (Japan).bin, CRC: bd99e43a
 ### MacPeople 1998 No. 20 10.15 (Japan).bin, CRC: 201e77a4
-### MacPeople 1998 No. 4 2.15 (Japan).bin, CRC: d3c269ea
-### MacPeople 1998 No. 8 4.15 (Japan).bin, CRC: cc0b2bfe
 ### MacPeople 1999 No. 1 1.1 (Japan).bin, CRC: a6d05812
-### MacPeople 1999 No. 10 5.15 (Japan).bin, CRC: 8b7a4e5a
-### MacPeople 1999 No. 11 6.1 (Japan).bin, CRC: 3148c71f
 ### MacPeople 1999 No. 15 8.1 (Japan).bin, CRC: a42dc937
 ### MacPeople 1999 No. 22 11.15 (Japan).bin, CRC: 8e220e2d
 ### MacPeople 1999 No. 7 4.1 (Japan).bin, CRC: 149c349e

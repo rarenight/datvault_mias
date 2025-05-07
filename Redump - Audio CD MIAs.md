@@ -1,5 +1,5 @@
 # Redump - Audio CD MIAs
-## Games: 153, ROMs: 1962, as of 2025-05-05
+## Games: 149, ROMs: 1938, as of 2025-05-07
 
 ### 16Bit Rhythm Land - Original Sound Track (Japan) (Mega Drive Game Bundle)
 <details>
@@ -231,16 +231,6 @@
 </details>
 
 ### Chocobo no Fushigi na Dungeon - Original Soundtrack (Japan) (Disc 2) (Special Pack CD) (SSCX 10014) (Track 2).bin, CRC: b7c42356
-### Conroy Bumpus - Live From Bumpusville (USA) (PC Game Bundle)
-<details>
-<summary>ROMs</summary>
-
-- Conroy Bumpus - Live From Bumpusville (USA) (PC Game Bundle) (Track 1).bin, CRC: 6a94bc5e
-- Conroy Bumpus - Live From Bumpusville (USA) (PC Game Bundle) (Track 2).bin, CRC: 5b30776f
-- Conroy Bumpus - Live From Bumpusville (USA) (PC Game Bundle) (Track 3).bin, CRC: 38aaf12a
-- Conroy Bumpus - Live From Bumpusville (USA) (PC Game Bundle) (Track 4).bin, CRC: 8f29252a
-</details>
-
 ### Cotton - Original Soundtrack (Japan) (Disc 3) (Track 48).bin, CRC: 08bb35a4
 ### Dark Souls III - Original Soundtrack (Japan)
 <details>
@@ -294,20 +284,6 @@
 - Diablo II (Poland) (PC Game Bundle) (Track 15).bin, CRC: 08cdbfde
 - Diablo II (Poland) (PC Game Bundle) (Track 16).bin, CRC: 6436bcbd
 - Diablo II (Poland) (PC Game Bundle) (Track 17).bin, CRC: 8e63d57d
-</details>
-
-### Donkey Kong Country - Go Ape! (UK) (SNES Game Bundle)
-<details>
-<summary>ROMs</summary>
-
-- Donkey Kong Country - Go Ape! (UK) (SNES Game Bundle) (Track 1).bin, CRC: ca18a8a9
-- Donkey Kong Country - Go Ape! (UK) (SNES Game Bundle) (Track 2).bin, CRC: 3f97ae76
-- Donkey Kong Country - Go Ape! (UK) (SNES Game Bundle) (Track 3).bin, CRC: 9a9fc8bd
-- Donkey Kong Country - Go Ape! (UK) (SNES Game Bundle) (Track 4).bin, CRC: b8d06016
-- Donkey Kong Country - Go Ape! (UK) (SNES Game Bundle) (Track 5).bin, CRC: aca47116
-- Donkey Kong Country - Go Ape! (UK) (SNES Game Bundle) (Track 6).bin, CRC: ec861539
-- Donkey Kong Country - Go Ape! (UK) (SNES Game Bundle) (Track 7).bin, CRC: 95b3c6a2
-- Donkey Kong Country - Go Ape! (UK) (SNES Game Bundle) (Track 8).bin, CRC: c025c922
 </details>
 
 ### Double Dragon - Sound Collection Vol. 1 (Japan) (Disc 1) (Track 51).bin, CRC: 2f919305
@@ -1387,7 +1363,6 @@
 - R4 - Ridge Racer Type 4 - The 20th Anniv. Sounds (Japan) (Disc 2) (2nd Heat - Remastered Sounds) (Alt 2) (Track 25).bin, CRC: 09b10cd6
 </details>
 
-### Reflex - Original Soundtrack++ (Japan) (Disc 2) (Kamui & Reflection & Reflex Trial Version) (Track 14).bin, CRC: 2638019f
 ### Rei Chou Aniki Original Soundtrack (Japan)
 <details>
 <summary>ROMs</summary>
@@ -1622,23 +1597,6 @@
 - Shirotsumesouwa - Episode of the Clovers - Original Soundtrack CD (Japan) (PC Game Bundle) (Track 13).bin, CRC: b446f9e3
 - Shirotsumesouwa - Episode of the Clovers - Original Soundtrack CD (Japan) (PC Game Bundle) (Track 14).bin, CRC: 30c56429
 - Shirotsumesouwa - Episode of the Clovers - Original Soundtrack CD (Japan) (PC Game Bundle) (Track 15).bin, CRC: 25f405af
-</details>
-
-### Sims, The - Celebrating 100 Million Sold - Music CD (Europe)
-<details>
-<summary>ROMs</summary>
-
-- Sims, The - Celebrating 100 Million Sold - Music CD (Europe) (Track 01).bin, CRC: e0ca2c07
-- Sims, The - Celebrating 100 Million Sold - Music CD (Europe) (Track 02).bin, CRC: cf7ee942
-- Sims, The - Celebrating 100 Million Sold - Music CD (Europe) (Track 03).bin, CRC: 7072c09c
-- Sims, The - Celebrating 100 Million Sold - Music CD (Europe) (Track 04).bin, CRC: 1950b61b
-- Sims, The - Celebrating 100 Million Sold - Music CD (Europe) (Track 05).bin, CRC: 03da9e4b
-- Sims, The - Celebrating 100 Million Sold - Music CD (Europe) (Track 06).bin, CRC: f542bfd5
-- Sims, The - Celebrating 100 Million Sold - Music CD (Europe) (Track 07).bin, CRC: 3c6e87f6
-- Sims, The - Celebrating 100 Million Sold - Music CD (Europe) (Track 08).bin, CRC: 20abd7bc
-- Sims, The - Celebrating 100 Million Sold - Music CD (Europe) (Track 09).bin, CRC: cc3a34a5
-- Sims, The - Celebrating 100 Million Sold - Music CD (Europe) (Track 10).bin, CRC: c4aac74e
-- Sims, The - Celebrating 100 Million Sold - Music CD (Europe) (Track 11).bin, CRC: d6f0ad6d
 </details>
 
 ### SNK Arcade Sound Digital Collection Vol. 13 (Japan) (Disc 1) (Track 21).bin, CRC: eef41ce3

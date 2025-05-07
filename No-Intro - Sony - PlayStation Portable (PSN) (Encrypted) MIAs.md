@@ -1,5 +1,5 @@
 # No-Intro - Sony - PlayStation Portable (PSN) (Encrypted) MIAs
-## Games: 5, ROMs: 5, as of 2025-05-05
+## Games: 5, ROMs: 5, as of 2025-05-07
 
 ### JP0018-NPJH00066_00-DDGAMEX002001000-A0101-V0100-PE.pkg, CRC: 413175a6
 ### JP0700-NPJH50832_00-GAMEUPDATE000001-A0101-V0100-PE.pkg, CRC: e5290676

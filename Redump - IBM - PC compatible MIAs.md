@@ -1,5 +1,5 @@
 # Redump - IBM - PC compatible MIAs
-## Games: 3365, ROMs: 7578, as of 2025-05-05
+## Games: 3356, ROMs: 7569, as of 2025-05-07
 
 ### %% - Fuuin no Otome (Japan) (Track 10).bin, CRC: 4481aa75
 ### Alley 19 Bowling (Europe) (Track 5).bin, CRC: dc835204
@@ -5054,8 +5054,6 @@
 - Messiah (Poland) (Disc 2) (Plyta z Muzyka) (Track 32).bin, CRC: e1da19dc
 </details>
 
-### Metal Gear Solid (France) (Disc 1).bin, CRC: d0a7694b
-### Metal Gear Solid (France) (Disc 2).bin, CRC: b29301ef
 ### Metal Gear Solid 2 - Substance (China) (Disc 1) (CD Version).bin, CRC: 833a8558
 ### Metal Gear Solid 2 - Substance (China) (Disc 2) (CD Version).bin, CRC: 3687f67a
 ### Metal Gear Solid 2 - Substance (China) (Disc 3) (CD Version).bin, CRC: 82bb3080
@@ -6961,7 +6959,6 @@
 ### Sam & Max - Beyond Time and Space (USA) (En,Fr,De,It).iso, CRC: ed5a2eb7
 ### Sam & Max - Season One (Germany) (En,Fr,De,Es,It) (Rerelease).iso, CRC: c03767b8
 ### Sam & Max - Season One (Hungary).iso, CRC: 5dd67336
-### Sam & Max Hit the Road (USA) (Limited Run Games).iso, CRC: ecc48495
 ### Samgukji II 2000 Plus (Korea)
 <details>
 <summary>ROMs</summary>
@@ -9583,8 +9580,6 @@
 ### Worms 3D (Czech) (Pl,Cs,Sk) (Disc 1).bin, CRC: 465a1d4b
 ### Worms 3D (Czech) (Pl,Cs,Sk) (Disc 2).bin, CRC: e4df91fc
 ### Worms 3D (Hungary) (En,Fr,De,Es,It) (Disc 2).bin, CRC: c5a3af81
-### Worms 3D (Poland) (Disc 1).bin, CRC: 2e057c36
-### Worms 3D (Poland) (Disc 2).bin, CRC: ef7d60e4
 ### Worms World Party (Poland).bin, CRC: 910c3913
 ### WWII - Battle Strike (USA).bin, CRC: 69319745
 ### WWII Online - Blitzkrieg (USA).bin, CRC: b92d9f69
@@ -9663,10 +9658,6 @@
 ### Yak Druzhyly Vovk ta Zayets' (Ukraine).bin, CRC: ed82a490
 ### Yakouga 5 (Japan).bin, CRC: 47a6cdf9
 ### Yaraticiligimi Gelistiriyorum (Turkey).bin, CRC: b70cd3e5
-### Yasojima Daigaku Jingai Emaki - Ichi (Japan).bin, CRC: 97233a5c
-### Yasojima Daigaku Jingai Emaki - Ni (Japan).bin, CRC: 303ee41f
-### Yasojima Daigaku Jingai Emaki - San (Japan).bin, CRC: 943c2c23
-### Yasojima Daigaku Jingai Emaki - Yon (Japan).bin, CRC: f62e2578
 ### Yatterman Typing - Doronbow no Oshioki Dabeee (Japan).bin, CRC: 08400842
 ### Yetisports World Tour (Germany).bin, CRC: e873ccfa
 ### Yinyue Diantang (China).bin, CRC: ed26c1f8
