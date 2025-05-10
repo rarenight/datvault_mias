@@ -1,5 +1,5 @@
 # Redump - Sony - PlayStation 4 MIAs
-## Games: 306, ROMs: 306, as of 2025-05-07
+## Games: 305, ROMs: 305, as of 2025-05-10
 
 ### 2Dark (Japan).iso, CRC: 51bd991f
 ### 8-Bit Adventure Anthology - Volume 1 (USA).iso, CRC: 1598191a
@@ -90,7 +90,6 @@
 ### Fallen Legion - Flames of Rebellion (USA) (En,Ja,Zh,Ko,Ru).iso, CRC: 93abc811
 ### Fallout 4 (Japan).iso, CRC: 97d544fc
 ### Far Cry 5 (Europe, Asia) (En,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Cs).iso, CRC: 1cca7178
-### Far Cry 5 (Japan).iso, CRC: 4cf6ac1a
 ### Farming Simulator 15 (Japan).iso, CRC: 5d63c7d9
 ### Final Fantasy Crystal Chronicles - Remastered Edition (Japan).iso, CRC: 179851e1
 ### Final Fantasy I-VI Collection (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru,Th).iso, CRC: 6d4b32fe

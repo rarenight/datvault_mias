@@ -1,5 +1,5 @@
 # Redump - Microsoft - Xbox MIAs
-## Games: 10, ROMs: 10, as of 2025-05-07
+## Games: 11, ROMs: 11, as of 2025-05-10
 
 ### 007 - Everything or Nothing (Asia).iso, CRC: 31a913c5
 ### Colin McRae Rally 04 (Asia).iso, CRC: 13242a24
@@ -11,3 +11,4 @@
 ### Official Xbox Playable Cheats, The (UK).iso, CRC: 1cb40d67
 ### Painkiller - Hell Wars (USA) (Beta) (2005-10-18).iso, CRC: 3f99c722
 ### Sphinx and the Cursed Mummy (Korea).iso, CRC: 2c366578
+### SSX Tricky (Korea).iso, CRC: 42be40f7

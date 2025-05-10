@@ -1,5 +1,5 @@
 # Redump - Apple - Macintosh MIAs
-## Games: 155, ROMs: 186, as of 2025-05-07
+## Games: 154, ROMs: 185, as of 2025-05-10
 
 ### 3-D Ultra Pinball (Japan).bin, CRC: 610eb45d
 ### 3DO Content Library, The (USA) (Disc 88) (Music & Sound Effects).bin, CRC: c157b11b
@@ -105,7 +105,6 @@
 ### Guitar Hero III - Legends of Rock (Europe).iso, CRC: ed577f74
 ### Halo - Combat Evolved (Japan).bin, CRC: 48342b1d
 ### Halo - Combat Evolved (USA) (Alt).bin, CRC: 07f0a0b0
-### Harry Potter und der Stein der Weisen (Germany).bin, CRC: 592649b2
 ### Harry Potter und die Kammer des Schreckens (Germany).bin, CRC: e31cd04f
 ### Hell - A Cyberpunk Thriller (Japan).bin, CRC: ff96379c
 ### Kana - Imouto (Japan).bin, CRC: 00df668a

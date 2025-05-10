@@ -1,5 +1,5 @@
 # Redump - IBM - PC compatible MIAs
-## Games: 3356, ROMs: 7569, as of 2025-05-07
+## Games: 3343, ROMs: 7534, as of 2025-05-10
 
 ### %% - Fuuin no Otome (Japan) (Track 10).bin, CRC: 4481aa75
 ### Alley 19 Bowling (Europe) (Track 5).bin, CRC: dc835204
@@ -3724,7 +3724,6 @@
 
 ### Iberia (UK).bin, CRC: 450c25be
 ### Ice Age 2 - Aktivitets CD-ROM (Denmark).bin, CRC: 4d85299b
-### Icewind Dale (USA) (Disc 2) (Rerelease).bin, CRC: 355d46dc
 ### Icewind Dale + Heart of Winter + Trials of Luremaster (Poland) (Disc 1).bin, CRC: 7bca01eb
 ### Icewind Dale + Heart of Winter + Trials of Luremaster (Poland) (Disc 1) (Rerelease).bin, CRC: 86292cdf
 ### Icewind Dale + Heart of Winter + Trials of Luremaster (Poland) (Disc 2).bin, CRC: 20495470
@@ -4538,7 +4537,6 @@
 ### Linos Mylimiausias Restoranas (Lithuania).bin, CRC: e48f50a1
 ### Lionheart - Legacy of the Crusader (Poland) (Disc 1).bin, CRC: 78439c25
 ### Lionheart - Legacy of the Crusader (Poland) (Disc 2).bin, CRC: 1325d3ca
-### Lionheart - Legacy of the Crusdader (USA) (Bonus Disc).bin, CRC: f08ca878
 ### LIPs the Agent 1 - Kuchibiru wa Kiken no Kaori (Japan).bin, CRC: 8ba40122
 ### Lipstick Adv. 4 - Wallpaper Collection (Japan) (Special Disc) (PC Game Bundle).bin, CRC: dce45fec
 ### Little de Bitch! R - Kondo wa Momoka ga Ijimete Ageru (Japan).bin, CRC: 544c3d97
@@ -5723,16 +5721,6 @@
 ### Obscure (Germany) (De,Es) (Rerelease) (2006-01-05).iso, CRC: 82afddbb
 ### Ochazukenori - Kaiki!! Mushi Danshaku no Yakata (Japan).bin, CRC: 76c2a022
 ### Odlikas za Prvake (Serbia).bin, CRC: 64d94650
-### Official Guide to The Daedalus Encounter, The - Companion Disc (USA, Canada)
-<details>
-<summary>ROMs</summary>
-
-- Official Guide to The Daedalus Encounter, The - Companion Disc (USA, Canada) (Track 1).bin, CRC: 35f129fc
-- Official Guide to The Daedalus Encounter, The - Companion Disc (USA, Canada) (Track 2).bin, CRC: ee2dc04c
-- Official Guide to The Daedalus Encounter, The - Companion Disc (USA, Canada) (Track 3).bin, CRC: 72c9b3a9
-- Official Guide to The Daedalus Encounter, The - Companion Disc (USA, Canada) (Track 4).bin, CRC: 5b3545d9
-</details>
-
 ### Oksfordzka Encyklopedia Historii Swiata. Tom II (Poland).bin, CRC: 3045c6eb
 ### On Air (Japan)
 <details>
@@ -5773,14 +5761,6 @@
 ### Outcast (France) (Disc 1).bin, CRC: fce98532
 ### Outlaws (France) (Disc 1) (Rerelease) (1998-04-28).bin, CRC: 99f78cbf
 ### Outlaws (France) (Disc 2) (Rerelease) (1998-04-28).bin, CRC: 7e12bd8a
-### Outlaws (USA) (Demonstration Program)
-<details>
-<summary>ROMs</summary>
-
-- Outlaws (USA) (Demonstration Program) (Track 1).bin, CRC: 17d1cb87
-- Outlaws (USA) (Demonstration Program) (Track 4).bin, CRC: 04363aa3
-</details>
-
 ### Outward (Europe) (En,Fr,De,Es,It).iso, CRC: cd4c3675
 ### Oynayarak Ogreniyorum 1 (Turkey).bin, CRC: 1414e5ff
 ### Oyunlarla Dil Bilgisi Oyunlarla Matematik (Turkey).bin, CRC: 3fd6a001
@@ -6661,17 +6641,6 @@
 ### Richard Burns Rally (Czech).iso, CRC: 0fcfa5a9
 ### Richard Garriott's Tabula Rasa (USA).iso, CRC: 77b99867
 ### Rift (Australia) (En,Fr,De).iso, CRC: 4b95e3c3
-### Riot (Taiwan)
-<details>
-<summary>ROMs</summary>
-
-- Riot (Taiwan) (Track 1).bin, CRC: ab54fd97
-- Riot (Taiwan) (Track 2).bin, CRC: 7ea45094
-- Riot (Taiwan) (Track 3).bin, CRC: 2a972df8
-- Riot (Taiwan) (Track 4).bin, CRC: 34785290
-- Riot (Taiwan) (Track 5).bin, CRC: dc6ff133
-</details>
-
 ### RIP (UK).bin, CRC: 2e829fb4
 ### Ripley's Believe It or Not - The Riddle of Master Lu (Europe).bin, CRC: 663db72e
 ### Rise & Fall - Civilizations at War (Europe) (En,Fr,De,Es,It) (Demo).bin, CRC: 98925d91
@@ -7394,27 +7363,6 @@
 - Shanghai Gensoutan - Teito Kitan Gaiden (Japan) (Disc Otsu) (Track 16).bin, CRC: e70ad413
 </details>
 
-### Shaolin Shiba Tongren (Taiwan)
-<details>
-<summary>ROMs</summary>
-
-- Shaolin Shiba Tongren (Taiwan) (Track 01).bin, CRC: 093a198c
-- Shaolin Shiba Tongren (Taiwan) (Track 02).bin, CRC: 278b576c
-- Shaolin Shiba Tongren (Taiwan) (Track 29).bin, CRC: 9725af1d
-- Shaolin Shiba Tongren (Taiwan) (Track 30).bin, CRC: b94eabea
-- Shaolin Shiba Tongren (Taiwan) (Track 18).bin, CRC: b1363c76
-- Shaolin Shiba Tongren (Taiwan) (Track 19).bin, CRC: c9a1431d
-- Shaolin Shiba Tongren (Taiwan) (Track 20).bin, CRC: 1e2cc23c
-- Shaolin Shiba Tongren (Taiwan) (Track 21).bin, CRC: 9c1ef5e1
-- Shaolin Shiba Tongren (Taiwan) (Track 22).bin, CRC: 8165b48b
-- Shaolin Shiba Tongren (Taiwan) (Track 23).bin, CRC: 84d5b31a
-- Shaolin Shiba Tongren (Taiwan) (Track 24).bin, CRC: e8638b48
-- Shaolin Shiba Tongren (Taiwan) (Track 25).bin, CRC: 30f56aa7
-- Shaolin Shiba Tongren (Taiwan) (Track 26).bin, CRC: 78ca6e4e
-- Shaolin Shiba Tongren (Taiwan) (Track 27).bin, CRC: 935ace5f
-- Shaolin Shiba Tongren (Taiwan) (Track 28).bin, CRC: 00d77d62
-</details>
-
 ### Shareware Magazine No. 1 (Greece) (En,El).bin, CRC: 2e601195
 ### Sheep (Europe) (En,Fr,De,Es,It) (Xplosiv).bin, CRC: 8f8a8839
 ### Sheep (Europe) (En,Fr,Es,It) (Rerelease).bin, CRC: e3891372
@@ -7656,7 +7604,6 @@
 ### Sims 2, The - Bon Voyage (Expansion Pack) (Germany) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,Cs,Hu).iso, CRC: ad4f0273
 ### Sims 2, The - Double Deluxe (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,Cs,Hu) (Rerelease).iso, CRC: 3f92f237
 ### Sims 2, The - Fashion Stuff (Australia) (En,Fr,De,Es,It,Nl,Pt,No,Da,Fi,Pl,Ru,Cs,Hu).bin, CRC: e4437133
-### Sims 2, The - Nightlife (Expansion Pack) (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Cs,Hu) (Disc 1).bin, CRC: 78751e74
 ### Sims 2, The - Teenager Pack (Japan).bin, CRC: cfd2f6ff
 ### Sims 2, The - University (Expansion Pack) (Germany) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Cs) (Disc 1).bin, CRC: 7b6e5789
 ### Sims 2, The - University (Expansion Pack) (Germany) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Cs) (Disc 2).bin, CRC: a835831e
@@ -7956,7 +7903,6 @@
 - Sorcerian Forever (Japan) (Rerelease) (Alt) (Track 20).bin, CRC: cfd688aa
 </details>
 
-### Sorcerian Original (Japan).bin, CRC: 44859cfb
 ### Sotsugyou II - Neo Generation (Japan)
 <details>
 <summary>ROMs</summary>
@@ -9248,7 +9194,6 @@
 ### War in the Gulf (Europe) (En,Fr,De,Es).bin, CRC: d7cf5c00
 ### War of the Tribes (Israel).bin, CRC: b3eb4812
 ### War Wind II - Human Onslaught (France).bin, CRC: 9f36f2d8
-### WarCraft - Orcs & Humans (USA) (Alt).bin, CRC: 826c01f8
 ### WarCraft II - Alem do Portal Escuro (Expansion Set) (Brazil).bin, CRC: af37ee45
 ### WarCraft II - Battle.net Edition (Spain) (Rerelease).bin, CRC: 44f0023c
 ### WarCraft II - Ondas de Terror (Brazil)
@@ -9708,10 +9653,6 @@
 - Youkai Ningen Bem - Arata naru Tamashii no Meikyuu (Japan) (Disc 2) (Data Base).bin, CRC: fae3d155
 </details>
 
-### Youxi Baoxia (China) (Disc 1) (Maoxian Zhi Zhang).bin, CRC: 474ee04e
-### Youxi Baoxia (China) (Disc 2) (Zhihui Zhi Zhang).bin, CRC: 0e668e69
-### Youxi Baoxia (China) (Disc 3) (Shiqu Zhi Zhang).bin, CRC: 65c4edfe
-### Youxi Baoxia (China) (Disc 4) (Yongzhe Zhi Zhang).bin, CRC: b76bc87f
 ### Youxi Buwan Jihua 2 (Taiwan).bin, CRC: 5ef46def
 ### Youxi Xiugai Dashi - Zheng Ren Zhuanjia 5.0 (China) (En,Zh).bin, CRC: 502a2193
 ### Ys - Origin (Japan) (Rerelease).iso, CRC: b261df5e
