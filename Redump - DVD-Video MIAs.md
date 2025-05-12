@@ -1,5 +1,5 @@
 # Redump - DVD-Video MIAs
-## Games: 196, ROMs: 196, as of 2025-05-10
+## Games: 195, ROMs: 195, as of 2025-05-12
 
 ### 2002 Autumn Tokyo Game Show (Taiwan).iso, CRC: 92c99685
 ### 3-nen B-gumi Kinpachi Sensei - Densetsu no Kyoudan ni Tate! Promotion Video-2 (Japan).iso, CRC: d346598e
@@ -51,7 +51,6 @@
 ### Forza Motorsport (Europe) (En,Fr,De,Es) (Limited Edition Bonus Content).iso, CRC: 99672b1e
 ### G1 Jockey 4 + Nobunaga no Yabou - Kakushin (Japan).iso, CRC: 263d5008
 ### Games Aktuell 10-10 (Germany) (Seite 1).iso, CRC: 1e07c3f9
-### Grinch, The (Korea) (En,Es,Pt,Zh,Ko,Th).iso, CRC: 20fa6582
 ### Halo 2 (France) (Limited Collector's Edition Disc) (Xbox Game Bundle).iso, CRC: 916f50ac
 ### Halo Interactive Strategy Game (USA).iso, CRC: 6873d235
 ### Harry Potter and the Goblet of Fire (Australia) (Disc 2) (Special Features).iso, CRC: c0ecf885

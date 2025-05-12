@@ -1,5 +1,5 @@
 # No-Intro - Nintendo - Nintendo Entertainment System (Headered) (Aftermarket) MIAs
-## Games: 5, ROMs: 5, as of 2025-05-10
+## Games: 5, ROMs: 5, as of 2025-05-12
 
 ### 852-in-1 Forever Games of NES (Asia) (En) (Rev 1) (Aftermarket) (Pirate).nes, CRC: f1e626fa
 ### Armed for Battle (USA) (Aftermarket) (Unl).nes, CRC: 92ba1116

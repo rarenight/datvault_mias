@@ -1,5 +1,5 @@
 # Redump - Audio CD MIAs
-## Games: 149, ROMs: 1938, as of 2025-05-10
+## Games: 148, ROMs: 1937, as of 2025-05-12
 
 ### 16Bit Rhythm Land - Original Sound Track (Japan) (Mega Drive Game Bundle)
 <details>
@@ -699,7 +699,6 @@
 - Hoshi no Oujo 3 - Ten Chi Jin no Souseiki - Original Soundtrack (Japan) (PC Game Bundle) (Track 37).bin, CRC: 1db95ae0
 </details>
 
-### Infinite Stratos 2 - Ignition Hearts - Original Soundtrack (Japan) (PSV Game Bundle) (Track 22).bin, CRC: 7e5288f9
 ### Kaguya-chan no Okozukai Daisakusen Original Soundtrack (Japan) (PC Game Bundle)
 <details>
 <summary>ROMs</summary>

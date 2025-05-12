@@ -1,5 +1,5 @@
 # Redump - Sony - PlayStation 4 MIAs
-## Games: 305, ROMs: 305, as of 2025-05-10
+## Games: 304, ROMs: 304, as of 2025-05-12
 
 ### 2Dark (Japan).iso, CRC: 51bd991f
 ### 8-Bit Adventure Anthology - Volume 1 (USA).iso, CRC: 1598191a
@@ -41,7 +41,6 @@
 ### Chicken Police - Paint It Red! (USA) (En,Ja,Fr,De,Es,Zh,Ru,Hu).iso, CRC: 2321f268
 ### Chou Jijigen Game Neptune Re;Birth 1 Plus (Japan).iso, CRC: 837c1a3e
 ### Conception Plus - Ore no Kodomo o Undekure! (Japan).iso, CRC: 84f199b6
-### Control (Europe) (En,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru,Ar).iso, CRC: 87badf32
 ### Control - Ultimate Edition (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru,Ar).iso, CRC: fd7b0478
 ### Costume Quest 2 (USA) (En,Fr,De,Es,It).iso, CRC: e0f9ddf8
 ### Crash Bandicoot - Buttobi 3-dan Mori! (Japan).iso, CRC: 0b8eaa5d
