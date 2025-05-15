@@ -1,5 +1,5 @@
 # Redump - IBM - PC compatible MIAs
-## Games: 3343, ROMs: 7534, as of 2025-05-12
+## Games: 3321, ROMs: 7512, as of 2025-05-15
 
 ### %% - Fuuin no Otome (Japan) (Track 10).bin, CRC: 4481aa75
 ### Alley 19 Bowling (Europe) (Track 5).bin, CRC: dc835204
@@ -393,7 +393,6 @@
 </details>
 
 ### Amazonator - The Nation of Power (Japan).bin, CRC: ac22db29
-### American Airlines (UK).bin, CRC: 4dcbd79b
 ### American Conquest (Japan).bin, CRC: 30bbf44a
 ### American Conquest - Three Centuries of War (Germany) (En,De) (Demo-CD).bin, CRC: e9887c77
 ### American McGee Presents Bad Day L.A. (Hungary) (Covermount).iso, CRC: 73cbc611
@@ -1214,7 +1213,6 @@
 ### Coloropus (Poland).bin, CRC: 7ccb2bc1
 ### Columns III (Japan).bin, CRC: 518037d8
 ### Comanche CD (USA) (Rerelease) (1994-03-09).bin, CRC: 559e26b9
-### Combat Flight Collection (Europe).iso, CRC: f933e15d
 ### Combat Mission (Europe) (Game CD).bin, CRC: 79bde24c
 ### Combat Zone - Special Forces (Turkey).iso, CRC: 5221e4c5
 ### Command & Conquer - Alarmstufe Rot 2 (Germany) (Alliierte) (Rerelease).bin, CRC: 0bee1857
@@ -1664,8 +1662,6 @@
 
 ### D+Vine [Luv] (Japan) (Game Disk) (Track 27).bin, CRC: 9fb29e0a
 ### D-Day (Japan).bin, CRC: 507424bc
-### D-Day (UK) (Disc 1).bin, CRC: 31c0539f
-### D-Day (UK) (Disc 2).bin, CRC: a8c97654
 ### Da Vinci Code, The (Europe) (En,Fr,De,Es,It,Nl) (Rerelease).iso, CRC: edce8418
 ### Daemonica (Poland) (Disc 1) (Rerelease).bin, CRC: 0adc4de2
 ### Daemonica (Poland) (Disc 2) (Rerelease).bin, CRC: 0f8879aa
@@ -1837,7 +1833,6 @@
 ### Disciples - Sacred Lands (France) (Gold Edition).bin, CRC: ff09f88b
 ### Disciples - Sacred Lands (USA) (Rerelease) (Alt).bin, CRC: 9ea5fb81
 ### Disciples II - Bunt Elfow (Poland) (Disc 1) (Alt).bin, CRC: 2fe5e328
-### Disney - Pixar Cars 2 - Preview Disk & Activity Centre (Europe).bin, CRC: ca5a0998
 ### Disney - Pixar WALL-E (Portugal) (En,Es,Pt).iso, CRC: 3d05a8df
 ### Disney Bolt (Portugal) (En,Es,It,Pl,Cs).iso, CRC: 623d3af0
 ### Disney Dinosaurio (USA).bin, CRC: 84eff363
@@ -2433,7 +2428,6 @@
 </details>
 
 ### Excessive Speed (Netherlands) (Rerelease) (Track 01).bin, CRC: 73918c31
-### Executive (UK).bin, CRC: e5b2b015
 ### Experts, Les - Meurtres a Las Vegas (France) (Fr,It) (Disc 1).bin, CRC: a9ba8818
 ### Experts, Les - Meurtres a Las Vegas (France) (Fr,It) (Disc 2).bin, CRC: 198ef0fd
 ### Experts, Les - Meurtres a Las Vegas (France) (Fr,It) (Disc 3).bin, CRC: 5a0044a6
@@ -3722,7 +3716,6 @@
 - Ian Livingstone's Deathtrap Dungeon (Japan) (Track 19).bin, CRC: 555fbceb
 </details>
 
-### Iberia (UK).bin, CRC: 450c25be
 ### Ice Age 2 - Aktivitets CD-ROM (Denmark).bin, CRC: 4d85299b
 ### Icewind Dale + Heart of Winter + Trials of Luremaster (Poland) (Disc 1).bin, CRC: 7bca01eb
 ### Icewind Dale + Heart of Winter + Trials of Luremaster (Poland) (Disc 1) (Rerelease).bin, CRC: 86292cdf
@@ -5777,7 +5770,6 @@
 ### Pametno Razmisljaj (Serbia).bin, CRC: 5c26dcc7
 ### Pandemonium! (China).bin, CRC: 337f5f4b
 ### Pandora - First Contact (Germany) (En,De).iso, CRC: d9594ea3
-### Panoramic Panel 777 (UK).bin, CRC: 372bfd78
 ### Panzer Commander (Japan).bin, CRC: 10b2e312
 ### Panzer Dragoon (Japan) (Alt)
 <details>
@@ -5854,13 +5846,6 @@
 
 ### PC Gamer - Christmas 2007-Issue 182 (UK) (Side B).iso, CRC: f9e20afc
 ### PC Gamer - December 2005-Issue 155 (UK) (Disc 1).bin, CRC: 42e69f3e
-### PC Gamer - Issue 65 January 1999 (UK) (CD Gamer 2).bin, CRC: 06990379
-### PC Gamer - Issue 79 February 2000 (UK) (CD Gamer 2).bin, CRC: ed6f8532
-### PC Gamer - Issue 79 February 2000 (UK) (CD Gamer).bin, CRC: 4a702eb8
-### PC Gamer - Issue 81 April 2000 (UK) (CD Gamer 2).bin, CRC: 80a26ac0
-### PC Gamer - Issue 81 April 2000 (UK) (CD Gamer).bin, CRC: 2262c910
-### PC Gamer - Issue 83 June 2000 (UK) (CD Gamer 2).bin, CRC: 575af9bd
-### PC Gamer - Issue 83 June 2000 (UK) (CD Gamer).bin, CRC: 5a968f5d
 ### PC Gamer Issue 67 (Greece) (Disc 1).bin, CRC: 83763d0f
 ### PC Gamer No. 106 - May 2000 (Taiwan).bin, CRC: 628de695
 ### PC Gamer No. 112 - November 2000 (Taiwan).bin, CRC: 9f2ce743
@@ -5911,7 +5896,6 @@
 ### PC World Komputer na Gwiazdke 1999 (Poland) (Disc 2).bin, CRC: a6e93eed
 ### PC Zone 94 (Netherlands) (Disc 1).bin, CRC: b7805d36
 ### PC Zone 95-96 (Netherlands) (Disc 2).bin, CRC: 66f8e461
-### Perfect Flight Deluxe - Great Britain (UK).bin, CRC: 712e2e8f
 ### Perfect Grand Prix - Track Pack & Editor (Germany).bin, CRC: 7f233db8
 ### Perfect Sport (Scandinavia) (En,Fr,De).bin, CRC: 7ab25157
 ### PES 2009 - Pro Evolution Soccer (Europe) (En,Fr,De,Es,It).iso, CRC: f0961d1e
@@ -7103,9 +7087,6 @@
 ### Schizm - Mysterious Journey (Netherlands) (Disc 3).bin, CRC: 3624a5d0
 ### Schizm - Mysterious Journey (Netherlands) (Disc 4).bin, CRC: 9978344c
 ### Schizm - Mysterious Journey (Netherlands) (Disc 5).bin, CRC: 5cc67c0e
-### Schizm II - Chameleon (UK) (Disc 1).bin, CRC: 359efe2d
-### Schizm II - Chameleon (UK) (Disc 2).bin, CRC: 956cd422
-### Schizm II - Chameleon (UK) (Disc 3).bin, CRC: d1041c0d
 ### Schizm II - Kameleon (Poland) (Disc 2).bin, CRC: 94c9fc82
 ### Schizm II - Kameleon (Poland) (Disc 3).bin, CRC: 70c3a8ea
 ### Schleichfahrt (Germany) (1996-12-17) (Track 1).bin, CRC: 9a9d746f
@@ -9020,7 +9001,6 @@
 ### UFO - Afterlight (Czech) (Rerelease).iso, CRC: 23fde83c
 ### UFO - Aftermath (Hungary) (Jatek CD).bin, CRC: e9e8fb11
 ### UFO - Aftermath (Hungary) (Telepito CD).bin, CRC: a066e6b4
-### UK Airports - Part 1 - Southern England (UK).bin, CRC: 96e56e36
 ### Ukrainian Language Acquisition System (Canada) (En,Uk).bin, CRC: bea5fcfb
 ### Ukrayins'ka Literatura - 8 Klas (Ukraine).bin, CRC: 520596c1
 ### Ulicnici - Indiansky Poklad (Czech).bin, CRC: 2fc53638
@@ -9041,8 +9021,6 @@
 ### Ultima Online - Third Dawn (Japan) (v2.0.7).bin, CRC: 73f7a295
 ### Ultima Online 2006 (Japan) (Disc 1).bin, CRC: 970dd51f
 ### Ultima Online 2006 (Japan) (Disc 2).bin, CRC: 3e1aa747
-### Ultimate Airlines (UK).bin, CRC: cb3ee439
-### Ultimate Mystery Game Pack, The (USA).iso, CRC: 13605fee
 ### Ultimate Yahtzee (USA) (En,Fr,De) (Rerelease) (2001-11-01).bin, CRC: f940888a
 ### Ultimate Yahtzee (USA) (En,Ja,Fr,De) (Rerelease)
 <details>

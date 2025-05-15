@@ -1,5 +1,5 @@
 # Redump - Audio CD MIAs
-## Games: 148, ROMs: 1937, as of 2025-05-12
+## Games: 143, ROMs: 1846, as of 2025-05-15
 
 ### 16Bit Rhythm Land - Original Sound Track (Japan) (Mega Drive Game Bundle)
 <details>
@@ -288,41 +288,6 @@
 
 ### Double Dragon - Sound Collection Vol. 1 (Japan) (Disc 1) (Track 51).bin, CRC: 2f919305
 ### Double Dragon - Sound Collection Vol. 1 (Japan) (Disc 2) (Track 33).bin, CRC: 97abc4b7
-### Dungeon ni Deai o Motomeru no wa Machigatteiru Darou ka - Infinite Combate - Original Soundtrack (Japan) (NSW Game Bundle)
-<details>
-<summary>ROMs</summary>
-
-- Dungeon ni Deai o Motomeru no wa Machigatteiru Darou ka - Infinite Combate - Original Soundtrack (Japan) (NSW Game Bundle) (Track 01).bin, CRC: f782fa9c
-- Dungeon ni Deai o Motomeru no wa Machigatteiru Darou ka - Infinite Combate - Original Soundtrack (Japan) (NSW Game Bundle) (Track 02).bin, CRC: 814aa857
-- Dungeon ni Deai o Motomeru no wa Machigatteiru Darou ka - Infinite Combate - Original Soundtrack (Japan) (NSW Game Bundle) (Track 03).bin, CRC: 785f9018
-- Dungeon ni Deai o Motomeru no wa Machigatteiru Darou ka - Infinite Combate - Original Soundtrack (Japan) (NSW Game Bundle) (Track 04).bin, CRC: c052333d
-- Dungeon ni Deai o Motomeru no wa Machigatteiru Darou ka - Infinite Combate - Original Soundtrack (Japan) (NSW Game Bundle) (Track 05).bin, CRC: 7c6b4e9b
-- Dungeon ni Deai o Motomeru no wa Machigatteiru Darou ka - Infinite Combate - Original Soundtrack (Japan) (NSW Game Bundle) (Track 06).bin, CRC: 13e04eea
-- Dungeon ni Deai o Motomeru no wa Machigatteiru Darou ka - Infinite Combate - Original Soundtrack (Japan) (NSW Game Bundle) (Track 07).bin, CRC: e2b15689
-- Dungeon ni Deai o Motomeru no wa Machigatteiru Darou ka - Infinite Combate - Original Soundtrack (Japan) (NSW Game Bundle) (Track 08).bin, CRC: 182a839f
-- Dungeon ni Deai o Motomeru no wa Machigatteiru Darou ka - Infinite Combate - Original Soundtrack (Japan) (NSW Game Bundle) (Track 09).bin, CRC: e0aa6cce
-- Dungeon ni Deai o Motomeru no wa Machigatteiru Darou ka - Infinite Combate - Original Soundtrack (Japan) (NSW Game Bundle) (Track 10).bin, CRC: 64d4bbf9
-- Dungeon ni Deai o Motomeru no wa Machigatteiru Darou ka - Infinite Combate - Original Soundtrack (Japan) (NSW Game Bundle) (Track 11).bin, CRC: d396ac02
-- Dungeon ni Deai o Motomeru no wa Machigatteiru Darou ka - Infinite Combate - Original Soundtrack (Japan) (NSW Game Bundle) (Track 12).bin, CRC: 9d73d00a
-- Dungeon ni Deai o Motomeru no wa Machigatteiru Darou ka - Infinite Combate - Original Soundtrack (Japan) (NSW Game Bundle) (Track 13).bin, CRC: 7836d61b
-- Dungeon ni Deai o Motomeru no wa Machigatteiru Darou ka - Infinite Combate - Original Soundtrack (Japan) (NSW Game Bundle) (Track 14).bin, CRC: d2a4696e
-- Dungeon ni Deai o Motomeru no wa Machigatteiru Darou ka - Infinite Combate - Original Soundtrack (Japan) (NSW Game Bundle) (Track 15).bin, CRC: 053e141b
-- Dungeon ni Deai o Motomeru no wa Machigatteiru Darou ka - Infinite Combate - Original Soundtrack (Japan) (NSW Game Bundle) (Track 16).bin, CRC: cac1f10e
-- Dungeon ni Deai o Motomeru no wa Machigatteiru Darou ka - Infinite Combate - Original Soundtrack (Japan) (NSW Game Bundle) (Track 17).bin, CRC: b1b0b389
-- Dungeon ni Deai o Motomeru no wa Machigatteiru Darou ka - Infinite Combate - Original Soundtrack (Japan) (NSW Game Bundle) (Track 18).bin, CRC: c2759774
-- Dungeon ni Deai o Motomeru no wa Machigatteiru Darou ka - Infinite Combate - Original Soundtrack (Japan) (NSW Game Bundle) (Track 19).bin, CRC: 0684f2fe
-- Dungeon ni Deai o Motomeru no wa Machigatteiru Darou ka - Infinite Combate - Original Soundtrack (Japan) (NSW Game Bundle) (Track 20).bin, CRC: 0cf12760
-- Dungeon ni Deai o Motomeru no wa Machigatteiru Darou ka - Infinite Combate - Original Soundtrack (Japan) (NSW Game Bundle) (Track 21).bin, CRC: 1772c389
-- Dungeon ni Deai o Motomeru no wa Machigatteiru Darou ka - Infinite Combate - Original Soundtrack (Japan) (NSW Game Bundle) (Track 22).bin, CRC: fd04730c
-- Dungeon ni Deai o Motomeru no wa Machigatteiru Darou ka - Infinite Combate - Original Soundtrack (Japan) (NSW Game Bundle) (Track 23).bin, CRC: 65179116
-- Dungeon ni Deai o Motomeru no wa Machigatteiru Darou ka - Infinite Combate - Original Soundtrack (Japan) (NSW Game Bundle) (Track 24).bin, CRC: 0beac09e
-- Dungeon ni Deai o Motomeru no wa Machigatteiru Darou ka - Infinite Combate - Original Soundtrack (Japan) (NSW Game Bundle) (Track 25).bin, CRC: efd98ee2
-- Dungeon ni Deai o Motomeru no wa Machigatteiru Darou ka - Infinite Combate - Original Soundtrack (Japan) (NSW Game Bundle) (Track 26).bin, CRC: 41fbb67d
-- Dungeon ni Deai o Motomeru no wa Machigatteiru Darou ka - Infinite Combate - Original Soundtrack (Japan) (NSW Game Bundle) (Track 27).bin, CRC: 98c95f62
-- Dungeon ni Deai o Motomeru no wa Machigatteiru Darou ka - Infinite Combate - Original Soundtrack (Japan) (NSW Game Bundle) (Track 28).bin, CRC: 65ed9a9f
-- Dungeon ni Deai o Motomeru no wa Machigatteiru Darou ka - Infinite Combate - Original Soundtrack (Japan) (NSW Game Bundle) (Track 29).bin, CRC: 54276e76
-</details>
-
 ### Einhaender - Original Soundtrack (Japan) (Track 29).bin, CRC: 0fe74650
 ### Eiyuu Senki - The World Conquest - Original Sound Track (Japan) (Disc 1) (Track 18).bin, CRC: cb3451d3
 ### Final Fight - Original Sound Collection (Japan) (Disc 1) (Track 67).bin, CRC: fb49bec6
@@ -925,56 +890,6 @@
 - Konami Game Music Vol. 2 (Japan) (Rerelease) (Track 48).bin, CRC: 90915fed
 </details>
 
-### Kono Subarashii Sekai ni Syukufuku wo! - Noroi no Ibutsu to Madoishi Boukensha-tachi - Original Sound Track (Japan) (Disc 1) (NSW Game Bundle)
-<details>
-<summary>ROMs</summary>
-
-- Kono Subarashii Sekai ni Syukufuku wo! - Noroi no Ibutsu to Madoishi Boukensha-tachi - Original Sound Track (Japan) (Disc 1) (NSW Game Bundle) (Track 01).bin, CRC: cef55bc9
-- Kono Subarashii Sekai ni Syukufuku wo! - Noroi no Ibutsu to Madoishi Boukensha-tachi - Original Sound Track (Japan) (Disc 1) (NSW Game Bundle) (Track 02).bin, CRC: 11d4e6fa
-- Kono Subarashii Sekai ni Syukufuku wo! - Noroi no Ibutsu to Madoishi Boukensha-tachi - Original Sound Track (Japan) (Disc 1) (NSW Game Bundle) (Track 03).bin, CRC: ea11f27e
-- Kono Subarashii Sekai ni Syukufuku wo! - Noroi no Ibutsu to Madoishi Boukensha-tachi - Original Sound Track (Japan) (Disc 1) (NSW Game Bundle) (Track 04).bin, CRC: 5e9f6e55
-- Kono Subarashii Sekai ni Syukufuku wo! - Noroi no Ibutsu to Madoishi Boukensha-tachi - Original Sound Track (Japan) (Disc 1) (NSW Game Bundle) (Track 05).bin, CRC: 733ae7bf
-- Kono Subarashii Sekai ni Syukufuku wo! - Noroi no Ibutsu to Madoishi Boukensha-tachi - Original Sound Track (Japan) (Disc 1) (NSW Game Bundle) (Track 06).bin, CRC: 73da7584
-- Kono Subarashii Sekai ni Syukufuku wo! - Noroi no Ibutsu to Madoishi Boukensha-tachi - Original Sound Track (Japan) (Disc 1) (NSW Game Bundle) (Track 07).bin, CRC: 58042d6e
-- Kono Subarashii Sekai ni Syukufuku wo! - Noroi no Ibutsu to Madoishi Boukensha-tachi - Original Sound Track (Japan) (Disc 1) (NSW Game Bundle) (Track 08).bin, CRC: 6abf312f
-- Kono Subarashii Sekai ni Syukufuku wo! - Noroi no Ibutsu to Madoishi Boukensha-tachi - Original Sound Track (Japan) (Disc 1) (NSW Game Bundle) (Track 09).bin, CRC: 4c38e991
-- Kono Subarashii Sekai ni Syukufuku wo! - Noroi no Ibutsu to Madoishi Boukensha-tachi - Original Sound Track (Japan) (Disc 1) (NSW Game Bundle) (Track 10).bin, CRC: 7d6bd17e
-- Kono Subarashii Sekai ni Syukufuku wo! - Noroi no Ibutsu to Madoishi Boukensha-tachi - Original Sound Track (Japan) (Disc 1) (NSW Game Bundle) (Track 11).bin, CRC: 90779d13
-- Kono Subarashii Sekai ni Syukufuku wo! - Noroi no Ibutsu to Madoishi Boukensha-tachi - Original Sound Track (Japan) (Disc 1) (NSW Game Bundle) (Track 12).bin, CRC: 434283a4
-- Kono Subarashii Sekai ni Syukufuku wo! - Noroi no Ibutsu to Madoishi Boukensha-tachi - Original Sound Track (Japan) (Disc 1) (NSW Game Bundle) (Track 13).bin, CRC: d165b4b5
-- Kono Subarashii Sekai ni Syukufuku wo! - Noroi no Ibutsu to Madoishi Boukensha-tachi - Original Sound Track (Japan) (Disc 1) (NSW Game Bundle) (Track 14).bin, CRC: 50ea257e
-- Kono Subarashii Sekai ni Syukufuku wo! - Noroi no Ibutsu to Madoishi Boukensha-tachi - Original Sound Track (Japan) (Disc 1) (NSW Game Bundle) (Track 15).bin, CRC: dfc647c6
-- Kono Subarashii Sekai ni Syukufuku wo! - Noroi no Ibutsu to Madoishi Boukensha-tachi - Original Sound Track (Japan) (Disc 1) (NSW Game Bundle) (Track 16).bin, CRC: 1cb83dc2
-- Kono Subarashii Sekai ni Syukufuku wo! - Noroi no Ibutsu to Madoishi Boukensha-tachi - Original Sound Track (Japan) (Disc 1) (NSW Game Bundle) (Track 17).bin, CRC: be01ebde
-- Kono Subarashii Sekai ni Syukufuku wo! - Noroi no Ibutsu to Madoishi Boukensha-tachi - Original Sound Track (Japan) (Disc 1) (NSW Game Bundle) (Track 18).bin, CRC: f74a86e0
-- Kono Subarashii Sekai ni Syukufuku wo! - Noroi no Ibutsu to Madoishi Boukensha-tachi - Original Sound Track (Japan) (Disc 1) (NSW Game Bundle) (Track 19).bin, CRC: 0622460b
-</details>
-
-### Kono Subarashii Sekai ni Syukufuku wo! - Noroi no Ibutsu to Madoishi Boukensha-tachi - Original Sound Track (Japan) (Disc 2) (NSW Game Bundle)
-<details>
-<summary>ROMs</summary>
-
-- Kono Subarashii Sekai ni Syukufuku wo! - Noroi no Ibutsu to Madoishi Boukensha-tachi - Original Sound Track (Japan) (Disc 2) (NSW Game Bundle) (Track 01).bin, CRC: 0a0ddc1b
-- Kono Subarashii Sekai ni Syukufuku wo! - Noroi no Ibutsu to Madoishi Boukensha-tachi - Original Sound Track (Japan) (Disc 2) (NSW Game Bundle) (Track 02).bin, CRC: c3339dec
-- Kono Subarashii Sekai ni Syukufuku wo! - Noroi no Ibutsu to Madoishi Boukensha-tachi - Original Sound Track (Japan) (Disc 2) (NSW Game Bundle) (Track 03).bin, CRC: fc09f7bb
-- Kono Subarashii Sekai ni Syukufuku wo! - Noroi no Ibutsu to Madoishi Boukensha-tachi - Original Sound Track (Japan) (Disc 2) (NSW Game Bundle) (Track 04).bin, CRC: 1f90deae
-- Kono Subarashii Sekai ni Syukufuku wo! - Noroi no Ibutsu to Madoishi Boukensha-tachi - Original Sound Track (Japan) (Disc 2) (NSW Game Bundle) (Track 05).bin, CRC: 1cfc46b6
-- Kono Subarashii Sekai ni Syukufuku wo! - Noroi no Ibutsu to Madoishi Boukensha-tachi - Original Sound Track (Japan) (Disc 2) (NSW Game Bundle) (Track 06).bin, CRC: 6a3805cb
-- Kono Subarashii Sekai ni Syukufuku wo! - Noroi no Ibutsu to Madoishi Boukensha-tachi - Original Sound Track (Japan) (Disc 2) (NSW Game Bundle) (Track 07).bin, CRC: 1eb0ce9a
-- Kono Subarashii Sekai ni Syukufuku wo! - Noroi no Ibutsu to Madoishi Boukensha-tachi - Original Sound Track (Japan) (Disc 2) (NSW Game Bundle) (Track 08).bin, CRC: 038afca8
-- Kono Subarashii Sekai ni Syukufuku wo! - Noroi no Ibutsu to Madoishi Boukensha-tachi - Original Sound Track (Japan) (Disc 2) (NSW Game Bundle) (Track 09).bin, CRC: 6adeda97
-- Kono Subarashii Sekai ni Syukufuku wo! - Noroi no Ibutsu to Madoishi Boukensha-tachi - Original Sound Track (Japan) (Disc 2) (NSW Game Bundle) (Track 10).bin, CRC: ece53308
-- Kono Subarashii Sekai ni Syukufuku wo! - Noroi no Ibutsu to Madoishi Boukensha-tachi - Original Sound Track (Japan) (Disc 2) (NSW Game Bundle) (Track 11).bin, CRC: cf8bbb9e
-- Kono Subarashii Sekai ni Syukufuku wo! - Noroi no Ibutsu to Madoishi Boukensha-tachi - Original Sound Track (Japan) (Disc 2) (NSW Game Bundle) (Track 12).bin, CRC: 5b9ca961
-- Kono Subarashii Sekai ni Syukufuku wo! - Noroi no Ibutsu to Madoishi Boukensha-tachi - Original Sound Track (Japan) (Disc 2) (NSW Game Bundle) (Track 13).bin, CRC: ef2b1555
-- Kono Subarashii Sekai ni Syukufuku wo! - Noroi no Ibutsu to Madoishi Boukensha-tachi - Original Sound Track (Japan) (Disc 2) (NSW Game Bundle) (Track 14).bin, CRC: ba87d7b9
-- Kono Subarashii Sekai ni Syukufuku wo! - Noroi no Ibutsu to Madoishi Boukensha-tachi - Original Sound Track (Japan) (Disc 2) (NSW Game Bundle) (Track 15).bin, CRC: 46d2ed8b
-- Kono Subarashii Sekai ni Syukufuku wo! - Noroi no Ibutsu to Madoishi Boukensha-tachi - Original Sound Track (Japan) (Disc 2) (NSW Game Bundle) (Track 16).bin, CRC: 9df7db53
-- Kono Subarashii Sekai ni Syukufuku wo! - Noroi no Ibutsu to Madoishi Boukensha-tachi - Original Sound Track (Japan) (Disc 2) (NSW Game Bundle) (Track 17).bin, CRC: f89c2146
-- Kono Subarashii Sekai ni Syukufuku wo! - Noroi no Ibutsu to Madoishi Boukensha-tachi - Original Sound Track (Japan) (Disc 2) (NSW Game Bundle) (Track 18).bin, CRC: 689e7726
-- Kono Subarashii Sekai ni Syukufuku wo! - Noroi no Ibutsu to Madoishi Boukensha-tachi - Original Sound Track (Japan) (Disc 2) (NSW Game Bundle) (Track 19).bin, CRC: 5214f635
-</details>
-
 ### Kuon no Kizuna Sairinshou Full Voice-ban - Man'you no Niizuma Diary (Japan) (PC Game Bundle) (Track 7).bin, CRC: 224b73d1
 ### Legend of Heroes, The - Kuro no Kiseki II - Original Sound Track Mini (Japan) (PS4 Game Bundle)
 <details>
@@ -1526,7 +1441,6 @@
 </details>
 
 ### Sega Game Music Vol. 2 (Japan) (Reprint) (Track 28).bin, CRC: 020b006c
-### Seifuku Kanojo 2 - Tori-oroshi Drama CD - Mio to Issho ni Training! (Japan) (NSW Game Bundle).bin, CRC: 80537c47
 ### Seiken Densetsu - Legend of Mana - Original Soundtrack (Japan) (Disc 1) (Track 01).bin, CRC: ea2cd7fe
 ### Seiken no Fairies - Les Chevalliers de Pucelles - Shokaiban Tokuten Extra CD (Japan) (PC Game Bundle) (Track 3).bin, CRC: ac6e196a
 ### Shadowgrounds Survivor - Original Soundtrack (Finland)
@@ -2453,34 +2367,5 @@
 - Wizardry Variants Daphne - Original Soundtrack (Japan) (Disc 2) (Track 18).bin, CRC: cda48a03
 - Wizardry Variants Daphne - Original Soundtrack (Japan) (Disc 2) (Track 19).bin, CRC: 9ef84b09
 - Wizardry Variants Daphne - Original Soundtrack (Japan) (Disc 2) (Track 20).bin, CRC: de5da191
-</details>
-
-### Yuru Camp - Have a Nice Day! - Original Sound Track (Japan) (NSW Game Bundle)
-<details>
-<summary>ROMs</summary>
-
-- Yuru Camp - Have a Nice Day! - Original Sound Track (Japan) (NSW Game Bundle) (Track 01).bin, CRC: b71aa1de
-- Yuru Camp - Have a Nice Day! - Original Sound Track (Japan) (NSW Game Bundle) (Track 02).bin, CRC: 7aa01f42
-- Yuru Camp - Have a Nice Day! - Original Sound Track (Japan) (NSW Game Bundle) (Track 03).bin, CRC: ebb3cb82
-- Yuru Camp - Have a Nice Day! - Original Sound Track (Japan) (NSW Game Bundle) (Track 04).bin, CRC: 30965821
-- Yuru Camp - Have a Nice Day! - Original Sound Track (Japan) (NSW Game Bundle) (Track 05).bin, CRC: 31ed619b
-- Yuru Camp - Have a Nice Day! - Original Sound Track (Japan) (NSW Game Bundle) (Track 06).bin, CRC: 5fb45c84
-- Yuru Camp - Have a Nice Day! - Original Sound Track (Japan) (NSW Game Bundle) (Track 07).bin, CRC: 8f701cbb
-- Yuru Camp - Have a Nice Day! - Original Sound Track (Japan) (NSW Game Bundle) (Track 08).bin, CRC: dfe46e12
-- Yuru Camp - Have a Nice Day! - Original Sound Track (Japan) (NSW Game Bundle) (Track 09).bin, CRC: 4e8fbc9c
-- Yuru Camp - Have a Nice Day! - Original Sound Track (Japan) (NSW Game Bundle) (Track 10).bin, CRC: 18eba93b
-- Yuru Camp - Have a Nice Day! - Original Sound Track (Japan) (NSW Game Bundle) (Track 11).bin, CRC: a114db96
-- Yuru Camp - Have a Nice Day! - Original Sound Track (Japan) (NSW Game Bundle) (Track 12).bin, CRC: 94b0a45f
-- Yuru Camp - Have a Nice Day! - Original Sound Track (Japan) (NSW Game Bundle) (Track 13).bin, CRC: cc9e9f5a
-- Yuru Camp - Have a Nice Day! - Original Sound Track (Japan) (NSW Game Bundle) (Track 14).bin, CRC: 7c89c18c
-- Yuru Camp - Have a Nice Day! - Original Sound Track (Japan) (NSW Game Bundle) (Track 15).bin, CRC: 0daf5415
-- Yuru Camp - Have a Nice Day! - Original Sound Track (Japan) (NSW Game Bundle) (Track 16).bin, CRC: fc2ba578
-- Yuru Camp - Have a Nice Day! - Original Sound Track (Japan) (NSW Game Bundle) (Track 17).bin, CRC: ac075318
-- Yuru Camp - Have a Nice Day! - Original Sound Track (Japan) (NSW Game Bundle) (Track 18).bin, CRC: a091984c
-- Yuru Camp - Have a Nice Day! - Original Sound Track (Japan) (NSW Game Bundle) (Track 19).bin, CRC: 10c86581
-- Yuru Camp - Have a Nice Day! - Original Sound Track (Japan) (NSW Game Bundle) (Track 20).bin, CRC: d19026ac
-- Yuru Camp - Have a Nice Day! - Original Sound Track (Japan) (NSW Game Bundle) (Track 21).bin, CRC: ce5ea950
-- Yuru Camp - Have a Nice Day! - Original Sound Track (Japan) (NSW Game Bundle) (Track 22).bin, CRC: 403efa64
-- Yuru Camp - Have a Nice Day! - Original Sound Track (Japan) (NSW Game Bundle) (Track 23).bin, CRC: ec57b898
 </details>
 
