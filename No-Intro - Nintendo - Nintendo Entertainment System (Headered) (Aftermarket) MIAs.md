@@ -1,7 +1,9 @@
 # No-Intro - Nintendo - Nintendo Entertainment System (Headered) (Aftermarket) MIAs
-## Games: 21, ROMs: 22, as of 2025-05-18
+## Games: 23, ROMs: 24, as of 2025-05-20
 
+### 117-in-1 Cartoons Collection (China) (En) (Aftermarket) (Pirate).nes, CRC: 5ef8dbfc
 ### 13 Spook Hollow Road (World) (Demo) (Byte-Off V) (Aftermarket) (Unl).nes, CRC: 84928da6
+### 6-in-1 Final Fantasy I-II-III (China) (En,Ja) (Aftermarket) (Pirate).nes, CRC: 883a7412
 ### 852-in-1 Forever Games of NES (Asia) (En) (Rev 1) (Aftermarket) (Pirate).nes, CRC: f1e626fa
 ### Adventure of Inferno (World) (Demo) (Byte-Off V) (Aftermarket) (Unl).nes, CRC: d33efb09
 ### Adventures Of The Amazing Stickman, The (World) (Demo) (Byte-Off V) (Aftermarket) (Unl).nes, CRC: 25242ee9

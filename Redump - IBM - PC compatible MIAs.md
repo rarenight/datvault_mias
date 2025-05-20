@@ -1,5 +1,5 @@
 # Redump - IBM - PC compatible MIAs
-## Games: 3321, ROMs: 7512, as of 2025-05-18
+## Games: 3319, ROMs: 7510, as of 2025-05-20
 
 ### %% - Fuuin no Otome (Japan) (Track 10).bin, CRC: 4481aa75
 ### Alley 19 Bowling (Europe) (Track 5).bin, CRC: dc835204
@@ -5744,8 +5744,6 @@
 ### Operation Flashpoint - Gold Upgrade (Czech).bin, CRC: 55c4ff9a
 ### Operation Flashpoint - Red River (Japan).iso, CRC: 015f80fc
 ### Operation Thunderstorm (Turkey).iso, CRC: 088f31f2
-### Operative, The - No One Lives Forever (Japan) (Disc 1).bin, CRC: 137432b5
-### Operative, The - No One Lives Forever (Japan) (Disc 2).bin, CRC: 17e8e521
 ### Opsys (Europe).bin, CRC: 2921ee69
 ### Orgazumi (Japan) (Disc 1).bin, CRC: a40de6e3
 ### Orgazumi (Japan) (Disc 2).bin, CRC: 76e6af6c

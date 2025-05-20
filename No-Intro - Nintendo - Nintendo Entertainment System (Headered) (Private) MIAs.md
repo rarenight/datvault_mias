@@ -1,9 +1,8 @@
 # No-Intro - Nintendo - Nintendo Entertainment System (Headered) (Private) MIAs
-## Games: 41, ROMs: 41, as of 2025-05-18
+## Games: 39, ROMs: 39, as of 2025-05-20
 
 ### Alfonzo's Arctic Adventure (World) (Kickstarter) (Aftermarket) (Unl).nes, CRC: 0db77f87
 ### Alfonzo's Arctic Adventure (USA) (Limited Run Games) (Aftermarket) (Unl).nes, CRC: 9cc3cac9
-### Aspen's Adventure (World) (2023-05-29) (Aftermarket) (Unl).nes, CRC: a9d01b62
 ### Bobby Six Seven - Time-Traveling Detective (World) (Aftermarket) (Unl).nes, CRC: de9a5417
 ### Candelabra - Estoscerro (World) (Aftermarket) (Unl).nes, CRC: f285fa48
 ### DataMan (World) (Aftermarket) (Unl).nes, CRC: 89170e96
@@ -34,7 +33,6 @@
 ### Save the Kuin - Grass Mini Game (World) (Aftermarket) (Unl).nes, CRC: 9d96ef35
 ### Slow Mole+ (World) (v0.9) (Beta) (Aftermarket) (Unl).nes, CRC: 766968e2
 ### Soko Banana (World) (v1.0c) (Aftermarket) (Unl).nes, CRC: 44b88df9
-### South Park (World) (2023-11-11) (Aftermarket) (Pirate).nes, CRC: 0ce8dea8
 ### Space Raft (World) (Switch) (Aftermarket) (Unl).nes, CRC: 68a738a2
 ### Spook-o'-tron (World) (2023) (Aftermarket) (Unl).nes, CRC: 5775b12d
 ### Spook-o'-tron (World) (Backer Edition) (Aftermarket) (Unl).nes, CRC: f3deedea

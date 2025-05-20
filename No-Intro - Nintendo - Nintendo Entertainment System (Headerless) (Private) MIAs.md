@@ -1,10 +1,9 @@
 # No-Intro - Nintendo - Nintendo Entertainment System (Headerless) (Private) MIAs
-## Games: 42, ROMs: 42, as of 2025-05-18
+## Games: 40, ROMs: 40, as of 2025-05-20
 
 ### 8-Bit Slasher 4-in-1 Horror Demakes (World) (Aftermarket) (Unl).unh, CRC: 905e90cb
 ### Alfonzo's Arctic Adventure (World) (Kickstarter) (Aftermarket) (Unl).unh, CRC: da586fa5
 ### Alfonzo's Arctic Adventure (USA) (Limited Run Games) (Aftermarket) (Unl).unh, CRC: f1a57659
-### Aspen's Adventure (World) (2023-05-29) (Aftermarket) (Unl).unh, CRC: e51cf992
 ### Bobby Six Seven - Time-Traveling Detective (World) (Aftermarket) (Unl).unh, CRC: 0e22b39b
 ### Candelabra - Estoscerro (World) (Aftermarket) (Unl).unh, CRC: f6fdbe51
 ### DataMan (World) (Aftermarket) (Unl).unh, CRC: 6a1eab47
@@ -35,7 +34,6 @@
 ### Save the Kuin - Grass Mini Game (World) (Aftermarket) (Unl).unh, CRC: cf9d746d
 ### Slow Mole+ (World) (v0.9) (Beta) (Aftermarket) (Unl).unh, CRC: 3aa58a12
 ### Soko Banana (World) (v1.0c) (Aftermarket) (Unl).unh, CRC: 08746f09
-### South Park (World) (2023-11-11) (Aftermarket) (Pirate).unh, CRC: 40243c58
 ### Space Raft (World) (Switch) (Aftermarket) (Unl).unh, CRC: 04c34291
 ### Spook-o'-tron (World) (2023) (Aftermarket) (Unl).unh, CRC: 717a9e72
 ### Spook-o'-tron (World) (Backer Edition) (Aftermarket) (Unl).unh, CRC: d5d1c2b5

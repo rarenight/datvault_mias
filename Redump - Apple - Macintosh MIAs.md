@@ -1,5 +1,5 @@
 # Redump - Apple - Macintosh MIAs
-## Games: 154, ROMs: 185, as of 2025-05-18
+## Games: 148, ROMs: 179, as of 2025-05-20
 
 ### 3-D Ultra Pinball (Japan).bin, CRC: 610eb45d
 ### 3DO Content Library, The (USA) (Disc 88) (Music & Sound Effects).bin, CRC: c157b11b
@@ -27,10 +27,6 @@
 ### Aquazone Sen'you Option Disc - iMacinfish Vol. 5 - Blueberry (Japan).bin, CRC: 1ff6950c
 ### Aquazone Sen'you Option Disc - iMacinfish Vol. 6 - Strawberry (Japan).bin, CRC: 65923a70
 ### Arcade Battles (USA).bin, CRC: a007516d
-### Baldur's Gate II - Shadows of Amn (USA) (Disc 1).bin, CRC: 75f43566
-### Baldur's Gate II - Shadows of Amn (USA) (Disc 2).bin, CRC: 51ab828f
-### Baldur's Gate II - Shadows of Amn (USA) (Disc 3).bin, CRC: 0534ce38
-### Baldur's Gate II - Shadows of Amn (USA) (Disc 4).bin, CRC: f74a1f36
 ### Belzerion (Japan) (Alt).bin, CRC: b5460d09
 ### Black & White (Japan) (Data Disc).bin, CRC: c2edba30
 ### Black & White (Japan) (Game Disc).bin, CRC: 27af6562
@@ -95,7 +91,6 @@
 - Eberouge (Japan) (Track 24).bin, CRC: 5ef2df1a
 </details>
 
-### Flashback (USA).bin, CRC: 820d1217
 ### Flying Nightmares (Japan).bin, CRC: 79029bb7
 ### Frankenstein - Through the Eyes of the Monster (USA).bin, CRC: 96dda09e
 ### Freedom Force (USA).bin, CRC: a45a5e1c
@@ -105,7 +100,6 @@
 ### Guitar Hero III - Legends of Rock (Europe).iso, CRC: ed577f74
 ### Halo - Combat Evolved (Japan).bin, CRC: 48342b1d
 ### Halo - Combat Evolved (USA) (Alt).bin, CRC: 07f0a0b0
-### Harry Potter und die Kammer des Schreckens (Germany).bin, CRC: e31cd04f
 ### Hell - A Cyberpunk Thriller (Japan).bin, CRC: ff96379c
 ### Kana - Imouto (Japan).bin, CRC: 00df668a
 ### Klik & Play (France).bin, CRC: a7f8c388
