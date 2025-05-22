@@ -1,5 +1,5 @@
 # Redump - IBM - PC compatible MIAs
-## Games: 3319, ROMs: 7510, as of 2025-05-22
+## Games: 3315, ROMs: 7506, as of 2025-05-22
 
 ### %% - Fuuin no Otome (Japan) (Track 10).bin, CRC: 4481aa75
 ### Alley 19 Bowling (Europe) (Track 5).bin, CRC: dc835204
@@ -7354,10 +7354,6 @@
 ### Shikigami no Shiro EX (Japan) (Rerelease).bin, CRC: 8bb0b453
 ### Shikigami no Shiro II (Japan).bin, CRC: c3b26b9f
 ### Shikou no Igo - Uro 2 - Kanzenban (Japan).bin, CRC: abe063fc
-### Shin Sangoku Musou 7 with Moushouden (Japan) (Disc 1).iso, CRC: 3ea5f9fb
-### Shin Sangoku Musou 7 with Moushouden (Japan) (Disc 2).iso, CRC: 388fa519
-### Shin Sangoku Musou 7 with Moushouden (Japan) (Disc 3).iso, CRC: c0f5ce7c
-### Shin Sangoku Musou 7 with Moushouden (Japan) (Disc 4).iso, CRC: b5dfed93
 ### Shin Seiki Evangelion - Eva to Yukaina Nakama-tachi (Japan).bin, CRC: 0e3410f7
 ### Shin Seiki Evangelion - Eva to Yukaina Nakama-tachi - Shinroku System Onsei Data Iri CD-ROM (Japan).bin, CRC: df99b1a4
 ### Shine Memories (Japan).bin, CRC: 3c9ea3e6
