@@ -1,5 +1,5 @@
 # No-Intro - LeapFrog - Explorer MIAs
-## Games: 6, ROMs: 6, as of 2025-05-21
+## Games: 6, ROMs: 6, as of 2025-05-22
 
 ### Disney Princess - Pop-Up Story Adventure (USA).bin, CRC: f0f37c2e
 ### Dora the Explorer - Dora's Worldwide Rescue (USA).bin, CRC: 50f2c72b
