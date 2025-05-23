@@ -1,17 +1,19 @@
 # Redump - DVD-Video MIAs
-## Games: 194, ROMs: 194, as of 2025-05-22
+## Games: 213, ROMs: 213, as of 2025-05-22
 
 ### 2002 Autumn Tokyo Game Show (Taiwan).iso, CRC: 92c99685
 ### 3-nen B-gumi Kinpachi Sensei - Densetsu no Kyoudan ni Tate! Promotion Video-2 (Japan).iso, CRC: d346598e
 ### Activision Domination Tour 2005 (USA).iso, CRC: f9fe9b65
 ### Anniversary Special DVD (Japan).iso, CRC: 2e6a2671
 ### Atelier Escha & Logy - Tentou Promotion Movie (Japan).iso, CRC: b65a4671
+### Atelier Marie + Elie - Salburg no Renkinjutsushi 1 & 2 - Tentou Promotion Movie (Japan).iso, CRC: 2e821ec6
 ### Atelier Rorona - Hajimari no Monogatari - Tentou Promotion Movie (Japan).iso, CRC: 516f1339
 ### Attouteki Yuugi - Mugen Souls (Japan) (Tentou Houeiyou PV).iso, CRC: 28e955d6
 ### Bakemonogatari Portable - Special Contents DVD (Japan) (PSP Game Bundle).iso, CRC: 81fd62b7
 ### Banpresto Shinsaku Lineup (Japan).iso, CRC: 62bc5f9c
 ### Batman - Arkham Asylum (Europe) (En,Fr,De,Es,It) (Bonus Disc).iso, CRC: 6d3e3a62
 ### Beat the Intro (Australia).iso, CRC: 236562c0
+### Beit Hell 2000 - Famitsu Wave DVD - Tentou Houei-you (Japan).iso, CRC: f358e817
 ### Bibleman Jr. Volume 1 and 2 - Thankful for Jesus - God Loves Everyone (USA).iso, CRC: 9b8c3a26
 ### Biohazard 5 (China) (Disc A) (The Story).iso, CRC: e4ab68bd
 ### Biohazard 5 (China) (Disc B) (The Others).iso, CRC: 24a74074
@@ -33,6 +35,7 @@
 ### Devil May Cry 4 (Asia) (En,Ja) (Special DVD).iso, CRC: 64a75c5e
 ### Devil May Cry 4 (Japan) (En,Ja).iso, CRC: 5be6efbb
 ### Di Gi Charat Gekijou - Piyoko ni Omakase Pyo! Excellent-ban (Japan) (PS2 Game Bundle).iso, CRC: 54474e10
+### Disney Nalle Puh - Lek och laer med Puh och hans vaenner (Sweden).iso, CRC: 871d7676
 ### Doom - Unrated (USA) (En,Fr,Es) (Widescreen).iso, CRC: 3b8aa4be
 ### Dragon Age - Origins (USA) (Bonus Disc).iso, CRC: ec154baa
 ### Dragon Ball Z 2 Promotion DVD (Japan).iso, CRC: 49d8e235
@@ -45,6 +48,8 @@
 ### Fairy Tail - Tentou PV 1 (Japan).iso, CRC: 81ef723e
 ### Famitsu Wave DVD 2007 8gatsu-gou Tokubetsu Furoku (Japan) (Disc 1).iso, CRC: 2f144892
 ### Famitsu Wave DVD 2007 8gatsu-gou Tokubetsu Furoku (Japan) (Disc 2).iso, CRC: 7d47069b
+### Fault!! Ace (Japan) (Disc A).iso, CRC: 5e21e134
+### Fault!! Ace (Japan) (Disc B).iso, CRC: 9a255dcc
 ### Final Fantasy X Complete Demonstration (Taiwan).iso, CRC: d02fac8c
 ### Final Fight - Original Sound Collection - Bonus DVD (Japan).iso, CRC: e3b6bb26
 ### Forza Motorsport (Europe) (En,Fr,De,Es) (Limited Edition Bonus Content).iso, CRC: 99672b1e
@@ -53,7 +58,10 @@
 ### Halo 2 (France) (Limited Collector's Edition Disc) (Xbox Game Bundle).iso, CRC: 916f50ac
 ### Halo Interactive Strategy Game (USA).iso, CRC: 6873d235
 ### Harry Potter and the Goblet of Fire (Australia) (Disc 2) (Special Features).iso, CRC: c0ecf885
+### Hissatsu Ura Kagyou - Tentou Hansoku-you DVD (Japan).iso, CRC: 844ceb0b
 ### Home for Arnoub, A (Asia) (En,Ar).iso, CRC: f3dccd9a
+### Homestay a la mode (Japan) (Disc A).iso, CRC: 8fbaf3fb
+### HVC Pico Pico Housoukyoku G-Style-hen Vol. 2 (Japan).iso, CRC: c23664fa
 ### Ice Age 2 - Jetzt Taut's (Austria) (En,De).iso, CRC: 7983eecb
 ### Imouto Paradise! 3 - Onii-chan to 5-nin no Imouto no Sugooku! Ecchi Shimakuri na Mainichi (Japan) (Disc 1).iso, CRC: 0fbcc0cc
 ### Imouto Paradise! 3 - Onii-chan to 5-nin no Imouto no Sugooku! Ecchi Shimakuri na Mainichi (Japan) (Disc 2).iso, CRC: 6098f67c
@@ -69,9 +77,14 @@
 ### Kouchuu Ouja Mushi King - Greatest Champion e no Michi 2 (Japan).iso, CRC: 859229e4
 ### Last Bounty Hunter, The (Europe).iso, CRC: 18507f9f
 ### Legend of Game Music - Premium Box - Expert Eizou Disc (Japan) (Special Bonus DVD).iso, CRC: 9ef37dd1
+### LEGO Star Wars - Tentou Promotion-you DVD (Japan).iso, CRC: f8fc73ae
 ### Level-5 Premium Himitsu Disc - Ano Uwasa no Title no Himitsu Eizou ga Kokoni (Japan).iso, CRC: d25d739b
 ### Level-5 Preview Disc (Japan).iso, CRC: e9190a3c
+### Lilo & Stitch's Island of Adventures (USA).iso, CRC: a714d608
 ### Limbo of the Lost (USA) (Bonus Disc).iso, CRC: 8285f95f
+### Lollipop Factory (Japan) (Disc A).iso, CRC: 2c4d31ff
+### Lollipop Factory (Japan) (Disc B).iso, CRC: d26ab7ff
+### Lollipop Factory (Japan) (Disc C).iso, CRC: 6814f0aa
 ### Mad Dog II - The Lost Gold (USA).iso, CRC: 802c2a3a
 ### Making of Age of Mythology, The (USA) (PC Game Bundle) (Rev 1).iso, CRC: 16070c29
 ### Making of Resident Evil 5 (Asia) (Xbox 360 Game Bundle).iso, CRC: 95a2dda5
@@ -85,6 +98,7 @@
 ### Musou Orochi 2 Ultimate, Sangokushi 12 with Power-Up Kit, Kin'iro no Corda Full Voice Special (Tentou Promotion Video) (Japan).iso, CRC: dc8d1f36
 ### Musou Orochi 3 Ultimate PV2 & Atelier - Tasogare no Renkinjutsushi Trilogy DX PV1&2 (Japan).iso, CRC: cb2ff472
 ### Musou Orochi Z - Winning Post World - Tentou Promotion Movie (Japan).iso, CRC: 81be5864
+### Nakadashi Teatime - Meshimase Cream Pie (Japan).iso, CRC: fcd1a2a1
 ### Nancy Drew - Curse of Blackmoor Manor (USA).iso, CRC: eb6b0171
 ### Nano Breaker - Promotion Movie (Japan).iso, CRC: 99c64dcd
 ### Naruto - Narutimate Hero 2 (Japan).iso, CRC: ccdc5110
@@ -111,6 +125,8 @@
 ### Pro Yakyuu Spirits 2004 Climax (Japan).iso, CRC: 1c9b24d4
 ### PSM2 Volume 39 (UK).iso, CRC: 40f8751f
 ### PSM2 Volume 49 (UK).iso, CRC: ff2bf6ed
+### Pure Cafe - Iyashi no Cafe ni Kayoi Tsumeru, Boku no Chihou Tenkin Seikatsu (Japan) (Disc B).iso, CRC: b605911f
+### Pure Cafe - Iyashi no Cafe ni Kayoi Tsumeru, Boku no Chihou Tenkin Seikatsu (Japan) (Disc C).iso, CRC: 85b30a8c
 ### Redemption (Japan) (Disc 2).iso, CRC: 858da17a
 ### Ryuu ga Gotoku 1 & 2 HD Edition Promotion DVD (Japan).iso, CRC: 6c49f50a
 ### Ryza no Atelier - Tokoyami no Joou to Himitsu no Kakurega - Tentou PV (Japan).iso, CRC: 16ad75c0
@@ -150,12 +166,15 @@
 ### Tales of the World - Radiant Mythology 2 - Dramatic DVD - Golden Gumi-hen (Japan).iso, CRC: bf42c309
 ### TGS 2005 - Taito Memories Disk (Japan).iso, CRC: 209f26a4
 ### Tokyo Friend Park II - Ketteiban - Minna de Chousen! Taikan Attraction! + High School Baseball DS (Japan).iso, CRC: 8cd0623c
+### Tokyo Twilight Ghost Hunters - Tokuten DVD (Japan).iso, CRC: 6a56625b
 ### Tom Clancy's Rainbow Six 3 - Official DVD Strategy Guide Full Motion Video Walkthrough (USA).iso, CRC: 1d1b29fb
 ### Toukiden - Kiwami Tentou Promotion Video (Japan).iso, CRC: 100d1a74
 ### Toukiden - Tentou Promotion Movie Dai-2-dan (Japan).iso, CRC: b80ff56f
 ### Toukiden 2 - Tentou PV Dai-1-dan (Japan).iso, CRC: ea23d0d1
 ### Toukiden 2 Dai-2-dan & Shin Sangoku Musou - Eiketsuden Dai-2-dan (Japan).iso, CRC: cba31e30
 ### Transformers - The Game (Europe) (Bonus Disc) (Xbox 360 Game Bundle).iso, CRC: e2689257
+### Tsuki to Mahou to Taiyou to (Japan) (Disc 1).iso, CRC: 963a89d7
+### Tsuki to Mahou to Taiyou to (Japan) (Disc 2).iso, CRC: c382d9a5
 ### Virtual Chanukah (USA) (En,He).iso, CRC: fc481c42
 ### Winning Post 7 - Boukoku no Aegis 2035 - Warship Gunner - Tentou Promotion Movie (Japan).iso, CRC: 960913a0
 ### Winning Post 7 2013 & Dead or Alive 5+ - Tentou Promotion Movie (Japan).iso, CRC: 54c7fd08

@@ -1,5 +1,5 @@
 # Redump - IBM - PC compatible MIAs
-## Games: 3315, ROMs: 7506, as of 2025-05-22
+## Games: 3313, ROMs: 7504, as of 2025-05-22
 
 ### %% - Fuuin no Otome (Japan) (Track 10).bin, CRC: 4481aa75
 ### Alley 19 Bowling (Europe) (Track 5).bin, CRC: dc835204
@@ -2876,8 +2876,6 @@
 ### Games Aktuell DVD 04-11 (Germany) (Seite 2) (HD-Videos).iso, CRC: 098b6874
 ### Games Aktuell DVD 05-11 (Germany) (Seite 2) (HD-Videos).iso, CRC: 407d668d
 ### Games Aktuell DVD 07-11 (Germany) (Seite 2) (HD-Videos).iso, CRC: e47b2f29
-### GameStar 10-2006 (Germany) (AB-16-DVD).iso, CRC: 5c3646e9
-### GameStar 11-2006 (Germany) (AB-16-DVD).iso, CRC: 0f861819
 ### Garou Densetsu 3 - Road to the Final Victory (Japan) (En,Ja,Es,Pt) (Rerelease)
 <details>
 <summary>ROMs</summary>

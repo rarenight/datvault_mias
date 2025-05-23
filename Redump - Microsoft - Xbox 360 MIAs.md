@@ -1,5 +1,5 @@
 # Redump - Microsoft - Xbox 360 MIAs
-## Games: 15, ROMs: 15, as of 2025-05-22
+## Games: 16, ROMs: 16, as of 2025-05-22
 
 ### Crysis 3 (Europe).iso, CRC: 010a26f7
 ### Disney Infinity 3.0 - Play Without Limits (Europe).iso, CRC: db35724c
@@ -7,6 +7,7 @@
 ### Dragon Age - Inquisition (France) (Disque 2).iso, CRC: 38ba005c
 ### Full Auto (Japan).iso, CRC: be8f9b4d
 ### Halo 3 (Asia) (En,Zh).iso, CRC: 5bdecc8c
+### Halo 3 - ODST (Canada) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko) (Campagne).iso, CRC: fba8ab0a
 ### Just Dance 4 (Europe) (Rev 1).iso, CRC: 20f04018
 ### Metal Gear Solid - HD Edition (Japan).iso, CRC: 8aba257b
 ### NBA Live 06 (Asia) (En,Zh).iso, CRC: da19d124

@@ -1,5 +1,5 @@
 # Redump - Apple - Macintosh MIAs
-## Games: 148, ROMs: 179, as of 2025-05-22
+## Games: 146, ROMs: 177, as of 2025-05-22
 
 ### 3-D Ultra Pinball (Japan).bin, CRC: 610eb45d
 ### 3DO Content Library, The (USA) (Disc 88) (Music & Sound Effects).bin, CRC: c157b11b
@@ -16,6 +16,7 @@
 ### 3DO Content Library, The (USA) (Disc 99) (Music & Sound Effects).bin, CRC: 4cdb5ace
 ### Afterlife (France).bin, CRC: fcf540bc
 ### Afterlife (USA).bin, CRC: ddd88601
+### Age of Empires III (USA).iso, CRC: 98d053a9
 ### Angel Egg (Japan).bin, CRC: dee41a7b
 ### Aquazone Compact (Japan).bin, CRC: f68eeeab
 ### Aquazone Compact (Japan) (Rerelease).bin, CRC: 0fdc7cec
@@ -175,9 +176,6 @@
 ### Quake III - Arena (Europe).bin, CRC: 70459c63
 ### Quantum Gate I - Akumu no Joshou (Japan).bin, CRC: c784c5ab
 ### Safecracker (USA, Canada) (Rerelease).bin, CRC: 7b1383c0
-### Sims 2, The (USA) (En,Ja,Fr,De,It).iso, CRC: 9864370c
-### Sims 2, The - Bon Voyage (Expansion Pack) (USA).iso, CRC: a45610d1
-### Sims 2, The - Open For Business (Expansion Pack) (USA).iso, CRC: 4941e2f0
 ### SimTown - The Town You Build Yourself! (Japan).bin, CRC: bcde4183
 ### Sinkha (USA).bin, CRC: 5b347810
 ### Star Wars - Rebel Assault (Europe).bin, CRC: 87398f45

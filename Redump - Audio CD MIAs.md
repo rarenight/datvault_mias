@@ -1,5 +1,5 @@
 # Redump - Audio CD MIAs
-## Games: 143, ROMs: 1846, as of 2025-05-22
+## Games: 150, ROMs: 1975, as of 2025-05-22
 
 ### 16Bit Rhythm Land - Original Sound Track (Japan) (Mega Drive Game Bundle)
 <details>
@@ -261,6 +261,33 @@
 - Dark Souls III - Original Soundtrack (Japan) (PS4 Game Bundle) (Track 23).bin, CRC: 5b42c6cb
 - Dark Souls III - Original Soundtrack (Japan) (PS4 Game Bundle) (Track 24).bin, CRC: d7ca86f3
 - Dark Souls III - Original Soundtrack (Japan) (PS4 Game Bundle) (Track 25).bin, CRC: 02096635
+</details>
+
+### Detective Gallo (Italy) (Soundtrack CD) (PC Game Bundle)
+<details>
+<summary>ROMs</summary>
+
+- Detective Gallo (Italy) (Soundtrack CD) (PC Game Bundle) (Track 01).bin, CRC: 208e9f4a
+- Detective Gallo (Italy) (Soundtrack CD) (PC Game Bundle) (Track 02).bin, CRC: 856f47b1
+- Detective Gallo (Italy) (Soundtrack CD) (PC Game Bundle) (Track 03).bin, CRC: 28e0f284
+- Detective Gallo (Italy) (Soundtrack CD) (PC Game Bundle) (Track 04).bin, CRC: 78d72f3d
+- Detective Gallo (Italy) (Soundtrack CD) (PC Game Bundle) (Track 05).bin, CRC: 21055c9d
+- Detective Gallo (Italy) (Soundtrack CD) (PC Game Bundle) (Track 06).bin, CRC: 370ad5c5
+- Detective Gallo (Italy) (Soundtrack CD) (PC Game Bundle) (Track 07).bin, CRC: 2a948978
+- Detective Gallo (Italy) (Soundtrack CD) (PC Game Bundle) (Track 08).bin, CRC: 2a626cf6
+- Detective Gallo (Italy) (Soundtrack CD) (PC Game Bundle) (Track 09).bin, CRC: e536fe0f
+- Detective Gallo (Italy) (Soundtrack CD) (PC Game Bundle) (Track 10).bin, CRC: 3a4d41f2
+- Detective Gallo (Italy) (Soundtrack CD) (PC Game Bundle) (Track 11).bin, CRC: 5368e41b
+- Detective Gallo (Italy) (Soundtrack CD) (PC Game Bundle) (Track 12).bin, CRC: 4cd50ddd
+- Detective Gallo (Italy) (Soundtrack CD) (PC Game Bundle) (Track 13).bin, CRC: 1d04b4f7
+- Detective Gallo (Italy) (Soundtrack CD) (PC Game Bundle) (Track 14).bin, CRC: f9a74ba6
+- Detective Gallo (Italy) (Soundtrack CD) (PC Game Bundle) (Track 15).bin, CRC: 8c75e454
+- Detective Gallo (Italy) (Soundtrack CD) (PC Game Bundle) (Track 16).bin, CRC: b581bb44
+- Detective Gallo (Italy) (Soundtrack CD) (PC Game Bundle) (Track 17).bin, CRC: 0305ec09
+- Detective Gallo (Italy) (Soundtrack CD) (PC Game Bundle) (Track 18).bin, CRC: eb7abd19
+- Detective Gallo (Italy) (Soundtrack CD) (PC Game Bundle) (Track 19).bin, CRC: 7e749402
+- Detective Gallo (Italy) (Soundtrack CD) (PC Game Bundle) (Track 20).bin, CRC: a59e769e
+- Detective Gallo (Italy) (Soundtrack CD) (PC Game Bundle) (Track 21).bin, CRC: 7f85c83d
 </details>
 
 ### Diablo II (Poland) (PC Game Bundle)
@@ -1048,6 +1075,78 @@
 
 ### Nekketsu Koukou Sound-bu SFC-hen (Japan) (Disc 1) (Track 43).bin, CRC: 4f7280c8
 ### Nekketsu Koukou Sound-bu SFC-hen (Japan) (Disc 2) (Track 51).bin, CRC: 648a6912
+### ONGEKI Sound Collection 03 - Splash Dance!! (Japan)
+<details>
+<summary>ROMs</summary>
+
+- ONGEKI Sound Collection 03 - Splash Dance!! (Japan) (Track 01).bin, CRC: d38268b2
+- ONGEKI Sound Collection 03 - Splash Dance!! (Japan) (Track 02).bin, CRC: 99c89dc8
+- ONGEKI Sound Collection 03 - Splash Dance!! (Japan) (Track 03).bin, CRC: cc8c067e
+- ONGEKI Sound Collection 03 - Splash Dance!! (Japan) (Track 04).bin, CRC: 9bc94b07
+- ONGEKI Sound Collection 03 - Splash Dance!! (Japan) (Track 05).bin, CRC: 333e18cc
+- ONGEKI Sound Collection 03 - Splash Dance!! (Japan) (Track 06).bin, CRC: 31f66ab3
+- ONGEKI Sound Collection 03 - Splash Dance!! (Japan) (Track 07).bin, CRC: 8ce4d49c
+- ONGEKI Sound Collection 03 - Splash Dance!! (Japan) (Track 08).bin, CRC: 1da5dc35
+- ONGEKI Sound Collection 03 - Splash Dance!! (Japan) (Track 09).bin, CRC: 47622c70
+- ONGEKI Sound Collection 03 - Splash Dance!! (Japan) (Track 10).bin, CRC: a5ab50ad
+- ONGEKI Sound Collection 03 - Splash Dance!! (Japan) (Track 11).bin, CRC: 72ed02ee
+- ONGEKI Sound Collection 03 - Splash Dance!! (Japan) (Track 12).bin, CRC: f4e1ff20
+- ONGEKI Sound Collection 03 - Splash Dance!! (Japan) (Track 13).bin, CRC: 2b9f27f5
+- ONGEKI Sound Collection 03 - Splash Dance!! (Japan) (Track 14).bin, CRC: ce69c356
+- ONGEKI Sound Collection 03 - Splash Dance!! (Japan) (Track 15).bin, CRC: efdecfd7
+- ONGEKI Sound Collection 03 - Splash Dance!! (Japan) (Track 16).bin, CRC: 1d5bc149
+- ONGEKI Sound Collection 03 - Splash Dance!! (Japan) (Track 17).bin, CRC: 5e75cbf4
+- ONGEKI Sound Collection 03 - Splash Dance!! (Japan) (Track 18).bin, CRC: 54de5e17
+- ONGEKI Sound Collection 03 - Splash Dance!! (Japan) (Track 19).bin, CRC: ab582dc7
+- ONGEKI Sound Collection 03 - Splash Dance!! (Japan) (Track 20).bin, CRC: b6606357
+</details>
+
+### Oniken + Odallus - Original Soundtrack (Asia) (PS4 Game Bundle)
+<details>
+<summary>ROMs</summary>
+
+- Oniken + Odallus - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 01).bin, CRC: d420defe
+- Oniken + Odallus - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 02).bin, CRC: 2074754e
+- Oniken + Odallus - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 03).bin, CRC: d04821ff
+- Oniken + Odallus - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 04).bin, CRC: 7bfb96b8
+- Oniken + Odallus - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 05).bin, CRC: fbabeeb0
+- Oniken + Odallus - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 06).bin, CRC: b3d41712
+- Oniken + Odallus - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 07).bin, CRC: 7a8d82d0
+- Oniken + Odallus - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 08).bin, CRC: bf53bedb
+- Oniken + Odallus - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 09).bin, CRC: 47705202
+- Oniken + Odallus - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 10).bin, CRC: 1e9c297f
+- Oniken + Odallus - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 11).bin, CRC: 770342d1
+- Oniken + Odallus - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 12).bin, CRC: 9eb65d36
+- Oniken + Odallus - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 13).bin, CRC: 6dd2d68e
+- Oniken + Odallus - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 14).bin, CRC: 3cc2e751
+- Oniken + Odallus - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 15).bin, CRC: 9b231dda
+- Oniken + Odallus - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 16).bin, CRC: 3514ae3d
+- Oniken + Odallus - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 17).bin, CRC: 64931dbb
+- Oniken + Odallus - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 18).bin, CRC: 05c501ab
+- Oniken + Odallus - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 19).bin, CRC: a106a5ca
+- Oniken + Odallus - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 20).bin, CRC: 2040d907
+- Oniken + Odallus - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 21).bin, CRC: fc4e107a
+- Oniken + Odallus - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 22).bin, CRC: 94879cb3
+- Oniken + Odallus - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 23).bin, CRC: 3d29b008
+- Oniken + Odallus - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 24).bin, CRC: 4f63e74b
+- Oniken + Odallus - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 25).bin, CRC: e5e6a446
+- Oniken + Odallus - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 26).bin, CRC: 94fa723b
+- Oniken + Odallus - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 27).bin, CRC: d6631a73
+- Oniken + Odallus - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 28).bin, CRC: f70494f9
+- Oniken + Odallus - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 29).bin, CRC: b33d8246
+- Oniken + Odallus - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 30).bin, CRC: 93543f2a
+- Oniken + Odallus - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 31).bin, CRC: d85d340a
+- Oniken + Odallus - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 32).bin, CRC: 19203256
+- Oniken + Odallus - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 33).bin, CRC: 0636fe11
+- Oniken + Odallus - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 34).bin, CRC: b8a9f342
+- Oniken + Odallus - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 35).bin, CRC: a18f4b47
+- Oniken + Odallus - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 36).bin, CRC: 7e613bbd
+- Oniken + Odallus - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 37).bin, CRC: f47ead41
+- Oniken + Odallus - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 38).bin, CRC: 221b644f
+- Oniken + Odallus - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 39).bin, CRC: d7ce875b
+- Oniken + Odallus - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 40).bin, CRC: f5b6d2bc
+</details>
+
 ### Opening Seigi no Tsubasa Maxi CD (Japan) (PC Game Bundle) (Track 4).bin, CRC: 9f6b5c13
 ### Pachi-Slot Ganbare Goemon 2 - Original Soundtrack (Japan) (Track 45).bin, CRC: 90a0bf97
 ### Pachi-Slot Metal Gear Solid - Snake Eater - Original Soundtrack (Japan) (Disc 1) (Track 18).bin, CRC: e4336915
@@ -1947,6 +2046,28 @@
 - Storm! Shooting Game Sound Omnibus Vol. 2 (Japan) (Track 32).bin, CRC: be99bd79
 </details>
 
+### Strikers 1945 Plus Portable - Original Soundtrack (Japan)
+<details>
+<summary>ROMs</summary>
+
+- Strikers 1945 Plus Portable - Original Soundtrack (Japan) (Track 01).bin, CRC: 6373d634
+- Strikers 1945 Plus Portable - Original Soundtrack (Japan) (Track 02).bin, CRC: cc09ed60
+- Strikers 1945 Plus Portable - Original Soundtrack (Japan) (Track 03).bin, CRC: 015517ee
+- Strikers 1945 Plus Portable - Original Soundtrack (Japan) (Track 04).bin, CRC: dcdf1a22
+- Strikers 1945 Plus Portable - Original Soundtrack (Japan) (Track 05).bin, CRC: 028d3882
+- Strikers 1945 Plus Portable - Original Soundtrack (Japan) (Track 06).bin, CRC: 5a35e3e8
+- Strikers 1945 Plus Portable - Original Soundtrack (Japan) (Track 07).bin, CRC: d29f5230
+- Strikers 1945 Plus Portable - Original Soundtrack (Japan) (Track 08).bin, CRC: cfb3c1e7
+- Strikers 1945 Plus Portable - Original Soundtrack (Japan) (Track 09).bin, CRC: b46240c4
+- Strikers 1945 Plus Portable - Original Soundtrack (Japan) (Track 10).bin, CRC: 947c3e78
+- Strikers 1945 Plus Portable - Original Soundtrack (Japan) (Track 11).bin, CRC: 5de66536
+- Strikers 1945 Plus Portable - Original Soundtrack (Japan) (Track 12).bin, CRC: e3958b8d
+- Strikers 1945 Plus Portable - Original Soundtrack (Japan) (Track 13).bin, CRC: 1563c90e
+- Strikers 1945 Plus Portable - Original Soundtrack (Japan) (Track 14).bin, CRC: dfc630ba
+- Strikers 1945 Plus Portable - Original Soundtrack (Japan) (Track 15).bin, CRC: 66a18ac9
+- Strikers 1945 Plus Portable - Original Soundtrack (Japan) (Track 16).bin, CRC: c6b50db3
+</details>
+
 ### Sweetly Revolution 3000 - 2nd Impression (Japan) (Track 12).bin, CRC: 93800aac
 ### Taito Milestones - Soundtrack (Europe) (NSW Game Bundle)
 <details>
@@ -2279,6 +2400,47 @@
 - Wizardry - Proving Grounds of the Mad Overlord - Original Game Soundtrack (Japan) (Track 17).bin, CRC: c41fcaec
 </details>
 
+### Wizardry - The Five Ordeals - Original Soundtrack (Japan) (Disc 1) (Wizardry Gaiden - Sentou no Kangoku & Itsutsu no Shiren - Audio Collection) (NSW Game Bundle)
+<details>
+<summary>ROMs</summary>
+
+- Wizardry - The Five Ordeals - Original Soundtrack (Japan) (Disc 1) (Wizardry Gaiden - Sentou no Kangoku & Itsutsu no Shiren - Audio Collection) (NSW Game Bundle) (Track 01).bin, CRC: b6e8187a
+- Wizardry - The Five Ordeals - Original Soundtrack (Japan) (Disc 1) (Wizardry Gaiden - Sentou no Kangoku & Itsutsu no Shiren - Audio Collection) (NSW Game Bundle) (Track 02).bin, CRC: d44b6958
+- Wizardry - The Five Ordeals - Original Soundtrack (Japan) (Disc 1) (Wizardry Gaiden - Sentou no Kangoku & Itsutsu no Shiren - Audio Collection) (NSW Game Bundle) (Track 03).bin, CRC: 222c5a99
+- Wizardry - The Five Ordeals - Original Soundtrack (Japan) (Disc 1) (Wizardry Gaiden - Sentou no Kangoku & Itsutsu no Shiren - Audio Collection) (NSW Game Bundle) (Track 04).bin, CRC: 435b1c23
+- Wizardry - The Five Ordeals - Original Soundtrack (Japan) (Disc 1) (Wizardry Gaiden - Sentou no Kangoku & Itsutsu no Shiren - Audio Collection) (NSW Game Bundle) (Track 05).bin, CRC: e8a7c7c4
+- Wizardry - The Five Ordeals - Original Soundtrack (Japan) (Disc 1) (Wizardry Gaiden - Sentou no Kangoku & Itsutsu no Shiren - Audio Collection) (NSW Game Bundle) (Track 06).bin, CRC: 92a74cd1
+- Wizardry - The Five Ordeals - Original Soundtrack (Japan) (Disc 1) (Wizardry Gaiden - Sentou no Kangoku & Itsutsu no Shiren - Audio Collection) (NSW Game Bundle) (Track 07).bin, CRC: ac2b4e3d
+- Wizardry - The Five Ordeals - Original Soundtrack (Japan) (Disc 1) (Wizardry Gaiden - Sentou no Kangoku & Itsutsu no Shiren - Audio Collection) (NSW Game Bundle) (Track 08).bin, CRC: e69d91f5
+- Wizardry - The Five Ordeals - Original Soundtrack (Japan) (Disc 1) (Wizardry Gaiden - Sentou no Kangoku & Itsutsu no Shiren - Audio Collection) (NSW Game Bundle) (Track 09).bin, CRC: ade34f8f
+- Wizardry - The Five Ordeals - Original Soundtrack (Japan) (Disc 1) (Wizardry Gaiden - Sentou no Kangoku & Itsutsu no Shiren - Audio Collection) (NSW Game Bundle) (Track 10).bin, CRC: adcc4cd1
+- Wizardry - The Five Ordeals - Original Soundtrack (Japan) (Disc 1) (Wizardry Gaiden - Sentou no Kangoku & Itsutsu no Shiren - Audio Collection) (NSW Game Bundle) (Track 11).bin, CRC: 8c611185
+- Wizardry - The Five Ordeals - Original Soundtrack (Japan) (Disc 1) (Wizardry Gaiden - Sentou no Kangoku & Itsutsu no Shiren - Audio Collection) (NSW Game Bundle) (Track 12).bin, CRC: 2b0bdff4
+- Wizardry - The Five Ordeals - Original Soundtrack (Japan) (Disc 1) (Wizardry Gaiden - Sentou no Kangoku & Itsutsu no Shiren - Audio Collection) (NSW Game Bundle) (Track 13).bin, CRC: 38a8f7ff
+- Wizardry - The Five Ordeals - Original Soundtrack (Japan) (Disc 1) (Wizardry Gaiden - Sentou no Kangoku & Itsutsu no Shiren - Audio Collection) (NSW Game Bundle) (Track 14).bin, CRC: 3265bf95
+- Wizardry - The Five Ordeals - Original Soundtrack (Japan) (Disc 1) (Wizardry Gaiden - Sentou no Kangoku & Itsutsu no Shiren - Audio Collection) (NSW Game Bundle) (Track 15).bin, CRC: 63bd62f8
+- Wizardry - The Five Ordeals - Original Soundtrack (Japan) (Disc 1) (Wizardry Gaiden - Sentou no Kangoku & Itsutsu no Shiren - Audio Collection) (NSW Game Bundle) (Track 16).bin, CRC: 7d7dd924
+- Wizardry - The Five Ordeals - Original Soundtrack (Japan) (Disc 1) (Wizardry Gaiden - Sentou no Kangoku & Itsutsu no Shiren - Audio Collection) (NSW Game Bundle) (Track 17).bin, CRC: a260c522
+- Wizardry - The Five Ordeals - Original Soundtrack (Japan) (Disc 1) (Wizardry Gaiden - Sentou no Kangoku & Itsutsu no Shiren - Audio Collection) (NSW Game Bundle) (Track 18).bin, CRC: 8692ee70
+- Wizardry - The Five Ordeals - Original Soundtrack (Japan) (Disc 1) (Wizardry Gaiden - Sentou no Kangoku & Itsutsu no Shiren - Audio Collection) (NSW Game Bundle) (Track 19).bin, CRC: 6f627e63
+- Wizardry - The Five Ordeals - Original Soundtrack (Japan) (Disc 1) (Wizardry Gaiden - Sentou no Kangoku & Itsutsu no Shiren - Audio Collection) (NSW Game Bundle) (Track 20).bin, CRC: ed5f248a
+- Wizardry - The Five Ordeals - Original Soundtrack (Japan) (Disc 1) (Wizardry Gaiden - Sentou no Kangoku & Itsutsu no Shiren - Audio Collection) (NSW Game Bundle) (Track 21).bin, CRC: 31f8b436
+- Wizardry - The Five Ordeals - Original Soundtrack (Japan) (Disc 1) (Wizardry Gaiden - Sentou no Kangoku & Itsutsu no Shiren - Audio Collection) (NSW Game Bundle) (Track 22).bin, CRC: 8aac70fc
+- Wizardry - The Five Ordeals - Original Soundtrack (Japan) (Disc 1) (Wizardry Gaiden - Sentou no Kangoku & Itsutsu no Shiren - Audio Collection) (NSW Game Bundle) (Track 23).bin, CRC: dee34b9a
+- Wizardry - The Five Ordeals - Original Soundtrack (Japan) (Disc 1) (Wizardry Gaiden - Sentou no Kangoku & Itsutsu no Shiren - Audio Collection) (NSW Game Bundle) (Track 24).bin, CRC: 4e374508
+- Wizardry - The Five Ordeals - Original Soundtrack (Japan) (Disc 1) (Wizardry Gaiden - Sentou no Kangoku & Itsutsu no Shiren - Audio Collection) (NSW Game Bundle) (Track 25).bin, CRC: cb02d43a
+</details>
+
+### Wizardry - The Five Ordeals - Original Soundtrack (Japan) (Disc 2) (Jihi no Fuzai) (NSW Game Bundle)
+<details>
+<summary>ROMs</summary>
+
+- Wizardry - The Five Ordeals - Original Soundtrack (Japan) (Disc 2) (Jihi no Fuzai) (NSW Game Bundle) (Track 1).bin, CRC: c2a8348b
+- Wizardry - The Five Ordeals - Original Soundtrack (Japan) (Disc 2) (Jihi no Fuzai) (NSW Game Bundle) (Track 2).bin, CRC: dc287297
+- Wizardry - The Five Ordeals - Original Soundtrack (Japan) (Disc 2) (Jihi no Fuzai) (NSW Game Bundle) (Track 3).bin, CRC: 2f766327
+- Wizardry - The Five Ordeals - Original Soundtrack (Japan) (Disc 2) (Jihi no Fuzai) (NSW Game Bundle) (Track 4).bin, CRC: e845661f
+</details>
+
 ### Wizardry Legacy - BCF, CDS & 8 - Original Soundtracks (Japan) (PC Game Bundle)
 <details>
 <summary>ROMs</summary>
@@ -2367,5 +2529,14 @@
 - Wizardry Variants Daphne - Original Soundtrack (Japan) (Disc 2) (Track 18).bin, CRC: cda48a03
 - Wizardry Variants Daphne - Original Soundtrack (Japan) (Disc 2) (Track 19).bin, CRC: 9ef84b09
 - Wizardry Variants Daphne - Original Soundtrack (Japan) (Disc 2) (Track 20).bin, CRC: de5da191
+</details>
+
+### Yuzuminatsu - You Know My Heart! & Drama CD (Japan) (PC Game Bundle)
+<details>
+<summary>ROMs</summary>
+
+- Yuzuminatsu - You Know My Heart! & Drama CD (Japan) (PC Game Bundle) (Track 1).bin, CRC: d3829e0b
+- Yuzuminatsu - You Know My Heart! & Drama CD (Japan) (PC Game Bundle) (Track 2).bin, CRC: b4bb5c22
+- Yuzuminatsu - You Know My Heart! & Drama CD (Japan) (PC Game Bundle) (Track 3).bin, CRC: f26d91f3
 </details>
 
