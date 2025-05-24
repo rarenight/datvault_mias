@@ -1,5 +1,5 @@
 # Redump - DVD-Video MIAs
-## Games: 213, ROMs: 213, as of 2025-05-22
+## Games: 212, ROMs: 212, as of 2025-05-22
 
 ### 2002 Autumn Tokyo Game Show (Taiwan).iso, CRC: 92c99685
 ### 3-nen B-gumi Kinpachi Sensei - Densetsu no Kyoudan ni Tate! Promotion Video-2 (Japan).iso, CRC: d346598e
@@ -35,7 +35,6 @@
 ### Devil May Cry 4 (Asia) (En,Ja) (Special DVD).iso, CRC: 64a75c5e
 ### Devil May Cry 4 (Japan) (En,Ja).iso, CRC: 5be6efbb
 ### Di Gi Charat Gekijou - Piyoko ni Omakase Pyo! Excellent-ban (Japan) (PS2 Game Bundle).iso, CRC: 54474e10
-### Disney Nalle Puh - Lek och laer med Puh och hans vaenner (Sweden).iso, CRC: 871d7676
 ### Doom - Unrated (USA) (En,Fr,Es) (Widescreen).iso, CRC: 3b8aa4be
 ### Dragon Age - Origins (USA) (Bonus Disc).iso, CRC: ec154baa
 ### Dragon Ball Z 2 Promotion DVD (Japan).iso, CRC: 49d8e235

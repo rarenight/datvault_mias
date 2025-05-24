@@ -1,5 +1,5 @@
 # Redump - Audio CD MIAs
-## Games: 150, ROMs: 1975, as of 2025-05-22
+## Games: 152, ROMs: 1980, as of 2025-05-22
 
 ### 16Bit Rhythm Land - Original Sound Track (Japan) (Mega Drive Game Bundle)
 <details>
@@ -1264,6 +1264,23 @@
 - Path of Exile - Soundtrack (New Zealand) (PC Game Bundle) (Track 11).bin, CRC: f231b764
 - Path of Exile - Soundtrack (New Zealand) (PC Game Bundle) (Track 12).bin, CRC: 502a86de
 - Path of Exile - Soundtrack (New Zealand) (PC Game Bundle) (Track 13).bin, CRC: cf6fa3d4
+</details>
+
+### Pia Carrot e Youkoso!! 3 (Japan) (Special Disc) (DC Game Bundle)
+<details>
+<summary>ROMs</summary>
+
+- Pia Carrot e Youkoso!! 3 (Japan) (Special Disc) (DC Game Bundle) (Track 1).bin, CRC: 337af6a6
+- Pia Carrot e Youkoso!! 3 (Japan) (Special Disc) (DC Game Bundle) (Track 2).bin, CRC: 5d60db25
+- Pia Carrot e Youkoso!! 3 (Japan) (Special Disc) (DC Game Bundle) (Track 3).bin, CRC: 964987a8
+</details>
+
+### Pia Carrot e Youkoso!! 3 - Original Drama CD (Japan) (DC Game Bundle)
+<details>
+<summary>ROMs</summary>
+
+- Pia Carrot e Youkoso!! 3 - Original Drama CD (Japan) (DC Game Bundle) (Track 1).bin, CRC: 57a57a90
+- Pia Carrot e Youkoso!! 3 - Original Drama CD (Japan) (DC Game Bundle) (Track 2).bin, CRC: f63a7978
 </details>
 
 ### Pil Sound Gear (Japan) (PC Game Bundle)

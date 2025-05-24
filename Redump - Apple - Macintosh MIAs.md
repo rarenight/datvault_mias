@@ -1,5 +1,5 @@
 # Redump - Apple - Macintosh MIAs
-## Games: 146, ROMs: 177, as of 2025-05-22
+## Games: 144, ROMs: 175, as of 2025-05-22
 
 ### 3-D Ultra Pinball (Japan).bin, CRC: 610eb45d
 ### 3DO Content Library, The (USA) (Disc 88) (Music & Sound Effects).bin, CRC: c157b11b
@@ -16,7 +16,6 @@
 ### 3DO Content Library, The (USA) (Disc 99) (Music & Sound Effects).bin, CRC: 4cdb5ace
 ### Afterlife (France).bin, CRC: fcf540bc
 ### Afterlife (USA).bin, CRC: ddd88601
-### Age of Empires III (USA).iso, CRC: 98d053a9
 ### Angel Egg (Japan).bin, CRC: dee41a7b
 ### Aquazone Compact (Japan).bin, CRC: f68eeeab
 ### Aquazone Compact (Japan) (Rerelease).bin, CRC: 0fdc7cec
@@ -102,7 +101,6 @@
 ### Halo - Combat Evolved (Japan).bin, CRC: 48342b1d
 ### Halo - Combat Evolved (USA) (Alt).bin, CRC: 07f0a0b0
 ### Hell - A Cyberpunk Thriller (Japan).bin, CRC: ff96379c
-### Kana - Imouto (Japan).bin, CRC: 00df668a
 ### Klik & Play (France).bin, CRC: a7f8c388
 ### Leisure Suit Larry 6 - Shape Up or Slip Out! (USA).bin, CRC: d98b96e1
 ### Mac Fan Internet 1997 6 (Japan).bin, CRC: af663e55
