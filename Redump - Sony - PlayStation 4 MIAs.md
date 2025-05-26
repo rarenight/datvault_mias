@@ -1,5 +1,5 @@
 # Redump - Sony - PlayStation 4 MIAs
-## Games: 304, ROMs: 304, as of 2025-05-24
+## Games: 303, ROMs: 303, as of 2025-05-26
 
 ### 2Dark (Japan).iso, CRC: 51bd991f
 ### 8-Bit Adventure Anthology - Volume 1 (USA).iso, CRC: 1598191a
@@ -240,7 +240,6 @@
 ### Shantae and the Seven Sirens (USA) (En,Fr,Es).iso, CRC: c0875b83
 ### Shenmue III (Japan).iso, CRC: 5d5c3380
 ### Shingeki no Kyojin (Japan).iso, CRC: 01be069d
-### Shining Resonance Refrain (Japan).iso, CRC: c838fde6
 ### Shovel Knight (Europe) (En,Fr,De,Es,It).iso, CRC: 2e1dafb7
 ### SingStar Ultimate Party (Europe).iso, CRC: cca94d40
 ### Slime-san - Superslime Edition (USA) (En,Ja).iso, CRC: 1b61284c

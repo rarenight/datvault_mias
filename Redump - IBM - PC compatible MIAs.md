@@ -1,5 +1,5 @@
 # Redump - IBM - PC compatible MIAs
-## Games: 3249, ROMs: 7259, as of 2025-05-24
+## Games: 3240, ROMs: 7239, as of 2025-05-26
 
 ### %% - Fuuin no Otome (Japan) (Track 10).bin, CRC: 4481aa75
 ### Alley 19 Bowling (Europe) (Track 5).bin, CRC: dc835204
@@ -1505,7 +1505,6 @@
 ### Creature Conflict - The Clan Wars (Czech).iso, CRC: 929ef05e
 ### Creepers (USA).bin, CRC: f997086e
 ### Cricket 07 (Europe).iso, CRC: 257437a4
-### Crossroads - Green Wave (UK).bin, CRC: 73a47ffa
 ### CrossTown - Giftet (Sweden).bin, CRC: f1bb4548
 ### Crusader Kings II (Japan).bin, CRC: 9dbb4f13
 ### Crusader Kings II - Sword of Islam (Japan).bin, CRC: 789e3b87
@@ -2651,19 +2650,6 @@
 ### Flight Commander with Mission Builder (Japan).bin, CRC: 42445a52
 ### Flight of the Intruder (Europe).bin, CRC: 40168171
 ### Flowers (Japan).bin, CRC: f1445145
-### Flygande Start - Foersta Klass (Sweden)
-<details>
-<summary>ROMs</summary>
-
-- Flygande Start - Foersta Klass (Sweden) (Track 1).bin, CRC: 9a751b64
-- Flygande Start - Foersta Klass (Sweden) (Track 2).bin, CRC: de96ce3b
-- Flygande Start - Foersta Klass (Sweden) (Track 3).bin, CRC: b50a5fea
-- Flygande Start - Foersta Klass (Sweden) (Track 4).bin, CRC: 8d34dd33
-- Flygande Start - Foersta Klass (Sweden) (Track 5).bin, CRC: e626905e
-- Flygande Start - Foersta Klass (Sweden) (Track 6).bin, CRC: 2a47d3a7
-- Flygande Start - Foersta Klass (Sweden) (Track 7).bin, CRC: ceb72adf
-</details>
-
 ### Fong Yung dton Seuk Jaao Saatdtraa (Thailand) (Disc 1).bin, CRC: 4face976
 ### Fong Yung dton Seuk Jaao Saatdtraa (Thailand) (Disc 2).bin, CRC: 45381f51
 ### Fong Yung dton Seuk Jaao Saatdtraa (Thailand) (Disc 3)
@@ -4041,7 +4027,6 @@
 ### Kapra W - The Road to Al-De-Baran (Japan).bin, CRC: 8eb0dadd
 ### Kartagen (Bulgaria) (En,Bg).bin, CRC: 105f4022
 ### Karugamo (Japan).bin, CRC: 9516cef5
-### Katino Leopoldo Vasarnamis arba Peliu Medziokles Ypatumai (Lithuania).bin, CRC: 0190254d
 ### Kdo Jsem (Czech).bin, CRC: 0eec29fa
 ### Keep the Balance! (Japan)
 <details>
@@ -4570,7 +4555,6 @@
 ### Lord of the Rings Enhanced CD-ROM, The (USA) (OEM) (Track 01).bin, CRC: e9e65cab
 ### Lord of the Rings Online - Shadows of Angmar - Beta DVD (USA).iso, CRC: 69e536db
 ### Lord of the Rings Online, The - Shadows of Angmar (Europe) (En,Fr,De).iso, CRC: bfb3776a
-### Lord of the Rings, The - The Battle for Middle-Earth (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Pl) (Rerelease).iso, CRC: 9a9c6393
 ### Lord of the Rings, The - The Fellowship of the Ring (Europe) (Alt).bin, CRC: a17fe8c3
 ### Lords of Magic (Australia).bin, CRC: f953b578
 ### Lords of Magic - Special Edition (France).bin, CRC: 5262dc82
@@ -6276,6 +6260,27 @@
 - Railroad Tycoon 2 (France) (Track 14).bin, CRC: 6f1e8917
 - Railroad Tycoon 2 (France) (Track 15).bin, CRC: 8277d161
 - Railroad Tycoon 2 (France) (Track 16).bin, CRC: 48ce1802
+</details>
+
+### Railroad Tycoon II (USA) (Linux)
+<details>
+<summary>ROMs</summary>
+
+- Railroad Tycoon II (USA) (Linux) (Track 01).bin, CRC: c2dad03d
+- Railroad Tycoon II (USA) (Linux) (Track 02).bin, CRC: 0d474dbf
+- Railroad Tycoon II (USA) (Linux) (Track 03).bin, CRC: b4014c77
+- Railroad Tycoon II (USA) (Linux) (Track 04).bin, CRC: 4a4851f3
+- Railroad Tycoon II (USA) (Linux) (Track 05).bin, CRC: cd384ee9
+- Railroad Tycoon II (USA) (Linux) (Track 06).bin, CRC: c544f167
+- Railroad Tycoon II (USA) (Linux) (Track 07).bin, CRC: 393139c6
+- Railroad Tycoon II (USA) (Linux) (Track 08).bin, CRC: 6b146f37
+- Railroad Tycoon II (USA) (Linux) (Track 09).bin, CRC: 616e07cd
+- Railroad Tycoon II (USA) (Linux) (Track 10).bin, CRC: 944de1d4
+- Railroad Tycoon II (USA) (Linux) (Track 11).bin, CRC: 9f4b6877
+- Railroad Tycoon II (USA) (Linux) (Track 12).bin, CRC: e4b0e971
+- Railroad Tycoon II (USA) (Linux) (Track 13).bin, CRC: e9897b02
+- Railroad Tycoon II (USA) (Linux) (Track 14).bin, CRC: 78608a9c
+- Railroad Tycoon II (USA) (Linux) (Track 15).bin, CRC: bddd5f86
 </details>
 
 ### Raimuiro Jankitan - Meiji Nihon, Otome Sakitsumosu. (Japan) (Disc 1).bin, CRC: f506dd0c
@@ -8737,7 +8742,6 @@
 ### UFO - Aftermath (Hungary) (Telepito CD).bin, CRC: a066e6b4
 ### Ukrainian Language Acquisition System (Canada) (En,Uk).bin, CRC: bea5fcfb
 ### Ukrayins'ka Literatura - 8 Klas (Ukraine).bin, CRC: 520596c1
-### Ulicnici - Indiansky Poklad (Czech).bin, CRC: 2fc53638
 ### Ultima IX - Ascension (Portugal) (Disc 1) (Install Disc) (Rerelease).bin, CRC: ead02460
 ### Ultima Online - Age of Shadows (Japan).bin, CRC: 44320ba7
 ### Ultima Online - Lord Blackthorn's Revenge (Japan).bin, CRC: 0624d5be
@@ -8866,7 +8870,6 @@
 - Virtua Cop 2 (Japan) (En,Ja) (Rerelease) (2000-12-21) (Track 36).bin, CRC: 892e2363
 </details>
 
-### Virtua Fighter PC (Japan) (Hibaihin) (Track 01).bin, CRC: b1013189
 ### Virtua Tennis 2009 (Argentina) (En,Fr,De,Es,It,Nl).iso, CRC: 8437bc4a
 ### Virtua Tennis 3 (Netherlands) (En,Fr,De,Es,It).iso, CRC: 0230d2ca
 ### Virtual Mistery Series - Surfside Satsujin Jiken (Japan).bin, CRC: 16dbe5a3
@@ -9020,6 +9023,7 @@
 ### Watch_Dogs 2 (Taiwan) (Zh,Ko,Ru) (Disc 1).iso, CRC: fa2f934c
 ### Watch_Dogs 2 (Taiwan) (Zh,Ko,Ru) (Disc 2).iso, CRC: d2630e79
 ### Watch_Dogs 2 (Taiwan) (Zh,Ko,Ru) (Disc 3).iso, CRC: 2ad2b919
+### Webmaster (France).bin, CRC: 75876edb
 ### Webmaster (Germany).bin, CRC: f1abb89d
 ### Weisse Bescheid! Das Horst Schlaemmer Quiz (Germany).iso, CRC: 807ae6a8
 ### Welcome to the World of EA (Germany).iso, CRC: 985739d7
@@ -9287,50 +9291,10 @@
 ### Yizhi Youxi 3.0 (China).bin, CRC: 24d50a4b
 ### Yoji Jukugo Puzzle - Jukugo Toppa (Japan).bin, CRC: 61edd92c
 ### Yoji Jukugo Puzzle - Jukugo Toppa (Japan) (Rerelease).bin, CRC: f251040e
-### Yongzhe Paopaolong 2 (Taiwan)
-<details>
-<summary>ROMs</summary>
-
-- Yongzhe Paopaolong 2 (Taiwan) (Track 01).bin, CRC: 474391d3
-- Yongzhe Paopaolong 2 (Taiwan) (Track 02).bin, CRC: 1ee432a9
-- Yongzhe Paopaolong 2 (Taiwan) (Track 03).bin, CRC: 18638657
-- Yongzhe Paopaolong 2 (Taiwan) (Track 04).bin, CRC: a58796b2
-- Yongzhe Paopaolong 2 (Taiwan) (Track 05).bin, CRC: c378e23d
-- Yongzhe Paopaolong 2 (Taiwan) (Track 06).bin, CRC: 9678c1e7
-- Yongzhe Paopaolong 2 (Taiwan) (Track 07).bin, CRC: ad49e128
-- Yongzhe Paopaolong 2 (Taiwan) (Track 08).bin, CRC: 773ab45b
-- Yongzhe Paopaolong 2 (Taiwan) (Track 09).bin, CRC: 23f9db69
-- Yongzhe Paopaolong 2 (Taiwan) (Track 10).bin, CRC: 618747e7
-- Yongzhe Paopaolong 2 (Taiwan) (Track 11).bin, CRC: 23fdc744
-- Yongzhe Paopaolong 2 (Taiwan) (Track 12).bin, CRC: d3368e54
-- Yongzhe Paopaolong 2 (Taiwan) (Track 13).bin, CRC: f31000e1
-- Yongzhe Paopaolong 2 (Taiwan) (Track 14).bin, CRC: 1f89ee94
-- Yongzhe Paopaolong 2 (Taiwan) (Track 15).bin, CRC: 11eaab87
-- Yongzhe Paopaolong 2 (Taiwan) (Track 16).bin, CRC: e9e91e8a
-- Yongzhe Paopaolong 2 (Taiwan) (Track 17).bin, CRC: 809c7541
-- Yongzhe Paopaolong 2 (Taiwan) (Track 18).bin, CRC: d942fb3d
-</details>
-
-### Yongzhe Paopaolong Menggongchang (China).bin, CRC: b48d5218
 ### Yooyaku Monsters (Japan).bin, CRC: ee1ffa1b
 ### Yorishiro (Japan) (Track 01).bin, CRC: b76ad79a
-### Youkai Ningen Bem - Arata naru Tamashii no Meikyuu (Japan) (Disc 1) (Game)
-<details>
-<summary>ROMs</summary>
-
-- Youkai Ningen Bem - Arata naru Tamashii no Meikyuu (Japan) (Disc 1) (Game).bin, CRC: 78f0b2ed
-- Youkai Ningen Bem - Arata naru Tamashii no Meikyuu (Japan) (Disc 1) (Game).bin, CRC: 0238bb28
-</details>
-
-### Youkai Ningen Bem - Arata naru Tamashii no Meikyuu (Japan) (Disc 2) (Data Base)
-<details>
-<summary>ROMs</summary>
-
-- Youkai Ningen Bem - Arata naru Tamashii no Meikyuu (Japan) (Disc 2) (Data Base).bin, CRC: 0457cc65
-- Youkai Ningen Bem - Arata naru Tamashii no Meikyuu (Japan) (Disc 2) (Data Base).bin, CRC: fae3d155
-</details>
-
-### Youxi Buwan Jihua 2 (Taiwan).bin, CRC: 5ef46def
+### Youkai Ningen Bem - Arata naru Tamashii no Meikyuu (Japan) (Disc 1) (Game).bin, CRC: 78f0b2ed
+### Youkai Ningen Bem - Arata naru Tamashii no Meikyuu (Japan) (Disc 2) (Data Base).bin, CRC: 0457cc65
 ### Youxi Xiugai Dashi - Zheng Ren Zhuanjia 5.0 (China) (En,Zh).bin, CRC: 502a2193
 ### Ys - Origin (Japan) (Rerelease).iso, CRC: b261df5e
 ### Ys Eternal (Japan) (Rerelease)
@@ -9430,13 +9394,11 @@
 
 ### Zerstreute Pharao, Der (Germany).bin, CRC: 32795dc3
 ### Zettai Imouto Shijou Shugi!! Imouto kara Ijirareru Drama CD - Mochiron Seiteki na Imi de (Japan) (Track 5).bin, CRC: ef39ef13
-### Zhen Lian - Jiyu Fengqiu (China) (Game Disk).iso, CRC: b19f2818
 ### Zheng Zhi Ma Jiang San Que Yi (Taiwan).bin, CRC: 2ce3ce87
 ### Ziemia we Wszechswiecie (Poland).bin, CRC: 768a014a
 ### Zoldiras (Japan).bin, CRC: 410452f7
 ### Zoo Tycoon (Poland) (Disc 1) (Rerelease).bin, CRC: 85a444af
 ### Zoo Tycoon (Poland) (Disc 2) (Patch PL) (Rerelease).bin, CRC: 73b9e7d4
-### Zoo Tycoon 2 (Japan).bin, CRC: d614fe24
 ### Zoop (USA).bin, CRC: 770a74b0
 ### Zostan Malym Picasso (Poland) (Covermount).bin, CRC: 96068bb0
 ### Zrobmy Gre (Poland)

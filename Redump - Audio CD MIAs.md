@@ -1,5 +1,5 @@
 # Redump - Audio CD MIAs
-## Games: 152, ROMs: 1980, as of 2025-05-24
+## Games: 155, ROMs: 1984, as of 2025-05-26
 
 ### 16Bit Rhythm Land - Original Sound Track (Japan) (Mega Drive Game Bundle)
 <details>
@@ -263,6 +263,14 @@
 - Dark Souls III - Original Soundtrack (Japan) (PS4 Game Bundle) (Track 25).bin, CRC: 02096635
 </details>
 
+### Dead Space 2 - Collector's Edition Original Soundtrack (USA) (Xbox 360 Game Bundle)
+<details>
+<summary>ROMs</summary>
+
+- Dead Space 2 - Collector's Edition Original Soundtrack (USA) (Xbox 360 Game Bundle) (Track 01).bin, CRC: 6192308b
+- Dead Space 2 - Collector's Edition Original Soundtrack (USA) (Xbox 360 Game Bundle) (Track 19).bin, CRC: 7f7d00c1
+</details>
+
 ### Detective Gallo (Italy) (Soundtrack CD) (PC Game Bundle)
 <details>
 <summary>ROMs</summary>
@@ -313,6 +321,8 @@
 - Diablo II (Poland) (PC Game Bundle) (Track 17).bin, CRC: 8e63d57d
 </details>
 
+### DoDonPachi Saidaioujou-DoDonPachi Maximum - Original Soundtrack (Japan) (Disc 1) (Track 15).bin, CRC: 2c3cbcb4
+### DoDonPachi Saidaioujou-DoDonPachi Maximum - Original Soundtrack (Japan) (Disc 2) (Track 25).bin, CRC: 95c6b7dd
 ### Double Dragon - Sound Collection Vol. 1 (Japan) (Disc 1) (Track 51).bin, CRC: 2f919305
 ### Double Dragon - Sound Collection Vol. 1 (Japan) (Disc 2) (Track 33).bin, CRC: 97abc4b7
 ### Einhaender - Original Soundtrack (Japan) (Track 29).bin, CRC: 0fe74650
