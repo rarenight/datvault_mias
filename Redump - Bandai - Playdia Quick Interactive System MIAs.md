@@ -1,5 +1,5 @@
 # Redump - Bandai - Playdia Quick Interactive System MIAs
-## Games: 1, ROMs: 2, as of 2025-05-27
+## Games: 1, ROMs: 2, as of 2025-05-28
 
 ### Go! Go! Ackman Planet (Japan)
 <details>

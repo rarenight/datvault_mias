@@ -1,5 +1,5 @@
 # Redump - DVD-Video MIAs
-## Games: 212, ROMs: 212, as of 2025-05-27
+## Games: 214, ROMs: 214, as of 2025-05-28
 
 ### 2002 Autumn Tokyo Game Show (Taiwan).iso, CRC: 92c99685
 ### 3-nen B-gumi Kinpachi Sensei - Densetsu no Kyoudan ni Tate! Promotion Video-2 (Japan).iso, CRC: d346598e
@@ -60,6 +60,9 @@
 ### Hissatsu Ura Kagyou - Tentou Hansoku-you DVD (Japan).iso, CRC: 844ceb0b
 ### Home for Arnoub, A (Asia) (En,Ar).iso, CRC: f3dccd9a
 ### Homestay a la mode (Japan) (Disc A).iso, CRC: 8fbaf3fb
+### Homestay a la mode (Japan) (Disc B).iso, CRC: a1893929
+### Homestay a la mode (Japan) (Disc C).iso, CRC: 7d080d18
+### Homestay a la mode (Japan) (Disc D).iso, CRC: f5f4014f
 ### HVC Pico Pico Housoukyoku G-Style-hen Vol. 2 (Japan).iso, CRC: c23664fa
 ### Ice Age 2 - Jetzt Taut's (Austria) (En,De).iso, CRC: 7983eecb
 ### Imouto Paradise! 3 - Onii-chan to 5-nin no Imouto no Sugooku! Ecchi Shimakuri na Mainichi (Japan) (Disc 1).iso, CRC: 0fbcc0cc
@@ -151,7 +154,6 @@
 ### Sinbad - Legend of the Seven Seas (USA) (En,Fr,Es) (Fullscreen).iso, CRC: 48099cb2
 ### Soccer Life! (Japan).iso, CRC: 716e05a2
 ### Sony Computer Entertainment Inc. Software (Japan).iso, CRC: 3911ea10
-### Soul Calibur V - Making of DVD (Europe) (En,Fr,De,Es,It) (PS3 Game Bundle).iso, CRC: 84b0ef89
 ### Star Ocean - First Departure - Original Soundtrack (Japan) (Disc 3) (Special DVD).iso, CRC: 797705a3
 ### Star Ocean - Second Evolution - Original Soundtrack (Japan) (Disc 3) (Special DVD).iso, CRC: 4bf12ce1
 ### Star Wars - Clone Wars - Volumen Uno (Argentina) (En,Es,Pt).iso, CRC: ca98a9b1

@@ -1,5 +1,5 @@
 # Redump - IBM - PC compatible MIAs
-## Games: 3240, ROMs: 7239, as of 2025-05-27
+## Games: 3238, ROMs: 7237, as of 2025-05-28
 
 ### %% - Fuuin no Otome (Japan) (Track 10).bin, CRC: 4481aa75
 ### Alley 19 Bowling (Europe) (Track 5).bin, CRC: dc835204
@@ -637,12 +637,6 @@
 ### BallPark 3DX (Hungary).bin, CRC: 8a00af6a
 ### Bally 101 Slots - Actual Machines from the Casino! (USA).bin, CRC: ce71b5cf
 ### Ban Tiao Ming - Fan-Kong Jingying (China) (Jianti Zhongwenban Han-Hua Anzhuangpan).bin, CRC: 655f169a
-### Ban Tiao Ming 2 (China) (En,Zh) (Disc 1).bin, CRC: 0e32a402
-### Ban Tiao Ming 2 (China) (En,Zh) (Disc 2).bin, CRC: ec9beb05
-### Ban Tiao Ming 2 (China) (En,Zh) (Disc 3).bin, CRC: 51577819
-### Ban Tiao Ming 2 (China) (En,Zh) (Disc 4).bin, CRC: fddc2753
-### Ban Tiao Ming 2 (China) (En,Zh) (Disc 5).bin, CRC: 5ea883d3
-### Ban Tiao Ming 2 (China) (En,Zh) (Disc 6).bin, CRC: 92575a55
 ### Banshiryuu (Japan) (C70 Version).bin, CRC: 2ef61cde
 ### Baphomets Fluch (Germany) (Disc 1) (Sold Out Software) (2004-05-20).bin, CRC: b9bba2a9
 ### Barbie in het Zwanenmeer CD-ROM - Het Toverbos (Netherlands).bin, CRC: 17e4d5aa
@@ -1190,10 +1184,15 @@
 ### Command & Conquer - Alerte Rouge 2 (France) (Disc 1) (Allie).bin, CRC: 7a268191
 ### Command & Conquer - Alerte Rouge 2 (France) (Disc 2) (Sovietique).bin, CRC: 7315a38d
 ### Command & Conquer - Alerte Rouge 3 (France) (Rerelease).iso, CRC: 65d2daea
+### Command & Conquer - Generals (Poland) (Disc 1).bin, CRC: 78cdc6da
+### Command & Conquer - Generals (Poland) (Disc 2).bin, CRC: a408f8e4
+### Command & Conquer - Generals - Zero Hour (Poland) (Disc 1).bin, CRC: 7391699c
+### Command & Conquer - Generals - Zero Hour (Poland) (Disc 2).bin, CRC: 68f7fd29
 ### Command & Conquer - Soleil de Tiberium (France) (GDI Disc).bin, CRC: f0bb4b6d
 ### Command & Conquer - Soleil de Tiberium (France) (NOD Disc).bin, CRC: ab055789
 ### Command & Conquer 3 - Kane's Rache (Germany).iso, CRC: b470a44c
 ### Command & Conquer 3 - Tiberium Wars (Europe).iso, CRC: b9e6157b
+### Command & Conquer 3 - Tiberium Wars (Thailand) (Game Disc).iso, CRC: 09075eaa
 ### Command & Conquer 4 - Tiberian Twilight (Europe).iso, CRC: 7f86f27d
 ### Commandos - Behind Enemy Lines (Brazil)
 <details>
@@ -4625,7 +4624,6 @@
 ### MahJongg Empire (Europe).bin, CRC: 64f67562
 ### MahJongg Master - Sammler-Edition (Germany).bin, CRC: edfcf535
 ### MahJongg Master 3 (Europe) (En,Fr,De,Es,It,Pt) (Rerelease).bin, CRC: 9e5ad85e
-### Mahjongg Master 4 (Germany) (En,Fr,De,Es,It,Pt).bin, CRC: 6202f892
 ### Mahoromatic Adventure (Japan) (Disc 1).bin, CRC: 20d49eea
 ### Mahoromatic Adventure (Japan) (Disc 2).bin, CRC: 1a1eafa7
 ### Maihana Soumakyou - Uniting Barrage Action (Japan).iso, CRC: 44c5a708

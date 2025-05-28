@@ -1,5 +1,5 @@
 # Redump - Sony - PlayStation Portable MIAs
-## Games: 9, ROMs: 9, as of 2025-05-27
+## Games: 9, ROMs: 9, as of 2025-05-28
 
 ### Burnout Legends (Asia).iso, CRC: c03a765f
 ### Jikkyou Powerful Pro Yakyuu Portable 2 (Japan) (v2.01).iso, CRC: dc2b1163
