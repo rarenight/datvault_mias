@@ -1,32 +1,7 @@
 # Redump - Audio CD MIAs
-## Games: 150, ROMs: 1976, as of 2025-05-28
+## Games: 146, ROMs: 1845, as of 2025-06-01
 
-### 16Bit Rhythm Land - Original Sound Track (Japan) (Mega Drive Game Bundle)
-<details>
-<summary>ROMs</summary>
-
-- 16Bit Rhythm Land - Original Sound Track (Japan) (Mega Drive Game Bundle) (Track 01).bin, CRC: 55ed0804
-- 16Bit Rhythm Land - Original Sound Track (Japan) (Mega Drive Game Bundle) (Track 02).bin, CRC: 726b4d4f
-- 16Bit Rhythm Land - Original Sound Track (Japan) (Mega Drive Game Bundle) (Track 03).bin, CRC: 59ab77e3
-- 16Bit Rhythm Land - Original Sound Track (Japan) (Mega Drive Game Bundle) (Track 04).bin, CRC: 9ab56f8e
-- 16Bit Rhythm Land - Original Sound Track (Japan) (Mega Drive Game Bundle) (Track 05).bin, CRC: 71d6521a
-- 16Bit Rhythm Land - Original Sound Track (Japan) (Mega Drive Game Bundle) (Track 06).bin, CRC: f1bf485d
-- 16Bit Rhythm Land - Original Sound Track (Japan) (Mega Drive Game Bundle) (Track 07).bin, CRC: fac6e1c7
-- 16Bit Rhythm Land - Original Sound Track (Japan) (Mega Drive Game Bundle) (Track 08).bin, CRC: 23b880ec
-- 16Bit Rhythm Land - Original Sound Track (Japan) (Mega Drive Game Bundle) (Track 09).bin, CRC: df291259
-- 16Bit Rhythm Land - Original Sound Track (Japan) (Mega Drive Game Bundle) (Track 10).bin, CRC: 1a086d8a
-- 16Bit Rhythm Land - Original Sound Track (Japan) (Mega Drive Game Bundle) (Track 11).bin, CRC: 0ed56214
-- 16Bit Rhythm Land - Original Sound Track (Japan) (Mega Drive Game Bundle) (Track 12).bin, CRC: 484bc1ad
-- 16Bit Rhythm Land - Original Sound Track (Japan) (Mega Drive Game Bundle) (Track 13).bin, CRC: 866ba1a8
-- 16Bit Rhythm Land - Original Sound Track (Japan) (Mega Drive Game Bundle) (Track 14).bin, CRC: 0d631ff2
-- 16Bit Rhythm Land - Original Sound Track (Japan) (Mega Drive Game Bundle) (Track 15).bin, CRC: 709c46e2
-- 16Bit Rhythm Land - Original Sound Track (Japan) (Mega Drive Game Bundle) (Track 16).bin, CRC: c4e93971
-- 16Bit Rhythm Land - Original Sound Track (Japan) (Mega Drive Game Bundle) (Track 17).bin, CRC: 32d64f7f
-- 16Bit Rhythm Land - Original Sound Track (Japan) (Mega Drive Game Bundle) (Track 18).bin, CRC: 849230f1
-- 16Bit Rhythm Land - Original Sound Track (Japan) (Mega Drive Game Bundle) (Track 19).bin, CRC: d0bcf66f
-- 16Bit Rhythm Land - Original Sound Track (Japan) (Mega Drive Game Bundle) (Track 20).bin, CRC: d5598969
-</details>
-
+### 16Bit Rhythm Land - Original Sound Track (Japan) (Mega Drive Game Bundle) (Track 01).bin, CRC: 55ed0804
 ### 8Bit Rhythm Land - Original Sound Track (Japan) (Famicom Game Bundle) (Track 01).bin, CRC: c5f43089
 ### Age of Empires III (Poland) (Plyta audio z muzyka z gry) (PC Game Bundle)
 <details>
@@ -309,8 +284,6 @@
 - Diablo II (Poland) (PC Game Bundle) (Track 17).bin, CRC: 8e63d57d
 </details>
 
-### DoDonPachi Saidaioujou-DoDonPachi Maximum - Original Soundtrack (Japan) (Disc 1) (Track 15).bin, CRC: 2c3cbcb4
-### DoDonPachi Saidaioujou-DoDonPachi Maximum - Original Soundtrack (Japan) (Disc 2) (Track 25).bin, CRC: 95c6b7dd
 ### Double Dragon - Sound Collection Vol. 1 (Japan) (Disc 1) (Track 51).bin, CRC: 2f919305
 ### Double Dragon - Sound Collection Vol. 1 (Japan) (Disc 2) (Track 33).bin, CRC: 97abc4b7
 ### Einhaender - Original Soundtrack (Japan) (Track 29).bin, CRC: 0fe74650
@@ -1263,23 +1236,6 @@
 - Path of Exile - Soundtrack (New Zealand) (PC Game Bundle) (Track 13).bin, CRC: cf6fa3d4
 </details>
 
-### Pia Carrot e Youkoso!! 3 (Japan) (Special Disc) (DC Game Bundle)
-<details>
-<summary>ROMs</summary>
-
-- Pia Carrot e Youkoso!! 3 (Japan) (Special Disc) (DC Game Bundle) (Track 1).bin, CRC: 337af6a6
-- Pia Carrot e Youkoso!! 3 (Japan) (Special Disc) (DC Game Bundle) (Track 2).bin, CRC: 5d60db25
-- Pia Carrot e Youkoso!! 3 (Japan) (Special Disc) (DC Game Bundle) (Track 3).bin, CRC: 964987a8
-</details>
-
-### Pia Carrot e Youkoso!! 3 - Original Drama CD (Japan) (DC Game Bundle)
-<details>
-<summary>ROMs</summary>
-
-- Pia Carrot e Youkoso!! 3 - Original Drama CD (Japan) (DC Game Bundle) (Track 1).bin, CRC: 57a57a90
-- Pia Carrot e Youkoso!! 3 - Original Drama CD (Japan) (DC Game Bundle) (Track 2).bin, CRC: f63a7978
-</details>
-
 ### Pil Sound Gear (Japan) (PC Game Bundle)
 <details>
 <summary>ROMs</summary>
@@ -1326,38 +1282,7 @@
 - Postujte Nase Znakove (Croatia) (PC Game Bundle) (Track 12).bin, CRC: 5f3f45a3
 </details>
 
-### Pure Song Garden! Sound Track Mirai Record! (Japan)
-<details>
-<summary>ROMs</summary>
-
-- Pure Song Garden! Sound Track Mirai Record! (Japan) (Track 01).bin, CRC: 2ad3727d
-- Pure Song Garden! Sound Track Mirai Record! (Japan) (Track 02).bin, CRC: 3bfa2cd4
-- Pure Song Garden! Sound Track Mirai Record! (Japan) (Track 03).bin, CRC: ee2ea6b2
-- Pure Song Garden! Sound Track Mirai Record! (Japan) (Track 04).bin, CRC: e44176de
-- Pure Song Garden! Sound Track Mirai Record! (Japan) (Track 05).bin, CRC: b2322089
-- Pure Song Garden! Sound Track Mirai Record! (Japan) (Track 06).bin, CRC: 3c98de7c
-- Pure Song Garden! Sound Track Mirai Record! (Japan) (Track 07).bin, CRC: a9aaac6b
-- Pure Song Garden! Sound Track Mirai Record! (Japan) (Track 08).bin, CRC: d9b97d68
-- Pure Song Garden! Sound Track Mirai Record! (Japan) (Track 09).bin, CRC: cfb0a92f
-- Pure Song Garden! Sound Track Mirai Record! (Japan) (Track 10).bin, CRC: 9aac26a7
-- Pure Song Garden! Sound Track Mirai Record! (Japan) (Track 11).bin, CRC: 6f5af379
-- Pure Song Garden! Sound Track Mirai Record! (Japan) (Track 12).bin, CRC: 1b77b464
-- Pure Song Garden! Sound Track Mirai Record! (Japan) (Track 13).bin, CRC: 4e429822
-- Pure Song Garden! Sound Track Mirai Record! (Japan) (Track 14).bin, CRC: d1dfcb88
-- Pure Song Garden! Sound Track Mirai Record! (Japan) (Track 15).bin, CRC: c4b56981
-- Pure Song Garden! Sound Track Mirai Record! (Japan) (Track 16).bin, CRC: ab1f3002
-- Pure Song Garden! Sound Track Mirai Record! (Japan) (Track 17).bin, CRC: 7300d58d
-- Pure Song Garden! Sound Track Mirai Record! (Japan) (Track 18).bin, CRC: 01b21268
-- Pure Song Garden! Sound Track Mirai Record! (Japan) (Track 19).bin, CRC: 3c9a8fe9
-- Pure Song Garden! Sound Track Mirai Record! (Japan) (Track 20).bin, CRC: 00504793
-- Pure Song Garden! Sound Track Mirai Record! (Japan) (Track 21).bin, CRC: fe8a8061
-- Pure Song Garden! Sound Track Mirai Record! (Japan) (Track 22).bin, CRC: cdaf0c14
-- Pure Song Garden! Sound Track Mirai Record! (Japan) (Track 23).bin, CRC: 1a1df89e
-- Pure Song Garden! Sound Track Mirai Record! (Japan) (Track 24).bin, CRC: dc60353b
-- Pure Song Garden! Sound Track Mirai Record! (Japan) (Track 25).bin, CRC: 36dc9c1e
-- Pure Song Garden! Sound Track Mirai Record! (Japan) (Track 26).bin, CRC: 29fcca68
-</details>
-
+### Pure Song Garden! Sound Track Mirai Record! (Japan) (Track 26).bin, CRC: 29fcca68
 ### Quartett! - Gengakukyoku Original Sound Track (Japan) (PC Game Bundle) (Track 9).bin, CRC: 3458116c
 ### R4 - Ridge Racer Type 4 - The 20th Anniv. Sounds (Japan) (Disc 2) (2nd Heat - Remastered Sounds) (Alt 2)
 <details>
@@ -1401,100 +1326,8 @@
 - Rei Chou Aniki Original Soundtrack (Japan) (Track 5).bin, CRC: 7464b7d1
 </details>
 
-### Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1)
-<details>
-<summary>ROMs</summary>
-
-- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 01).bin, CRC: c9a035d8
-- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 02).bin, CRC: f3039e15
-- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 03).bin, CRC: cdab2ea7
-- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 04).bin, CRC: ae555fac
-- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 05).bin, CRC: 9d15149d
-- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 06).bin, CRC: 5f48f452
-- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 07).bin, CRC: 9f6c4389
-- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 08).bin, CRC: 9ae64769
-- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 09).bin, CRC: 8dd7beb8
-- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 10).bin, CRC: 2af2ae0d
-- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 11).bin, CRC: b4de4e80
-- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 12).bin, CRC: 42c535bc
-- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 13).bin, CRC: f8990a16
-- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 14).bin, CRC: 18f47b10
-- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 15).bin, CRC: 61784255
-- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 16).bin, CRC: 5a4ad499
-- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 17).bin, CRC: 530562ae
-- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 18).bin, CRC: 3102972e
-- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 19).bin, CRC: c68ff76b
-- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 20).bin, CRC: 36d6fcb4
-- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 21).bin, CRC: 7c077881
-- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 22).bin, CRC: fc19f5f6
-- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 23).bin, CRC: af0760b8
-- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 24).bin, CRC: 66a559f7
-- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 25).bin, CRC: 079ff19f
-- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 26).bin, CRC: 831fd53d
-- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 27).bin, CRC: 00543e97
-- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 28).bin, CRC: 91a47ab1
-- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 29).bin, CRC: 93d90d29
-- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 30).bin, CRC: 1e18a2ef
-- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 31).bin, CRC: 93f312e2
-- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 32).bin, CRC: 52fea844
-- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 33).bin, CRC: 128c45df
-- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 34).bin, CRC: 35e1997f
-- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 35).bin, CRC: b2aa0871
-- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 36).bin, CRC: 339deda8
-- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 37).bin, CRC: 5886c913
-- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 38).bin, CRC: 58d43e1c
-- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 39).bin, CRC: 2b2878b9
-- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 40).bin, CRC: 3a45c966
-- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 41).bin, CRC: 3fdf1d34
-- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 42).bin, CRC: db61582a
-- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 43).bin, CRC: f29a45c3
-- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 44).bin, CRC: 9df609b9
-- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 45).bin, CRC: ad48c4c6
-- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 46).bin, CRC: b42a85ec
-- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 47).bin, CRC: 38fb29b6
-- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 48).bin, CRC: 78f890f8
-- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 49).bin, CRC: 3ac9fce9
-- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 50).bin, CRC: 9b0c640e
-- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 51).bin, CRC: 57cfd04b
-- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 52).bin, CRC: 4cdddbf9
-- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 53).bin, CRC: 46a68d63
-- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 54).bin, CRC: f1d60c44
-- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 55).bin, CRC: 09311cdc
-- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 56).bin, CRC: 19606d60
-- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 57).bin, CRC: 2094922c
-- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 58).bin, CRC: a5411ae6
-- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 59).bin, CRC: f7873704
-</details>
-
-### Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 2)
-<details>
-<summary>ROMs</summary>
-
-- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 2) (Track 01).bin, CRC: f9fd7c0d
-- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 2) (Track 02).bin, CRC: be1e9aa5
-- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 2) (Track 03).bin, CRC: 04350b37
-- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 2) (Track 04).bin, CRC: a5096eb5
-- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 2) (Track 05).bin, CRC: 2ab0bc0d
-- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 2) (Track 06).bin, CRC: cb4dd564
-- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 2) (Track 07).bin, CRC: ebe99e7e
-- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 2) (Track 08).bin, CRC: 47f29888
-- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 2) (Track 09).bin, CRC: 73d5419f
-- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 2) (Track 10).bin, CRC: 1b4d7ecd
-- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 2) (Track 11).bin, CRC: 842271e7
-- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 2) (Track 12).bin, CRC: 0d902f4a
-- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 2) (Track 13).bin, CRC: 3719a04b
-- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 2) (Track 14).bin, CRC: 4874259b
-- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 2) (Track 15).bin, CRC: 4b61dfd8
-- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 2) (Track 16).bin, CRC: 63b3e2db
-- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 2) (Track 17).bin, CRC: 4557cb36
-- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 2) (Track 18).bin, CRC: 09e84a0f
-- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 2) (Track 19).bin, CRC: f64ea915
-- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 2) (Track 20).bin, CRC: 4635064f
-- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 2) (Track 21).bin, CRC: 57004897
-- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 2) (Track 22).bin, CRC: f28622ed
-- Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 2) (Track 23).bin, CRC: aa30e4af
-</details>
-
+### Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 59).bin, CRC: f7873704
+### Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 2) (Track 23).bin, CRC: aa30e4af
 ### Rondo Leaflet Arrange Minialbum - Allow Time to Brew (Japan) (Track 7).bin, CRC: 7a7bf76f
 ### Rondo Leaflet Original Soundtrack - Old Rose Garden (Japan) (Disc 2) (Track 13).bin, CRC: 20351c0d
 ### Rune Factory Memorial Box (Japan) (Disc 1) (Bride Side) (NSW Game Bundle)

@@ -1,5 +1,5 @@
 # Redump - Arcade - Konami - e-Amusement MIAs
-## Games: 15, ROMs: 15, as of 2025-05-28
+## Games: 15, ROMs: 15, as of 2025-06-01
 
 ### Toukyuu Oukoku Gashaaaan (Asia) (Application Disc).bin, CRC: 2e12393c
 ### Toukyuu Oukoku Gashaaaan (Asia) (System Disc).bin, CRC: 3e48a862

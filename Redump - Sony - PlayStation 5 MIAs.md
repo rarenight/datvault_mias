@@ -1,5 +1,5 @@
 # Redump - Sony - PlayStation 5 MIAs
-## Games: 6, ROMs: 6, as of 2025-05-28
+## Games: 6, ROMs: 6, as of 2025-06-01
 
 ### Binding of Isaac, The - Repentance (USA).iso, CRC: 5c78d66f
 ### Blasphemous II (Europe).iso, CRC: dff1ec8d

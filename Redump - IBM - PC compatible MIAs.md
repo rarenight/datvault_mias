@@ -1,9 +1,10 @@
 # Redump - IBM - PC compatible MIAs
-## Games: 3238, ROMs: 7237, as of 2025-05-28
+## Games: 3452, ROMs: 7653, as of 2025-06-01
 
 ### %% - Fuuin no Otome (Japan) (Track 10).bin, CRC: 4481aa75
 ### Alley 19 Bowling (Europe) (Track 5).bin, CRC: dc835204
 ### 10 voor Taal Junior (Netherlands).bin, CRC: fbf30f1f
+### 101 PC Games - Volume 9 (UK).iso, CRC: 632169e5
 ### 123 - Riian Nap Lek Duuay Pleng (Thailand).bin, CRC: 1355b15d
 ### 13th Century - Death or Glory (Germany).iso, CRC: 523a0074
 ### Phobos 1953 (Poland).bin, CRC: 173c2dd9
@@ -97,12 +98,14 @@
 - A5 - A Ressha de Ikou 5 - Kanzenban - Eternal (Japan) (Game Disc) (Rerelease) (Track 9).bin, CRC: fd8168af
 </details>
 
+### Abenteuer Piraten - Piraten in der Tortuga Bay (Germany).bin, CRC: 600ba313
 ### Ace o Nerae! Neraiuchi Typing Smash!! (Japan).bin, CRC: b40cc692
 ### Action CD (Europe) (Rev 1).bin, CRC: 7e6d7668
 ### Action Knobel Line Vol. 2 (Germany).bin, CRC: bc54430d
 ### Action Replay for Xbox Version 1.03 (Europe) (En,Fr,De,It).bin, CRC: d2e06726
 ### Action Replay Max (USA) (U.S. Data Disc).bin, CRC: adfa1b28
 ### Activision's Atari 2600 Classics (USA).bin, CRC: 39082493
+### Activities for Kids (USA).bin, CRC: e54eeba8
 ### Actua Golf 2 (UK) (Rerelease).bin, CRC: 500829da
 ### Actua Ice Hockey 2 (Europe) (Rerelease) (2004-02-02).bin, CRC: 4b27c56b
 ### Actua Soccer 3 (Europe).bin, CRC: 73b3561f
@@ -403,6 +406,7 @@
 ### Ani & Toni v Sveta na Bukvite (Bulgaria).bin, CRC: 7f629a2d
 ### Ankh (Germany) (En,De) (Linux).bin, CRC: f809ff2a
 ### Ankh - Heart of Osiris (Germany) (En,De) (Linux).bin, CRC: 65c3afb6
+### Anne McCaffrey's Freedom - First Resistance (Thailand).bin, CRC: 8ace01bc
 ### Anno 1701 (UK).iso, CRC: d228c701
 ### Ano, Subarashii o Mou Ichido (Japan)
 <details>
@@ -553,6 +557,7 @@
 ### Atlantis - The Lost Tales (Czech) (Disc 2).bin, CRC: c61fcf42
 ### Atlantis - The Lost Tales (Czech) (Disc 3).bin, CRC: 3afc9773
 ### Atlantis - The Lost Tales (Czech) (Disc 4).bin, CRC: d5d2d69f
+### Atomic Bomberman (Germany) (Covermount).bin, CRC: fb6ef569
 ### Atomowki - Atak Klonow Straszliwego Mojo Jojo (Poland) (Rerelease).bin, CRC: 70c0e47c
 ### Atomowki - Wielka potyczka z Ksiezniczka Chytruska (Poland).bin, CRC: eee7e677
 ### Atrox (Korea) (Install CD).bin, CRC: 12a47f46
@@ -639,6 +644,34 @@
 ### Ban Tiao Ming - Fan-Kong Jingying (China) (Jianti Zhongwenban Han-Hua Anzhuangpan).bin, CRC: 655f169a
 ### Banshiryuu (Japan) (C70 Version).bin, CRC: 2ef61cde
 ### Baphomets Fluch (Germany) (Disc 1) (Sold Out Software) (2004-05-20).bin, CRC: b9bba2a9
+### Bara no Ki ni Bara no Hanasaku (Japan) (Disc 1)
+<details>
+<summary>ROMs</summary>
+
+- Bara no Ki ni Bara no Hanasaku (Japan) (Disc 1) (Track 01).bin, CRC: c1c62fa7
+- Bara no Ki ni Bara no Hanasaku (Japan) (Disc 1) (Track 02).bin, CRC: 57cdc36b
+- Bara no Ki ni Bara no Hanasaku (Japan) (Disc 1) (Track 03).bin, CRC: 7cd7b64c
+- Bara no Ki ni Bara no Hanasaku (Japan) (Disc 1) (Track 04).bin, CRC: 085e3454
+- Bara no Ki ni Bara no Hanasaku (Japan) (Disc 1) (Track 05).bin, CRC: 869c11b4
+- Bara no Ki ni Bara no Hanasaku (Japan) (Disc 1) (Track 06).bin, CRC: 8a52edd3
+- Bara no Ki ni Bara no Hanasaku (Japan) (Disc 1) (Track 07).bin, CRC: 51e7ccf0
+- Bara no Ki ni Bara no Hanasaku (Japan) (Disc 1) (Track 08).bin, CRC: a6bacbe7
+- Bara no Ki ni Bara no Hanasaku (Japan) (Disc 1) (Track 09).bin, CRC: c8574e1c
+- Bara no Ki ni Bara no Hanasaku (Japan) (Disc 1) (Track 10).bin, CRC: d8edd600
+- Bara no Ki ni Bara no Hanasaku (Japan) (Disc 1) (Track 11).bin, CRC: 8c9f945d
+- Bara no Ki ni Bara no Hanasaku (Japan) (Disc 1) (Track 12).bin, CRC: 83b6ea60
+- Bara no Ki ni Bara no Hanasaku (Japan) (Disc 1) (Track 13).bin, CRC: 82eee15a
+- Bara no Ki ni Bara no Hanasaku (Japan) (Disc 1) (Track 14).bin, CRC: 598534df
+- Bara no Ki ni Bara no Hanasaku (Japan) (Disc 1) (Track 15).bin, CRC: e7bca41b
+- Bara no Ki ni Bara no Hanasaku (Japan) (Disc 1) (Track 16).bin, CRC: 0d60fcf6
+- Bara no Ki ni Bara no Hanasaku (Japan) (Disc 1) (Track 17).bin, CRC: da9cb264
+- Bara no Ki ni Bara no Hanasaku (Japan) (Disc 1) (Track 18).bin, CRC: 14d345ff
+- Bara no Ki ni Bara no Hanasaku (Japan) (Disc 1) (Track 19).bin, CRC: 40eb2cef
+- Bara no Ki ni Bara no Hanasaku (Japan) (Disc 1) (Track 20).bin, CRC: 19b542ce
+- Bara no Ki ni Bara no Hanasaku (Japan) (Disc 1) (Track 21).bin, CRC: 1d170ad3
+</details>
+
+### Bara no Ki ni Bara no Hanasaku (Japan) (Disc 2).bin, CRC: 2c35c2bf
 ### Barbie in het Zwanenmeer CD-ROM - Het Toverbos (Netherlands).bin, CRC: 17e4d5aa
 ### Bard's Tale, The (Taiwan).iso, CRC: ad5c31fd
 ### Barmalejus Grizta (Lithuania).bin, CRC: bd2ba15d
@@ -781,6 +814,7 @@
 - Bleifuss (Germany) (Alt 5) (Track 8).bin, CRC: abe841b9
 </details>
 
+### Blinky Bill - Preschool (USA).bin, CRC: 0330ac66
 ### Blood Bowl (Poland).iso, CRC: 11446781
 ### BloodCovered - Corpse Party Cover.1 (Japan).bin, CRC: 7fbd24e4
 ### Blue Blood - Vampire Princess (Japan).bin, CRC: a69657b9
@@ -810,6 +844,7 @@
 ### Blue Heat - Haitoku no Tenshi-tachi (Japan) (Disc 3).bin, CRC: 2e4951c1
 ### Blue Heat - Haitoku no Tenshi-tachi (Japan) (Disc 4).bin, CRC: 77f60782
 ### Blue Sabers - Operation Orbital Hammer (Japan).bin, CRC: 857b31e6
+### Blue's Clues - Blue's 123 Time Activities (USA) (Alt 2).bin, CRC: 6e3646b6
 ### Bogstavleg Stav & Boj (Denmark).bin, CRC: 4659702c
 ### Boiling Point - Road to Hell (Hungary).iso, CRC: d76490fa
 ### Boku wa Koukuu Kanseikan 2 - Home Edition (Japan).bin, CRC: 2bde28b4
@@ -823,10 +858,12 @@
 ### Brain Games (India).bin, CRC: cee8ba9e
 ### Brain Training - High School Edition (Netherlands) (En,Fr,Nl).bin, CRC: 5bceef85
 ### Break! (USA).bin, CRC: bf064a81
+### Breed (Czech) (Rerelease).iso, CRC: 7d15dafd
 ### Brian Lara Cricket (UK).bin, CRC: d1266fb9
 ### Bricks, Blocks and Clocks (Europe).bin, CRC: e313146b
 ### Bridge Builder (Germany) (Linux).bin, CRC: e1023fdc
 ### Brigade E5 - New Jagged Union (Germany).iso, CRC: fa7a574b
+### Brilliant Sky (Japan) (C79 Trial).bin, CRC: 3c83b4ff
 ### British Airports Vol. 3 - South & South-West England (UK).bin, CRC: 4db26037
 ### Britney's Dance Beat (France)
 <details>
@@ -842,6 +879,7 @@
 ### Brothers in Arms - Road to Hill 30 (Asia).iso, CRC: 5390214b
 ### Bugs Bunny - Lost in Time (Europe) (Rerelease).bin, CRC: 3c2eaf1b
 ### Bukvenka (Bulgaria).bin, CRC: 0837f441
+### Bullet Butlers (Japan).iso, CRC: 7eff82ad
 ### Bundesliga Manager Professional (Germany).bin, CRC: a15f9468
 ### Bunny na Hip (Japan)
 <details>
@@ -885,13 +923,16 @@
 - Bust-A-Move 3 DX (Europe) (Xplosiv) (Track 19).bin, CRC: 55a648c3
 </details>
 
+### Buster's First Thunderstorm (USA).bin, CRC: 01c4b739
 ### Yr Ardd (UK).bin, CRC: 16986cdb
 ### Byd Geiriau Anifeiliaid (UK).bin, CRC: 76ff2314
 ### Byd Geiriau Tywydd (UK).bin, CRC: 81ca4b5a
 ### Bygg Batar med Mulle Meck (Sweden).bin, CRC: a7315b49
 ### C.C.S.B. (Japan) (C83 Prototype Version).bin, CRC: 61cfb190
+### C.C.S.B. (Japan) (C84 Prototype Version).bin, CRC: c4b8c25e
 ### C.C.S.B. (Japan) (C89 Trial Version).bin, CRC: 51f7b0f1
 ### C.C.S.B. (Japan) (C92 Trial Version).bin, CRC: b3bde6bb
+### C.C.S.B. (Japan) (C97 Trial Version).bin, CRC: a336b565
 ### C64 Forever - Plus Edition 8 (Europe).bin, CRC: 1fc4d023
 ### Caesar II (Europe) (Rerelease) (D9EBD7F1).bin, CRC: d9ebd7f1
 ### Caesar II (USA) (Rerelease) (1995-09-15).bin, CRC: 2b29626b
@@ -1082,6 +1123,27 @@
 ### Chaos auf Deponia (Germany).iso, CRC: e5725e01
 ### Chaos auf Deponia (Germany) (En,Fr,De,Es,It,Pl,Ru,Tr,Bg) (Rerelease).iso, CRC: cb563bef
 ### Chaos;Head (Japan) (Game Disc).iso, CRC: 8c5a512a
+### Chaoshikong Yingxiong Chuanshuo 2 - Fuchou Moshen (Taiwan)
+<details>
+<summary>ROMs</summary>
+
+- Chaoshikong Yingxiong Chuanshuo 2 - Fuchou Moshen (Taiwan) (Track 01).bin, CRC: 705ba75f
+- Chaoshikong Yingxiong Chuanshuo 2 - Fuchou Moshen (Taiwan) (Track 02).bin, CRC: 75c2084a
+- Chaoshikong Yingxiong Chuanshuo 2 - Fuchou Moshen (Taiwan) (Track 03).bin, CRC: 38d98307
+- Chaoshikong Yingxiong Chuanshuo 2 - Fuchou Moshen (Taiwan) (Track 04).bin, CRC: 4b77bf0d
+- Chaoshikong Yingxiong Chuanshuo 2 - Fuchou Moshen (Taiwan) (Track 05).bin, CRC: 968b8801
+- Chaoshikong Yingxiong Chuanshuo 2 - Fuchou Moshen (Taiwan) (Track 06).bin, CRC: 66391ca2
+- Chaoshikong Yingxiong Chuanshuo 2 - Fuchou Moshen (Taiwan) (Track 07).bin, CRC: bd326e10
+- Chaoshikong Yingxiong Chuanshuo 2 - Fuchou Moshen (Taiwan) (Track 08).bin, CRC: a3e0f60b
+- Chaoshikong Yingxiong Chuanshuo 2 - Fuchou Moshen (Taiwan) (Track 09).bin, CRC: e7062f0a
+- Chaoshikong Yingxiong Chuanshuo 2 - Fuchou Moshen (Taiwan) (Track 10).bin, CRC: 47e49318
+- Chaoshikong Yingxiong Chuanshuo 2 - Fuchou Moshen (Taiwan) (Track 11).bin, CRC: 9b39b1a3
+- Chaoshikong Yingxiong Chuanshuo 2 - Fuchou Moshen (Taiwan) (Track 12).bin, CRC: c6e4f8fa
+- Chaoshikong Yingxiong Chuanshuo 2 - Fuchou Moshen (Taiwan) (Track 13).bin, CRC: 2a88df5d
+- Chaoshikong Yingxiong Chuanshuo 2 - Fuchou Moshen (Taiwan) (Track 14).bin, CRC: 08c5e995
+- Chaoshikong Yingxiong Chuanshuo 2 - Fuchou Moshen (Taiwan) (Track 15).bin, CRC: e963c6c8
+</details>
+
 ### Chartbusters 2 (Europe)
 <details>
 <summary>ROMs</summary>
@@ -1100,6 +1162,8 @@
 ### Chessmaster 3000, The (Europe) (Rerelease).bin, CRC: 52913b4e
 ### Chessmaster 9000 (France) (Disc 1).bin, CRC: 1714a0bd
 ### Chessmaster 9000 (France) (Disc 2).bin, CRC: f7c1d6c9
+### Cho Wun Legend (Thailand) (Disc 1).bin, CRC: b652b79c
+### Cho Wun Legend (Thailand) (Disc 2).bin, CRC: 7346611e
 ### Choose Your Own Nightmare - Night of the Werewolf (USA).bin, CRC: c9b08294
 ### Choukou Senkuu Final Exclamation! (Japan).iso, CRC: bd06dafd
 ### Christmas Pudding (UK).bin, CRC: 69123ea1
@@ -1316,6 +1380,8 @@
 ### Corpse Party - BloodCovered 4 (Japan) (Rev 1).iso, CRC: db548610
 ### Corpse Party 2 - Dead Patient (Japan) (ComicMarket 82 Gentei PV+Sound Senkou Haifu Disk).bin, CRC: af49b566
 ### Corpse Party 2 - Dead Patient Chapter 1 (Japan).iso, CRC: 6fc1ee19
+### Corum III - Hondonui Mabeop Jyumarion (Korea) (Disc 1).bin, CRC: dad3bd52
+### Corum III - Hondonui Mabeop Jyumarion (Korea) (Disc 2).bin, CRC: f9edaa3b
 ### Corum III - Hondonui Mabeop Jyumarion (Korea) (Disc 3)
 <details>
 <summary>ROMs</summary>
@@ -1504,6 +1570,7 @@
 ### Creature Conflict - The Clan Wars (Czech).iso, CRC: 929ef05e
 ### Creepers (USA).bin, CRC: f997086e
 ### Cricket 07 (Europe).iso, CRC: 257437a4
+### Cross Roads - Gruene Welle (Germany).bin, CRC: d62da8ab
 ### CrossTown - Giftet (Sweden).bin, CRC: f1bb4548
 ### Crusader Kings II (Japan).bin, CRC: 9dbb4f13
 ### Crusader Kings II - Sword of Islam (Japan).bin, CRC: 789e3b87
@@ -1558,6 +1625,16 @@
 
 ### Cumhuriyet (Turkey) (Bonus CD).bin, CRC: 8e79bcfa
 ### Cunyngas - Kings of the Spawn (Turkey).bin, CRC: 9fefc3e6
+### Curious George Comes Home (USA) (OEM)
+<details>
+<summary>ROMs</summary>
+
+- Curious George Comes Home (USA) (OEM) (Track 1).bin, CRC: 8f34976a
+- Curious George Comes Home (USA) (OEM) (Track 2).bin, CRC: ab05ebee
+- Curious George Comes Home (USA) (OEM) (Track 3).bin, CRC: 3bc86c14
+- Curious George Comes Home (USA) (OEM) (Track 4).bin, CRC: 497dcc45
+</details>
+
 ### Curse of Monkey Island, The (Germany) (Disc 1) (Rerelease) (2007-02-21).bin, CRC: 9f5e6096
 ### Curse of Monkey Island, The (Germany) (Disc 2) (Rerelease).bin, CRC: 4e6f4e98
 ### Cyber Save Editor (for PS3) (Japan).bin, CRC: 0cdca1e7
@@ -1623,6 +1700,43 @@
 - CyClones (UK) (Track 30).bin, CRC: 91dc127f
 </details>
 
+### D - Sono Keshiki no Mukougawa (Japan)
+<details>
+<summary>ROMs</summary>
+
+- D - Sono Keshiki no Mukougawa (Japan) (Track 01).bin, CRC: 312aa34c
+- D - Sono Keshiki no Mukougawa (Japan) (Track 02).bin, CRC: 83c5349b
+- D - Sono Keshiki no Mukougawa (Japan) (Track 03).bin, CRC: a6c67171
+- D - Sono Keshiki no Mukougawa (Japan) (Track 04).bin, CRC: e62d26ed
+- D - Sono Keshiki no Mukougawa (Japan) (Track 05).bin, CRC: 823ef07a
+- D - Sono Keshiki no Mukougawa (Japan) (Track 06).bin, CRC: 33e9d8c7
+- D - Sono Keshiki no Mukougawa (Japan) (Track 07).bin, CRC: a015e33b
+- D - Sono Keshiki no Mukougawa (Japan) (Track 08).bin, CRC: f72fd8e9
+- D - Sono Keshiki no Mukougawa (Japan) (Track 09).bin, CRC: 56443ddb
+- D - Sono Keshiki no Mukougawa (Japan) (Track 10).bin, CRC: 893e86f0
+- D - Sono Keshiki no Mukougawa (Japan) (Track 11).bin, CRC: 7639d9ff
+- D - Sono Keshiki no Mukougawa (Japan) (Track 12).bin, CRC: a7df93c8
+- D - Sono Keshiki no Mukougawa (Japan) (Track 13).bin, CRC: 12d0ffe3
+- D - Sono Keshiki no Mukougawa (Japan) (Track 14).bin, CRC: d86fe85e
+- D - Sono Keshiki no Mukougawa (Japan) (Track 15).bin, CRC: 9705531f
+- D - Sono Keshiki no Mukougawa (Japan) (Track 16).bin, CRC: ef07891f
+- D - Sono Keshiki no Mukougawa (Japan) (Track 17).bin, CRC: 872b8780
+- D - Sono Keshiki no Mukougawa (Japan) (Track 18).bin, CRC: 31db74cd
+- D - Sono Keshiki no Mukougawa (Japan) (Track 19).bin, CRC: 3b9f565e
+- D - Sono Keshiki no Mukougawa (Japan) (Track 20).bin, CRC: 18df0e7d
+- D - Sono Keshiki no Mukougawa (Japan) (Track 21).bin, CRC: 59459847
+- D - Sono Keshiki no Mukougawa (Japan) (Track 22).bin, CRC: f181e5c8
+- D - Sono Keshiki no Mukougawa (Japan) (Track 23).bin, CRC: 1316f604
+- D - Sono Keshiki no Mukougawa (Japan) (Track 24).bin, CRC: 6e217c2e
+- D - Sono Keshiki no Mukougawa (Japan) (Track 25).bin, CRC: 083b386b
+- D - Sono Keshiki no Mukougawa (Japan) (Track 26).bin, CRC: c6a05bc8
+- D - Sono Keshiki no Mukougawa (Japan) (Track 27).bin, CRC: 67ff1377
+- D - Sono Keshiki no Mukougawa (Japan) (Track 28).bin, CRC: a3ae8a3b
+- D - Sono Keshiki no Mukougawa (Japan) (Track 29).bin, CRC: 21bff547
+- D - Sono Keshiki no Mukougawa (Japan) (Track 30).bin, CRC: 3e5fcf49
+- D - Sono Keshiki no Mukougawa (Japan) (Track 31).bin, CRC: 0fe0207f
+</details>
+
 ### D+Vine [Luv] (Japan) (Game Disk) (Track 27).bin, CRC: 9fb29e0a
 ### D-Day (Japan).bin, CRC: 507424bc
 ### Da Vinci Code, The (Europe) (En,Fr,De,Es,It,Nl) (Rerelease).iso, CRC: edce8418
@@ -1658,6 +1772,7 @@
 </details>
 
 ### Dark Eye, The (France).bin, CRC: f147028e
+### Dark Hills of Cherai, The (Australia).bin, CRC: 0de423f8
 ### Dark Project II - L'Age de Metal (France) (Disc 1) (Installation).bin, CRC: 5a9f26f4
 ### Dark Project II - L'Age de Metal (France) (Disc 2) (Installation).bin, CRC: 8ecd470b
 ### Dark Sector (Europe) (2009-04-03).iso, CRC: 964b2f6e
@@ -1703,6 +1818,13 @@
 ### Dear Dog Best (Japan).bin, CRC: 23ec4363
 ### Deep Purple - Fukamurasaki (Japan) (Track 01).bin, CRC: 5af85e37
 ### Defender of the Crown (Germany).bin, CRC: 284a01db
+### DeJig - Aqua World (Japan) (En,Ja).bin, CRC: 7a2a674d
+### DeJig - New York (Japan) (En,Ja).bin, CRC: 459d0f90
+### DeJig - Safari (Japan) (En,Ja).bin, CRC: 905e3da7
+### DeJig Lite - Dear Dogs (Japan).bin, CRC: f5bacad2
+### DeJig Lite - European Castles (Japan).bin, CRC: d4c92c5c
+### DeJig Lite - Iwatobi Penguin Rocky & Hopper (Japan).bin, CRC: b18ef7a5
+### DeJig Lite - Iwatobi Penguin Rocky & Hopper 2 (Japan).bin, CRC: 76bbffcc
 ### Delta Force - Black Hawk Down (Netherlands).bin, CRC: 765facb9
 ### Delta Force - Helikopter W Ogniu + Team Sabre (Poland).bin, CRC: ee863ff6
 ### Delta Force - Xtreme (Poland).bin, CRC: d6aa0e9a
@@ -1735,6 +1857,7 @@
 ### Destroy All Humans! (Germany) (En,De) (Disc 2).iso, CRC: b8d88828
 ### Destroy All Humans! (Germany) (En,De) (Disc 3).iso, CRC: 3cdc205b
 ### Detective Gallo (Italy) (En,Fr,De,It,Ru).iso, CRC: 558ac993
+### Deus Ex (Czech) (En,Cs).bin, CRC: 72251816
 ### Deus Ex (France) (Rerelease).bin, CRC: b5787477
 ### Deus Ex (Germany) (Rerelease).bin, CRC: cdc5dd37
 ### Deus Ex (UK) (Sold Out Software).bin, CRC: 190b7ef9
@@ -1753,6 +1876,7 @@
 ### Diablo II (Germany) (Disc 3) (Video-CD) (Rerelease) (2004-11-05).bin, CRC: 78bcfc5c
 ### Diablo II (Poland) (Disc 2) (Gra) (Rerelease).bin, CRC: 1c36d644
 ### Diablo II - Lord of Destruction (Expansion Set) (China).bin, CRC: 4ca352f9
+### Diamonds in the Rough (Greece).bin, CRC: 9c5d34da
 ### Dian You Ren Demo Vol. 16 (Taiwan).bin, CRC: 86a7b437
 ### Dian You Ren Demo Vol. 32 (Taiwan).bin, CRC: 971ca643
 ### Dian You Ren Official Vol. 16 (Taiwan).bin, CRC: a1fcd28c
@@ -1810,9 +1934,13 @@
 - Disney's Action Spel med Herkules (Sweden) (Track 2).bin, CRC: 5b9cac7e
 </details>
 
+### Disney's Animated Storybook - The Lion King (Japan) (En,Ja).bin, CRC: bde8af8f
 ### Disney's Chicken Little (Thailand) (Disc 2) (Play Disc).bin, CRC: d7932079
+### Disney's De Leeuwenkoning II - Simba's Trots - Gamebreak! (Belgium, Netherlands).bin, CRC: 95f9eea1
 ### Disney's Hagaki World - All-Star Keiteiban 2007 (Japan).bin, CRC: 9b148a5c
+### Disney's Hunchback of Notre Dame - Topsy Turvy Games (USA).bin, CRC: a21edd30
 ### Disney's Lilo & Stitch - Trouble in Paradise (Poland).bin, CRC: 6ab475ee
+### Disney's Mickey Mouse Kindergarten (USA).bin, CRC: 2aa281bc
 ### Disney's Tarzan (Netherlands) (Rerelease)
 <details>
 <summary>ROMs</summary>
@@ -1840,6 +1968,7 @@
 - Disney's Tarzan (Netherlands) (Rerelease) (Track 21).bin, CRC: 824d237c
 </details>
 
+### Disney's The Lion King - Activity Center (Japan).bin, CRC: b5246ba8
 ### Disney's The Lion King II - Simba's Pride - Gamebreak! (Portugal).bin, CRC: 1898d8cc
 ### Disney's Winnie the Pooh - Screen Scenes Screen Saver (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,Fi,Pl).bin, CRC: f8522ca3
 ### Disney-Pixar A Bug's Life (Europe).bin, CRC: 73894f0c
@@ -1943,6 +2072,7 @@
 ### Dragon Quest X - Tensei no Eiyuu-tachi Online (Japan).iso, CRC: 63767ed5
 ### Dragon Throne - Battle of Red Cliffs (Spain).bin, CRC: 911f8a3f
 ### Dragon Throne - Battle of Red Cliffs (Sweden) (En,Zh).bin, CRC: 2dc3fc03
+### Dragon Throne - Bitwa o Czerwone Klify (Poland).bin, CRC: 989761f0
 ### Dragonfire - The Well of Souls (Denmark) (No,Da) (Disc 1).bin, CRC: abeff130
 ### Dragonfire - The Well of Souls (Denmark) (No,Da) (Disc 2)
 <details>
@@ -2027,6 +2157,7 @@
 ### E3 2004 Press Kit (USA).bin, CRC: a8b0f01c
 ### E3 2005 Product Information (USA).bin, CRC: 47989de6
 ### EA-Kids Art Center (USA).bin, CRC: 878c3385
+### Eager to Learn (USA) (Disc 2).bin, CRC: f5e9ec83
 ### Earth 2140 (Australia)
 <details>
 <summary>ROMs</summary>
@@ -2235,6 +2366,19 @@
 
 ### Emergency (Taiwan).bin, CRC: c6625020
 ### Emergency - Fighters for Life (Netherlands) (Track 01).bin, CRC: ad79040a
+### Emergency 2 - The Ultimate Fight For Life (Poland)
+<details>
+<summary>ROMs</summary>
+
+- Emergency 2 - The Ultimate Fight For Life (Poland) (Track 1).bin, CRC: f3343f5e
+- Emergency 2 - The Ultimate Fight For Life (Poland) (Track 2).bin, CRC: 6714850a
+- Emergency 2 - The Ultimate Fight For Life (Poland) (Track 3).bin, CRC: a0e441ca
+- Emergency 2 - The Ultimate Fight For Life (Poland) (Track 4).bin, CRC: 5a694bbe
+- Emergency 2 - The Ultimate Fight For Life (Poland) (Track 5).bin, CRC: 7e1d5396
+- Emergency 2 - The Ultimate Fight For Life (Poland) (Track 6).bin, CRC: befb92bc
+- Emergency 2 - The Ultimate Fight For Life (Poland) (Track 7).bin, CRC: 4cbee0f3
+</details>
+
 ### Emperor - Battle for Dune (Europe) (It,El) (Disc 5) (Documents).bin, CRC: 17ff8beb
 ### Empire Earth (Europe) (Rerelease) (2003-08-12).bin, CRC: bd775974
 ### Empire Earth (Germany) (Rerelease) (2003-01-29) (Alt).bin, CRC: eb1339da
@@ -2373,26 +2517,26 @@
 ### Evil Dead - Hail to the King (Czech) (Disc 2).bin, CRC: b74dbd9a
 ### Evil Islands - Curse of the Lost Soul (Korea).bin, CRC: 0a4a0c17
 ### Evil Islands - Klatwa Zagubionej Duszy (Poland) (Disc 1).bin, CRC: 8f40be3f
-### Exception (Japan)
-<details>
-<summary>ROMs</summary>
-
-- Exception (Japan) (Track 01).bin, CRC: e6e7d052
-- Exception (Japan) (Track 02).bin, CRC: 407fe192
-- Exception (Japan) (Track 03).bin, CRC: 92d72af6
-- Exception (Japan) (Track 04).bin, CRC: 51ecc252
-- Exception (Japan) (Track 05).bin, CRC: 435592ad
-- Exception (Japan) (Track 06).bin, CRC: 02b4d8b7
-- Exception (Japan) (Track 07).bin, CRC: 628e0d93
-- Exception (Japan) (Track 08).bin, CRC: e562de4a
-- Exception (Japan) (Track 09).bin, CRC: 67b7893a
-- Exception (Japan) (Track 10).bin, CRC: 6ad1fb3e
-</details>
-
+### Exception (Japan) (Track 10).bin, CRC: 6ad1fb3e
 ### Excessive Speed (Netherlands) (Rerelease) (Track 01).bin, CRC: 73918c31
 ### Experts, Les - Meurtres a Las Vegas (France) (Fr,It) (Disc 1).bin, CRC: a9ba8818
 ### Experts, Les - Meurtres a Las Vegas (France) (Fr,It) (Disc 2).bin, CRC: 198ef0fd
 ### Experts, Les - Meurtres a Las Vegas (France) (Fr,It) (Disc 3).bin, CRC: 5a0044a6
+### Extreme Paintbrawl 4 (Australia)
+<details>
+<summary>ROMs</summary>
+
+- Extreme Paintbrawl 4 (Australia) (Track 01).bin, CRC: e923bdf0
+- Extreme Paintbrawl 4 (Australia) (Track 02).bin, CRC: 980c507c
+- Extreme Paintbrawl 4 (Australia) (Track 03).bin, CRC: 4d590d0a
+- Extreme Paintbrawl 4 (Australia) (Track 14).bin, CRC: 155e3881
+- Extreme Paintbrawl 4 (Australia) (Track 15).bin, CRC: 24165ee9
+- Extreme Paintbrawl 4 (Australia) (Track 16).bin, CRC: fc9cf328
+- Extreme Paintbrawl 4 (Australia) (Track 17).bin, CRC: b3df3aac
+- Extreme Paintbrawl 4 (Australia) (Track 19).bin, CRC: 1257e780
+- Extreme Paintbrawl 4 (Australia) (Track 20).bin, CRC: 057501ef
+</details>
+
 ### Extreme Pinball (Australia).bin, CRC: 703cf378
 ### Eye of Typhoon, The (Korea) (Disc 2)
 <details>
@@ -2427,6 +2571,40 @@
 - Eye of Typhoon, The (Korea) (Disc 2) (Track 27).bin, CRC: fb2841b2
 - Eye of Typhoon, The (Korea) (Disc 2) (Track 28).bin, CRC: b013aa90
 - Eye of Typhoon, The (Korea) (Disc 2) (Track 29).bin, CRC: c6824d2c
+</details>
+
+### Eye of Typhoon, The (Korea) (Rerelease)
+<details>
+<summary>ROMs</summary>
+
+- Eye of Typhoon, The (Korea) (Rerelease) (Track 01).bin, CRC: 6bac62e2
+- Eye of Typhoon, The (Korea) (Rerelease) (Track 02).bin, CRC: 2d0db1fb
+- Eye of Typhoon, The (Korea) (Rerelease) (Track 03).bin, CRC: bf2743e0
+- Eye of Typhoon, The (Korea) (Rerelease) (Track 04).bin, CRC: 2586c1c7
+- Eye of Typhoon, The (Korea) (Rerelease) (Track 05).bin, CRC: 3f1df906
+- Eye of Typhoon, The (Korea) (Rerelease) (Track 06).bin, CRC: 95241bb3
+- Eye of Typhoon, The (Korea) (Rerelease) (Track 07).bin, CRC: 879d44cc
+- Eye of Typhoon, The (Korea) (Rerelease) (Track 08).bin, CRC: efe45ed3
+- Eye of Typhoon, The (Korea) (Rerelease) (Track 09).bin, CRC: a5ab767c
+- Eye of Typhoon, The (Korea) (Rerelease) (Track 10).bin, CRC: 773ae1cf
+- Eye of Typhoon, The (Korea) (Rerelease) (Track 11).bin, CRC: 9270ac7d
+- Eye of Typhoon, The (Korea) (Rerelease) (Track 12).bin, CRC: bb84a475
+- Eye of Typhoon, The (Korea) (Rerelease) (Track 13).bin, CRC: 6feb39ea
+- Eye of Typhoon, The (Korea) (Rerelease) (Track 14).bin, CRC: 9d363fe6
+- Eye of Typhoon, The (Korea) (Rerelease) (Track 15).bin, CRC: 8cae8881
+- Eye of Typhoon, The (Korea) (Rerelease) (Track 16).bin, CRC: fb7bb05a
+- Eye of Typhoon, The (Korea) (Rerelease) (Track 17).bin, CRC: 0e8760b6
+- Eye of Typhoon, The (Korea) (Rerelease) (Track 18).bin, CRC: ff64a5c7
+- Eye of Typhoon, The (Korea) (Rerelease) (Track 19).bin, CRC: 65f10515
+- Eye of Typhoon, The (Korea) (Rerelease) (Track 20).bin, CRC: 795061e8
+- Eye of Typhoon, The (Korea) (Rerelease) (Track 21).bin, CRC: 033dbc2e
+- Eye of Typhoon, The (Korea) (Rerelease) (Track 22).bin, CRC: 4fa336d2
+- Eye of Typhoon, The (Korea) (Rerelease) (Track 23).bin, CRC: baa7f58c
+- Eye of Typhoon, The (Korea) (Rerelease) (Track 24).bin, CRC: 3ce35e7a
+- Eye of Typhoon, The (Korea) (Rerelease) (Track 25).bin, CRC: 103abedd
+- Eye of Typhoon, The (Korea) (Rerelease) (Track 26).bin, CRC: d9afb27b
+- Eye of Typhoon, The (Korea) (Rerelease) (Track 27).bin, CRC: f68950f7
+- Eye of Typhoon, The (Korea) (Rerelease) (Track 28).bin, CRC: 12e8dd9f
 </details>
 
 ### EyeToy - Play 2 (Europe) (Press Disc).bin, CRC: ae781489
@@ -2488,6 +2666,10 @@
 ### Counter-Strike - Condition Zero (China) (En,Zh) (Installation Disc).bin, CRC: 92bd88c7
 ### Fantasy Empires (Europe).bin, CRC: 29e773bf
 ### Fantasy General (USA) (Track 16).bin, CRC: d0c98f4b
+### Far Cry (Australia) (Install Disc 2).bin, CRC: 3a80455a
+### Far Cry (Australia) (Install Disc 3).bin, CRC: 1f4d2f4d
+### Far Cry (Australia) (Install Disc 4).bin, CRC: 66c062fb
+### Far Cry (Australia) (Install Disc 5).bin, CRC: 8aa88e59
 ### Far Cry 2 (Hungary) (Pl,Cs,Hu).iso, CRC: 67ac4458
 ### Far Cry 2 (Thailand) (En,Fr,De,Es,It).iso, CRC: ceff37bf
 ### Farland Saga (Japan)
@@ -2532,6 +2714,7 @@
 ### Faust - De Zeven Spelen van de Ziel (Netherlands) (Disc 2).bin, CRC: b56222d3
 ### Faust - De Zeven Spelen van de Ziel (Netherlands) (Disc 3).bin, CRC: adcb6619
 ### Faust - De Zeven Spelen van de Ziel (Netherlands) (Disc 4).bin, CRC: 0022630b
+### FBI - Paranormal Cases (Australia).bin, CRC: ad74e71c
 ### Feder (Japan).bin, CRC: b6a8e10b
 ### Feiying Xingdong (China) (Disc 1) (Anzhuang Yunxingpan).bin, CRC: f92863b3
 ### Femme Fatale (Japan).bin, CRC: eb1ae434
@@ -2605,6 +2788,7 @@
 
 ### Fighting Steel - Seeschlachten 1939-1942 (Germany) (Rerelease).bin, CRC: 06318f5c
 ### Final Fantasy VII (Taiwan) (Install Disc).bin, CRC: c6a435a2
+### Final Fantasy VIII (Japan) (Install Disc) (Color Label) (Alt).bin, CRC: 448bd558
 ### Final Fantasy XI & PlayOnline (Japan) (Disc 1).bin, CRC: 20dc15a6
 ### Final Fantasy XI & PlayOnline (Japan) (Disc 2).bin, CRC: d4d8bc24
 ### Final Fantasy XI & PlayOnline (Japan) (Disc 3).bin, CRC: 2ee49939
@@ -2617,6 +2801,15 @@
 ### Final Fantasy XI - Altana no Shinpei (Japan).iso, CRC: 0c82d707
 ### Final Fantasy XI - Entry Disc 2005 (Japan).iso, CRC: bf1d4062
 ### Final Fantasy XI - Online (Germany).iso, CRC: 8390ff65
+### Final Fantasy XI - Online (USA) (Disc 3) (Beta) (2003-05-22).bin, CRC: c6ebdb62
+### Final Fantasy XI - Online - Chains of Promathia (USA) (Disc 1).bin, CRC: 275efc59
+### Final Fantasy XI - Online - Chains of Promathia (USA) (Disc 2).bin, CRC: e58a5c1a
+### Final Fantasy XI - Online - Starter Pack Game Disk (USA).iso, CRC: 33e00a44
+### Final Fantasy XI - Online - Treasures of Aht Urhgan (USA).iso, CRC: 4e6df290
+### Final Fantasy XI - Online - Ultimate Collection (USA) (Game Disc).iso, CRC: 1a8a93e7
+### Final Fantasy XI - Online - Ultimate Collection (USA) (Manual Disc).bin, CRC: 68119617
+### Final Fantasy XI - Online - Vana'diel Collection 2008 (USA) (Game Disc).iso, CRC: f5aa5964
+### Final Fantasy XI - Online - Wings of the Goddess Expansion Pack (USA).iso, CRC: 753e67d1
 ### Final Fantasy XI - Promathia no Jubaku (Japan) (Disc 1).bin, CRC: 1738d646
 ### Final Fantasy XI - Promathia no Jubaku (Japan) (Disc 1) (Rev 1).bin, CRC: ff9b626c
 ### Final Fantasy XI - Promathia no Jubaku (Japan) (Disc 2).bin, CRC: 2595a916
@@ -2742,9 +2935,11 @@
 
 ### Frane II - Seikai no Kiseki (Japan).bin, CRC: d3023633
 ### Freddi Fish 3 - De Zaak van de Gestolen Trompetschelp (Netherlands) (OEM).bin, CRC: 453f2cd0
+### Freddi Fish en het Verhaal van de Verdwenen Zeewierzaadjes (Belgium, Netherlands) (En,Nl).bin, CRC: f67b3d63
 ### Freddi Fish en het Verhaal van de Verdwenen Zeewierzaadjes (Netherlands) (B8719043).bin, CRC: b8719043
 ### Freddi Fish en het Verhaal van de Verdwenen Zeewierzaadjes (Netherlands) (Rerelease) (2005-09-01) (Track 3).bin, CRC: 2730e408
 ### Freedom Force (Germany) (En,Fr,De) (Rerelease).bin, CRC: bf6f87e2
+### Freedom Force (UK) (Sold Out Software).bin, CRC: 7d17af46
 ### Freejia III - Blue Tears (Japan).bin, CRC: 7bdb020d
 ### Freejia III - Blue Tears (Japan) (Alt).bin, CRC: 5dff1d9e
 ### Freejia IV - Isolated Children (Japan).bin, CRC: 98352b42
@@ -2791,7 +2986,9 @@
 - Full Tilt! 2 Pinball (USA) (v1.1) (Track 23).bin, CRC: fd12656a
 </details>
 
+### Full Tilt! Pinball (USA) (v1.0).bin, CRC: 13e5a09a
 ### Fun Tracks (France) (Track 2).bin, CRC: f0a9e7ff
+### Fun with Electronics (USA).bin, CRC: 4fb1fc62
 ### Fur Fighters (Korea).bin, CRC: 1e3724e2
 ### Fushigi no Dungeon - Fuurai no Shiren - Tsukikagemura no Kaibutsu - Internet Ban (Japan).bin, CRC: c11b39a3
 ### Fuya Mahjong Ver2.0 to Ver2.11 Patch CD (Japan).bin, CRC: ab300312
@@ -2822,6 +3019,17 @@
 ### Games Aktuell DVD 04-11 (Germany) (Seite 2) (HD-Videos).iso, CRC: 098b6874
 ### Games Aktuell DVD 05-11 (Germany) (Seite 2) (HD-Videos).iso, CRC: 407d668d
 ### Games Aktuell DVD 07-11 (Germany) (Seite 2) (HD-Videos).iso, CRC: e47b2f29
+### GameStar 02-2007 (Germany) (AB-16-DVD).iso, CRC: 7c335de3
+### GameStar 03-2007 (Germany) (AB-16-DVD).iso, CRC: 34569828
+### GameStar 04-2007 (Germany) (AB-16-DVD).iso, CRC: 3dbed1d7
+### GameStar 05-2007 (Germany) (AB-16-DVD).iso, CRC: 4023f373
+### GameStar 06-2007 (Germany) (AB-16-DVD).iso, CRC: 841f7ec0
+### GameStar 11-2002 (Germany) (Demo-CD).bin, CRC: 607e2065
+### GameStar 11-2002 (Germany) (Video-CD).bin, CRC: 4c8b176b
+### GameStar 11-2003 (Germany) (Demo-CD).bin, CRC: 9f37b98a
+### GameStar 11-2003 (Germany) (Video-CD).bin, CRC: 81344a86
+### GameStar 12-2002 (Germany) (Demo-CD).bin, CRC: c5a36420
+### Gan Gan Gan (Japan) (Taikenban).bin, CRC: db158088
 ### Garou Densetsu 3 - Road to the Final Victory (Japan) (En,Ja,Es,Pt) (Rerelease)
 <details>
 <summary>ROMs</summary>
@@ -2876,6 +3084,7 @@
 ### Gekiatsu! Pachi-Slot Kyojin no Hoshi II (Japan).bin, CRC: 82b9083e
 ### Gekichin! (Japan).bin, CRC: ec77fae4
 ### Gekkou (Japan) (Track 01).bin, CRC: fc98214b
+### Gem Thief (UK).bin, CRC: d5052ab2
 ### Genesis Rising (Hungary).iso, CRC: 1baf9e58
 ### Gensei Haiyuuki (Japan).bin, CRC: a39e3733
 ### German Classics GP & Cart Mania (Lithuania).bin, CRC: 863268fb
@@ -2934,6 +3143,7 @@
 ### Goodbye Deponia (Germany) (En,Fr,De,Es,It,Pl,Ru) (Rerelease).iso, CRC: cb760360
 ### Gooka - Tajemnica Janatris (Poland).bin, CRC: f8f09b7a
 ### Gorky 17 (Korea).bin, CRC: 2b5f9378
+### Gotaku Narabe (Japan).bin, CRC: b6bdcd55
 ### Gothic 3 (USA) (Collector's Edition).iso, CRC: c8aaf54d
 ### Gothic II - Gold Edition (Romania) (Covermount).iso, CRC: 46126f68
 ### Gothic II - Noc Kruka (Poland).bin, CRC: 1b22f16b
@@ -2974,6 +3184,7 @@
 ### Great Battles of Alexander-Hannibal-Caesar, The (Poland).bin, CRC: fc88e9b1
 ### Great Escape, The - Gesprengte Ketten (Germany) (En,Fr,De,Es,It) (Disc 1).bin, CRC: 36dadf7e
 ### Great Escape, The - Gesprengte Ketten (Germany) (En,Fr,De,Es,It) (Disc 2).bin, CRC: 159ad903
+### Great Gatsby, The (Australia).bin, CRC: f59a7875
 ### Grecja (Poland) (Covermount).bin, CRC: bfda4f6a
 ### Greek Computer Games 4 Kids (USA) (En,El).bin, CRC: 17a71d33
 ### GrezzoDue 2 (Italy).iso, CRC: f31794dd
@@ -3352,6 +3563,7 @@
 - Heavy Gear II (USA) (Linux) (Track 19).bin, CRC: 55df93f5
 </details>
 
+### Heavy Metal - F.A.K.K. 2 (Australia).bin, CRC: 26c9d64e
 ### Heavy Metal - F.A.K.K. 2 (Japan).bin, CRC: 27b042a3
 ### Heavy Metal - F.A.K.K. 2 (Thailand).bin, CRC: fb8fcef7
 ### Hebrew Adventures of Kef Li (Israel).bin, CRC: 9fdcea4b
@@ -3363,6 +3575,8 @@
 ### Hello Kitty - Big Fun Storymaking (USA).bin, CRC: 0af0b244
 ### Hello Kitty - Creativity Center (USA).bin, CRC: f69720c6
 ### Hello Lady (Japan) (Taikenban).bin, CRC: 837b52c8
+### HellSinker. (Japan).bin, CRC: 4144e77e
+### HellSinker. (Japan) (Dairokuhan).bin, CRC: 1b420698
 ### Henry Explorers (Japan) (Track 24).bin, CRC: 038f034c
 ### Hentai Anime Poker (USA) (En,Fr,De,Es,It)
 <details>
@@ -3398,6 +3612,7 @@
 ### Heroes of Might and Magic III - The Shadow of Death (Korea).bin, CRC: 7c2bb815
 ### Heroes of Might and Magic III Essential (Hungary).bin, CRC: e09254e2
 ### Heroes of Might and Magic V (UK) (Demo).bin, CRC: c3cbf07b
+### Heroes of Might and Magic V - Kuznia Przeznaczenia (Poland).iso, CRC: de728d25
 ### Heroes of the 357th, The (Scandinavia) (Hit Squad).bin, CRC: a663d80a
 ### Herr der Ringe, Der - Die Gefaehrten (Germany) (Alt).bin, CRC: 18e96b29
 ### Hexaraid (Japan).bin, CRC: f06db27c
@@ -3407,11 +3622,14 @@
 ### Hidden & Dangerous 2 (Netherlands) (Disc 3) (Rerelease).bin, CRC: 92fee9c1
 ### Hidden & Dangerous Deluxe (Japan).bin, CRC: 1f2879fc
 ### Higanbana no Saku Yoru ni - Dai Ni Ya (Japan).bin, CRC: 3a5cd73a
+### Higashi no Kuni no Aki Kasai (Japan) (Taikenban).bin, CRC: 4af92766
 ### Highland Warriors (Japan).bin, CRC: 187e8a5a
 ### Highland Warriors (Netherlands) (Disc 1).bin, CRC: e0c0ea90
 ### Highland Warriors (Netherlands) (Disc 2).bin, CRC: a8cf0b9b
 ### Hikokumin ga Yatchimasu - Oyaji no Tekken (Japan).bin, CRC: cf442529
 ### Hilarius-Hiiri ja Suuri Sirkusseikkailu (Finland).bin, CRC: 302228d6
+### Hinata no Oka - Be Loved My Best Half (Japan).bin, CRC: 841fda05
+### History Channel, The - Great Battles of Rome (USA).iso, CRC: e697ec52
 ### Hitman - Contracts (Netherlands) (Disc 1) (Rerelease).bin, CRC: b603ddaf
 ### Hitman - Contracts (Netherlands) (Disc 2) (Rerelease).bin, CRC: 81d5dca8
 ### Hitman 2 - Silent Assassin (France).bin, CRC: 20d68048
@@ -3512,7 +3730,9 @@
 </details>
 
 ### Hovnivalove aneb Zahada Komixu (Czech).bin, CRC: e3acb2b1
+### Hoyle Card Games (USA) (2005) (Rerelease).bin, CRC: bdc1ff81
 ### Hoyle Casino 2006 (Europe).bin, CRC: c5336dc0
+### Hoyle Puzzle & Board Games 2008 (USA) (Rerelease).iso, CRC: 35696479
 ### Hramotijka - Buduye Misto (Ukraine).bin, CRC: b675efb8
 ### Hua Shen Chuan Shuo (Taiwan) (Disc 2) (Game).bin, CRC: f77b29fd
 ### Huanle Qianshuiting - Taipingyangban v2.01 (China).bin, CRC: 5645a1c6
@@ -3575,6 +3795,7 @@
 
 ### Hyper Space (Germany).bin, CRC: 50e277e2
 ### Hyperspace Invader (Serbia).bin, CRC: 98d65410
+### I (Japan).bin, CRC: f25fd8e5
 ### I Argonaytiki Ekstrateia (Greece).bin, CRC: 5704d101
 ### I-Ninja (Thailand) (En,Fr,De,Es,It) (Disc 1).bin, CRC: 1d0af083
 ### I-Ninja (Thailand) (En,Fr,De,Es,It) (Disc 2).bin, CRC: f6ec5b03
@@ -3668,6 +3889,7 @@
 ### Ichimonji Takeru - Soudou no Joou (Japan) (Ge no Maki).bin, CRC: 1a56eacb
 ### Ichimonji Takeru - Soudou no Joou (Japan) (Jou no Maki).bin, CRC: 26599b96
 ### Idol Janshi Suchie-Pai Special (Japan) (Alt).bin, CRC: d9c24840
+### Ignition Force (Japan) (Beta).bin, CRC: 3e95873d
 ### Igo 3 (Japan).bin, CRC: f3ee4902
 ### Igralica - 4 Interaktivne Igre (Serbia).bin, CRC: 2c7cb485
 ### II Wojna Swiatowa (Poland).bin, CRC: b238912f
@@ -3680,6 +3902,8 @@
 ### Immortal Cities - Children of the Nile (Poland) (Dysk Dodatkowy).bin, CRC: 2b783913
 ### Immortal Cities - Children of the Nile (Poland) (Plyta z Gra).bin, CRC: dc5b9d5b
 ### Imperial Glory (Europe) (Sold Out Software).iso, CRC: 1621bd77
+### Imperium Galactica (Hungary) (Disc 1).bin, CRC: d20719f6
+### Imperium Galactica (Hungary) (Disc 2).bin, CRC: c162bb4f
 ### Imperium Galactica (UK) (Disc 2) (Rerelease).bin, CRC: 253cab7f
 ### Imperium Galactica II - Alliances (Hungary) (Install).bin, CRC: 67c3a06e
 ### Imperium Galactica II - Alliances (Hungary) (Kra'hen).bin, CRC: 996afe9e
@@ -3736,6 +3960,22 @@
 ### International Cricket Captain 2010 (Europe).bin, CRC: 57d8ff28
 ### International Soccer (Scandinavia).bin, CRC: 8519e900
 ### International Tennis & International Soccer (Scandinavia).bin, CRC: 20e02898
+### Interplay's 10 Year Anthology - Classic Collection (USA) (OEM)
+<details>
+<summary>ROMs</summary>
+
+- Interplay's 10 Year Anthology - Classic Collection (USA) (OEM) (Track 02).bin, CRC: 2c6d6085
+- Interplay's 10 Year Anthology - Classic Collection (USA) (OEM) (Track 03).bin, CRC: 0188281d
+- Interplay's 10 Year Anthology - Classic Collection (USA) (OEM) (Track 04).bin, CRC: abe5c48e
+- Interplay's 10 Year Anthology - Classic Collection (USA) (OEM) (Track 05).bin, CRC: 33274ca3
+- Interplay's 10 Year Anthology - Classic Collection (USA) (OEM) (Track 06).bin, CRC: 7533bda7
+- Interplay's 10 Year Anthology - Classic Collection (USA) (OEM) (Track 07).bin, CRC: fce51ded
+- Interplay's 10 Year Anthology - Classic Collection (USA) (OEM) (Track 08).bin, CRC: 93700f9b
+- Interplay's 10 Year Anthology - Classic Collection (USA) (OEM) (Track 09).bin, CRC: 43ac0aa5
+- Interplay's 10 Year Anthology - Classic Collection (USA) (OEM) (Track 10).bin, CRC: b2297dc1
+- Interplay's 10 Year Anthology - Classic Collection (USA) (OEM) (Track 11).bin, CRC: d558b86d
+</details>
+
 ### Introductory Games in German (USA).bin, CRC: db57a370
 ### Invictus - In the Shadow of Olympus (Europe) (Disc 1) (0428E365).bin, CRC: 0428e365
 ### Invictus - In the Shadow of Olympus (Europe) (Disc 2) (2DA5CDA4).bin, CRC: 2da5cda4
@@ -3792,6 +4032,7 @@
 - Jandou III (Japan) (Track 19).bin, CRC: dbddf3aa
 </details>
 
+### Jane's Combat Simulations - WWII Fighters (Poland) (Disc 2).bin, CRC: 0ead259d
 ### Janryuukan Monogatari (Japan).bin, CRC: d8d210d7
 ### Jantei - Seigou Battle-hen (Japan).bin, CRC: af6e87f6
 ### Jantei 3 - Hisen Shuurai-hen (Japan) (Disc 1)
@@ -3890,7 +4131,10 @@
 </details>
 
 ### Jump & Run Spiele fuer XP (Germany).bin, CRC: 0403090a
+### JumpStart ABC's (USA) (Rerelease).bin, CRC: 6734d919
 ### JumpStart Advanced 2nd Grade (USA) (Disc 1) (Fundamentals) (Alt).bin, CRC: e9672dd9
+### JumpStart Animal Adventures (USA).bin, CRC: 4ba98837
+### JumpStart Artist (USA).bin, CRC: e939472e
 ### JumpStart Kindergarten (USA) (v1.5c).bin, CRC: 6170fae0
 ### JumpStart Toddlers (USA) (Rerelease).bin, CRC: 0628f896
 ### Yoomurjak's Ring (Hungary) (Rerelease).iso, CRC: 1af4cbfc
@@ -4011,12 +4255,13 @@
 - Kalle Kunskap - Tvaan (Sweden) (OEM) (Track 3).bin, CRC: 80fb758d
 </details>
 
-### Kalle Kunskap - Tvaan (Sweden) (Rerelease).bin, CRC: dac6e514
 ### Kalle Kunskap 2 - Ettan - Mysteriet pa Moln 9 (Sweden).bin, CRC: 6761eeef
+### Kalle Kunskap 2 - Foerskolan - Den stora stjaernjakten (Sweden).bin, CRC: d5531727
 ### Kalle Kunskap 2 - Foerskolan - Den stora stjaernjakten (Sweden) (Alt).bin, CRC: 66444da1
 ### Kalle Kunskap 2 - Foerskolan - Den stora stjaernjakten (Sweden) (Rerelease).bin, CRC: 2ca7ba35
 ### Kalle Kunskap 2 - Tvaan - Kalabalik pa Ostoen (Sweden) (2006-05-02).bin, CRC: cf176440
 ### Kalle Kunskap 2 - Tvaan - Kalabalik pa Ostoen (Sweden) (2006-10-19).bin, CRC: 48ebe0c8
+### Kalle Kunskap Matematik - Pa uppdrag hos Lejonblommorna (Sweden).bin, CRC: 22a4d161
 ### Kamieshi Training School - Noa Side (Japan).bin, CRC: 193c9635
 ### Kanaete Ageru - Fuyu ga Kureta Present (Japan).bin, CRC: b0ec28a7
 ### Kane & Lynch - Dead Men (Germany) (En,Fr,De,Es,It).iso, CRC: 4ab88154
@@ -4045,6 +4290,7 @@
 </details>
 
 ### Keiji Daidageki (Japan).bin, CRC: 34b4d778
+### Kekkai Gensou Rokukyou - Mythical Mirror (Japan) (Taikenban).bin, CRC: aa7037ff
 ### Keltski Krale (Bulgaria) (En,Bg).bin, CRC: 8eaf0d07
 ### Keltsti Kralove - Punske Valky (Czech).bin, CRC: 1d4850c8
 ### Kelyje-II (Lithuania).bin, CRC: d0464f21
@@ -4212,7 +4458,9 @@
 - Korsar, Der (Germany) (Track 6).bin, CRC: e2383440
 </details>
 
+### Koshan Conspiracy, The (Germany) (En,De).bin, CRC: 6f3ec539
 ### Kotimikro 16 - 2006 (Finland) (En,Fi).bin, CRC: a3c2deea
+### Kotonohaender (Japan) (Taikenban).bin, CRC: 5fda3b0f
 ### Koukou Yakyuu-dou CV (Japan).bin, CRC: 88f8792e
 ### Koukou Yakyuu-dou CV 2 (Japan).bin, CRC: f94692db
 ### Koutei Heika ni Narou! (Japan)
@@ -4394,6 +4642,7 @@
 ### LEGO Island (Korea).bin, CRC: a84b5f74
 ### LEGO Island (USA) (Rerelease) (2000-09-04).bin, CRC: d5081667
 ### LEGO Island (USA) (Rerelease) (2000-09-19).bin, CRC: 12192652
+### LEGO Island Plus LEGO Print Creator (UK).bin, CRC: bf9cb429
 ### LEGO Legoland (USA) (Rerelease) (2002-02-18).bin, CRC: 44ec4bbd
 ### LEGO Loco (Japan).bin, CRC: 66089d1d
 ### LEGO Racers (Japan).bin, CRC: 2d29a81d
@@ -4598,6 +4847,7 @@
 
 ### Lunatic Dawn III - Standard (Japan) (Install Disc).bin, CRC: 20fca42b
 ### Lure of the Temptress (Netherlands) (Hit Squad).bin, CRC: d23aa086
+### Ma Kagaku Seiki Wonderful World (Japan) (Taikenban).iso, CRC: d5130956
 ### Machinarium (Poland).iso, CRC: 531198ba
 ### Machines, The (Scandinavia).bin, CRC: c588a75f
 ### Macross Since 1983 (Japan).bin, CRC: 70ab0fa8
@@ -4626,6 +4876,7 @@
 ### MahJongg Master 3 (Europe) (En,Fr,De,Es,It,Pt) (Rerelease).bin, CRC: 9e5ad85e
 ### Mahoromatic Adventure (Japan) (Disc 1).bin, CRC: 20d49eea
 ### Mahoromatic Adventure (Japan) (Disc 2).bin, CRC: 1a1eafa7
+### Maidens of a Hollow Dream (Japan).bin, CRC: 51d8a791
 ### Maihana Soumakyou - Uniting Barrage Action (Japan).iso, CRC: 44c5a708
 ### Majesty - Symulacja Krolestwa Fantasy (Poland)
 <details>
@@ -4699,6 +4950,7 @@
 
 ### Mamono Musume - Life with a Lamia (USA).iso, CRC: 11f80af2
 ### Man Parts (USA).bin, CRC: feba3afe
+### Mana Blast (Japan).bin, CRC: 4ca792e3
 ### Mantigimi Gelistiriyorum (Turkey).bin, CRC: ad4790cb
 ### Manx TT SuperBike (Japan)
 <details>
@@ -4758,6 +5010,8 @@
 ### Mass Effect 3 (Europe) (Disc 1) (Rerelease).iso, CRC: a722f62d
 ### Mass Effect 3 (Europe) (Disc 2) (Rerelease).iso, CRC: 701fa563
 ### Massive Assault (Taiwan).bin, CRC: 1cd6e386
+### Master Burner Climax (Japan) (Benirou Yume 5 Han).bin, CRC: 5858c585
+### Master Burner Climax (Japan) (C77 Taikenban).bin, CRC: 00d8dd9d
 ### Master of Monsters - Madou-ou no Shiren (Japan) (Rerelease).bin, CRC: 9e6ece16
 ### Master Rallye (Europe) (En,Fr,De,Es,It,Pt) (OEM).bin, CRC: f25235a5
 ### Matador, El (Czech).iso, CRC: 0d71c15e
@@ -4836,6 +5090,7 @@
 - Mega Game I (Finland) (Track 8).bin, CRC: c23676f4
 </details>
 
+### Mega Match (USA).bin, CRC: 0eb586ff
 ### Mega Pinball (Europe) (Rerelease).bin, CRC: ee5ca9d1
 ### Megami Ibunroku - Persona - Be Your True Mind (Japan) (Rerelease).bin, CRC: 03433419
 ### MegaRace 2 (Germany) (Disc 1) (Rerelease).bin, CRC: e93e020f
@@ -5017,6 +5272,7 @@
 - Midnight GT - Primary Racer + Rage Rally (Europe) (En,Fr,De,Es,It,Nl,Pt) (Track 4).bin, CRC: 78a5aa46
 </details>
 
+### Midnight Mysteries - Salem Witch Trials (Australia).bin, CRC: 61b78b46
 ### Midnight Racing Long Night (Netherlands).bin, CRC: 628a39e6
 ### Midtown Madness (Japan) (Rerelease)
 <details>
@@ -5175,6 +5431,7 @@
 - Minato Gensou - Venice Fantastica (Japan) (Track 02).bin, CRC: ed7be8d4
 </details>
 
+### MindHabits (USA) (En,Fr).bin, CRC: bec753d7
 ### MindRover - The Europa Project (Europe) (Linux)
 <details>
 <summary>ROMs</summary>
@@ -5213,6 +5470,7 @@
 - Mix Candy 3 (Japan) (Track 3).bin, CRC: a9f5f842
 </details>
 
+### Moe Moe 2-Ji Taisen (Ryaku) 3 (Japan).iso, CRC: 2c028805
 ### Moe Pon (Japan).bin, CRC: 6134bbf2
 ### Moebius Link 2 - Red Star Shift (Japan).bin, CRC: 567a9318
 ### Moebius Link 3 First (Japan).bin, CRC: 3a31a131
@@ -5225,14 +5483,20 @@
 ### Momoiro Memori-Az (Japan).bin, CRC: 0e1cb086
 ### Monopoly (Japan) (Rerelease).bin, CRC: d36cec2c
 ### Monopoly (USA) (1999) (Rerelease) (2002-01-10).bin, CRC: 8813a935
+### Monster Adventure II (Korea).bin, CRC: 655c10a5
 ### Monster Hunter Frontier Online (Japan) (Christmas Gentei Package).bin, CRC: d5f513ea
 ### Monster Hunter Frontier Online (Japan) (Premium Package).bin, CRC: 4abbfdd6
 ### Monster Hunter Frontier Online - Forward.1 (Japan).iso, CRC: a4c18111
+### Monster Hunter Frontier Online - Forward.1 (Japan) (Alt).iso, CRC: 8205d8cd
+### Monster Hunter Frontier Online - Forward.2 (Japan).iso, CRC: cb512984
 ### Monster Hunter Frontier Online - Forward.3 (Japan).iso, CRC: 7dbff60e
+### Monster Hunter Frontier Online - Season 10 (Japan).iso, CRC: f8f70653
 ### Monster Hunter Frontier Online - Season 2.0 (Japan).bin, CRC: cf028ee5
 ### Monster Hunter Frontier Online - Season 3.0 (Japan).iso, CRC: 130005ba
 ### Monster Hunter Frontier Online - Season 4.0 (Japan).bin, CRC: ea261532
 ### Monster Hunter Frontier Online - Season 7.0 (Japan).iso, CRC: cadf015c
+### Monster Hunter Frontier Online - Season 8.0 (Japan).iso, CRC: e7a2c2f0
+### Monster Hunter Frontier Online - Season 9.0 (Japan).iso, CRC: 8b6f8496
 ### Monster Truck Fury (Bulgaria).bin, CRC: 63a3209d
 ### Monster Truck Madness 2 (Europe) (OEM) (Track 10).bin, CRC: f15f498d
 ### Montezuma's Return! (Poland) (Sold Out Software).bin, CRC: 2a2a88cd
@@ -5255,6 +5519,7 @@
 </details>
 
 ### Mooretsu Genshijin T (Japan).bin, CRC: 5649c69c
+### Mootto! Ojamajo Doremi - Pasokon Yarou Yo! Mouse de Jigsaw Puzzle (Japan).bin, CRC: 2351d99f
 ### Mortal Online (Sweden).iso, CRC: 3f8371e3
 ### Motic Play (China) (En,Fr,De,Es,It,Pt,Zh,Ko).bin, CRC: d40a9435
 ### Moto Racer (Japan)
@@ -5312,6 +5577,33 @@
 - Moto Racer (Japan) (OEM) (Track 13).bin, CRC: 95d3a64d
 </details>
 
+### Moto Racer (Poland)
+<details>
+<summary>ROMs</summary>
+
+- Moto Racer (Poland) (Track 01).bin, CRC: d45320b8
+- Moto Racer (Poland) (Track 02).bin, CRC: 72a49e47
+- Moto Racer (Poland) (Track 03).bin, CRC: 595eb9f1
+- Moto Racer (Poland) (Track 04).bin, CRC: d1247f64
+- Moto Racer (Poland) (Track 05).bin, CRC: e736ed8c
+- Moto Racer (Poland) (Track 06).bin, CRC: 84c9c40a
+- Moto Racer (Poland) (Track 07).bin, CRC: a7f2bf6d
+- Moto Racer (Poland) (Track 08).bin, CRC: 4daff699
+- Moto Racer (Poland) (Track 09).bin, CRC: d8c36f64
+- Moto Racer (Poland) (Track 10).bin, CRC: a7afbd39
+- Moto Racer (Poland) (Track 11).bin, CRC: 342e095e
+- Moto Racer (Poland) (Track 12).bin, CRC: 1acbc18d
+- Moto Racer (Poland) (Track 13).bin, CRC: 86d2a959
+</details>
+
+### Moto Racer 2 (Poland)
+<details>
+<summary>ROMs</summary>
+
+- Moto Racer 2 (Poland) (Track 01).bin, CRC: 0595249b
+- Moto Racer 2 (Poland) (Track 17).bin, CRC: 89a056da
+</details>
+
 ### Moto Racer 3 (Hungary) (En,Fr,De,It,Sv,Ca) (Gold Edition) (Rerelease).bin, CRC: bccc214f
 ### Motocross Madness 2 (Poland).bin, CRC: 8d86337c
 ### MotoGP - Ultimate Racing Technology 3 (Poland).bin, CRC: e836377e
@@ -5333,6 +5625,7 @@
 ### MultiXmas (Netherlands) (CD-ROM).bin, CRC: f7a2b605
 ### Mumitroldene 4 - Ninni - Det Usynlige Barn (Denmark).bin, CRC: 2c7c6526
 ### Wrigglui (Japan).bin, CRC: 5eb9d8b7
+### Musouki - Constitution World Story - 1-shou Urou Shinden Shou (Japan).bin, CRC: 8e3922ba
 ### Mutation of J.B. (Slovakia)
 <details>
 <summary>ROMs</summary>
@@ -5364,6 +5657,8 @@
 ### Myst IV - Revelation (USA) (En,Fr,De,Es,It,Nl) (Rerelease).iso, CRC: 43b42d23
 ### Myst V - End of Ages (USA) (En,Ja,Fr,De,Es,It,Pl,Ru) (Rerelease).iso, CRC: 200fa8b4
 ### Mysteries in Paradise (USA).iso, CRC: cee0c3f7
+### Mystery Cookbook (Australia).bin, CRC: 39f05f48
+### Mystery of the Mummy, The (Australia).bin, CRC: 66f3f7f5
 ### Mystery P.I. - The Vegas Heist (UK).bin, CRC: e6abc901
 ### Mystical Gypsy (Thailand) (En,Th).bin, CRC: 1054c5cf
 ### Myth - The Fallen Lords (Europe).bin, CRC: e6364dc2
@@ -5437,6 +5732,7 @@
 ### NBA Live 99 - Champions (Europe).bin, CRC: 7f12054f
 ### NDS Korean Language - Advanced Class (USA) (En,Ko).bin, CRC: 9410841c
 ### NDS Korean Language - Secondary Class (USA) (En,Ko).bin, CRC: 7065a4bd
+### Necromania - Trap of Darkness (Czech) (Rerelease).bin, CRC: a3405281
 ### NecroVision (Hungary).iso, CRC: 708837e9
 ### Need for Russia - Greatest Cars from CCCP & Bug Mania (Lithuania).bin, CRC: 33bf0258
 ### Need for Speed - High Stakes (Japan).bin, CRC: 368ff3f5
@@ -5454,8 +5750,13 @@
 ### Need for Speed - Underground (France) (Disc 2).bin, CRC: 26d04865
 ### Need for Speed - Underground (Japan) (Disc 1).bin, CRC: f7efcfe2
 ### Need for Speed - Underground (Japan) (Disc 2).bin, CRC: d66c7500
+### Need for Speed - Underground (Portugal) (Disc 1).bin, CRC: fbceaa07
+### Need for Speed - Underground (Portugal) (Disc 2).bin, CRC: b60f4509
+### Need for Speed - Underground (Spain) (Disc 1).bin, CRC: edecdbbf
+### Need for Speed - Underground (Spain) (Disc 2).bin, CRC: 7698f9dd
 ### Need for Speed - Underground 2 (India) (Disc 1).bin, CRC: c927ca4e
 ### Need for Speed - Underground 2 (India) (Disc 2).bin, CRC: ca24da06
+### Need for Speed II (Australia).bin, CRC: c43e8278
 ### Need for Speed III - Hot Pursuit (China) (En,Es).bin, CRC: 6aabeb72
 ### Nejkrasnejsi Pohadky - Dlouhy, Siroky a Bystrozraky (Czech) (En,Cs,Sk).bin, CRC: 6cb5741a
 ### Nejkrasnejsi Pohadky - Mala Morska Vila (Czech) (En,Cs,Sk).bin, CRC: 9e0c8555
@@ -5495,6 +5796,7 @@
 ### Neverwinter Nights 2 (Germany) (Chaotic Evil).iso, CRC: f87f0278
 ### Nexon Fun Pack (Singapore).bin, CRC: 7ea05472
 ### NHL Hockey (Europe).bin, CRC: cee4d110
+### Nightfall Mysteries - Curse of the Opera (Australia).bin, CRC: ccf6d4b9
 ### Nihonshi Time Machine (Japan).bin, CRC: 15a76e68
 ### Nijiiro Twinkle (Japan).bin, CRC: 65b7d0f6
 ### Nimets'ka Mova (Ukraine) (De,Uk).bin, CRC: e9aba6f6
@@ -5522,6 +5824,7 @@
 </details>
 
 ### Ningen-Gari (Japan) (Track 7).bin, CRC: 6c301300
+### Ninja Rising (Japan) (C86 Prototype).bin, CRC: 8ea18f99
 ### Nintendo GameCube Preview DVD (Germany).iso, CRC: 9882c084
 ### Nippon Tetsudou Scenery Series 2 - Hokkaido Tetsudou Scenery For Flight Simulator 2002 (Japan).bin, CRC: 47488dbb
 ### Nitro Family (Japan) (Demo).bin, CRC: 2642f49a
@@ -5568,6 +5871,7 @@
 ### Obscure (Germany) (De,Es) (Rerelease) (2006-01-05).iso, CRC: 82afddbb
 ### Ochazukenori - Kaiki!! Mushi Danshaku no Yakata (Japan).bin, CRC: 76c2a022
 ### Odlikas za Prvake (Serbia).bin, CRC: 64d94650
+### Ojarumaru - Pasokon Yarou Yo! Mouse de Jigsaw Puzzle (Japan).bin, CRC: 56a67df3
 ### Oksfordzka Encyklopedia Historii Swiata. Tom II (Poland).bin, CRC: 3045c6eb
 ### On Air (Japan)
 <details>
@@ -5619,6 +5923,17 @@
 ### Pack Rubis (France).bin, CRC: 391d8a23
 ### Paholaisen Loukku (Finland).bin, CRC: f2ebe3a5
 ### Paidiko Lexiko - Ellinikis Noimatikis Glossas (Greece).bin, CRC: 160ea4e3
+### Pakurosu - Paint Logic Collection (Japan)
+<details>
+<summary>ROMs</summary>
+
+- Pakurosu - Paint Logic Collection (Japan) (Track 1).bin, CRC: 27173426
+- Pakurosu - Paint Logic Collection (Japan) (Track 2).bin, CRC: 9022192c
+- Pakurosu - Paint Logic Collection (Japan) (Track 3).bin, CRC: 58bec66b
+- Pakurosu - Paint Logic Collection (Japan) (Track 4).bin, CRC: e4064685
+- Pakurosu - Paint Logic Collection (Japan) (Track 5).bin, CRC: 48677d7b
+</details>
+
 ### Pametno Razmisljaj (Serbia).bin, CRC: 5c26dcc7
 ### Pandemonium! (China).bin, CRC: 337f5f4b
 ### Pandora - First Contact (Germany) (En,De).iso, CRC: d9594ea3
@@ -5742,16 +6057,20 @@
 ### PC PowerPlay 95 (Australia).iso, CRC: 4b8608bf
 ### PC PowerPlay 98 (Australia) (Disc 1).iso, CRC: e5d9d4ed
 ### PC PowerPlay 98 (Australia) (Disc 2).iso, CRC: e1f2c9f3
+### PC Strategy Games - Issue 10 Christmas 2000 (UK).bin, CRC: 4358b723
 ### PC World Komputer 1-2000 (61) (Poland).bin, CRC: 36e7fc26
 ### PC World Komputer 5-1999 (46) (Poland).bin, CRC: a8b6c385
 ### PC World Komputer na Gwiazdke 1999 (Poland) (Disc 2).bin, CRC: a6e93eed
 ### PC Zone 94 (Netherlands) (Disc 1).bin, CRC: b7805d36
 ### PC Zone 95-96 (Netherlands) (Disc 2).bin, CRC: 66f8e461
+### Pelle Pirat (Sweden) (Sv,No,Fi).bin, CRC: 14d78b2f
 ### Perfect Grand Prix - Track Pack & Editor (Germany).bin, CRC: 7f233db8
 ### Perfect Sport (Scandinavia) (En,Fr,De).bin, CRC: 7ab25157
 ### PES 2009 - Pro Evolution Soccer (Europe) (En,Fr,De,Es,It).iso, CRC: f0961d1e
 ### PES 2013 - Pro Evolution Soccer (France).iso, CRC: 014a486b
 ### Peter Schmeichel Soccer (Scandinavia).bin, CRC: e9d6cdea
+### Pettsons julspel (Sweden).bin, CRC: 3b545e1d
+### Phantasmagoria - A Puzzle of Flesh (Australia) (Disc 1).bin, CRC: 740ec5e1
 ### Phantasy Star Online - Blue Burst (Japan).bin, CRC: e3e501a4
 ### Pharaoh (Sweden).bin, CRC: fa9206bd
 ### Philopon Musubi no Yatchimasu (Japan).bin, CRC: 05355e3f
@@ -5851,6 +6170,7 @@
 ### Pirates 7 (Japan).bin, CRC: 7d2e4375
 ### Pirates! Gold (Germany) (Rerelease) (2005-05-10).bin, CRC: cb84c1e1
 ### Pistol Ryuta no Teppoudama - Surprise Yakuza (Japan).bin, CRC: 2e815ae4
+### Pivar (Czech).bin, CRC: 9f321707
 ### Pixeline Skolehjaelp - Dansk - Pixeline Far det Sidste Ord (Denmark).bin, CRC: b0920d89
 ### Pixeline Skolehjaelp - Dansk 2 - Pixeline i Bogstavjunglen (Denmark).bin, CRC: 5de39fe5
 ### Pixeline Skolehjaelp - Dinosaurer - De Frygtelige Ogler (Denmark).bin, CRC: 5dbe9445
@@ -5889,6 +6209,7 @@
 ### PokeROM - Schiggy (Germany).bin, CRC: bb052240
 ### Neighbours from Hell (Hungary).bin, CRC: a1351f2a
 ### Neighbours from Hell 2 - On Vacation (Hungary).bin, CRC: 33131ba2
+### Polda aneb s Poctivosti Nejdriv Pojdes (Czech) (Rerelease).bin, CRC: 336857f1
 ### Police Quest - SWAT 2 (Germany) (Rerelease) (5012E377).bin, CRC: 5012e377
 ### Polski Wiatr (Poland) (En,De,Pl)
 <details>
@@ -5911,6 +6232,7 @@
 ### Port Royale (Poland).bin, CRC: e41f64fd
 ### Port Royale 2 (Netherlands) (En,Nl).bin, CRC: 61c72425
 ### Portal (Japan) (En,Ja).iso, CRC: d31082de
+### Post Master (Australia) (En,Fr,De,Es,It).bin, CRC: e20d039d
 ### Postal (Scandinavia) (En,Fr,De).bin, CRC: 2beebbd2
 ### Postal 2 (Japan).bin, CRC: b35a1b62
 ### Postal 2 - Share the Pain (Hungary).bin, CRC: ce6fd6a8
@@ -5964,8 +6286,14 @@
 ### Prey (Germany) (En,Fr,De,Es,It).iso, CRC: 996fbd9b
 ### Price iz Davnine - Drugi Dio (Croatia) (En,De,Hr).bin, CRC: df7c5682
 ### Priklyucheniyata na Muzikalnite Tonove i Tehnite Noti (Bulgaria).bin, CRC: 94e92a3a
+### Prince of Persia - The Sands of Time (Australia) (Disc 1) (OEM).bin, CRC: c0a01375
+### Prince of Persia - The Sands of Time (Australia) (Disc 2) (OEM).bin, CRC: d1b452de
+### Prince of Persia - Warrior Within (Japan) (Disc 1).bin, CRC: cea2cf09
+### Prince of Persia - Warrior Within (Japan) (Disc 2).bin, CRC: 5925e170
+### Prince of Persia - Warrior Within (Japan) (Disc 3) (Play Disc).bin, CRC: 6aa9b970
 ### Prince of Persia 3D (Germany) (Disc 1) (Rerelease).bin, CRC: 13383058
 ### Princess Case, The - A Royal Scoop (Australia).bin, CRC: 72455559
+### Princess Isabella - A Witch's Curse - Collector's Edition (Australia).bin, CRC: f4dc1912
 ### Princess Waltz (USA).iso, CRC: fc68e832
 ### Private Garden II - Value Pack (Japan)
 <details>
@@ -5997,6 +6325,7 @@
 ### Profesor Krejd - Novorichna Krejd-Vechirka (Ukraine).bin, CRC: a4c94396
 ### Project Earth - Starmageddon (Australia).bin, CRC: 8b04dd7c
 ### Project Eden (Europe).bin, CRC: 9f13ae9f
+### Project Eden (Thailand).bin, CRC: 0248b444
 ### Project Nomads - After the Disaster (Germany) (En,De) (Demo-CD).bin, CRC: 05d51704
 ### Przez Kontynenty Wielka Wyprawa (Poland).bin, CRC: e6a26067
 ### Psychic Force 2012 (Japan)
@@ -6090,6 +6419,9 @@
 
 ### Puzzle Bobble 4 (Japan).bin, CRC: 91aa8e3c
 ### Puzzle Quest - Challenge of the Warlords (USA).bin, CRC: c74a480c
+### Puzzler World 2 (Australia).bin, CRC: c7f10cfe
+### Pyramiden - Gatan vid Nilens Strand (Sweden) (Disc 1) (Alt 2).bin, CRC: 7db2d15e
+### Pyramiden - Gatan vid Nilens Strand (Sweden) (Disc 2) (Alt 2).bin, CRC: b85a2f62
 ### Pyroblazer (Serbia).iso, CRC: ed33e064
 ### Q2 Files, The (USA).bin, CRC: eccb9eb8
 ### QBrixx^2 (Germany).bin, CRC: a305f20d
@@ -6329,6 +6661,8 @@
 ### Raman of Tenali (India).bin, CRC: e4a85482
 ### Raptor - Call of the Shadows (USA) (Rerelease) (2000-09-13).bin, CRC: 5ad1bb77
 ### Rashid Games (Asia).bin, CRC: e9497751
+### Raumschiffe bauen mit Willy Werkel (Germany).bin, CRC: a734ddb2
+### Rayman - Raving Rabbids (Australia).iso, CRC: dc7ac4d3
 ### Rayman 3 - Hoodlum Havoc (France) (En,Fr,De,Es,It) (Rerelease) (2008-05-05).iso, CRC: 4efa6fd9
 ### Rayman 3 - Hoodlum Havoc - Promotional Demo (Europe).bin, CRC: 46bc2aeb
 ### Rayman M (France) (Disc 1).bin, CRC: 9728357c
@@ -6349,6 +6683,8 @@
 - RC Racing (Poland) (Track 11).bin, CRC: 32277793
 </details>
 
+### Re - Trial Version (Japan).bin, CRC: 6649e7b8
+### Reach for the Stars (Thailand).bin, CRC: 6af3f429
 ### Reach for the Stars (UK).bin, CRC: 9bd19453
 ### Realms of Arkania - Star Trail (Europe).bin, CRC: a44a108e
 ### realMyst - Masterpiece Edition (USA).iso, CRC: 627c29e1
@@ -6388,6 +6724,8 @@
 ### Reel Deal Vegas Casino Experience (USA).bin, CRC: 0587562f
 ### Refine - Variety Package (Japan).bin, CRC: 22d9b2ff
 ### RefRain - Prism Memories (Japan) (C78 Relation Trial Ver.).bin, CRC: cde72b70
+### RefRain - Prism Memories (Japan) (Taikenban).bin, CRC: 766bf0fd
+### RefRain - Prism Memories (Japan) (v1.02.1).bin, CRC: ea2ee532
 ### Rekishi Adventure-gata Typing Renshuu Soft - Ryouma ga Utsu (Japan).bin, CRC: 30b72015
 ### Relics - The Recur of Origin (Japan) (Rerelease)
 <details>
@@ -6436,6 +6774,38 @@
 ### Resident Evil 6 (Europe) (En,Fr,De,Es,It,Pt,Pl,Ru) (Disc 1) (OEM).iso, CRC: f22bef0a
 ### Return of the Phantom (Europe) (Hit Squad - Regenerator).bin, CRC: 013bc98a
 ### Return to Castle Wolfenstein (Australia) (Disc 2).bin, CRC: 5199cbcc
+### Return to Zork (Australia)
+<details>
+<summary>ROMs</summary>
+
+- Return to Zork (Australia) (Track 01).bin, CRC: 694e892f
+- Return to Zork (Australia) (Track 02).bin, CRC: c0eed35e
+- Return to Zork (Australia) (Track 03).bin, CRC: ef6be127
+- Return to Zork (Australia) (Track 04).bin, CRC: 7e3f2b75
+- Return to Zork (Australia) (Track 05).bin, CRC: 4fb5ab4d
+- Return to Zork (Australia) (Track 06).bin, CRC: b7a37d82
+- Return to Zork (Australia) (Track 07).bin, CRC: 263c65c6
+- Return to Zork (Australia) (Track 08).bin, CRC: 7f9d6378
+- Return to Zork (Australia) (Track 09).bin, CRC: 844e65b2
+- Return to Zork (Australia) (Track 10).bin, CRC: 087b1bf8
+- Return to Zork (Australia) (Track 11).bin, CRC: bac23498
+- Return to Zork (Australia) (Track 12).bin, CRC: b8ab8b21
+- Return to Zork (Australia) (Track 13).bin, CRC: 0b7e4ce9
+- Return to Zork (Australia) (Track 14).bin, CRC: 9477d4c7
+- Return to Zork (Australia) (Track 15).bin, CRC: 56142f06
+- Return to Zork (Australia) (Track 16).bin, CRC: 75c49b09
+- Return to Zork (Australia) (Track 17).bin, CRC: 19721917
+- Return to Zork (Australia) (Track 18).bin, CRC: e6c8374c
+- Return to Zork (Australia) (Track 19).bin, CRC: 10531ad6
+- Return to Zork (Australia) (Track 20).bin, CRC: 199b3d82
+- Return to Zork (Australia) (Track 21).bin, CRC: 4a2419d1
+- Return to Zork (Australia) (Track 22).bin, CRC: 261827b2
+- Return to Zork (Australia) (Track 23).bin, CRC: 7d655b1b
+- Return to Zork (Australia) (Track 24).bin, CRC: a8b36e35
+- Return to Zork (Australia) (Track 25).bin, CRC: 99103e57
+- Return to Zork (Australia) (Track 26).bin, CRC: 7d9d3fdc
+</details>
+
 ### Return to Zork (Canada)
 <details>
 <summary>ROMs</summary>
@@ -6493,6 +6863,7 @@
 ### Richard Burns Rally (Czech).iso, CRC: 0fcfa5a9
 ### Richard Garriott's Tabula Rasa (USA).iso, CRC: 77b99867
 ### Rift (Australia) (En,Fr,De).iso, CRC: 4b95e3c3
+### Ring Hunter (Hungary).bin, CRC: 5bd81da2
 ### RIP (UK).bin, CRC: 2e829fb4
 ### Ripley's Believe It or Not - The Riddle of Master Lu (Europe).bin, CRC: 663db72e
 ### Rise & Fall - Civilizations at War (Europe) (En,Fr,De,Es,It) (Demo).bin, CRC: 98925d91
@@ -6511,6 +6882,7 @@
 ### Riven - The Sequel to Myst (USA) (Disc 5).bin, CRC: 0ff3e830
 ### Riven - The Sequel to Myst (USA) (En,Ja,Fr,De,Es,It,Pl,Ru) (DVD-ROM) (Rerelease) (2018-10-26).iso, CRC: 36afe79f
 ### Rivka Teaches Hebrew (USA) (En,He).bin, CRC: 7d10e3fa
+### Ro(c)k Podvrataku (Czech).bin, CRC: e9e5eed2
 ### Road & Track Presents - The Need for Speed (Spain) (En,De).bin, CRC: 74ba2098
 ### Road & Track Presents - The Need for Speed SE (Australia) (En,De).bin, CRC: 59a343c6
 ### Robaki 3D (Poland) (Rerelease).bin, CRC: bc89621e
@@ -6582,6 +6954,7 @@
 ### RollerCoaster Tycoon 3 (Japan).bin, CRC: ebe88c50
 ### RollerCoaster World (Europe).bin, CRC: ec65cb0c
 ### RollerCoaster World (Europe) (F8E26303).bin, CRC: f8e26303
+### Rolling Gunner (Japan) (Beta).bin, CRC: 44034d24
 ### Rolling Marbles (Europe) (Rerelease) (2003-01-06).bin, CRC: 412f30d4
 ### Roman Reine (Japan) (Disc A).bin, CRC: 133c448a
 ### Romdia Series Vol. 29 - Satsui no Senritsu (Japan).bin, CRC: 033a42b1
@@ -6687,6 +7060,18 @@
 - Rune - Halls of Valhalla (USA) (Linux) (Track 7).bin, CRC: 6cee941f
 </details>
 
+### Rune Gold (Thailand) (Disc 2)
+<details>
+<summary>ROMs</summary>
+
+- Rune Gold (Thailand) (Disc 2) (Track 2).bin, CRC: d2a790a4
+- Rune Gold (Thailand) (Disc 2) (Track 3).bin, CRC: 5ece294c
+- Rune Gold (Thailand) (Disc 2) (Track 4).bin, CRC: 2f5c4b4e
+- Rune Gold (Thailand) (Disc 2) (Track 5).bin, CRC: 7cd9ab18
+- Rune Gold (Thailand) (Disc 2) (Track 6).bin, CRC: 6fee2396
+- Rune Gold (Thailand) (Disc 2) (Track 7).bin, CRC: cd7bb48e
+</details>
+
 ### Runes of Magic (Turkey).iso, CRC: 580751be
 ### Rush for Berlin (Hungary).iso, CRC: bc0bfbd8
 ### Rush for the Bomb (Hungary).iso, CRC: 7916f06a
@@ -6739,7 +7124,6 @@
 ### Sacred Plus (Australia) (Disc 1).bin, CRC: 5dcfc363
 ### Sacred Plus (Europe) (Disc 1) (Rerelease).bin, CRC: c1478643
 ### Sacred Plus (Europe, Australia) (Disc 2) (Rerelease).bin, CRC: 8c0e0cc6
-### Sacrifice (USA) (Editors Press Kit).bin, CRC: 62d352db
 ### Sacrifice (USA) (Hewlett Packard OEM).bin, CRC: d5d91581
 ### Safecracker (Europe) (En,Fr,De,Es,It,Nl,Sv).bin, CRC: 84352fe0
 ### Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic) (Track 31).bin, CRC: a3238767
@@ -6774,6 +7158,7 @@
 </details>
 
 ### Saints Row 2 (Taiwan) (En,Zh).iso, CRC: 4ad07e7b
+### Saishuu Sotsuken Taisen Feshootival (Japan) (Taikenban).iso, CRC: d4b466e4
 ### Salad Days - Shin Seitouha Ren'ai Typing (Japan).bin, CRC: 43d7dbfd
 ### Salaryman Kintarou (Japan).bin, CRC: 2f241b75
 ### Salaryman Kintarou - Dai-2-kan Netsuai Roman-hen (Japan).bin, CRC: c271ddc4
@@ -6928,6 +7313,7 @@
 ### SD Gundam Wars (Japan).bin, CRC: 562220d8
 ### Sea Dogs - Piraci (Poland).bin, CRC: 4744bda8
 ### Secret Files 2 - Puritas Cordis (Spain).iso, CRC: 16e4b5d7
+### Secrets of the Dragon Wheel (Australia).bin, CRC: c1db732a
 ### Sega Family Fun Pak (USA)
 <details>
 <summary>ROMs</summary>
@@ -7303,6 +7689,7 @@
 ### Shock Price 500 Game Series - Yacht (Japan).bin, CRC: c4cc4474
 ### Shogun - Total War (Japan) (Disc 1).bin, CRC: 104b9320
 ### Shogun - Total War (Japan) (Disc 2).bin, CRC: be57cc98
+### Shogun - Total War (USA) (Disc 1) (Rerelease) (2001-05-17).bin, CRC: a791a017
 ### Shogun - Total War - The Mongol Invasion (USA).bin, CRC: 11b5bbc1
 ### Shogun - Total War - Zlota Edycja (Poland).iso, CRC: 1f97d3e0
 ### Shougi Professor - Gekisashi 3 - Kanzenban (Japan).bin, CRC: b351b420
@@ -7331,6 +7718,16 @@
 ### Siedler IV, Die - Gold Edition (Germany) (Disc 1).bin, CRC: 287b1b50
 ### Siedler IV, Die - Gold Edition (Germany) (Disc 2).bin, CRC: b4126c3a
 ### Siedler, Die - Aufstieg eines Koenigreichs (Germany).iso, CRC: 21e84d4a
+### Sigma Puzzle World (Japan)
+<details>
+<summary>ROMs</summary>
+
+- Sigma Puzzle World (Japan) (Track 1).bin, CRC: f3c4c8be
+- Sigma Puzzle World (Japan) (Track 2).bin, CRC: 9f40245a
+- Sigma Puzzle World (Japan) (Track 3).bin, CRC: d6fdb33b
+</details>
+
+### Signori degli Elementi, I (Italy).bin, CRC: e80ed1e0
 ### Silent Duel (Japan)
 <details>
 <summary>ROMs</summary>
@@ -7392,26 +7789,37 @@
 ### SimCity 4 Deluxe (Japan) (Disc 1) (Alt).bin, CRC: 631b5ab9
 ### SimCopter (France).bin, CRC: 006fd435
 ### SimCopter (Netherlands).bin, CRC: 97bade82
+### SimEarth (USA).bin, CRC: 067fdeee
 ### SimLife (Europe) (En,Fr,De,Es,It) (Rerelease).bin, CRC: 9c7ef635
 ### SimPark (Europe).bin, CRC: 700ff318
 ### SimPeople - Pets & Gardening! (Data Set) (Japan) (Disc 1).bin, CRC: 32a64801
+### Simpsons, The - Hit & Run (Germany) (Disc 1).bin, CRC: 1a92b8b3
 ### Simpsons, The - Hit & Run (Korea) (Disc 1).bin, CRC: 482565c8
 ### Sims 2, The (Hungary) (En,Cs,Hu).iso, CRC: 4b1e3f45
 ### Sims 2, The - Apartment Life (Expansion Pack) (Germany) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,Cs,Hu).iso, CRC: 56f8291a
 ### Sims 2, The - Bon Voyage (Expansion Pack) (Germany) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,Cs,Hu).iso, CRC: ad4f0273
+### Sims 2, The - Celebration! Stuff (Australia).bin, CRC: 56163855
 ### Sims 2, The - Double Deluxe (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,Cs,Hu) (Rerelease).iso, CRC: 3f92f237
+### Sims 2, The - Family Fun Stuff (Australia).bin, CRC: e5274e83
 ### Sims 2, The - Fashion Stuff (Australia) (En,Fr,De,Es,It,Nl,Pt,No,Da,Fi,Pl,Ru,Cs,Hu).bin, CRC: e4437133
+### Sims 2, The - Nightlife (Expansion Pack) (Australia) (Disc 1).bin, CRC: d82e9272
+### Sims 2, The - Nightlife (Expansion Pack) (Australia) (Disc 2).bin, CRC: 45f2b369
 ### Sims 2, The - Teenager Pack (Japan).bin, CRC: cfd2f6ff
+### Sims 2, The - University (Expansion Pack) (Australia) (Disc 1).bin, CRC: 23ee037b
+### Sims 2, The - University (Expansion Pack) (Australia) (Disc 2).bin, CRC: d4f995c1
 ### Sims 2, The - University (Expansion Pack) (Germany) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Cs) (Disc 1).bin, CRC: 7b6e5789
 ### Sims 2, The - University (Expansion Pack) (Germany) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Cs) (Disc 2).bin, CRC: a835831e
 ### Sims 2, The - Winter Pack (Japan).bin, CRC: b14f52f2
+### Sims 3, The (Australia).iso, CRC: 31e7456f
 ### Sims 3, The (Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El,Cs,Hu) (v1.42.130.019001).iso, CRC: 32f2ce4b
+### Sims 3, The - Pets (Expansion Pack) (Australia).iso, CRC: cbe8525d
 ### Sims Castaway Stories, The (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,Cs,Hu).iso, CRC: c8072e46
 ### Sims Magazine 25, Les (France).bin, CRC: ae8ad402
 ### Sims Strategy Guide and SimFan Pack, The (USA).bin, CRC: 8de269a8
 ### Sims, The (Korea) (En,Ko).bin, CRC: 46e979d1
 ### Sims, The - Livin' It Up (Expansion Pack) (Germany) (En,Fr,De,Es,It,Nl,Sv).bin, CRC: 3ef66178
 ### Sims, The - On Holiday (Expansion Pack) (Germany) (En,Fr,De,Es,It,Nl,Sv).bin, CRC: 8e62e794
+### SimTheme Park (USA) (Gold Edition) (2000-05-11).bin, CRC: a594a98d
 ### Simulation Pro Yakyuu '99 (Japan)
 <details>
 <summary>ROMs</summary>
@@ -7548,6 +7956,7 @@
 ### Slova i Brojevi (Serbia).bin, CRC: 475a547a
 ### Slownik Obrazkowy Jezyka Angielskiego (Poland).bin, CRC: bcee6526
 ### Slownik Obrazkowy Jezyka Niemieckiego (Poland).bin, CRC: bc633bbe
+### Smart Start - Memory (USA).bin, CRC: b3a503d5
 ### Smash Up Derby (Serbia).bin, CRC: e42cb58f
 ### Smilingueido em - Desafio na Floresta (Brazil).bin, CRC: 832c5bce
 ### Smurfs, The - The Teletransportsmurf (Hungary).bin, CRC: 16519f33
@@ -7575,6 +7984,7 @@
 </details>
 
 ### Snezhnata Kralitsa (Bulgaria).bin, CRC: ff43dc14
+### Sniper Elite (Europe) (En,Fr,De,Es,It) (Rerelease).iso, CRC: a9e8d62b
 ### Peanuts - Where's the Blanket Charlie Brown (Israel) (En,He).bin, CRC: a9834d0a
 ### Snow White and the Seven Dwarfs (Finland)
 <details>
@@ -7609,6 +8019,7 @@
 - Snow White and the Seven Dwarfs (Finland) (Track 27).bin, CRC: e6a18501
 </details>
 
+### Snutten pa aeventyr! (Sweden) (Sv,No,Da,Fi).bin, CRC: 7b99bf90
 ### Soccer Kid (USA) (En,Fr,De,Es,It).bin, CRC: 01975a29
 ### Soeldner - Secret Wars (Germany) (En,De)
 <details>
@@ -7621,6 +8032,7 @@
 ### Software Tycoon (UK) (Linux).bin, CRC: 1d2804ef
 ### Software Tycoon (Poland).bin, CRC: f5bed4e5
 ### Soldier of Fortune (Thailand) (Track 2).bin, CRC: faa094af
+### Sole Sinner (Japan).bin, CRC: 145a75b3
 ### Solitaire Deluxe (Japan).bin, CRC: 368efb0a
 ### Sonic & Knuckles Collection (Europe) (Xplosiv) (55B404E4).bin, CRC: 55b404e4
 ### Sonic R (France) (En,Fr,De,Es,It) (Xplosiv)
@@ -7693,6 +8105,7 @@
 ### Space Dynagon Kai (Japan).bin, CRC: fa8f3e21
 ### Space Hack (Hungary).bin, CRC: 85b812d8
 ### Space Invaders X (Japan).bin, CRC: 88d3b448
+### Space Panic (UK).bin, CRC: 5b476719
 ### SpaceHaste 2 (Poland)
 <details>
 <summary>ROMs</summary>
@@ -7723,6 +8136,7 @@
 ### Spelling - 'SATS' Key Stage 2 (UK).bin, CRC: f9f52500
 ### Spells of Gold (Poland).bin, CRC: 6f3a4a7f
 ### Spiaca Krolewna (Poland) (Covermount).bin, CRC: fd61a8ab
+### Spin Busta (Australia).bin, CRC: d6e58bed
 ### Split Screen Soccer Managers (Scandinavia).bin, CRC: cb4a540a
 ### Spore (USA) (Alt 2).iso, CRC: da9ee9c0
 ### Spore - Creepy & Cute Parts Pack (Europe) (Alt).iso, CRC: b01e69b5
@@ -7833,6 +8247,7 @@
 - Star Wars - Galactic Battlegrounds - Clone Campaigns (Thailand) (Track 2).bin, CRC: aa296efd
 </details>
 
+### Star Wars - Rebellion (Germany).bin, CRC: 280cb710
 ### Star Wars - Starfighter (Spain).bin, CRC: fa585d85
 ### Star Wars - The Clone Wars - Republic Heroes (Poland).iso, CRC: a9fb2d6c
 ### Star Wars - X-Wing Alliance (Poland) (Disc 1).bin, CRC: 118d3bef
@@ -7966,6 +8381,7 @@
 
 ### Super Kobra (Turkey).bin, CRC: 4b8f88a9
 ### Super Magic - Haunted City (Thailand) (En,Th).bin, CRC: 3a47d41d
+### Super Motocross Kings (Australia).bin, CRC: 4f2291fb
 ### Uez 3.0 (Europe).bin, CRC: 2e671091
 ### Super Puzzle Fighter II Turbo (USA).bin, CRC: bf4d5fad
 ### Super Space Invaders & Football Manager 2 & 3 (Germany).bin, CRC: 744f0a66
@@ -8031,6 +8447,18 @@
 ### Super Yatzy & Dizzy Dice (Scandinavia) (En,De,Sv,No,Da).bin, CRC: 47bc995e
 ### Super-VGA Harrier (Europe).bin, CRC: d763e030
 ### Superbike 2000 (Japan).bin, CRC: 4bf130f3
+### Superbike Challenge (Europe)
+<details>
+<summary>ROMs</summary>
+
+- Superbike Challenge (Europe) (Track 1).bin, CRC: 151e851a
+- Superbike Challenge (Europe) (Track 2).bin, CRC: f8eb3cf5
+- Superbike Challenge (Europe) (Track 3).bin, CRC: af208ff8
+- Superbike Challenge (Europe) (Track 4).bin, CRC: 0c26e79a
+- Superbike Challenge (Europe) (Track 5).bin, CRC: 5c3ea6cc
+- Superbike Challenge (Europe) (Track 6).bin, CRC: 2a850f31
+</details>
+
 ### Superbike Challenge (Japan)
 <details>
 <summary>ROMs</summary>
@@ -8043,7 +8471,9 @@
 - Superbike Challenge (Japan) (Track 6).bin, CRC: cce7b2e0
 </details>
 
+### Superbike Racing (Australia).bin, CRC: ee293e36
 ### Supreme Commander (Europe) (En,Fr,De,Es,It,Pl) (Rerelease).iso, CRC: b0398498
+### Suzumiya Haruhi no Dohatsu (Japan) (C76 Taikenban).bin, CRC: d9cdd2ed
 ### SWAT 3 - Close Quarters Battle (France) (Elite Edition) (Rerelease).bin, CRC: 1f011c2a
 ### SWAT 3 - Close Quarters Battle (Hungary) (Elite Edition).bin, CRC: 2058aa55
 ### SWAT 4 (Hungary) (Disc 1) (Gold Edition).bin, CRC: 692538f3
@@ -8070,9 +8500,45 @@
 </details>
 
 ### Sword of the Samurai (Europe) (Hit Squad - Regenerator).bin, CRC: 0519ef00
+### Syndicate Plus (Australia).bin, CRC: 23c784c6
 ### Syndicate Plus (USA) (En,Fr,Es,It) (OEM).bin, CRC: 3ee98dd2
 ### Tactical Ops - Wojna z Terrorem (Poland) (Rerelease).bin, CRC: b34cb674
 ### Tactical RPG Mandeulgi (Korea).bin, CRC: d0df2e8c
+### Taikou Risshiden IV (Japan)
+<details>
+<summary>ROMs</summary>
+
+- Taikou Risshiden IV (Japan) (Track 01).bin, CRC: 5ff5197a
+- Taikou Risshiden IV (Japan) (Track 02).bin, CRC: cfe13d9f
+- Taikou Risshiden IV (Japan) (Track 03).bin, CRC: 1455daa8
+- Taikou Risshiden IV (Japan) (Track 04).bin, CRC: fd055ce4
+- Taikou Risshiden IV (Japan) (Track 05).bin, CRC: bd3d01d8
+- Taikou Risshiden IV (Japan) (Track 06).bin, CRC: 46210264
+- Taikou Risshiden IV (Japan) (Track 07).bin, CRC: 3d4a230f
+- Taikou Risshiden IV (Japan) (Track 08).bin, CRC: 556f608c
+- Taikou Risshiden IV (Japan) (Track 09).bin, CRC: d3d9fd00
+- Taikou Risshiden IV (Japan) (Track 10).bin, CRC: f287025b
+- Taikou Risshiden IV (Japan) (Track 11).bin, CRC: aede6556
+- Taikou Risshiden IV (Japan) (Track 12).bin, CRC: 9f068752
+- Taikou Risshiden IV (Japan) (Track 13).bin, CRC: 5c082683
+- Taikou Risshiden IV (Japan) (Track 14).bin, CRC: c2b43f03
+- Taikou Risshiden IV (Japan) (Track 15).bin, CRC: f96a5534
+- Taikou Risshiden IV (Japan) (Track 16).bin, CRC: 8ab01e18
+- Taikou Risshiden IV (Japan) (Track 17).bin, CRC: 6309668b
+- Taikou Risshiden IV (Japan) (Track 18).bin, CRC: 7be4b89a
+- Taikou Risshiden IV (Japan) (Track 19).bin, CRC: 3f6dc52e
+- Taikou Risshiden IV (Japan) (Track 20).bin, CRC: 2d7657ee
+- Taikou Risshiden IV (Japan) (Track 21).bin, CRC: f51513c0
+- Taikou Risshiden IV (Japan) (Track 22).bin, CRC: 3c3d5bc8
+- Taikou Risshiden IV (Japan) (Track 23).bin, CRC: 6438d252
+- Taikou Risshiden IV (Japan) (Track 24).bin, CRC: 5c4138d9
+- Taikou Risshiden IV (Japan) (Track 25).bin, CRC: 9958b55d
+- Taikou Risshiden IV (Japan) (Track 26).bin, CRC: 2b28c632
+- Taikou Risshiden IV (Japan) (Track 27).bin, CRC: 80cd1d8f
+- Taikou Risshiden IV (Japan) (Track 28).bin, CRC: 30aa9c53
+</details>
+
+### Taikyoku Igo - Saikouhou 2 (Japan).bin, CRC: 27d688d4
 ### Taima Toushin Hachikuma ToK (Japan).bin, CRC: c894d8b5
 ### Taishou x Taishou Alice - Epilogue (Japan) (Game Disc).iso, CRC: 8cb262ed
 ### Taishou x Taishou Alice - Episode I (Japan) (Game Disc).iso, CRC: c13177bd
@@ -8199,6 +8665,7 @@
 - Test Drive Off-Road 2 (USA) (En,Fr,De) (Alt) (Track 5).bin, CRC: e800164f
 </details>
 
+### Test Drive Off-Road 3 (USA) (Alt 2) (Track 02).bin, CRC: ad20d4ad
 ### Test Drive Unlimited (Japan) (En,Ja,Fr,De,Es,It).iso, CRC: 32422471
 ### Tetsudou Mokei Simulator - Virtual Railroad Models (Japan).bin, CRC: 6af35c5f
 ### Tetsudou Unten Simulation - Keisei Skyliner (Japan).bin, CRC: 19f936aa
@@ -8208,6 +8675,9 @@
 ### Worlds of Billy 2, The (Netherlands).bin, CRC: 6a9192b4
 ### Theme Park (Australia).bin, CRC: ce13403e
 ### Theme Park Inc. (Europe) (En,Fr,De,Nl,Sv) (Sold Out Software).bin, CRC: 87d95785
+### Theme Park Inc. (UK) (Sold Out Software).bin, CRC: 99cd32ac
+### Theme Park World (Poland).bin, CRC: 1236ced5
+### Theme Park World (UK) (Sold Out Software).bin, CRC: bf27aba1
 ### Theocracy (Thailand) (En,Fr,De,Es,It,Hu) (Disc 1).bin, CRC: c3f69894
 ### Theocracy (Thailand) (En,Fr,De,Es,It,Hu) (Disc 2).bin, CRC: 3386c818
 ### Thief - The Dark Project (Japan) (OEM).bin, CRC: 97437ebe
@@ -8358,6 +8828,26 @@
 - Tom Clancy's Rainbow Six - Rogue Spear Mission Pack - Urban Operations (France) (Rerelease) (Track 12).bin, CRC: 143406b6
 - Tom Clancy's Rainbow Six - Rogue Spear Mission Pack - Urban Operations (France) (Rerelease) (Track 13).bin, CRC: 45b3a1a9
 - Tom Clancy's Rainbow Six - Rogue Spear Mission Pack - Urban Operations (France) (Rerelease) (Track 14).bin, CRC: b28a2d3d
+</details>
+
+### Tom Clancy's Rainbow Six - Take Down (Korea)
+<details>
+<summary>ROMs</summary>
+
+- Tom Clancy's Rainbow Six - Take Down (Korea) (Track 01).bin, CRC: bfaae780
+- Tom Clancy's Rainbow Six - Take Down (Korea) (Track 02).bin, CRC: f2bca7cb
+- Tom Clancy's Rainbow Six - Take Down (Korea) (Track 03).bin, CRC: 870dbcca
+- Tom Clancy's Rainbow Six - Take Down (Korea) (Track 04).bin, CRC: e2f33baf
+- Tom Clancy's Rainbow Six - Take Down (Korea) (Track 05).bin, CRC: 6b5270c2
+- Tom Clancy's Rainbow Six - Take Down (Korea) (Track 06).bin, CRC: 2875d17f
+- Tom Clancy's Rainbow Six - Take Down (Korea) (Track 07).bin, CRC: 425c7b42
+- Tom Clancy's Rainbow Six - Take Down (Korea) (Track 08).bin, CRC: c644738a
+- Tom Clancy's Rainbow Six - Take Down (Korea) (Track 09).bin, CRC: 6678caee
+- Tom Clancy's Rainbow Six - Take Down (Korea) (Track 10).bin, CRC: b75f9876
+- Tom Clancy's Rainbow Six - Take Down (Korea) (Track 11).bin, CRC: a0159116
+- Tom Clancy's Rainbow Six - Take Down (Korea) (Track 12).bin, CRC: 65b01e31
+- Tom Clancy's Rainbow Six - Take Down (Korea) (Track 13).bin, CRC: df24361f
+- Tom Clancy's Rainbow Six - Take Down (Korea) (Track 14).bin, CRC: bffc001a
 </details>
 
 ### Tom Clancy's Rainbow Six - Vegas 2 (France).iso, CRC: 61a025d6
@@ -8522,6 +9012,7 @@
 
 ### Tomb Raider III - Les Aventures de Lara Croft (France) (Track 4).bin, CRC: 4343f43a
 ### Tomb, The (Germany).bin, CRC: c0a53613
+### Tonic Trouble (Canada).bin, CRC: f8cdf95f
 ### Tony Hawk's American Wasteland (Poland).iso, CRC: 0be5d97c
 ### Tony Hawk's Pro Skater 4 (France) (Disque d'Installation).bin, CRC: e94d59b6
 ### Tony Hawk's Pro Skater 4 (France) (Disque de Jeu).bin, CRC: 5884a381
@@ -8559,8 +9050,13 @@
 ### Total War - Warhammer (Europe) (En,Fr,De,Es,It,Pt,Ko,Pl,Ru,Cs,Tr) (Disc 3).iso, CRC: 65c036e8
 ### Touche - The Adventures of the Fifth Musketeer (Hungary).bin, CRC: 42307879
 ### Touhou Hyouibana - Antinomy of Common Flowers (Japan) (Taikenban) (2017-10-03).bin, CRC: 5cd80940
+### Touhou Juuouen - Unfinished Dream of All Living Ghost (Japan) (Taikenban).bin, CRC: bcd2624f
+### Touhou Kanjuden - Legacy of Lunatic Kingdom (Japan) (Taikenban).bin, CRC: f020a967
+### Touhou Kouryuudou - Unconnected Marketeers (Japan) (Taikenban).bin, CRC: c9f794c5
+### Touhou Seirensen - Undefined Fantastic Object (Japan) (Taikenban).bin, CRC: 97f13d4a
 ### Touhou Shinkirou - Hopeless Masquerade (Japan) (Taikenban).bin, CRC: fd85b2a2
 ### Touhou Shinpiroku - Urban Legend in Limbo (Japan).iso, CRC: f9ec6e75
+### Touhou Tenkuushou - Hidden Star in Four Seasons (Japan) (Taikenban).bin, CRC: 3fe35c10
 ### Tower, The - CD Winter Edition (Japan)
 <details>
 <summary>ROMs</summary>
@@ -8602,6 +9098,7 @@
 - Treasure Island (Japan) (Track 6).bin, CRC: ecc7571a
 </details>
 
+### Treasure Island - The Gold-Bug (Australia).bin, CRC: e5a1947b
 ### Trials Fusion (Europe).iso, CRC: 8d73d01b
 ### Trianthology - Sanmenkyou no Kuni no Alice (Japan).iso, CRC: cc854b80
 ### Tribal Trouble (Europe).bin, CRC: a824f150
@@ -8618,6 +9115,7 @@
 ### Tropikalne Ryby Akwariowe (Poland).bin, CRC: b31607d8
 ### Trudy's Time & Place House (China) (En,Zh).bin, CRC: bf431ed0
 ### TS Online (Thailand).bin, CRC: 69fd74fb
+### Turbo Pizza (Australia).bin, CRC: 6f033cb3
 ### Turok 2 - Seeds of Evil (Germany) (Rerelease) (20010220)
 <details>
 <summary>ROMs</summary>
@@ -8757,6 +9255,7 @@
 ### Ultima Online - Third Dawn (Japan) (v2.0.7).bin, CRC: 73f7a295
 ### Ultima Online 2006 (Japan) (Disc 1).bin, CRC: 970dd51f
 ### Ultima Online 2006 (Japan) (Disc 2).bin, CRC: 3e1aa747
+### Ultimate Maths Invaders (Australia).bin, CRC: 036ee834
 ### Ultimate Yahtzee (USA) (En,Fr,De) (Rerelease) (2001-11-01).bin, CRC: f940888a
 ### Ultimate Yahtzee (USA) (En,Ja,Fr,De) (Rerelease)
 <details>
@@ -8803,12 +9302,12 @@
 ### V-Rally 3 (Argentina) (En,Fr,De,Es,It) (Disc 2).bin, CRC: ec7f8b0f
 ### V-Rally 3 (Germany) (Install Disc).bin, CRC: a88811a2
 ### V-Rally 3 (Germany) (Play Disc).bin, CRC: 84c96417
-### Valhellio (Japan).iso, CRC: 48eb9f02
 ### Value Iso Tsuri (Japan).bin, CRC: 88f9f25f
 ### Vampire - The Masquerade - Redemption (Italy) (Install Disc) (Covermount).bin, CRC: f16cc484
 ### Vampire - The Masquerade - Redemption (Italy) (Play Disc) (Covermount) (Track 2).bin, CRC: 56a85d00
 ### Vampires v. Zombies (USA).bin, CRC: adcba7ec
 ### Vampyre Story, A (Europe) (Rev 1).iso, CRC: 490edeec
+### Vandell - Knight of the Tortured Souls (Germany).bin, CRC: ff6adea9
 ### Vanguard - Saga of Heroes (Germany) (En,De) (Disc 1).iso, CRC: b1cb6594
 ### Vanguard - Saga of Heroes (Germany) (En,De) (Disc 2).iso, CRC: 03075b4a
 ### Versailles 1685 - Intriga na Corte de Luis XIV (Brazil) (Disc 1).bin, CRC: 1dcde2d2
@@ -8826,6 +9325,7 @@
 ### Vietcong - Zlota Edycja (Poland).iso, CRC: b88a12dc
 ### Vilkiukas Greituolis (Lithuania).bin, CRC: 27cf40af
 ### Vilniaus Riedlentes - Gatves Stilius (Lithuania).bin, CRC: 51e25191
+### Vintergatan - Fifunernas aterkomst! (Sweden).bin, CRC: 528931b1
 ### Virtua Cop 2 (Japan) (En,Ja) (Rerelease) (20001221)
 <details>
 <summary>ROMs</summary>
@@ -8870,6 +9370,7 @@
 
 ### Virtua Tennis 2009 (Argentina) (En,Fr,De,Es,It,Nl).iso, CRC: 8437bc4a
 ### Virtua Tennis 3 (Netherlands) (En,Fr,De,Es,It).iso, CRC: 0230d2ca
+### Virtual K'Nex (USA).bin, CRC: f18d957d
 ### Virtual Mistery Series - Surfside Satsujin Jiken (Japan).bin, CRC: 16dbe5a3
 ### Virtual Mystery Series - Josei Journalist Satsujin Jiken (Japan).bin, CRC: 9279f625
 ### Virtual Puzzle (Netherlands).bin, CRC: e011e868
@@ -8904,6 +9405,8 @@
 ### Wacky Wheels (USA) (Rerelease) (1997-01-24).bin, CRC: b5a370f0
 ### Wana no Kishi, Ginsen no Hime (Japan).bin, CRC: 308b4714
 ### War in the Gulf (Europe) (En,Fr,De,Es).bin, CRC: d7cf5c00
+### War of Resistance Against Japan, The (Taiwan) (Anzhuang Pian).bin, CRC: dd8a723b
+### War of Resistance Against Japan, The (Taiwan) (Youxi Pian).bin, CRC: 0f9a6172
 ### War of the Tribes (Israel).bin, CRC: b3eb4812
 ### War Wind II - Human Onslaught (France).bin, CRC: 9f36f2d8
 ### WarCraft II - Alem do Portal Escuro (Expansion Set) (Brazil).bin, CRC: af37ee45
@@ -9106,6 +9609,10 @@
 ### Wings of Prey (Japan) (En,Ja,Fr,De,It,Pl,Cs).iso, CRC: 36ef65e7
 ### Wings! Remastered Edition (Europe) (En,Fr,De,Es,It,Ru).iso, CRC: f2f4ea2b
 ### Wisecrackers! The Interactive Trivia Jewish Game - Bar-Bat Mitzvah Edition (USA).bin, CRC: b8a2697e
+### Witcher III, The - Wild Hunt (USA) (En,Fr,Pt,Pl) (Disc 1).iso, CRC: 508ba046
+### Witcher III, The - Wild Hunt (USA) (En,Fr,Pt,Pl) (Disc 2).iso, CRC: 41c83b03
+### Witcher III, The - Wild Hunt (USA) (En,Fr,Pt,Pl) (Disc 3).iso, CRC: 930286a9
+### Witcher III, The - Wild Hunt (USA) (En,Fr,Pt,Pl) (Disc 4).iso, CRC: b4a167fd
 ### Witches' Legacy - Erwachende Finsternis (Germany).iso, CRC: 6184b2f3
 ### Wizard's Harmony 2 (Japan)
 <details>
@@ -9129,6 +9636,7 @@
 ### Wo Bei Shile Mofa - Flash Donghua Moshushi (China) (Zengsongpan).bin, CRC: 7a4018f7
 ### Wolfpack (USA).bin, CRC: d30e3083
 ### Wonderful World of Modhesh, The (United Arab Emirates) (En,Ar).bin, CRC: 00609ce9
+### Woodii - Snowboard (Sweden).bin, CRC: a6fe6a05
 ### WordChess (Sweden)
 <details>
 <summary>ROMs</summary>
@@ -9204,6 +9712,7 @@
 ### Worms 3D (Czech) (Pl,Cs,Sk) (Disc 1).bin, CRC: 465a1d4b
 ### Worms 3D (Czech) (Pl,Cs,Sk) (Disc 2).bin, CRC: e4df91fc
 ### Worms 3D (Hungary) (En,Fr,De,Es,It) (Disc 2).bin, CRC: c5a3af81
+### Worms Armageddon (Thailand).bin, CRC: 24bb5ca8
 ### Worms World Party (Poland).bin, CRC: 910c3913
 ### WWII - Battle Strike (USA).bin, CRC: 69319745
 ### WWII Online - Blitzkrieg (USA).bin, CRC: b92d9f69
@@ -9281,6 +9790,7 @@
 ### Xuan-Yuan Jian 3 Wai Zhuan - Tien Zhi Hen (Taiwan).bin, CRC: 41940733
 ### Yak Druzhyly Vovk ta Zayets' (Ukraine).bin, CRC: ed82a490
 ### Yakouga 5 (Japan).bin, CRC: 47a6cdf9
+### Yaoyorozu Jihen (Japan) (C83 Taikenban).bin, CRC: de2bbbe6
 ### Yaraticiligimi Gelistiriyorum (Turkey).bin, CRC: b70cd3e5
 ### Yatterman Typing - Doronbow no Oshioki Dabeee (Japan).bin, CRC: 08400842
 ### Yetisports World Tour (Germany).bin, CRC: e873ccfa
@@ -9291,6 +9801,7 @@
 ### Yoji Jukugo Puzzle - Jukugo Toppa (Japan) (Rerelease).bin, CRC: f251040e
 ### Yooyaku Monsters (Japan).bin, CRC: ee1ffa1b
 ### Yorishiro (Japan) (Track 01).bin, CRC: b76ad79a
+### Youda Mystery - The Stanwick Legacy (Australia).bin, CRC: 4da51c1a
 ### Youkai Ningen Bem - Arata naru Tamashii no Meikyuu (Japan) (Disc 1) (Game).bin, CRC: 78f0b2ed
 ### Youkai Ningen Bem - Arata naru Tamashii no Meikyuu (Japan) (Disc 2) (Data Base).bin, CRC: 0457cc65
 ### Youxi Xiugai Dashi - Zheng Ren Zhuanjia 5.0 (China) (En,Zh).bin, CRC: 502a2193
@@ -9334,6 +9845,7 @@
 ### Yukiyama Rantou!! Cirno Climbers (Japan).bin, CRC: 82e2e4cd
 ### Yuth (Thailand) (En,Th).bin, CRC: ad60f90d
 ### Yuu Print - Kagaku Ninjatai Gatchaman (Japan).bin, CRC: b59a1653
+### Yuzuminatsu (Japan).bin, CRC: 62896c75
 ### Z - Steel Soldiers (Thailand).bin, CRC: aa46234c
 ### Zabavne Zagonetke (Serbia).bin, CRC: d8c3ab5c
 ### Fun with ABC (Poland) (En,Fr,De).bin, CRC: 47259479
