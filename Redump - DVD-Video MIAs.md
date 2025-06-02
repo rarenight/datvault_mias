@@ -1,5 +1,5 @@
 # Redump - DVD-Video MIAs
-## Games: 214, ROMs: 214, as of 2025-06-01
+## Games: 212, ROMs: 212, as of 2025-06-02
 
 ### 2002 Autumn Tokyo Game Show (Taiwan).iso, CRC: 92c99685
 ### 3-nen B-gumi Kinpachi Sensei - Densetsu no Kyoudan ni Tate! Promotion Video-2 (Japan).iso, CRC: d346598e
@@ -82,7 +82,6 @@
 ### LEGO Star Wars - Tentou Promotion-you DVD (Japan).iso, CRC: f8fc73ae
 ### Level-5 Premium Himitsu Disc - Ano Uwasa no Title no Himitsu Eizou ga Kokoni (Japan).iso, CRC: d25d739b
 ### Level-5 Preview Disc (Japan).iso, CRC: e9190a3c
-### Lilo & Stitch's Island of Adventures (USA).iso, CRC: a714d608
 ### Limbo of the Lost (USA) (Bonus Disc).iso, CRC: 8285f95f
 ### Lollipop Factory (Japan) (Disc A).iso, CRC: 2c4d31ff
 ### Lollipop Factory (Japan) (Disc B).iso, CRC: d26ab7ff
@@ -165,7 +164,6 @@
 ### Taiho Shichau zo - Bokutou-sho Kakushigei Taikai!! Natsumi to Miyuki no Taiho Shichau zo Ningyougeki (Japan) (PSX Game Bundle).iso, CRC: ec5f1cc3
 ### Tales of Symphonia - Ratatosk no Kishi - Dramatic DVD - Gekidan Symphonia - Gakuen-hen (Japan).iso, CRC: b18038f9
 ### Tales of the World - Radiant Mythology 2 - Dramatic DVD - Golden Gumi-hen (Japan).iso, CRC: bf42c309
-### TGS 2005 - Taito Memories Disk (Japan).iso, CRC: 209f26a4
 ### Tokyo Friend Park II - Ketteiban - Minna de Chousen! Taikan Attraction! + High School Baseball DS (Japan).iso, CRC: 8cd0623c
 ### Tokyo Twilight Ghost Hunters - Tokuten DVD (Japan).iso, CRC: 6a56625b
 ### Tom Clancy's Rainbow Six 3 - Official DVD Strategy Guide Full Motion Video Walkthrough (USA).iso, CRC: 1d1b29fb

@@ -1,5 +1,5 @@
 # Redump - Audio CD MIAs
-## Games: 146, ROMs: 1845, as of 2025-06-01
+## Games: 146, ROMs: 1844, as of 2025-06-02
 
 ### 16Bit Rhythm Land - Original Sound Track (Japan) (Mega Drive Game Bundle) (Track 01).bin, CRC: 55ed0804
 ### 8Bit Rhythm Land - Original Sound Track (Japan) (Famicom Game Bundle) (Track 01).bin, CRC: c5f43089
@@ -226,14 +226,7 @@
 - Dark Souls III - Original Soundtrack (Japan) (PS4 Game Bundle) (Track 25).bin, CRC: 02096635
 </details>
 
-### Dead Space 2 - Collector's Edition Original Soundtrack (USA) (Xbox 360 Game Bundle)
-<details>
-<summary>ROMs</summary>
-
-- Dead Space 2 - Collector's Edition Original Soundtrack (USA) (Xbox 360 Game Bundle) (Track 01).bin, CRC: 6192308b
-- Dead Space 2 - Collector's Edition Original Soundtrack (USA) (Xbox 360 Game Bundle) (Track 19).bin, CRC: 7f7d00c1
-</details>
-
+### Dead Space 2 - Collector's Edition Original Soundtrack (USA) (Xbox 360 Game Bundle) (Track 19).bin, CRC: 7f7d00c1
 ### Detective Gallo (Italy) (Soundtrack CD) (PC Game Bundle)
 <details>
 <summary>ROMs</summary>
