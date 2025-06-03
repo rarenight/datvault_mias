@@ -1,5 +1,5 @@
 # Redump - IBM - PC compatible MIAs
-## Games: 3410, ROMs: 7569, as of 2025-06-02
+## Games: 3398, ROMs: 7557, as of 2025-06-02
 
 ### %% - Fuuin no Otome (Japan) (Track 10).bin, CRC: 4481aa75
 ### Alley 19 Bowling (Europe) (Track 5).bin, CRC: dc835204
@@ -1170,7 +1170,6 @@
 ### Circus Grande (Czech) (Disc 1).bin, CRC: 8b0548cf
 ### Circus Grande (Czech) (Disc 2).bin, CRC: 3e00399b
 ### Cities XL 2011 (Japan).iso, CRC: cd9fd199
-### Cities XL 2012 (Canada).iso, CRC: b2da4828
 ### Cities XL 2012 (Japan).iso, CRC: bf2fc8b5
 ### Cities XL Platinum (Japan).iso, CRC: 3d93f7a6
 ### City Hunter - The Secret Service (Japan).bin, CRC: b877cc28
@@ -2774,15 +2773,6 @@
 ### Final Fantasy XI - Altana no Shinpei (Japan).iso, CRC: 0c82d707
 ### Final Fantasy XI - Entry Disc 2005 (Japan).iso, CRC: bf1d4062
 ### Final Fantasy XI - Online (Germany).iso, CRC: 8390ff65
-### Final Fantasy XI - Online (USA) (Disc 3) (Beta) (2003-05-22).bin, CRC: c6ebdb62
-### Final Fantasy XI - Online - Chains of Promathia (USA) (Disc 1).bin, CRC: 275efc59
-### Final Fantasy XI - Online - Chains of Promathia (USA) (Disc 2).bin, CRC: e58a5c1a
-### Final Fantasy XI - Online - Starter Pack Game Disk (USA).iso, CRC: 33e00a44
-### Final Fantasy XI - Online - Treasures of Aht Urhgan (USA).iso, CRC: 4e6df290
-### Final Fantasy XI - Online - Ultimate Collection (USA) (Game Disc).iso, CRC: 1a8a93e7
-### Final Fantasy XI - Online - Ultimate Collection (USA) (Manual Disc).bin, CRC: 68119617
-### Final Fantasy XI - Online - Vana'diel Collection 2008 (USA) (Game Disc).iso, CRC: f5aa5964
-### Final Fantasy XI - Online - Wings of the Goddess Expansion Pack (USA).iso, CRC: 753e67d1
 ### Final Fantasy XI - Promathia no Jubaku (Japan) (Disc 1).bin, CRC: 1738d646
 ### Final Fantasy XI - Promathia no Jubaku (Japan) (Disc 1) (Rev 1).bin, CRC: ff9b626c
 ### Final Fantasy XI - Promathia no Jubaku (Japan) (Disc 2).bin, CRC: 2595a916
@@ -4996,7 +4986,6 @@
 ### Medal of Honor - Pacific Assault (Japan) (Disc 3).bin, CRC: 4983eb52
 ### Medal of Honor - Pacific Assault (Japan) (Disc 4).bin, CRC: 00f5de5d
 ### Medal of Honor - Pacific Assault (Japan) (Disc 5).bin, CRC: 5cf54379
-### Media Manager for PSP (Canada).bin, CRC: f1491a90
 ### Media Manager Pro for PSP (Europe) (En,Fr,De,Es,It,Nl,Pt).bin, CRC: c37f4282
 ### Medieval - Total War (Germany) (Disc 1).bin, CRC: 8022846c
 ### Medieval - Total War (Germany) (Disc 2).bin, CRC: 50256e39
@@ -8334,7 +8323,6 @@
 
 ### Super Street Fighter II Turbo (Germany) (Rerelease).bin, CRC: 56daf88b
 ### Super Yatzy & Dizzy Dice (Scandinavia) (En,De,Sv,No,Da).bin, CRC: 47bc995e
-### Super-VGA Harrier (Europe).bin, CRC: d763e030
 ### Superbike 2000 (Japan).bin, CRC: 4bf130f3
 ### Superbike Challenge (Europe)
 <details>
