@@ -1,5 +1,5 @@
 # Redump - IBM - PC compatible MIAs
-## Games: 3398, ROMs: 7557, as of 2025-06-03
+## Games: 3385, ROMs: 7509, as of 2025-06-04
 
 ### %% - Fuuin no Otome (Japan) (Track 10).bin, CRC: 4481aa75
 ### Alley 19 Bowling (Europe) (Track 5).bin, CRC: dc835204
@@ -4127,43 +4127,6 @@
 ### Kalle Kunskap - Ettan (Sweden) (Rerelease).bin, CRC: 52c5a4c1
 ### Kalle Kunskap - Foerskolan (Sweden).bin, CRC: 7262474f
 ### Kalle Kunskap - Laer dig Engelska (Sweden) (En,Sv).bin, CRC: aebe8cb7
-### Kalle Kunskap - Lekstuga (Sweden) (OEM)
-<details>
-<summary>ROMs</summary>
-
-- Kalle Kunskap - Lekstuga (Sweden) (OEM) (Track 01).bin, CRC: 75da8e50
-- Kalle Kunskap - Lekstuga (Sweden) (OEM) (Track 02).bin, CRC: 53ae4751
-- Kalle Kunskap - Lekstuga (Sweden) (OEM) (Track 03).bin, CRC: f2a82f25
-- Kalle Kunskap - Lekstuga (Sweden) (OEM) (Track 04).bin, CRC: bc07ee37
-- Kalle Kunskap - Lekstuga (Sweden) (OEM) (Track 05).bin, CRC: 29a3c1eb
-- Kalle Kunskap - Lekstuga (Sweden) (OEM) (Track 06).bin, CRC: 7ac89290
-- Kalle Kunskap - Lekstuga (Sweden) (OEM) (Track 07).bin, CRC: 478e3edb
-- Kalle Kunskap - Lekstuga (Sweden) (OEM) (Track 08).bin, CRC: b161cc06
-- Kalle Kunskap - Lekstuga (Sweden) (OEM) (Track 09).bin, CRC: c66703f1
-- Kalle Kunskap - Lekstuga (Sweden) (OEM) (Track 10).bin, CRC: 91dd54d7
-- Kalle Kunskap - Lekstuga (Sweden) (OEM) (Track 11).bin, CRC: f0cb6772
-- Kalle Kunskap - Lekstuga (Sweden) (OEM) (Track 12).bin, CRC: b0f883ee
-- Kalle Kunskap - Lekstuga (Sweden) (OEM) (Track 13).bin, CRC: 1983ba24
-- Kalle Kunskap - Lekstuga (Sweden) (OEM) (Track 14).bin, CRC: f48b84cb
-- Kalle Kunskap - Lekstuga (Sweden) (OEM) (Track 15).bin, CRC: 3a477e68
-- Kalle Kunskap - Lekstuga (Sweden) (OEM) (Track 16).bin, CRC: d1e374ec
-- Kalle Kunskap - Lekstuga (Sweden) (OEM) (Track 17).bin, CRC: b714a628
-- Kalle Kunskap - Lekstuga (Sweden) (OEM) (Track 18).bin, CRC: d01a0855
-- Kalle Kunskap - Lekstuga (Sweden) (OEM) (Track 19).bin, CRC: 97c13235
-- Kalle Kunskap - Lekstuga (Sweden) (OEM) (Track 20).bin, CRC: 9488522e
-- Kalle Kunskap - Lekstuga (Sweden) (OEM) (Track 21).bin, CRC: 30400417
-- Kalle Kunskap - Lekstuga (Sweden) (OEM) (Track 22).bin, CRC: 45246eaa
-- Kalle Kunskap - Lekstuga (Sweden) (OEM) (Track 23).bin, CRC: baa648e5
-- Kalle Kunskap - Lekstuga (Sweden) (OEM) (Track 24).bin, CRC: 8f91fffa
-- Kalle Kunskap - Lekstuga (Sweden) (OEM) (Track 25).bin, CRC: 27339a82
-- Kalle Kunskap - Lekstuga (Sweden) (OEM) (Track 26).bin, CRC: 7a64fe35
-- Kalle Kunskap - Lekstuga (Sweden) (OEM) (Track 27).bin, CRC: 2ed96d0e
-- Kalle Kunskap - Lekstuga (Sweden) (OEM) (Track 28).bin, CRC: 97745a58
-- Kalle Kunskap - Lekstuga (Sweden) (OEM) (Track 29).bin, CRC: 84ce8b0b
-- Kalle Kunskap - Lekstuga (Sweden) (OEM) (Track 30).bin, CRC: 04033fac
-- Kalle Kunskap - Lekstuga (Sweden) (OEM) (Track 31).bin, CRC: 2a828c20
-</details>
-
 ### Kalle Kunskap - Lekstuga (Sweden).bin, CRC: e7be3e2b
 ### Kalle Kunskap - Skolstart - Pa Aeventyr i Balongstaden (Sweden).bin, CRC: 025f63b3
 ### Kalle Kunskap - Skolstart - Pa Aeventyr i Balongstaden (Sweden) (Rerelease)
@@ -4184,7 +4147,6 @@
 </details>
 
 ### Kalle Kunskap 2 - Ettan - Mysteriet pa Moln 9 (Sweden).bin, CRC: 6761eeef
-### Kalle Kunskap 2 - Foerskolan - Den stora stjaernjakten (Sweden).bin, CRC: d5531727
 ### Kalle Kunskap 2 - Foerskolan - Den stora stjaernjakten (Sweden) (Alt).bin, CRC: 66444da1
 ### Kalle Kunskap 2 - Foerskolan - Den stora stjaernjakten (Sweden) (Rerelease).bin, CRC: 2ca7ba35
 ### Kalle Kunskap 2 - Tvaan - Kalabalik pa Ostoen (Sweden) (2006-05-02).bin, CRC: cf176440
@@ -5975,13 +5937,11 @@
 ### PC World Komputer na Gwiazdke 1999 (Poland) (Disc 2).bin, CRC: a6e93eed
 ### PC Zone 94 (Netherlands) (Disc 1).bin, CRC: b7805d36
 ### PC Zone 95-96 (Netherlands) (Disc 2).bin, CRC: 66f8e461
-### Pelle Pirat (Sweden) (Sv,No,Fi).bin, CRC: 14d78b2f
 ### Perfect Grand Prix - Track Pack & Editor (Germany).bin, CRC: 7f233db8
 ### Perfect Sport (Scandinavia) (En,Fr,De).bin, CRC: 7ab25157
 ### PES 2009 - Pro Evolution Soccer (Europe) (En,Fr,De,Es,It).iso, CRC: f0961d1e
 ### PES 2013 - Pro Evolution Soccer (France).iso, CRC: 014a486b
 ### Peter Schmeichel Soccer (Scandinavia).bin, CRC: e9d6cdea
-### Pettsons julspel (Sweden).bin, CRC: 3b545e1d
 ### Phantasmagoria - A Puzzle of Flesh (Australia) (Disc 1).bin, CRC: 740ec5e1
 ### Phantasy Star Online - Blue Burst (Japan).bin, CRC: e3e501a4
 ### Pharaoh (Sweden).bin, CRC: fa9206bd
@@ -6332,8 +6292,6 @@
 ### Puzzle Bobble 4 (Japan).bin, CRC: 91aa8e3c
 ### Puzzle Quest - Challenge of the Warlords (USA).bin, CRC: c74a480c
 ### Puzzler World 2 (Australia).bin, CRC: c7f10cfe
-### Pyramiden - Gatan vid Nilens Strand (Sweden) (Disc 1) (Alt 2).bin, CRC: 7db2d15e
-### Pyramiden - Gatan vid Nilens Strand (Sweden) (Disc 2) (Alt 2).bin, CRC: b85a2f62
 ### Pyroblazer (Serbia).iso, CRC: ed33e064
 ### Q2 Files, The (USA).bin, CRC: eccb9eb8
 ### QBrixx^2 (Germany).bin, CRC: a305f20d
@@ -7897,7 +7855,6 @@
 - Snow White and the Seven Dwarfs (Finland) (Track 27).bin, CRC: e6a18501
 </details>
 
-### Snutten pa aeventyr! (Sweden) (Sv,No,Da,Fi).bin, CRC: 7b99bf90
 ### Soccer Kid (USA) (En,Fr,De,Es,It).bin, CRC: 01975a29
 ### Soeldner - Secret Wars (Germany) (En,De)
 <details>
@@ -8324,18 +8281,6 @@
 ### Super Street Fighter II Turbo (Germany) (Rerelease).bin, CRC: 56daf88b
 ### Super Yatzy & Dizzy Dice (Scandinavia) (En,De,Sv,No,Da).bin, CRC: 47bc995e
 ### Superbike 2000 (Japan).bin, CRC: 4bf130f3
-### Superbike Challenge (Europe)
-<details>
-<summary>ROMs</summary>
-
-- Superbike Challenge (Europe) (Track 1).bin, CRC: 151e851a
-- Superbike Challenge (Europe) (Track 2).bin, CRC: f8eb3cf5
-- Superbike Challenge (Europe) (Track 3).bin, CRC: af208ff8
-- Superbike Challenge (Europe) (Track 4).bin, CRC: 0c26e79a
-- Superbike Challenge (Europe) (Track 5).bin, CRC: 5c3ea6cc
-- Superbike Challenge (Europe) (Track 6).bin, CRC: 2a850f31
-</details>
-
 ### Superbike Challenge (Japan)
 <details>
 <summary>ROMs</summary>
@@ -9483,10 +9428,6 @@
 ### Wings of Prey (Japan) (En,Ja,Fr,De,It,Pl,Cs).iso, CRC: 36ef65e7
 ### Wings! Remastered Edition (Europe) (En,Fr,De,Es,It,Ru).iso, CRC: f2f4ea2b
 ### Wisecrackers! The Interactive Trivia Jewish Game - Bar-Bat Mitzvah Edition (USA).bin, CRC: b8a2697e
-### Witcher III, The - Wild Hunt (USA) (En,Fr,Pt,Pl) (Disc 1).iso, CRC: 508ba046
-### Witcher III, The - Wild Hunt (USA) (En,Fr,Pt,Pl) (Disc 2).iso, CRC: 41c83b03
-### Witcher III, The - Wild Hunt (USA) (En,Fr,Pt,Pl) (Disc 3).iso, CRC: 930286a9
-### Witcher III, The - Wild Hunt (USA) (En,Fr,Pt,Pl) (Disc 4).iso, CRC: b4a167fd
 ### Witches' Legacy - Erwachende Finsternis (Germany).iso, CRC: 6184b2f3
 ### Wizard's Harmony 2 (Japan)
 <details>
@@ -9510,7 +9451,6 @@
 ### Wo Bei Shile Mofa - Flash Donghua Moshushi (China) (Zengsongpan).bin, CRC: 7a4018f7
 ### Wolfpack (USA).bin, CRC: d30e3083
 ### Wonderful World of Modhesh, The (United Arab Emirates) (En,Ar).bin, CRC: 00609ce9
-### Woodii - Snowboard (Sweden).bin, CRC: a6fe6a05
 ### WordChess (Sweden)
 <details>
 <summary>ROMs</summary>

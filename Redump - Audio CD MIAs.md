@@ -1,5 +1,5 @@
 # Redump - Audio CD MIAs
-## Games: 146, ROMs: 1844, as of 2025-06-03
+## Games: 140, ROMs: 1713, as of 2025-06-04
 
 ### 16Bit Rhythm Land - Original Sound Track (Japan) (Mega Drive Game Bundle) (Track 01).bin, CRC: 55ed0804
 ### 8Bit Rhythm Land - Original Sound Track (Japan) (Famicom Game Bundle) (Track 01).bin, CRC: c5f43089
@@ -226,7 +226,6 @@
 - Dark Souls III - Original Soundtrack (Japan) (PS4 Game Bundle) (Track 25).bin, CRC: 02096635
 </details>
 
-### Dead Space 2 - Collector's Edition Original Soundtrack (USA) (Xbox 360 Game Bundle) (Track 19).bin, CRC: 7f7d00c1
 ### Detective Gallo (Italy) (Soundtrack CD) (PC Game Bundle)
 <details>
 <summary>ROMs</summary>
@@ -683,160 +682,6 @@
 - Kaguya-chan no Okozukai Daisakusen Original Soundtrack (Japan) (PC Game Bundle) (Track 22).bin, CRC: 63ab2adb
 </details>
 
-### Kalle Kunskap - Pa aeventyr i Balongstaden (Sweden)
-<details>
-<summary>ROMs</summary>
-
-- Kalle Kunskap - Pa aeventyr i Balongstaden (Sweden) (Track 01).bin, CRC: 4444fc71
-- Kalle Kunskap - Pa aeventyr i Balongstaden (Sweden) (Track 02).bin, CRC: 2ee40aae
-- Kalle Kunskap - Pa aeventyr i Balongstaden (Sweden) (Track 03).bin, CRC: 3a1b7361
-- Kalle Kunskap - Pa aeventyr i Balongstaden (Sweden) (Track 04).bin, CRC: 699737be
-- Kalle Kunskap - Pa aeventyr i Balongstaden (Sweden) (Track 05).bin, CRC: 19317ade
-- Kalle Kunskap - Pa aeventyr i Balongstaden (Sweden) (Track 06).bin, CRC: ab16e8f8
-- Kalle Kunskap - Pa aeventyr i Balongstaden (Sweden) (Track 07).bin, CRC: 8706a44f
-- Kalle Kunskap - Pa aeventyr i Balongstaden (Sweden) (Track 08).bin, CRC: 9bda6e53
-- Kalle Kunskap - Pa aeventyr i Balongstaden (Sweden) (Track 09).bin, CRC: f2551667
-- Kalle Kunskap - Pa aeventyr i Balongstaden (Sweden) (Track 10).bin, CRC: 2b1a7b3c
-- Kalle Kunskap - Pa aeventyr i Balongstaden (Sweden) (Track 11).bin, CRC: 0621c44e
-- Kalle Kunskap - Pa aeventyr i Balongstaden (Sweden) (Track 12).bin, CRC: c37f3ec0
-- Kalle Kunskap - Pa aeventyr i Balongstaden (Sweden) (Track 13).bin, CRC: 77164e7d
-- Kalle Kunskap - Pa aeventyr i Balongstaden (Sweden) (Track 14).bin, CRC: c314fcbf
-- Kalle Kunskap - Pa aeventyr i Balongstaden (Sweden) (Track 15).bin, CRC: a2937099
-- Kalle Kunskap - Pa aeventyr i Balongstaden (Sweden) (Track 16).bin, CRC: 81ee74ad
-- Kalle Kunskap - Pa aeventyr i Balongstaden (Sweden) (Track 17).bin, CRC: e7576823
-- Kalle Kunskap - Pa aeventyr i Balongstaden (Sweden) (Track 18).bin, CRC: 90999333
-- Kalle Kunskap - Pa aeventyr i Balongstaden (Sweden) (Track 19).bin, CRC: 7af5cab5
-- Kalle Kunskap - Pa aeventyr i Balongstaden (Sweden) (Track 20).bin, CRC: 9668c4ed
-- Kalle Kunskap - Pa aeventyr i Balongstaden (Sweden) (Track 21).bin, CRC: 4587fd36
-- Kalle Kunskap - Pa aeventyr i Balongstaden (Sweden) (Track 22).bin, CRC: eabbd28f
-- Kalle Kunskap - Pa aeventyr i Balongstaden (Sweden) (Track 23).bin, CRC: 595ba6d6
-- Kalle Kunskap - Pa aeventyr i Balongstaden (Sweden) (Track 24).bin, CRC: ed90f804
-- Kalle Kunskap - Pa aeventyr i Balongstaden (Sweden) (Track 25).bin, CRC: b7ce4a6e
-- Kalle Kunskap - Pa aeventyr i Balongstaden (Sweden) (Track 26).bin, CRC: 507cd80b
-</details>
-
-### Kalle Kunskap och den Mystiska Ordtjuven (Sweden)
-<details>
-<summary>ROMs</summary>
-
-- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 01).bin, CRC: 9c7dcc50
-- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 02).bin, CRC: c91c3e71
-- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 03).bin, CRC: 431ef6ce
-- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 04).bin, CRC: 7b67ae9d
-- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 05).bin, CRC: d6af2806
-- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 06).bin, CRC: 91a951d4
-- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 07).bin, CRC: a331d483
-- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 08).bin, CRC: 4f670c09
-- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 09).bin, CRC: ef738d69
-- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 10).bin, CRC: 615d14a5
-- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 11).bin, CRC: dcc25d55
-- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 12).bin, CRC: 838be8b3
-- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 13).bin, CRC: 96f57aab
-- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 14).bin, CRC: 7667829b
-- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 15).bin, CRC: cb6eb275
-- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 16).bin, CRC: 05b61018
-- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 17).bin, CRC: 4d1c4671
-- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 18).bin, CRC: a5ef3b00
-- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 19).bin, CRC: d2ab63b8
-- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 20).bin, CRC: 75add5dd
-- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 21).bin, CRC: 91c2f08e
-- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 22).bin, CRC: 97babb52
-- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 23).bin, CRC: a4161d0d
-- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 24).bin, CRC: 91cc76b4
-- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 25).bin, CRC: 88437aef
-- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 26).bin, CRC: 6fc91fe1
-</details>
-
-### Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle)
-<details>
-<summary>ROMs</summary>
-
-- Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 01).bin, CRC: 9b3a7b6a
-- Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 01).bin, CRC: 0123175f
-- Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 02).bin, CRC: cb01ce6a
-- Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 02).bin, CRC: 4d777fe8
-- Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 03).bin, CRC: fc0e3e6e
-- Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 03).bin, CRC: 26c955e2
-- Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 04).bin, CRC: 95f9b953
-- Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 04).bin, CRC: 6b584f49
-- Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 05).bin, CRC: f1ca550f
-- Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 05).bin, CRC: bcff18cb
-- Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 06).bin, CRC: 24064c59
-- Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 06).bin, CRC: ea8452e8
-- Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 07).bin, CRC: 01d01cf0
-- Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 07).bin, CRC: 7cc117c2
-- Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 08).bin, CRC: 6cf27cd3
-- Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 08).bin, CRC: 793953a3
-- Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 09).bin, CRC: c35a785b
-- Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 09).bin, CRC: b8f4fefd
-- Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 10).bin, CRC: 3f8c4df0
-- Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 10).bin, CRC: 73409fd5
-- Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 11).bin, CRC: 55c49f85
-- Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 11).bin, CRC: 0bc5fe76
-- Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 12).bin, CRC: 07ecb83b
-- Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 12).bin, CRC: fbf93a38
-- Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 13).bin, CRC: 7fbc6f83
-- Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 13).bin, CRC: 7af2086c
-- Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 14).bin, CRC: b551aefd
-- Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 14).bin, CRC: ed07aebd
-- Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 15).bin, CRC: 91f2bfde
-- Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 15).bin, CRC: e02e52eb
-- Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 16).bin, CRC: abe9b497
-- Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 16).bin, CRC: f3b1b695
-- Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 17).bin, CRC: 7234bc21
-- Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 17).bin, CRC: 0f800796
-- Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 18).bin, CRC: a0c304ae
-- Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 18).bin, CRC: bd616e4b
-- Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 19).bin, CRC: fde3fac0
-- Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 19).bin, CRC: 18d712e8
-- Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 20).bin, CRC: 64a035c1
-- Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 20).bin, CRC: aea6a67c
-- Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 21).bin, CRC: 5f1b1e9a
-- Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 21).bin, CRC: 94129c24
-- Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 22).bin, CRC: 751f8e70
-- Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 22).bin, CRC: a4b46a2f
-- Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 23).bin, CRC: 20865e32
-- Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 23).bin, CRC: 6006bf8b
-- Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 24).bin, CRC: 57a1f97f
-- Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 24).bin, CRC: 9fef620d
-- Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 25).bin, CRC: 5e628569
-- Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 25).bin, CRC: 9fe598ca
-- Kalle Kunskap och den Stora Stjaernjakten (Sweden) (PC Game Bundle) (Track 26).bin, CRC: eb995b8c
-</details>
-
-### Kalle Kunskap och Kalabaliken pa Ostoen (Sweden)
-<details>
-<summary>ROMs</summary>
-
-- Kalle Kunskap och Kalabaliken pa Ostoen (Sweden) (Track 01).bin, CRC: d7c2b68e
-- Kalle Kunskap och Kalabaliken pa Ostoen (Sweden) (Track 02).bin, CRC: a09217da
-- Kalle Kunskap och Kalabaliken pa Ostoen (Sweden) (Track 03).bin, CRC: de4f0369
-- Kalle Kunskap och Kalabaliken pa Ostoen (Sweden) (Track 04).bin, CRC: 82702072
-- Kalle Kunskap och Kalabaliken pa Ostoen (Sweden) (Track 05).bin, CRC: ccf46e0d
-- Kalle Kunskap och Kalabaliken pa Ostoen (Sweden) (Track 06).bin, CRC: a34a579f
-- Kalle Kunskap och Kalabaliken pa Ostoen (Sweden) (Track 07).bin, CRC: e5f5470f
-- Kalle Kunskap och Kalabaliken pa Ostoen (Sweden) (Track 08).bin, CRC: 2e4a9bb1
-- Kalle Kunskap och Kalabaliken pa Ostoen (Sweden) (Track 09).bin, CRC: dc69809c
-- Kalle Kunskap och Kalabaliken pa Ostoen (Sweden) (Track 10).bin, CRC: 3ef432ba
-- Kalle Kunskap och Kalabaliken pa Ostoen (Sweden) (Track 11).bin, CRC: 27b4ee07
-- Kalle Kunskap och Kalabaliken pa Ostoen (Sweden) (Track 12).bin, CRC: 6f5829fb
-- Kalle Kunskap och Kalabaliken pa Ostoen (Sweden) (Track 13).bin, CRC: cf305bc0
-- Kalle Kunskap och Kalabaliken pa Ostoen (Sweden) (Track 14).bin, CRC: 6f5d56de
-- Kalle Kunskap och Kalabaliken pa Ostoen (Sweden) (Track 15).bin, CRC: bf692817
-- Kalle Kunskap och Kalabaliken pa Ostoen (Sweden) (Track 16).bin, CRC: 0def597d
-- Kalle Kunskap och Kalabaliken pa Ostoen (Sweden) (Track 17).bin, CRC: ce892c11
-- Kalle Kunskap och Kalabaliken pa Ostoen (Sweden) (Track 18).bin, CRC: c109d926
-- Kalle Kunskap och Kalabaliken pa Ostoen (Sweden) (Track 19).bin, CRC: 77ea0790
-- Kalle Kunskap och Kalabaliken pa Ostoen (Sweden) (Track 20).bin, CRC: 9b2ac357
-- Kalle Kunskap och Kalabaliken pa Ostoen (Sweden) (Track 21).bin, CRC: 6a769e72
-- Kalle Kunskap och Kalabaliken pa Ostoen (Sweden) (Track 22).bin, CRC: 93cd8a79
-- Kalle Kunskap och Kalabaliken pa Ostoen (Sweden) (Track 23).bin, CRC: a12452ba
-- Kalle Kunskap och Kalabaliken pa Ostoen (Sweden) (Track 24).bin, CRC: 916d7503
-- Kalle Kunskap och Kalabaliken pa Ostoen (Sweden) (Track 25).bin, CRC: d579b791
-- Kalle Kunskap och Kalabaliken pa Ostoen (Sweden) (Track 26).bin, CRC: 016f3922
-</details>
-
-### Kalle Kunskap och Mysteriet pa Moln 9 (Sweden) (Track 26).bin, CRC: 889c9c28
 ### Karous - The Beast of Re-Eden - Original Soundtrack Chocolate Flavored Suicide (Japan) (Track 39).bin, CRC: 318783fa
 ### King of Fighters 2002, The - Unlimited Match - Limited Sound Track (Japan)
 <details>

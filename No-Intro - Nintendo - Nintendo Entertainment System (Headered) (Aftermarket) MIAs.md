@@ -1,5 +1,5 @@
 # No-Intro - Nintendo - Nintendo Entertainment System (Headered) (Aftermarket) MIAs
-## Games: 23, ROMs: 24, as of 2025-06-02
+## Games: 23, ROMs: 24, as of 2025-06-04
 
 ### 117-in-1 Cartoons Collection (China) (En) (Aftermarket) (Pirate).nes, CRC: 5ef8dbfc
 ### 13 Spook Hollow Road (World) (Demo) (Byte-Off V) (Aftermarket) (Unl).nes, CRC: 84928da6
