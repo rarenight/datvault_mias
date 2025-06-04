@@ -1,5 +1,5 @@
 # No-Intro - Sinclair - ZX Spectrum 3 MIAs
-## Games: 3, ROMs: 3, as of 2025-06-04
+## Games: 3, ROMs: 3, as of 2025-06-02
 
 ### LED Storm - Lazer Enhanced Destruction (Europe).ipf, CRC: a861168e
 ### Rock Star Ate My Hamster (Europe).ipf, CRC: 7cbd3549

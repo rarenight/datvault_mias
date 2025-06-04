@@ -1,5 +1,5 @@
 # Redump - IBM - PC compatible MIAs
-## Games: 3385, ROMs: 7509, as of 2025-06-04
+## Games: 3375, ROMs: 7496, as of 2025-06-02
 
 ### %% - Fuuin no Otome (Japan) (Track 10).bin, CRC: 4481aa75
 ### Alley 19 Bowling (Europe) (Track 5).bin, CRC: dc835204
@@ -4124,34 +4124,9 @@
 </details>
 
 ### Kalle Kunskap - Ettan (Sweden).bin, CRC: ee35aabd
-### Kalle Kunskap - Ettan (Sweden) (Rerelease).bin, CRC: 52c5a4c1
-### Kalle Kunskap - Foerskolan (Sweden).bin, CRC: 7262474f
-### Kalle Kunskap - Laer dig Engelska (Sweden) (En,Sv).bin, CRC: aebe8cb7
-### Kalle Kunskap - Lekstuga (Sweden).bin, CRC: e7be3e2b
 ### Kalle Kunskap - Skolstart - Pa Aeventyr i Balongstaden (Sweden).bin, CRC: 025f63b3
-### Kalle Kunskap - Skolstart - Pa Aeventyr i Balongstaden (Sweden) (Rerelease)
-<details>
-<summary>ROMs</summary>
-
-- Kalle Kunskap - Skolstart - Pa Aeventyr i Balongstaden (Sweden) (Rerelease).bin, CRC: 7713eed2
-- Kalle Kunskap - Skolstart - Pa Aeventyr i Balongstaden (Sweden) (Rerelease).iso, CRC: e49528ad
-</details>
-
-### Kalle Kunskap - Tvaan (Sweden) (OEM)
-<details>
-<summary>ROMs</summary>
-
-- Kalle Kunskap - Tvaan (Sweden) (OEM) (Track 1).bin, CRC: aab4669c
-- Kalle Kunskap - Tvaan (Sweden) (OEM) (Track 2).bin, CRC: b7713b7d
-- Kalle Kunskap - Tvaan (Sweden) (OEM) (Track 3).bin, CRC: 80fb758d
-</details>
-
-### Kalle Kunskap 2 - Ettan - Mysteriet pa Moln 9 (Sweden).bin, CRC: 6761eeef
+### Kalle Kunskap - Skolstart - Pa Aeventyr i Balongstaden (Sweden) (Rerelease).iso, CRC: e49528ad
 ### Kalle Kunskap 2 - Foerskolan - Den stora stjaernjakten (Sweden) (Alt).bin, CRC: 66444da1
-### Kalle Kunskap 2 - Foerskolan - Den stora stjaernjakten (Sweden) (Rerelease).bin, CRC: 2ca7ba35
-### Kalle Kunskap 2 - Tvaan - Kalabalik pa Ostoen (Sweden) (2006-05-02).bin, CRC: cf176440
-### Kalle Kunskap 2 - Tvaan - Kalabalik pa Ostoen (Sweden) (2006-10-19).bin, CRC: 48ebe0c8
-### Kalle Kunskap Matematik - Pa uppdrag hos Lejonblommorna (Sweden).bin, CRC: 22a4d161
 ### Kamieshi Training School - Noa Side (Japan).bin, CRC: 193c9635
 ### Kanaete Ageru - Fuyu ga Kureta Present (Japan).bin, CRC: b0ec28a7
 ### Kane & Lynch - Dead Men (Germany) (En,Fr,De,Es,It).iso, CRC: 4ab88154
