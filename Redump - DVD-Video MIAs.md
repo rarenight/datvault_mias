@@ -1,5 +1,5 @@
 # Redump - DVD-Video MIAs
-## Games: 212, ROMs: 212, as of 2025-06-02
+## Games: 215, ROMs: 215, as of 2025-06-05
 
 ### 2002 Autumn Tokyo Game Show (Taiwan).iso, CRC: 92c99685
 ### 3-nen B-gumi Kinpachi Sensei - Densetsu no Kyoudan ni Tate! Promotion Video-2 (Japan).iso, CRC: d346598e
@@ -30,6 +30,7 @@
 ### D3 Publisher Spring Collection 2005 (Japan).iso, CRC: 12515369
 ### Dead or Alive 5 Ultimate (Japan) (Tentou Promotion Movie).iso, CRC: a206c483
 ### Dead or Alive Xtreme 3 - Fortune & Dead or Alive Xtreme 3 - Venus - Tentou PV Dai-1-dan (Japan).iso, CRC: 2c6304a2
+### Deal or No Deal (USA) (Alt).iso, CRC: b382818c
 ### Demon Child of Punk and Metal, The (USA) (Free Bonus DVD Issue 1 Vol. 1).iso, CRC: 3933f37e
 ### Deponia - The Complete Journey (Germany) (En,De) (Bonus) (PC Game Bundle).iso, CRC: 9dcdc5bf
 ### Devil May Cry 4 (Asia) (En,Ja) (Special DVD).iso, CRC: 64a75c5e
@@ -129,6 +130,8 @@
 ### Pure Cafe - Iyashi no Cafe ni Kayoi Tsumeru, Boku no Chihou Tenkin Seikatsu (Japan) (Disc B).iso, CRC: b605911f
 ### Pure Cafe - Iyashi no Cafe ni Kayoi Tsumeru, Boku no Chihou Tenkin Seikatsu (Japan) (Disc C).iso, CRC: 85b30a8c
 ### Redemption (Japan) (Disc 2).iso, CRC: 858da17a
+### Rhythm Kaitou R - Koutei Napoleon no Isan - 11-gatsumatsu Tentou Promotion DVD (Japan).iso, CRC: 885b2bf6
+### Rhythm Kaitou R - Saishin Promotion Kanzenban DVD (Japan).iso, CRC: e07fa167
 ### Ryuu ga Gotoku 1 & 2 HD Edition Promotion DVD (Japan).iso, CRC: 6c49f50a
 ### Ryza no Atelier - Tokoyami no Joou to Himitsu no Kakurega - Tentou PV (Japan).iso, CRC: 16ad75c0
 ### Sangokushi 13 with Power-Up Kit - Tentou PV Dai-1-dan (Japan).iso, CRC: 379f1c45

@@ -1,5 +1,5 @@
 # Redump - Audio CD MIAs
-## Games: 140, ROMs: 1713, as of 2025-06-02
+## Games: 145, ROMs: 1820, as of 2025-06-05
 
 ### 16Bit Rhythm Land - Original Sound Track (Japan) (Mega Drive Game Bundle) (Track 01).bin, CRC: 55ed0804
 ### 8Bit Rhythm Land - Original Sound Track (Japan) (Famicom Game Bundle) (Track 01).bin, CRC: c5f43089
@@ -753,6 +753,117 @@
 - Magistr Temple (Japan) (PC Game Bundle) (Track 4).bin, CRC: 5ef1c356
 </details>
 
+### Magna Carta - Crimson Stigmata - Original Sound Track (Korea) (Disc 1) (PS2 Game Bundle)
+<details>
+<summary>ROMs</summary>
+
+- Magna Carta - Crimson Stigmata - Original Sound Track (Korea) (Disc 1) (PS2 Game Bundle) (Track 01).bin, CRC: fb321a9b
+- Magna Carta - Crimson Stigmata - Original Sound Track (Korea) (Disc 1) (PS2 Game Bundle) (Track 02).bin, CRC: 8c7bf494
+- Magna Carta - Crimson Stigmata - Original Sound Track (Korea) (Disc 1) (PS2 Game Bundle) (Track 03).bin, CRC: e2641e1f
+- Magna Carta - Crimson Stigmata - Original Sound Track (Korea) (Disc 1) (PS2 Game Bundle) (Track 04).bin, CRC: ba03818a
+- Magna Carta - Crimson Stigmata - Original Sound Track (Korea) (Disc 1) (PS2 Game Bundle) (Track 05).bin, CRC: 722e5fe2
+- Magna Carta - Crimson Stigmata - Original Sound Track (Korea) (Disc 1) (PS2 Game Bundle) (Track 06).bin, CRC: aea63189
+- Magna Carta - Crimson Stigmata - Original Sound Track (Korea) (Disc 1) (PS2 Game Bundle) (Track 07).bin, CRC: c2c26fe8
+- Magna Carta - Crimson Stigmata - Original Sound Track (Korea) (Disc 1) (PS2 Game Bundle) (Track 08).bin, CRC: c8cd7e9e
+- Magna Carta - Crimson Stigmata - Original Sound Track (Korea) (Disc 1) (PS2 Game Bundle) (Track 09).bin, CRC: bcbe821f
+- Magna Carta - Crimson Stigmata - Original Sound Track (Korea) (Disc 1) (PS2 Game Bundle) (Track 10).bin, CRC: fb8838ee
+- Magna Carta - Crimson Stigmata - Original Sound Track (Korea) (Disc 1) (PS2 Game Bundle) (Track 11).bin, CRC: c95dc6eb
+- Magna Carta - Crimson Stigmata - Original Sound Track (Korea) (Disc 1) (PS2 Game Bundle) (Track 12).bin, CRC: 330f8566
+- Magna Carta - Crimson Stigmata - Original Sound Track (Korea) (Disc 1) (PS2 Game Bundle) (Track 13).bin, CRC: 7b76ac15
+- Magna Carta - Crimson Stigmata - Original Sound Track (Korea) (Disc 1) (PS2 Game Bundle) (Track 14).bin, CRC: 3ee88372
+- Magna Carta - Crimson Stigmata - Original Sound Track (Korea) (Disc 1) (PS2 Game Bundle) (Track 15).bin, CRC: 85691594
+- Magna Carta - Crimson Stigmata - Original Sound Track (Korea) (Disc 1) (PS2 Game Bundle) (Track 16).bin, CRC: 012dc1d4
+- Magna Carta - Crimson Stigmata - Original Sound Track (Korea) (Disc 1) (PS2 Game Bundle) (Track 17).bin, CRC: 2a14738f
+- Magna Carta - Crimson Stigmata - Original Sound Track (Korea) (Disc 1) (PS2 Game Bundle) (Track 18).bin, CRC: 94cca569
+- Magna Carta - Crimson Stigmata - Original Sound Track (Korea) (Disc 1) (PS2 Game Bundle) (Track 19).bin, CRC: fc76b15f
+- Magna Carta - Crimson Stigmata - Original Sound Track (Korea) (Disc 1) (PS2 Game Bundle) (Track 20).bin, CRC: b658efb0
+- Magna Carta - Crimson Stigmata - Original Sound Track (Korea) (Disc 1) (PS2 Game Bundle) (Track 21).bin, CRC: 12b3a8b0
+- Magna Carta - Crimson Stigmata - Original Sound Track (Korea) (Disc 1) (PS2 Game Bundle) (Track 22).bin, CRC: c6aea5b4
+- Magna Carta - Crimson Stigmata - Original Sound Track (Korea) (Disc 1) (PS2 Game Bundle) (Track 23).bin, CRC: f0ea504a
+- Magna Carta - Crimson Stigmata - Original Sound Track (Korea) (Disc 1) (PS2 Game Bundle) (Track 24).bin, CRC: 8c75ae14
+- Magna Carta - Crimson Stigmata - Original Sound Track (Korea) (Disc 1) (PS2 Game Bundle) (Track 25).bin, CRC: 8e21d0d4
+- Magna Carta - Crimson Stigmata - Original Sound Track (Korea) (Disc 1) (PS2 Game Bundle) (Track 26).bin, CRC: 1bf5a03d
+- Magna Carta - Crimson Stigmata - Original Sound Track (Korea) (Disc 1) (PS2 Game Bundle) (Track 27).bin, CRC: f72ac358
+- Magna Carta - Crimson Stigmata - Original Sound Track (Korea) (Disc 1) (PS2 Game Bundle) (Track 28).bin, CRC: 37fd96f0
+- Magna Carta - Crimson Stigmata - Original Sound Track (Korea) (Disc 1) (PS2 Game Bundle) (Track 29).bin, CRC: b4ca6193
+- Magna Carta - Crimson Stigmata - Original Sound Track (Korea) (Disc 1) (PS2 Game Bundle) (Track 30).bin, CRC: 76ea519f
+- Magna Carta - Crimson Stigmata - Original Sound Track (Korea) (Disc 1) (PS2 Game Bundle) (Track 31).bin, CRC: 91f6c760
+</details>
+
+### Magna Carta - Crimson Stigmata - Original Sound Track (Korea) (Disc 2) (PS2 Game Bundle)
+<details>
+<summary>ROMs</summary>
+
+- Magna Carta - Crimson Stigmata - Original Sound Track (Korea) (Disc 2) (PS2 Game Bundle) (Track 01).bin, CRC: b2dbab20
+- Magna Carta - Crimson Stigmata - Original Sound Track (Korea) (Disc 2) (PS2 Game Bundle) (Track 02).bin, CRC: 31b97ceb
+- Magna Carta - Crimson Stigmata - Original Sound Track (Korea) (Disc 2) (PS2 Game Bundle) (Track 03).bin, CRC: 357d1f2a
+- Magna Carta - Crimson Stigmata - Original Sound Track (Korea) (Disc 2) (PS2 Game Bundle) (Track 04).bin, CRC: 31db7dfa
+- Magna Carta - Crimson Stigmata - Original Sound Track (Korea) (Disc 2) (PS2 Game Bundle) (Track 05).bin, CRC: 08f50eca
+- Magna Carta - Crimson Stigmata - Original Sound Track (Korea) (Disc 2) (PS2 Game Bundle) (Track 06).bin, CRC: f46251b2
+- Magna Carta - Crimson Stigmata - Original Sound Track (Korea) (Disc 2) (PS2 Game Bundle) (Track 07).bin, CRC: 8dda7a2f
+- Magna Carta - Crimson Stigmata - Original Sound Track (Korea) (Disc 2) (PS2 Game Bundle) (Track 08).bin, CRC: 44880379
+- Magna Carta - Crimson Stigmata - Original Sound Track (Korea) (Disc 2) (PS2 Game Bundle) (Track 09).bin, CRC: eb2e438a
+- Magna Carta - Crimson Stigmata - Original Sound Track (Korea) (Disc 2) (PS2 Game Bundle) (Track 10).bin, CRC: 98ef9100
+- Magna Carta - Crimson Stigmata - Original Sound Track (Korea) (Disc 2) (PS2 Game Bundle) (Track 11).bin, CRC: 874282d1
+- Magna Carta - Crimson Stigmata - Original Sound Track (Korea) (Disc 2) (PS2 Game Bundle) (Track 12).bin, CRC: 4664eefb
+- Magna Carta - Crimson Stigmata - Original Sound Track (Korea) (Disc 2) (PS2 Game Bundle) (Track 13).bin, CRC: 5c2944ba
+- Magna Carta - Crimson Stigmata - Original Sound Track (Korea) (Disc 2) (PS2 Game Bundle) (Track 14).bin, CRC: 5e96160b
+- Magna Carta - Crimson Stigmata - Original Sound Track (Korea) (Disc 2) (PS2 Game Bundle) (Track 15).bin, CRC: 49b66f13
+- Magna Carta - Crimson Stigmata - Original Sound Track (Korea) (Disc 2) (PS2 Game Bundle) (Track 16).bin, CRC: 96d5d423
+- Magna Carta - Crimson Stigmata - Original Sound Track (Korea) (Disc 2) (PS2 Game Bundle) (Track 17).bin, CRC: 43ad32ea
+- Magna Carta - Crimson Stigmata - Original Sound Track (Korea) (Disc 2) (PS2 Game Bundle) (Track 18).bin, CRC: fc54ee72
+- Magna Carta - Crimson Stigmata - Original Sound Track (Korea) (Disc 2) (PS2 Game Bundle) (Track 19).bin, CRC: 2f0c232e
+- Magna Carta - Crimson Stigmata - Original Sound Track (Korea) (Disc 2) (PS2 Game Bundle) (Track 20).bin, CRC: cb31fc9c
+- Magna Carta - Crimson Stigmata - Original Sound Track (Korea) (Disc 2) (PS2 Game Bundle) (Track 21).bin, CRC: 149ff8b4
+- Magna Carta - Crimson Stigmata - Original Sound Track (Korea) (Disc 2) (PS2 Game Bundle) (Track 22).bin, CRC: 7fe89231
+- Magna Carta - Crimson Stigmata - Original Sound Track (Korea) (Disc 2) (PS2 Game Bundle) (Track 23).bin, CRC: c8817328
+- Magna Carta - Crimson Stigmata - Original Sound Track (Korea) (Disc 2) (PS2 Game Bundle) (Track 24).bin, CRC: 0c9b2d5a
+- Magna Carta - Crimson Stigmata - Original Sound Track (Korea) (Disc 2) (PS2 Game Bundle) (Track 25).bin, CRC: 8ddc9e4a
+- Magna Carta - Crimson Stigmata - Original Sound Track (Korea) (Disc 2) (PS2 Game Bundle) (Track 26).bin, CRC: c0cc475d
+- Magna Carta - Crimson Stigmata - Original Sound Track (Korea) (Disc 2) (PS2 Game Bundle) (Track 27).bin, CRC: bf2ce76c
+</details>
+
+### Magna Carta II - Original Sound Track (Korea) (Xbox 360 Game Bundle)
+<details>
+<summary>ROMs</summary>
+
+- Magna Carta II - Original Sound Track (Korea) (Xbox 360 Game Bundle) (Track 01).bin, CRC: bb2cfca7
+- Magna Carta II - Original Sound Track (Korea) (Xbox 360 Game Bundle) (Track 02).bin, CRC: 049c9897
+- Magna Carta II - Original Sound Track (Korea) (Xbox 360 Game Bundle) (Track 03).bin, CRC: 649cfe7e
+- Magna Carta II - Original Sound Track (Korea) (Xbox 360 Game Bundle) (Track 04).bin, CRC: ac6b180e
+- Magna Carta II - Original Sound Track (Korea) (Xbox 360 Game Bundle) (Track 05).bin, CRC: 55170fe4
+- Magna Carta II - Original Sound Track (Korea) (Xbox 360 Game Bundle) (Track 06).bin, CRC: 3d05409c
+- Magna Carta II - Original Sound Track (Korea) (Xbox 360 Game Bundle) (Track 07).bin, CRC: 5012037b
+- Magna Carta II - Original Sound Track (Korea) (Xbox 360 Game Bundle) (Track 08).bin, CRC: 79057599
+- Magna Carta II - Original Sound Track (Korea) (Xbox 360 Game Bundle) (Track 09).bin, CRC: 831297d8
+- Magna Carta II - Original Sound Track (Korea) (Xbox 360 Game Bundle) (Track 10).bin, CRC: c34edf63
+- Magna Carta II - Original Sound Track (Korea) (Xbox 360 Game Bundle) (Track 11).bin, CRC: 0ad05d8f
+- Magna Carta II - Original Sound Track (Korea) (Xbox 360 Game Bundle) (Track 12).bin, CRC: e57dce6a
+- Magna Carta II - Original Sound Track (Korea) (Xbox 360 Game Bundle) (Track 13).bin, CRC: c05fd0ab
+- Magna Carta II - Original Sound Track (Korea) (Xbox 360 Game Bundle) (Track 14).bin, CRC: 6c0ec390
+- Magna Carta II - Original Sound Track (Korea) (Xbox 360 Game Bundle) (Track 15).bin, CRC: f9cc30d8
+- Magna Carta II - Original Sound Track (Korea) (Xbox 360 Game Bundle) (Track 16).bin, CRC: 2390a9f3
+- Magna Carta II - Original Sound Track (Korea) (Xbox 360 Game Bundle) (Track 17).bin, CRC: 9bd164a4
+- Magna Carta II - Original Sound Track (Korea) (Xbox 360 Game Bundle) (Track 18).bin, CRC: c8c459c7
+- Magna Carta II - Original Sound Track (Korea) (Xbox 360 Game Bundle) (Track 19).bin, CRC: c308c7b0
+- Magna Carta II - Original Sound Track (Korea) (Xbox 360 Game Bundle) (Track 20).bin, CRC: 7e9683a8
+- Magna Carta II - Original Sound Track (Korea) (Xbox 360 Game Bundle) (Track 21).bin, CRC: 896c16ab
+- Magna Carta II - Original Sound Track (Korea) (Xbox 360 Game Bundle) (Track 22).bin, CRC: e478180d
+- Magna Carta II - Original Sound Track (Korea) (Xbox 360 Game Bundle) (Track 23).bin, CRC: 9fd81f88
+- Magna Carta II - Original Sound Track (Korea) (Xbox 360 Game Bundle) (Track 24).bin, CRC: 60ef2a63
+- Magna Carta II - Original Sound Track (Korea) (Xbox 360 Game Bundle) (Track 25).bin, CRC: 10403ad9
+- Magna Carta II - Original Sound Track (Korea) (Xbox 360 Game Bundle) (Track 26).bin, CRC: 2bb18742
+- Magna Carta II - Original Sound Track (Korea) (Xbox 360 Game Bundle) (Track 27).bin, CRC: dfa43b5b
+- Magna Carta II - Original Sound Track (Korea) (Xbox 360 Game Bundle) (Track 28).bin, CRC: 9823fefc
+- Magna Carta II - Original Sound Track (Korea) (Xbox 360 Game Bundle) (Track 29).bin, CRC: 71889eca
+- Magna Carta II - Original Sound Track (Korea) (Xbox 360 Game Bundle) (Track 30).bin, CRC: f638b429
+- Magna Carta II - Original Sound Track (Korea) (Xbox 360 Game Bundle) (Track 31).bin, CRC: 6630c8ed
+- Magna Carta II - Original Sound Track (Korea) (Xbox 360 Game Bundle) (Track 32).bin, CRC: 397fdd14
+- Magna Carta II - Original Sound Track (Korea) (Xbox 360 Game Bundle) (Track 33).bin, CRC: cc904508
+- Magna Carta II - Original Sound Track (Korea) (Xbox 360 Game Bundle) (Track 34).bin, CRC: 60ba5797
+- Magna Carta II - Original Sound Track (Korea) (Xbox 360 Game Bundle) (Track 35).bin, CRC: 9de711a5
+</details>
+
 ### Mana-Khemia 2 - Original Soundtrack (Japan) (Disc 1) (Track 40).bin, CRC: 77c8eb14
 ### Mana-Khemia 2 - Original Soundtrack (Japan) (Disc 2) (Track 37).bin, CRC: 8b7a0244
 ### MultiXmas (Netherlands) (Audio) (PC Game Bundle)
@@ -884,6 +995,16 @@
 
 ### Nekketsu Koukou Sound-bu SFC-hen (Japan) (Disc 1) (Track 43).bin, CRC: 4f7280c8
 ### Nekketsu Koukou Sound-bu SFC-hen (Japan) (Disc 2) (Track 51).bin, CRC: 648a6912
+### Omatase! Janbaraya - Shokai Tokuten Maxi Single (Japan) (PC Game Bundle)
+<details>
+<summary>ROMs</summary>
+
+- Omatase! Janbaraya - Shokai Tokuten Maxi Single (Japan) (PC Game Bundle) (Track 1).bin, CRC: 961e6d1f
+- Omatase! Janbaraya - Shokai Tokuten Maxi Single (Japan) (PC Game Bundle) (Track 2).bin, CRC: 47c69356
+- Omatase! Janbaraya - Shokai Tokuten Maxi Single (Japan) (PC Game Bundle) (Track 3).bin, CRC: e606289e
+- Omatase! Janbaraya - Shokai Tokuten Maxi Single (Japan) (PC Game Bundle) (Track 4).bin, CRC: f24205da
+</details>
+
 ### ONGEKI Sound Collection 03 - Splash Dance!! (Japan)
 <details>
 <summary>ROMs</summary>
@@ -2059,6 +2180,22 @@
 - Voyageurs du Temps, Les (France) (Track 09).bin, CRC: 9da4509a
 - Voyageurs du Temps, Les (France) (Track 10).bin, CRC: 59593015
 - Voyageurs du Temps, Les (France) (Track 11).bin, CRC: c1e47231
+</details>
+
+### Wargroove 1+2 - Selection Soundtrack (Japan) (NSW Game Bundle)
+<details>
+<summary>ROMs</summary>
+
+- Wargroove 1+2 - Selection Soundtrack (Japan) (NSW Game Bundle) (Track 01).bin, CRC: 84b0890b
+- Wargroove 1+2 - Selection Soundtrack (Japan) (NSW Game Bundle) (Track 02).bin, CRC: dad67bc9
+- Wargroove 1+2 - Selection Soundtrack (Japan) (NSW Game Bundle) (Track 03).bin, CRC: 3567335c
+- Wargroove 1+2 - Selection Soundtrack (Japan) (NSW Game Bundle) (Track 04).bin, CRC: 12c50a94
+- Wargroove 1+2 - Selection Soundtrack (Japan) (NSW Game Bundle) (Track 05).bin, CRC: a9038c0d
+- Wargroove 1+2 - Selection Soundtrack (Japan) (NSW Game Bundle) (Track 06).bin, CRC: 799fd9d1
+- Wargroove 1+2 - Selection Soundtrack (Japan) (NSW Game Bundle) (Track 07).bin, CRC: 2d290a05
+- Wargroove 1+2 - Selection Soundtrack (Japan) (NSW Game Bundle) (Track 08).bin, CRC: bdb8688b
+- Wargroove 1+2 - Selection Soundtrack (Japan) (NSW Game Bundle) (Track 09).bin, CRC: 0a5d581e
+- Wargroove 1+2 - Selection Soundtrack (Japan) (NSW Game Bundle) (Track 10).bin, CRC: e781474b
 </details>
 
 ### Wizardry - Proving Grounds of the Mad Overlord - Original Game Soundtrack (Japan)

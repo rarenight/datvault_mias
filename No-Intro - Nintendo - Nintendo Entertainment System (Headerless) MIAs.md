@@ -1,5 +1,5 @@
 # No-Intro - Nintendo - Nintendo Entertainment System (Headerless) MIAs
-## Games: 9, ROMs: 9, as of 2025-06-02
+## Games: 9, ROMs: 9, as of 2025-06-05
 
 ### 18-in-1 (Asia) (En) (Pirate).unh, CRC: 8aba5383
 ### 211-in-1 - 1992 Ultra Power Card (Asia) (En) (Pirate).unh, CRC: 80301ee1

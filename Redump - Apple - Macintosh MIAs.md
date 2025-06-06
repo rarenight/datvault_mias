@@ -1,5 +1,5 @@
 # Redump - Apple - Macintosh MIAs
-## Games: 144, ROMs: 175, as of 2025-06-02
+## Games: 146, ROMs: 177, as of 2025-06-05
 
 ### 3-D Ultra Pinball (Japan).bin, CRC: 610eb45d
 ### 3DO Content Library, The (USA) (Disc 88) (Music & Sound Effects).bin, CRC: c157b11b
@@ -102,6 +102,7 @@
 ### Halo - Combat Evolved (USA) (Alt).bin, CRC: 07f0a0b0
 ### Hell - A Cyberpunk Thriller (Japan).bin, CRC: ff96379c
 ### Klik & Play (France).bin, CRC: a7f8c388
+### LEGO Indiana Jones - The Original Adventures (USA).iso, CRC: 023b0aa9
 ### Leisure Suit Larry 6 - Shape Up or Slip Out! (USA).bin, CRC: d98b96e1
 ### Mac Fan Internet 1997 6 (Japan).bin, CRC: af663e55
 ### Mac Fan Internet 1997 7 (Japan).bin, CRC: e53b1bf1
@@ -124,6 +125,7 @@
 ### MacPeople 1999 No. 8 4.15 (Japan).bin, CRC: d17a72e2
 ### MacUser - MacBin 14 (Japan) (Track 2).bin, CRC: 6cba3084
 ### MacUser - MacBin 18 (Japan).bin, CRC: 13903296
+### Macworld - January 2001 (Europe).bin, CRC: 076aa742
 ### Mad Dog McCree (USA).bin, CRC: 70252738
 ### Maniac Mansion - Day of the Tentacle (France).bin, CRC: b784da91
 ### Medicom Vol. 1 (Japan).bin, CRC: dde483c6
