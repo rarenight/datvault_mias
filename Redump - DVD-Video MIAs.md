@@ -1,5 +1,5 @@
 # Redump - DVD-Video MIAs
-## Games: 215, ROMs: 215, as of 2025-06-05
+## Games: 214, ROMs: 214, as of 2025-06-06
 
 ### 2002 Autumn Tokyo Game Show (Taiwan).iso, CRC: 92c99685
 ### 3-nen B-gumi Kinpachi Sensei - Densetsu no Kyoudan ni Tate! Promotion Video-2 (Japan).iso, CRC: d346598e
@@ -30,7 +30,6 @@
 ### D3 Publisher Spring Collection 2005 (Japan).iso, CRC: 12515369
 ### Dead or Alive 5 Ultimate (Japan) (Tentou Promotion Movie).iso, CRC: a206c483
 ### Dead or Alive Xtreme 3 - Fortune & Dead or Alive Xtreme 3 - Venus - Tentou PV Dai-1-dan (Japan).iso, CRC: 2c6304a2
-### Deal or No Deal (USA) (Alt).iso, CRC: b382818c
 ### Demon Child of Punk and Metal, The (USA) (Free Bonus DVD Issue 1 Vol. 1).iso, CRC: 3933f37e
 ### Deponia - The Complete Journey (Germany) (En,De) (Bonus) (PC Game Bundle).iso, CRC: 9dcdc5bf
 ### Devil May Cry 4 (Asia) (En,Ja) (Special DVD).iso, CRC: 64a75c5e
