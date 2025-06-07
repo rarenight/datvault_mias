@@ -1,5 +1,5 @@
 # No-Intro - Nintendo - Nintendo Entertainment System (Headered) MIAs
-## Games: 11, ROMs: 12, as of 2025-06-05
+## Games: 7, ROMs: 8, as of 2025-06-07
 
 ### 18-in-1 (Asia) (En) (Pirate)
 <details>
@@ -9,11 +9,7 @@
 - 18-in-1 (Asia) (En) (Pirate).nes, CRC: e438a7d3
 </details>
 
-### 211-in-1 - 1992 Ultra Power Card (Asia) (En) (Pirate).nes, CRC: 599bab7d
-### 3-in-1 - Spartan SUPER 1998 (Asia) (En) (Pirate).nes, CRC: 80cd2ee7
 ### Hammerin' Harry (Europe) (Retro-Bit).nes, CRC: e17d47e6
-### Ikari III (Asia) (En) (Pirate).nes, CRC: 8c309902
-### Karateka (Asia) (En) (Pirate).nes, CRC: b4bbbab4
 ### Mystery World Dizzy (World) (En,Pt,Pl) (Kickstarter).nes, CRC: bd55a294
 ### RIG - Random Insult Generator (USA) (14-25) (Aftermarket) (Unl).nes, CRC: f6ff8b07
 ### Rod Land (World) (Retro-Bit).nes, CRC: 7608a072

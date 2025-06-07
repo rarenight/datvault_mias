@@ -1,5 +1,5 @@
 # No-Intro - Nintendo - Nintendo Entertainment System (Headerless) (Private) MIAs
-## Games: 40, ROMs: 40, as of 2025-06-05
+## Games: 39, ROMs: 39, as of 2025-06-07
 
 ### 8-Bit Slasher 4-in-1 Horror Demakes (World) (Aftermarket) (Unl).unh, CRC: 905e90cb
 ### Alfonzo's Arctic Adventure (World) (Kickstarter) (Aftermarket) (Unl).unh, CRC: da586fa5
@@ -24,7 +24,6 @@
 ### KUBO 3 (USA) (En,Ja,Fr) (Limited Run Games) (Aftermarket) (Unl).unh, CRC: 0e577e47
 ### KUBO 3 (World) (En,Ja,Fr) (Switch) (Aftermarket) (Unl).unh, CRC: 4aba6e62
 ### Mad Wizard, The - A Candelabra Chronicle (World) (Kickstarter) (Aftermarket) (Unl).unh, CRC: 875dfb83
-### Mystery World Dizzy (World) (En,Pt,Pl) (Kickstarter).unh, CRC: 70b59e33
 ### NESK-1 Entertainment Synth (USA) (Music Program) (Aftermarket) (Unl).unh, CRC: 45f62779
 ### Norenwake Yakitori Master Toriku Jr. (Japan) (Rev 3) (Aftermarket) (Unl).unh, CRC: 937b8b10
 ### Orebody - Binder's Tale (World) (Aftermarket) (Unl).unh, CRC: 48c13ac7
