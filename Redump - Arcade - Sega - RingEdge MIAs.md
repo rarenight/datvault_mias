@@ -1,5 +1,5 @@
 # Redump - Arcade - Sega - RingEdge MIAs
-## Games: 6, ROMs: 6, as of 2025-06-08
+## Games: 6, ROMs: 6, as of 2025-06-05
 
 ### Border Break (Japan) (DVR-0001).iso, CRC: 745f5ad9
 ### Border Break (No. 1) (Japan) (DVR-5053).iso, CRC: d71c0bb5

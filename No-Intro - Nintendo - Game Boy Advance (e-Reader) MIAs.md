@@ -1,5 +1,5 @@
 # No-Intro - Nintendo - Game Boy Advance (e-Reader) MIAs
-## Games: 1, ROMs: 2, as of 2025-06-08
+## Games: 1, ROMs: 2, as of 2025-06-05
 
 ### Mario vs. Donkey Kong Card-e+ - 18-M001 (Japan) (Promo)
 <details>
