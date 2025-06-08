@@ -1,5 +1,5 @@
 # Redump - IBM - PC compatible MIAs
-## Games: 3378, ROMs: 7502, as of 2025-06-05
+## Games: 3377, ROMs: 7501, as of 2025-06-08
 
 ### %% - Fuuin no Otome (Japan) (Track 10).bin, CRC: 4481aa75
 ### Alley 19 Bowling (Europe) (Track 5).bin, CRC: dc835204
@@ -4950,7 +4950,6 @@
 - Mega Game I (Finland) (Track 8).bin, CRC: c23676f4
 </details>
 
-### Mega Match (USA).bin, CRC: 0eb586ff
 ### Mega Pinball (Europe) (Rerelease).bin, CRC: ee5ca9d1
 ### Megami Ibunroku - Persona - Be Your True Mind (Japan) (Rerelease).bin, CRC: 03433419
 ### MegaRace 2 (Germany) (Disc 1) (Rerelease).bin, CRC: e93e020f
