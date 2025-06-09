@@ -1,5 +1,5 @@
 # No-Intro - Nintendo - Wii U (Digital) (CDN) MIAs
-## Games: 98, ROMs: 98, as of 2025-06-05
+## Games: 98, ROMs: 98, as of 2025-06-09
 
 ### cetk, CRC: f0fc722d
 ### cetk, CRC: 29f1cdd4

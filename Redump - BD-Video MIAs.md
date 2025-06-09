@@ -1,8 +1,7 @@
 # Redump - BD-Video MIAs
-## Games: 7, ROMs: 7, as of 2025-06-05
+## Games: 6, ROMs: 6, as of 2025-06-09
 
 ### Ane to Osananajimi wa Naka ga Ii! Ninben Tsuitenai shi... (Japan).iso, CRC: fbbfc20d
-### D.C. II - Da Capo II (Japan).iso, CRC: 73198a0a
 ### Haramitama (Japan).iso, CRC: c3211de4
 ### Kitto, Sumiwataru Asairo Yori mo, (Japan).iso, CRC: 417191d3
 ### Love x2 Kiss - Yua to Mihiro to Doki Doki Date (Japan).iso, CRC: e50025c4
