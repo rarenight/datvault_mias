@@ -1,5 +1,5 @@
 # No-Intro - Nintendo - Game Boy Color (Private) MIAs
-## Games: 4, ROMs: 4, as of 2025-06-09
+## Games: 4, ROMs: 4, as of 2025-06-10
 
 ### Bub-O Escape (World) (Aftermarket) (Unl).gbc, CRC: 32e00fe6
 ### BULB! (World) (LED Cart) (Aftermarket) (Unl).gbc, CRC: e6518af1
