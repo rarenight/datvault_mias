@@ -1,5 +1,5 @@
 # Redump - BD-Video MIAs
-## Games: 6, ROMs: 6, as of 2025-06-10
+## Games: 6, ROMs: 6, as of 2025-06-12
 
 ### Ane to Osananajimi wa Naka ga Ii! Ninben Tsuitenai shi... (Japan).iso, CRC: fbbfc20d
 ### Haramitama (Japan).iso, CRC: c3211de4

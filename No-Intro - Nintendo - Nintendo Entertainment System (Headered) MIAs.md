@@ -1,5 +1,5 @@
 # No-Intro - Nintendo - Nintendo Entertainment System (Headered) MIAs
-## Games: 5, ROMs: 6, as of 2025-06-10
+## Games: 5, ROMs: 6, as of 2025-06-12
 
 ### 18-in-1 (Asia) (En) (Pirate)
 <details>
