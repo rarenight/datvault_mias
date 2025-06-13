@@ -1,5 +1,5 @@
 # No-Intro - Nintendo - Family Computer Network System MIAs
-## Games: 15, ROMs: 15, as of 2025-06-12
+## Games: 15, ROMs: 15, as of 2025-06-13
 
 ### Cosmo no Famicom Trade (Japan) (FCN003-03).fcn, CRC: 79c14a24
 ### Famicom ANSER (Japan) (FCN000-05).fcn, CRC: 1843f624
