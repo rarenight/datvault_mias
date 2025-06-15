@@ -1,5 +1,5 @@
 # No-Intro - Nintendo - Nintendo DS (Encrypted) MIAs
-## Games: 3, ROMs: 3, as of 2025-06-13
+## Games: 3, ROMs: 3, as of 2025-06-15
 
 ### Nep League DS (Japan).nds, CRC: 56b0383a
 ### Pocket Monsters - Diamond (Japan) (Rev 1).nds, CRC: 5c73a6ce
