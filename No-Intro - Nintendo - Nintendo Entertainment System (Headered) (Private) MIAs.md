@@ -1,5 +1,5 @@
 # No-Intro - Nintendo - Nintendo Entertainment System (Headered) (Private) MIAs
-## Games: 39, ROMs: 39, as of 2025-06-19
+## Games: 38, ROMs: 38, as of 2025-06-19
 
 ### Alfonzo's Arctic Adventure (World) (Kickstarter) (Aftermarket) (Unl).nes, CRC: 0db77f87
 ### Alfonzo's Arctic Adventure (USA) (Limited Run Games) (Aftermarket) (Unl).nes, CRC: 9cc3cac9
@@ -39,4 +39,3 @@
 ### Super Cambur Origins (World) (v1) (Aftermarket) (Unl).nes, CRC: bf183634
 ### Super Cambur Origins (World) (v2) (Aftermarket) (Unl).nes, CRC: df876862
 ### Tempered Vengeance (USA, Europe) (Aftermarket) (Unl).nes, CRC: 71d67b86
-### Vegetablets Go (Japan) (En) (Aftermarket) (Unl).nes, CRC: fd6f08a7

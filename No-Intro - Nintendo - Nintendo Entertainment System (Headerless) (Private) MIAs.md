@@ -1,5 +1,5 @@
 # No-Intro - Nintendo - Nintendo Entertainment System (Headerless) (Private) MIAs
-## Games: 39, ROMs: 39, as of 2025-06-19
+## Games: 38, ROMs: 38, as of 2025-06-19
 
 ### 8-Bit Slasher 4-in-1 Horror Demakes (World) (Aftermarket) (Unl).unh, CRC: 905e90cb
 ### Alfonzo's Arctic Adventure (World) (Kickstarter) (Aftermarket) (Unl).unh, CRC: da586fa5
@@ -39,4 +39,3 @@
 ### Super Cambur Origins (World) (v1) (Aftermarket) (Unl).unh, CRC: d37c4c07
 ### Super Cambur Origins (World) (v2) (Aftermarket) (Unl).unh, CRC: b3e31251
 ### Tempered Vengeance (USA, Europe) (Aftermarket) (Unl).unh, CRC: 3d1a9976
-### Vegetablets Go (Japan) (En) (Aftermarket) (Unl).unh, CRC: 9eaae3a5
