@@ -1,5 +1,5 @@
 # No-Intro - Nintendo - Nintendo Entertainment System (Headered) MIAs
-## Games: 5, ROMs: 6, as of 2025-06-19
+## Games: 3, ROMs: 4, as of 2025-06-19
 
 ### 18-in-1 (Asia) (En) (Pirate)
 <details>
@@ -10,6 +10,4 @@
 </details>
 
 ### Hammerin' Harry (Europe) (Retro-Bit).nes, CRC: e17d47e6
-### Rod Land (World) (Retro-Bit).nes, CRC: 7608a072
-### Rod Land (World) (Retro-Bit) (256KiB).nes, CRC: 8f4b7624
 ### Teenage Mutant Ninja Turtles II - The Arcade Game (Asia) (En) (Pirate).nes, CRC: 29e83db4

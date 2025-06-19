@@ -1,8 +1,6 @@
 # Redump - Audio CD MIAs
-## Games: 5, ROMs: 28, as of 2025-06-19
+## Games: 3, ROMs: 26, as of 2025-06-19
 
-### 16Bit Rhythm Land - Original Sound Track (Japan) (Mega Drive Game Bundle) (Track 01).bin, CRC: 55ed0804
-### 8Bit Rhythm Land - Original Sound Track (Japan) (Famicom Game Bundle) (Track 01).bin, CRC: c5f43089
 ### Konami Game Music Vol. 1 (Japan) (Reprint) (Track 01).bin, CRC: 655cb3ef
 ### Konami Game Music Vol. 2 (Japan) (Rerelease) (Track 01).bin, CRC: fa082a24
 ### R4 - Ridge Racer Type 4 - The 20th Anniv. Sounds (Japan) (Disc 2) (2nd Heat - Remastered Sounds) (Alt 2)

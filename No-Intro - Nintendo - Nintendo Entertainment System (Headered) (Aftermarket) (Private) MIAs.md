@@ -1,8 +1,9 @@
 # No-Intro - Nintendo - Nintendo Entertainment System (Headered) (Aftermarket) (Private) MIAs
-## Games: 9, ROMs: 9, as of 2025-06-19
+## Games: 10, ROMs: 10, as of 2025-06-19
 
 ### Biocats (World) (Uk) (v1.1) (2025-03-10) (Aftermarket) (Unl).nes, CRC: 25abe5b9
-### Flea! (World) (2025-02-04) (Aftermarket) (Unl).nes, CRC: 41078ac4
+### Bobby Six Seven - Time-Traveling Detective (USA) (Aftermarket) (Unl).nes, CRC: f6dc9ebd
+### Christmas Crisis 2 (USA) (Aftermarket) (Unl).nes, CRC: 947babc3
 ### Gemaboy Zero (World) (2025-04-03) (Aftermarket) (Unl).nes, CRC: 28e9d1d1
 ### Hazard - Let Us Out! (World) (Aftermarket) (Unl).nes, CRC: d552124f
 ### PLOID (World) (5th Anniversary Edition) (Aftermarket) (Unl).nes, CRC: c3a14eff
