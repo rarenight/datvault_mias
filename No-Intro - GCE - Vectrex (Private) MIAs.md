@@ -1,5 +1,5 @@
 # No-Intro - GCE - Vectrex (Private) MIAs
-## Games: 2, ROMs: 2, as of 2025-06-18
+## Games: 2, ROMs: 2, as of 2025-06-19
 
 ### USA Zombie Apocalypse (World) (Aftermarket) (Unl).vec, CRC: 5b10a61a
 ### Vectral (World) (Aftermarket) (Unl).vec, CRC: de6fb997
