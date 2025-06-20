@@ -1,5 +1,5 @@
 # Redump - Audio CD MIAs
-## Games: 136, ROMs: 1703, as of 2025-06-20
+## Games: 135, ROMs: 1688, as of 2025-06-20
 
 ### Age of Empires III (Poland) (Plyta audio z muzyka z gry) (PC Game Bundle)
 <details>
@@ -831,27 +831,6 @@
 - Music Collection Vol. 1 (Poland) (Track 19).bin, CRC: 7a550bcd
 - Music Collection Vol. 1 (Poland) (Track 20).bin, CRC: eb7a14f8
 - Music Collection Vol. 1 (Poland) (Track 21).bin, CRC: a6c8e829
-</details>
-
-### Music from Original Parodius (Japan)
-<details>
-<summary>ROMs</summary>
-
-- Music from Original Parodius (Japan) (Track 01).bin, CRC: 7d627920
-- Music from Original Parodius (Japan) (Track 02).bin, CRC: 40a2d407
-- Music from Original Parodius (Japan) (Track 03).bin, CRC: c3deb201
-- Music from Original Parodius (Japan) (Track 04).bin, CRC: 6971f926
-- Music from Original Parodius (Japan) (Track 05).bin, CRC: 1d8a320c
-- Music from Original Parodius (Japan) (Track 06).bin, CRC: 0759f7c6
-- Music from Original Parodius (Japan) (Track 07).bin, CRC: 5f960da2
-- Music from Original Parodius (Japan) (Track 08).bin, CRC: 22b2bba0
-- Music from Original Parodius (Japan) (Track 09).bin, CRC: a526e3b7
-- Music from Original Parodius (Japan) (Track 10).bin, CRC: ee712755
-- Music from Original Parodius (Japan) (Track 11).bin, CRC: 287272a2
-- Music from Original Parodius (Japan) (Track 12).bin, CRC: 3f981f99
-- Music from Original Parodius (Japan) (Track 13).bin, CRC: 1f23f6cb
-- Music from Original Parodius (Japan) (Track 14).bin, CRC: 52007b6a
-- Music from Original Parodius (Japan) (Track 15).bin, CRC: 3745ee10
 </details>
 
 ### Music from the Original Game Sound Track - Hany in the Sky (Japan)
