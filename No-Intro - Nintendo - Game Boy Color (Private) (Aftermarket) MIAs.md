@@ -1,5 +1,5 @@
 # No-Intro - Nintendo - Game Boy Color (Private) (Aftermarket) MIAs
-## Games: 15, ROMs: 15, as of 2025-06-20
+## Games: 15, ROMs: 15, as of 2025-06-21
 
 ### DiveBlob (World) (GB Compatible) (Aftermarket) (Unl).gbc, CRC: 1c43b0c4
 ### Dream Shark - Part 1 (World) (Digital) (Batteryless) (MBC3) (Aftermarket) (Unl).gbc, CRC: 18f5ddd8
