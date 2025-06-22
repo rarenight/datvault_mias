@@ -1,5 +1,5 @@
 # Redump - IBM - PC compatible MIAs
-## Games: 3222, ROMs: 7307, as of 2025-06-21
+## Games: 3221, ROMs: 7247, as of 2025-06-22
 
 ### %% - Fuuin no Otome (Japan) (Track 10).bin, CRC: 4481aa75
 ### Alley 19 Bowling (Europe) (Track 5).bin, CRC: dc835204
@@ -8542,72 +8542,6 @@
 - Tomb Raider II - Starring Lara Croft (France) (Rerelease) (Track 42).bin, CRC: dae6ce56
 - Tomb Raider II - Starring Lara Croft (France) (Rerelease) (Track 58).bin, CRC: 943e1d69
 - Tomb Raider II - Starring Lara Croft (France) (Rerelease) (Track 59).bin, CRC: 6e7f87d0
-</details>
-
-### Tomb Raider II - Starring Lara Croft - The Golden Mask (France)
-<details>
-<summary>ROMs</summary>
-
-- Tomb Raider II - Starring Lara Croft - The Golden Mask (France) (Track 01).bin, CRC: 31ff1666
-- Tomb Raider II - Starring Lara Croft - The Golden Mask (France) (Track 02).bin, CRC: 40cb5160
-- Tomb Raider II - Starring Lara Croft - The Golden Mask (France) (Track 03).bin, CRC: a2ba6865
-- Tomb Raider II - Starring Lara Croft - The Golden Mask (France) (Track 04).bin, CRC: f4c247e1
-- Tomb Raider II - Starring Lara Croft - The Golden Mask (France) (Track 05).bin, CRC: 0d999c59
-- Tomb Raider II - Starring Lara Croft - The Golden Mask (France) (Track 06).bin, CRC: c491ed06
-- Tomb Raider II - Starring Lara Croft - The Golden Mask (France) (Track 07).bin, CRC: 4e723394
-- Tomb Raider II - Starring Lara Croft - The Golden Mask (France) (Track 08).bin, CRC: 46b1f303
-- Tomb Raider II - Starring Lara Croft - The Golden Mask (France) (Track 09).bin, CRC: ae6200ce
-- Tomb Raider II - Starring Lara Croft - The Golden Mask (France) (Track 10).bin, CRC: a528634e
-- Tomb Raider II - Starring Lara Croft - The Golden Mask (France) (Track 11).bin, CRC: ff6f270a
-- Tomb Raider II - Starring Lara Croft - The Golden Mask (France) (Track 12).bin, CRC: c96eb552
-- Tomb Raider II - Starring Lara Croft - The Golden Mask (France) (Track 13).bin, CRC: 3fb175c1
-- Tomb Raider II - Starring Lara Croft - The Golden Mask (France) (Track 14).bin, CRC: 16df228d
-- Tomb Raider II - Starring Lara Croft - The Golden Mask (France) (Track 15).bin, CRC: 86265824
-- Tomb Raider II - Starring Lara Croft - The Golden Mask (France) (Track 16).bin, CRC: a0d6c1b7
-- Tomb Raider II - Starring Lara Croft - The Golden Mask (France) (Track 17).bin, CRC: d429db47
-- Tomb Raider II - Starring Lara Croft - The Golden Mask (France) (Track 18).bin, CRC: 29d5aa3f
-- Tomb Raider II - Starring Lara Croft - The Golden Mask (France) (Track 19).bin, CRC: 78e8d7dc
-- Tomb Raider II - Starring Lara Croft - The Golden Mask (France) (Track 20).bin, CRC: bfde0c42
-- Tomb Raider II - Starring Lara Croft - The Golden Mask (France) (Track 21).bin, CRC: 64243c58
-- Tomb Raider II - Starring Lara Croft - The Golden Mask (France) (Track 22).bin, CRC: 70cb000a
-- Tomb Raider II - Starring Lara Croft - The Golden Mask (France) (Track 23).bin, CRC: a0e5c968
-- Tomb Raider II - Starring Lara Croft - The Golden Mask (France) (Track 24).bin, CRC: 00134eff
-- Tomb Raider II - Starring Lara Croft - The Golden Mask (France) (Track 25).bin, CRC: 6878f39c
-- Tomb Raider II - Starring Lara Croft - The Golden Mask (France) (Track 26).bin, CRC: c53d9bdf
-- Tomb Raider II - Starring Lara Croft - The Golden Mask (France) (Track 27).bin, CRC: 224b3502
-- Tomb Raider II - Starring Lara Croft - The Golden Mask (France) (Track 28).bin, CRC: d4efee31
-- Tomb Raider II - Starring Lara Croft - The Golden Mask (France) (Track 29).bin, CRC: a696c134
-- Tomb Raider II - Starring Lara Croft - The Golden Mask (France) (Track 30).bin, CRC: b085c49d
-- Tomb Raider II - Starring Lara Croft - The Golden Mask (France) (Track 31).bin, CRC: 89d5b623
-- Tomb Raider II - Starring Lara Croft - The Golden Mask (France) (Track 32).bin, CRC: b4686470
-- Tomb Raider II - Starring Lara Croft - The Golden Mask (France) (Track 33).bin, CRC: b30b59fc
-- Tomb Raider II - Starring Lara Croft - The Golden Mask (France) (Track 34).bin, CRC: 02aadd30
-- Tomb Raider II - Starring Lara Croft - The Golden Mask (France) (Track 35).bin, CRC: 2240338b
-- Tomb Raider II - Starring Lara Croft - The Golden Mask (France) (Track 36).bin, CRC: e0746af2
-- Tomb Raider II - Starring Lara Croft - The Golden Mask (France) (Track 37).bin, CRC: a6b5cda1
-- Tomb Raider II - Starring Lara Croft - The Golden Mask (France) (Track 38).bin, CRC: 1d35d882
-- Tomb Raider II - Starring Lara Croft - The Golden Mask (France) (Track 39).bin, CRC: 576ef80b
-- Tomb Raider II - Starring Lara Croft - The Golden Mask (France) (Track 40).bin, CRC: 86cbf190
-- Tomb Raider II - Starring Lara Croft - The Golden Mask (France) (Track 41).bin, CRC: 454ae161
-- Tomb Raider II - Starring Lara Croft - The Golden Mask (France) (Track 42).bin, CRC: 56288603
-- Tomb Raider II - Starring Lara Croft - The Golden Mask (France) (Track 43).bin, CRC: 2895863a
-- Tomb Raider II - Starring Lara Croft - The Golden Mask (France) (Track 44).bin, CRC: c18117c8
-- Tomb Raider II - Starring Lara Croft - The Golden Mask (France) (Track 45).bin, CRC: 8d0c3bbd
-- Tomb Raider II - Starring Lara Croft - The Golden Mask (France) (Track 46).bin, CRC: ee2735a5
-- Tomb Raider II - Starring Lara Croft - The Golden Mask (France) (Track 47).bin, CRC: 8b042261
-- Tomb Raider II - Starring Lara Croft - The Golden Mask (France) (Track 48).bin, CRC: 3e3fab62
-- Tomb Raider II - Starring Lara Croft - The Golden Mask (France) (Track 49).bin, CRC: 19aec50b
-- Tomb Raider II - Starring Lara Croft - The Golden Mask (France) (Track 50).bin, CRC: c626ee90
-- Tomb Raider II - Starring Lara Croft - The Golden Mask (France) (Track 51).bin, CRC: a2d47009
-- Tomb Raider II - Starring Lara Croft - The Golden Mask (France) (Track 52).bin, CRC: d70e05e4
-- Tomb Raider II - Starring Lara Croft - The Golden Mask (France) (Track 53).bin, CRC: 65d26038
-- Tomb Raider II - Starring Lara Croft - The Golden Mask (France) (Track 54).bin, CRC: 39e5592c
-- Tomb Raider II - Starring Lara Croft - The Golden Mask (France) (Track 55).bin, CRC: 94a30676
-- Tomb Raider II - Starring Lara Croft - The Golden Mask (France) (Track 56).bin, CRC: e5c7ce49
-- Tomb Raider II - Starring Lara Croft - The Golden Mask (France) (Track 57).bin, CRC: 0cb4734f
-- Tomb Raider II - Starring Lara Croft - The Golden Mask (France) (Track 58).bin, CRC: 1588d8d8
-- Tomb Raider II - Starring Lara Croft - The Golden Mask (France) (Track 59).bin, CRC: 6de567ff
-- Tomb Raider II - Starring Lara Croft - The Golden Mask (France) (Track 60).bin, CRC: 284df200
 </details>
 
 ### Tomb Raider III - Les Aventures de Lara Croft (France) (Track 4).bin, CRC: 4343f43a
