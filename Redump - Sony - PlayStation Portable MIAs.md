@@ -1,9 +1,9 @@
 # Redump - Sony - PlayStation Portable MIAs
-## Games: 11, ROMs: 11, as of 2025-06-22
+## Games: 11, ROMs: 11, as of 2025-06-23
 
 ### Burnout Legends (Asia).iso, CRC: c03a765f
+### Eiyuu Densetsu - Ao no Kiseki (Japan) (v2.00).iso, CRC: fa902b0c
 ### Jikkyou Powerful Pro Yakyuu Portable 2 (Japan) (v2.01).iso, CRC: dc2b1163
-### Koi Sentai - Love and Peace the P.S.P. - Power Zenkai! Special Youso Tenkomori de Portable Kadai Sakusendearu! (Japan).iso, CRC: 8e128710
 ### MLB 09 - The Show (Asia) (Sample).iso, CRC: c2d9bf27
 ### NBA 08 (Asia) (Sample).iso, CRC: ae832ca5
 ### Retail Sampler No. 3 for PSP (Europe).iso, CRC: 81bb2dfa

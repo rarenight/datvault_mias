@@ -1,5 +1,5 @@
 # No-Intro - Nintendo - Nintendo Entertainment System (Headered) (Aftermarket) (Private) MIAs
-## Games: 20, ROMs: 20, as of 2025-06-22
+## Games: 22, ROMs: 22, as of 2025-06-23
 
 ### 8-Bit Slasher 4-in-1 Horror Demakes (World) (Aftermarket) (Unl).nes, CRC: 1e4d95a6
 ### Biocats (World) (Uk) (v1.1) (2025-03-10) (Aftermarket) (Unl).nes, CRC: 25abe5b9
@@ -10,6 +10,8 @@
 ### Data Man (World) (Aftermarket) (Unl).nes, CRC: 9b8e3a65
 ### Gemaboy Zero (World) (2025-04-03) (Aftermarket) (Unl).nes, CRC: 28e9d1d1
 ### Hazard - Let Us Out! (World) (Aftermarket) (Unl).nes, CRC: d552124f
+### Knight on the Moon (World) (Flash saving) (Aftermarket) (Unl).nes, CRC: d19ef7b4
+### Knight on the Moon (World) (No flash saving) (Aftermarket) (Unl).nes, CRC: d5eff5e2
 ### KUBO 3 (USA) (En,Ja,Fr) (Limited Run Games) (Aftermarket) (Unl).nes, CRC: 6d907e9d
 ### Mad Wizard, The - A Candelabra Chronicle (World) (Kickstarter) (Aftermarket) (Unl).nes, CRC: 0dd1075a
 ### Orebody - Binder's Tale (World) (Aftermarket) (Unl).nes, CRC: b03f17e1

@@ -1,5 +1,5 @@
 # Redump - DVD-Video MIAs
-## Games: 213, ROMs: 213, as of 2025-06-22
+## Games: 211, ROMs: 211, as of 2025-06-23
 
 ### 2002 Autumn Tokyo Game Show (Taiwan).iso, CRC: 92c99685
 ### 3-nen B-gumi Kinpachi Sensei - Densetsu no Kyoudan ni Tate! Promotion Video-2 (Japan).iso, CRC: d346598e
@@ -62,7 +62,6 @@
 ### Homestay a la mode (Japan) (Disc B).iso, CRC: a1893929
 ### Homestay a la mode (Japan) (Disc C).iso, CRC: 7d080d18
 ### Homestay a la mode (Japan) (Disc D).iso, CRC: f5f4014f
-### HVC Pico Pico Housoukyoku G-Style-hen Vol. 2 (Japan).iso, CRC: c23664fa
 ### Ice Age 2 - Jetzt Taut's (Austria) (En,De).iso, CRC: 7983eecb
 ### Imouto Paradise! 3 - Onii-chan to 5-nin no Imouto no Sugooku! Ecchi Shimakuri na Mainichi (Japan) (Disc 1).iso, CRC: 0fbcc0cc
 ### Imouto Paradise! 3 - Onii-chan to 5-nin no Imouto no Sugooku! Ecchi Shimakuri na Mainichi (Japan) (Disc 2).iso, CRC: 6098f67c
@@ -166,7 +165,6 @@
 ### Tales of Symphonia - Ratatosk no Kishi - Dramatic DVD - Gekidan Symphonia - Gakuen-hen (Japan).iso, CRC: b18038f9
 ### Tales of the World - Radiant Mythology 2 - Dramatic DVD - Golden Gumi-hen (Japan).iso, CRC: bf42c309
 ### Tokyo Friend Park II - Ketteiban - Minna de Chousen! Taikan Attraction! + High School Baseball DS (Japan).iso, CRC: 8cd0623c
-### Tokyo Twilight Ghost Hunters - Tokuten DVD (Japan).iso, CRC: 6a56625b
 ### Tom Clancy's Rainbow Six 3 - Official DVD Strategy Guide Full Motion Video Walkthrough (USA).iso, CRC: 1d1b29fb
 ### Toukiden - Kiwami Tentou Promotion Video (Japan).iso, CRC: 100d1a74
 ### Toukiden - Tentou Promotion Movie Dai-2-dan (Japan).iso, CRC: b80ff56f

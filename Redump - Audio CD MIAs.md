@@ -1,5 +1,65 @@
 # Redump - Audio CD MIAs
-## Games: 135, ROMs: 1688, as of 2025-06-22
+## Games: 142, ROMs: 1884, as of 2025-06-23
+
+### Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 1) (Alt)
+<details>
+<summary>ROMs</summary>
+
+- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 1) (Alt) (Track 01).bin, CRC: 129a83b9
+- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 1) (Alt) (Track 02).bin, CRC: ca55238a
+- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 1) (Alt) (Track 03).bin, CRC: 8f47a8ad
+- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 1) (Alt) (Track 04).bin, CRC: af92d420
+- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 1) (Alt) (Track 05).bin, CRC: 981e7ddf
+- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 1) (Alt) (Track 06).bin, CRC: 86fa9288
+- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 1) (Alt) (Track 07).bin, CRC: 27a80b1a
+- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 1) (Alt) (Track 08).bin, CRC: 870f0ef0
+- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 1) (Alt) (Track 09).bin, CRC: a244d027
+- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 1) (Alt) (Track 10).bin, CRC: 7bc6fd24
+- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 1) (Alt) (Track 11).bin, CRC: 55dde5e1
+- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 1) (Alt) (Track 12).bin, CRC: 5f8243e8
+- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 1) (Alt) (Track 13).bin, CRC: feec20d7
+- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 1) (Alt) (Track 14).bin, CRC: 7054a9cb
+- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 1) (Alt) (Track 15).bin, CRC: 84462ed6
+- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 1) (Alt) (Track 16).bin, CRC: f89e90ff
+- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 1) (Alt) (Track 17).bin, CRC: ee861e9d
+- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 1) (Alt) (Track 18).bin, CRC: 41cd72a1
+- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 1) (Alt) (Track 19).bin, CRC: c0ac110d
+- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 1) (Alt) (Track 20).bin, CRC: 6f5c45f7
+- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 1) (Alt) (Track 21).bin, CRC: c147aadc
+- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 1) (Alt) (Track 22).bin, CRC: 149859ed
+- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 1) (Alt) (Track 23).bin, CRC: 0f138eb0
+- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 1) (Alt) (Track 24).bin, CRC: 9e795c58
+</details>
+
+### Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 2) (Alt)
+<details>
+<summary>ROMs</summary>
+
+- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 2) (Alt) (Track 01).bin, CRC: 72775568
+- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 2) (Alt) (Track 02).bin, CRC: 150c2228
+- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 2) (Alt) (Track 03).bin, CRC: 296a389a
+- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 2) (Alt) (Track 04).bin, CRC: 717d0054
+- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 2) (Alt) (Track 05).bin, CRC: 2d7f191d
+- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 2) (Alt) (Track 06).bin, CRC: 12137bf0
+- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 2) (Alt) (Track 07).bin, CRC: 98eba3ce
+- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 2) (Alt) (Track 08).bin, CRC: dec0439b
+- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 2) (Alt) (Track 09).bin, CRC: 9e4cb3b5
+- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 2) (Alt) (Track 10).bin, CRC: 2c6436cb
+- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 2) (Alt) (Track 11).bin, CRC: b618803f
+- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 2) (Alt) (Track 12).bin, CRC: bb796105
+- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 2) (Alt) (Track 13).bin, CRC: 2a44e14c
+- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 2) (Alt) (Track 14).bin, CRC: 864ffa79
+- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 2) (Alt) (Track 15).bin, CRC: cbc8d86e
+- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 2) (Alt) (Track 16).bin, CRC: d4eb5de3
+- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 2) (Alt) (Track 17).bin, CRC: 1f3fb9ea
+- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 2) (Alt) (Track 18).bin, CRC: 316289ec
+- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 2) (Alt) (Track 19).bin, CRC: ca56abd7
+- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 2) (Alt) (Track 20).bin, CRC: 801e1dd9
+- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 2) (Alt) (Track 21).bin, CRC: ca374709
+- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 2) (Alt) (Track 22).bin, CRC: 4d1df6cd
+- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 2) (Alt) (Track 23).bin, CRC: 47e5b4dd
+- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 2) (Alt) (Track 24).bin, CRC: 3cc78b05
+</details>
 
 ### Age of Empires III (Poland) (Plyta audio z muzyka z gry) (PC Game Bundle)
 <details>
@@ -117,13 +177,40 @@
 - Best of Daedalic Entertainment (Germany) (PC Game Bundle) (Track 20).bin, CRC: bbb05744
 </details>
 
-### Bullet Butlers - Butler's Dictionary (Japan) (PC Game Bundle)
+### Broken Age - Soundtrack (Europe) (PC Game Bundle)
 <details>
 <summary>ROMs</summary>
 
-- Bullet Butlers - Butler's Dictionary (Japan) (PC Game Bundle) (Track 1).bin, CRC: 56ddc633
-- Bullet Butlers - Butler's Dictionary (Japan) (PC Game Bundle) (Track 2).bin, CRC: 44c46189
-- Bullet Butlers - Butler's Dictionary (Japan) (PC Game Bundle) (Track 3).bin, CRC: 6b92dd45
+- Broken Age - Soundtrack (Europe) (PC Game Bundle) (Track 01).bin, CRC: 42c78470
+- Broken Age - Soundtrack (Europe) (PC Game Bundle) (Track 02).bin, CRC: bcbdf0ea
+- Broken Age - Soundtrack (Europe) (PC Game Bundle) (Track 03).bin, CRC: a751ae03
+- Broken Age - Soundtrack (Europe) (PC Game Bundle) (Track 04).bin, CRC: 52523a0a
+- Broken Age - Soundtrack (Europe) (PC Game Bundle) (Track 05).bin, CRC: 071e958d
+- Broken Age - Soundtrack (Europe) (PC Game Bundle) (Track 06).bin, CRC: bb71e8c5
+- Broken Age - Soundtrack (Europe) (PC Game Bundle) (Track 07).bin, CRC: 01f7d220
+- Broken Age - Soundtrack (Europe) (PC Game Bundle) (Track 08).bin, CRC: 4b3dc5bb
+- Broken Age - Soundtrack (Europe) (PC Game Bundle) (Track 09).bin, CRC: 2e413ca3
+- Broken Age - Soundtrack (Europe) (PC Game Bundle) (Track 10).bin, CRC: 90eb28bd
+- Broken Age - Soundtrack (Europe) (PC Game Bundle) (Track 11).bin, CRC: 5c2a3311
+- Broken Age - Soundtrack (Europe) (PC Game Bundle) (Track 12).bin, CRC: 4f8b4001
+- Broken Age - Soundtrack (Europe) (PC Game Bundle) (Track 13).bin, CRC: 4385d7ba
+- Broken Age - Soundtrack (Europe) (PC Game Bundle) (Track 14).bin, CRC: 52ef3bed
+- Broken Age - Soundtrack (Europe) (PC Game Bundle) (Track 15).bin, CRC: b8e61e18
+- Broken Age - Soundtrack (Europe) (PC Game Bundle) (Track 16).bin, CRC: 98adeee9
+- Broken Age - Soundtrack (Europe) (PC Game Bundle) (Track 17).bin, CRC: d8e6fff6
+- Broken Age - Soundtrack (Europe) (PC Game Bundle) (Track 18).bin, CRC: 94565ade
+- Broken Age - Soundtrack (Europe) (PC Game Bundle) (Track 19).bin, CRC: 67a46868
+- Broken Age - Soundtrack (Europe) (PC Game Bundle) (Track 20).bin, CRC: 048506fc
+- Broken Age - Soundtrack (Europe) (PC Game Bundle) (Track 21).bin, CRC: d816aa8e
+- Broken Age - Soundtrack (Europe) (PC Game Bundle) (Track 22).bin, CRC: 9e1e81f9
+- Broken Age - Soundtrack (Europe) (PC Game Bundle) (Track 23).bin, CRC: cd871998
+- Broken Age - Soundtrack (Europe) (PC Game Bundle) (Track 24).bin, CRC: 146a6bf6
+- Broken Age - Soundtrack (Europe) (PC Game Bundle) (Track 25).bin, CRC: d34dee56
+- Broken Age - Soundtrack (Europe) (PC Game Bundle) (Track 26).bin, CRC: c8b29193
+- Broken Age - Soundtrack (Europe) (PC Game Bundle) (Track 27).bin, CRC: cd6b6b3b
+- Broken Age - Soundtrack (Europe) (PC Game Bundle) (Track 28).bin, CRC: 1c961d58
+- Broken Age - Soundtrack (Europe) (PC Game Bundle) (Track 29).bin, CRC: 74cd2144
+- Broken Age - Soundtrack (Europe) (PC Game Bundle) (Track 30).bin, CRC: e13fa4e3
 </details>
 
 ### Castlevania - Lords of Shadow - Original Soundtrack (Japan) (PS3 Game Bundle)
@@ -280,6 +367,24 @@
 ### Eiyuu Senki - The World Conquest - Original Sound Track (Japan) (Disc 1) (Track 18).bin, CRC: cb3451d3
 ### FM Vertex III - Apex (Japan) (Track 13).bin, CRC: 3d3de3d0
 ### FM Vertex III - Apex - Game Shop 1983 Gentei Tokuten (Japan).bin, CRC: 82062833
+### Fuga - Melodies of Steel Trilogy - Soundtrack (Japan) (NSW Game Bundle)
+<details>
+<summary>ROMs</summary>
+
+- Fuga - Melodies of Steel Trilogy - Soundtrack (Japan) (NSW Game Bundle) (Track 01).bin, CRC: 6bc6f42a
+- Fuga - Melodies of Steel Trilogy - Soundtrack (Japan) (NSW Game Bundle) (Track 02).bin, CRC: 2003730b
+- Fuga - Melodies of Steel Trilogy - Soundtrack (Japan) (NSW Game Bundle) (Track 03).bin, CRC: 3d76e56a
+- Fuga - Melodies of Steel Trilogy - Soundtrack (Japan) (NSW Game Bundle) (Track 04).bin, CRC: b8b9af8d
+- Fuga - Melodies of Steel Trilogy - Soundtrack (Japan) (NSW Game Bundle) (Track 05).bin, CRC: 3668d128
+- Fuga - Melodies of Steel Trilogy - Soundtrack (Japan) (NSW Game Bundle) (Track 06).bin, CRC: 48c02953
+- Fuga - Melodies of Steel Trilogy - Soundtrack (Japan) (NSW Game Bundle) (Track 07).bin, CRC: bdcb9e75
+- Fuga - Melodies of Steel Trilogy - Soundtrack (Japan) (NSW Game Bundle) (Track 08).bin, CRC: e67ff5ca
+- Fuga - Melodies of Steel Trilogy - Soundtrack (Japan) (NSW Game Bundle) (Track 09).bin, CRC: 58df1572
+- Fuga - Melodies of Steel Trilogy - Soundtrack (Japan) (NSW Game Bundle) (Track 10).bin, CRC: a295a842
+- Fuga - Melodies of Steel Trilogy - Soundtrack (Japan) (NSW Game Bundle) (Track 11).bin, CRC: df4f5cb1
+- Fuga - Melodies of Steel Trilogy - Soundtrack (Japan) (NSW Game Bundle) (Track 12).bin, CRC: a528bd93
+</details>
+
 ### Fukakutei Sekai no Tantei Shinshi - Akugyou Souma no Jiken File (Japan) (Original Drama CD - Fukakutei Sekai no Hinichijou) (PS2 Game Bundle) (Track 12).bin, CRC: cb5c2016
 ### FX Unit Yuki Original Soundtrack (USA)
 <details>
@@ -337,6 +442,7 @@
 </details>
 
 ### Game Sound Deco - G.S.M. Data East 1 (Japan) (Track 16).bin, CRC: 07584dc1
+### Gangsta Republica - Yoyaku Tokuten Disc - Yoruyou H na Oyasumi Drama CD (Japan).bin, CRC: e03073a9
 ### Gekkan Arcadia 12-gatsugou Furoku - Dariusburst Another Chronicle Senkou Shichouban (Japan)
 <details>
 <summary>ROMs</summary>
@@ -894,16 +1000,6 @@
 
 ### Nekketsu Koukou Sound-bu SFC-hen (Japan) (Disc 1) (Track 43).bin, CRC: 4f7280c8
 ### Nekketsu Koukou Sound-bu SFC-hen (Japan) (Disc 2) (Track 51).bin, CRC: 648a6912
-### Omatase! Janbaraya - Shokai Tokuten Maxi Single (Japan) (PC Game Bundle)
-<details>
-<summary>ROMs</summary>
-
-- Omatase! Janbaraya - Shokai Tokuten Maxi Single (Japan) (PC Game Bundle) (Track 1).bin, CRC: 961e6d1f
-- Omatase! Janbaraya - Shokai Tokuten Maxi Single (Japan) (PC Game Bundle) (Track 2).bin, CRC: 47c69356
-- Omatase! Janbaraya - Shokai Tokuten Maxi Single (Japan) (PC Game Bundle) (Track 3).bin, CRC: e606289e
-- Omatase! Janbaraya - Shokai Tokuten Maxi Single (Japan) (PC Game Bundle) (Track 4).bin, CRC: f24205da
-</details>
-
 ### ONGEKI Sound Collection 03 - Splash Dance!! (Japan)
 <details>
 <summary>ROMs</summary>
@@ -1044,6 +1140,125 @@
 - Path of Exile - Soundtrack (New Zealand) (PC Game Bundle) (Track 13).bin, CRC: cf6fa3d4
 </details>
 
+### Persona 4 Golden - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle)
+<details>
+<summary>ROMs</summary>
+
+- Persona 4 Golden - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 01).bin, CRC: f79bbcf1
+- Persona 4 Golden - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 02).bin, CRC: d1286b27
+- Persona 4 Golden - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 03).bin, CRC: 0df52339
+- Persona 4 Golden - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 04).bin, CRC: 9fe4ee5e
+- Persona 4 Golden - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 05).bin, CRC: 1c38da05
+- Persona 4 Golden - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 06).bin, CRC: d6e3c77a
+- Persona 4 Golden - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 07).bin, CRC: 8f2eea85
+- Persona 4 Golden - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 08).bin, CRC: b6697655
+- Persona 4 Golden - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 09).bin, CRC: 95e16301
+- Persona 4 Golden - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 10).bin, CRC: 483b27e3
+- Persona 4 Golden - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 11).bin, CRC: bb57e4f7
+- Persona 4 Golden - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 12).bin, CRC: 4538fbf6
+- Persona 4 Golden - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 13).bin, CRC: 5fa2c13d
+- Persona 4 Golden - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 14).bin, CRC: 96562763
+- Persona 4 Golden - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 15).bin, CRC: bee19ac2
+- Persona 4 Golden - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 16).bin, CRC: e1287c6e
+- Persona 4 Golden - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 17).bin, CRC: acef8c36
+- Persona 4 Golden - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 18).bin, CRC: 6067f952
+- Persona 4 Golden - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 19).bin, CRC: 9bd53264
+- Persona 4 Golden - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 20).bin, CRC: e199c28a
+- Persona 4 Golden - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 21).bin, CRC: b1949c96
+- Persona 4 Golden - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 22).bin, CRC: 72b6f4cc
+- Persona 4 Golden - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 23).bin, CRC: 27136a94
+- Persona 4 Golden - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 24).bin, CRC: 46243f03
+- Persona 4 Golden - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 25).bin, CRC: 422c1bfb
+- Persona 4 Golden - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 26).bin, CRC: fee95a3a
+</details>
+
+### Persona 4 Golden - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle)
+<details>
+<summary>ROMs</summary>
+
+- Persona 4 Golden - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 01).bin, CRC: d0a1a223
+- Persona 4 Golden - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 02).bin, CRC: cb50c00f
+- Persona 4 Golden - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 03).bin, CRC: 149c52fc
+- Persona 4 Golden - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 04).bin, CRC: b32d42bb
+- Persona 4 Golden - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 05).bin, CRC: 61ecd1d0
+- Persona 4 Golden - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 06).bin, CRC: 31f50808
+- Persona 4 Golden - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 07).bin, CRC: ff70938e
+- Persona 4 Golden - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 08).bin, CRC: 23a1e7f1
+- Persona 4 Golden - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 09).bin, CRC: 30d4d2a7
+- Persona 4 Golden - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 10).bin, CRC: e6a6dee1
+- Persona 4 Golden - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 11).bin, CRC: aadf8ca5
+- Persona 4 Golden - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 12).bin, CRC: 37c1ba02
+- Persona 4 Golden - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 13).bin, CRC: b670516b
+- Persona 4 Golden - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 14).bin, CRC: 05d2aa57
+- Persona 4 Golden - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 15).bin, CRC: fec6974c
+- Persona 4 Golden - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 16).bin, CRC: bc490a2e
+- Persona 4 Golden - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 17).bin, CRC: c5ca3b56
+- Persona 4 Golden - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 18).bin, CRC: a665d765
+- Persona 4 Golden - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 19).bin, CRC: 42a24ebe
+- Persona 4 Golden - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 20).bin, CRC: 4a1c0d72
+- Persona 4 Golden - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 21).bin, CRC: 030fdadc
+- Persona 4 Golden - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 22).bin, CRC: ae45d6c1
+- Persona 4 Golden - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 23).bin, CRC: d1f6713b
+- Persona 4 Golden - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 24).bin, CRC: 2d1116c0
+- Persona 4 Golden - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 25).bin, CRC: 42c6dcc7
+</details>
+
+### Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 1) (PS5 Game Bundle)
+<details>
+<summary>ROMs</summary>
+
+- Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 1) (PS5 Game Bundle) (Track 01).bin, CRC: 50d659be
+- Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 1) (PS5 Game Bundle) (Track 02).bin, CRC: 6b6dadca
+- Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 1) (PS5 Game Bundle) (Track 03).bin, CRC: 2285284f
+- Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 1) (PS5 Game Bundle) (Track 04).bin, CRC: 3115b819
+- Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 1) (PS5 Game Bundle) (Track 05).bin, CRC: 39c2e4ee
+- Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 1) (PS5 Game Bundle) (Track 06).bin, CRC: 453a67fb
+- Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 1) (PS5 Game Bundle) (Track 07).bin, CRC: a7ed965b
+- Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 1) (PS5 Game Bundle) (Track 08).bin, CRC: 05420241
+- Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 1) (PS5 Game Bundle) (Track 09).bin, CRC: 1c5b5260
+- Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 1) (PS5 Game Bundle) (Track 10).bin, CRC: 98d41c16
+</details>
+
+### Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 2) (PS5 Game Bundle)
+<details>
+<summary>ROMs</summary>
+
+- Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 2) (PS5 Game Bundle) (Track 01).bin, CRC: 1988600c
+- Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 2) (PS5 Game Bundle) (Track 02).bin, CRC: 66f3eeba
+- Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 2) (PS5 Game Bundle) (Track 03).bin, CRC: 5b8a5179
+- Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 2) (PS5 Game Bundle) (Track 04).bin, CRC: 3f2ef604
+- Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 2) (PS5 Game Bundle) (Track 05).bin, CRC: 2ef8776e
+- Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 2) (PS5 Game Bundle) (Track 06).bin, CRC: 4efaf254
+- Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 2) (PS5 Game Bundle) (Track 07).bin, CRC: 60fd5eaa
+- Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 2) (PS5 Game Bundle) (Track 08).bin, CRC: be203611
+- Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 2) (PS5 Game Bundle) (Track 09).bin, CRC: 500dcb09
+- Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 2) (PS5 Game Bundle) (Track 10).bin, CRC: 619f35fa
+- Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 2) (PS5 Game Bundle) (Track 11).bin, CRC: c9f19139
+- Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 2) (PS5 Game Bundle) (Track 12).bin, CRC: b2e8ca8c
+- Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 2) (PS5 Game Bundle) (Track 13).bin, CRC: e671e5af
+- Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 2) (PS5 Game Bundle) (Track 14).bin, CRC: 21e1236f
+- Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 2) (PS5 Game Bundle) (Track 15).bin, CRC: 71756d4f
+- Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 2) (PS5 Game Bundle) (Track 16).bin, CRC: e868a87f
+- Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 2) (PS5 Game Bundle) (Track 17).bin, CRC: 4d088764
+- Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 2) (PS5 Game Bundle) (Track 18).bin, CRC: 2f67eaa0
+- Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 2) (PS5 Game Bundle) (Track 19).bin, CRC: 4d4ae4b8
+- Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 2) (PS5 Game Bundle) (Track 20).bin, CRC: d9074d6e
+- Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 2) (PS5 Game Bundle) (Track 21).bin, CRC: 10a500ea
+- Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 2) (PS5 Game Bundle) (Track 22).bin, CRC: 8e5b1129
+- Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 2) (PS5 Game Bundle) (Track 23).bin, CRC: a815cdf7
+- Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 2) (PS5 Game Bundle) (Track 24).bin, CRC: 992ef411
+- Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 2) (PS5 Game Bundle) (Track 25).bin, CRC: 254bfaff
+- Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 2) (PS5 Game Bundle) (Track 26).bin, CRC: a6889e3e
+- Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 2) (PS5 Game Bundle) (Track 27).bin, CRC: d36a3a9e
+- Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 2) (PS5 Game Bundle) (Track 28).bin, CRC: 442ba337
+- Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 2) (PS5 Game Bundle) (Track 29).bin, CRC: 21ba5012
+- Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 2) (PS5 Game Bundle) (Track 30).bin, CRC: 5f9d18a7
+- Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 2) (PS5 Game Bundle) (Track 31).bin, CRC: a2303205
+- Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 2) (PS5 Game Bundle) (Track 32).bin, CRC: 09d34556
+- Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 2) (PS5 Game Bundle) (Track 33).bin, CRC: 334d0d8a
+- Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 2) (PS5 Game Bundle) (Track 34).bin, CRC: fa9e5205
+</details>
+
 ### Pil Sound Gear (Japan) (PC Game Bundle)
 <details>
 <summary>ROMs</summary>
@@ -1090,6 +1305,20 @@
 - Postujte Nase Znakove (Croatia) (PC Game Bundle) (Track 12).bin, CRC: 5f3f45a3
 </details>
 
+### Pure Pure - Mimi to Shippo no Monogatari - Special CD (Japan) (PS2 Game Bundle)
+<details>
+<summary>ROMs</summary>
+
+- Pure Pure - Mimi to Shippo no Monogatari - Special CD (Japan) (PS2 Game Bundle) (Track 1).bin, CRC: c6e8a537
+- Pure Pure - Mimi to Shippo no Monogatari - Special CD (Japan) (PS2 Game Bundle) (Track 2).bin, CRC: 03a96bae
+- Pure Pure - Mimi to Shippo no Monogatari - Special CD (Japan) (PS2 Game Bundle) (Track 3).bin, CRC: db27f4fe
+- Pure Pure - Mimi to Shippo no Monogatari - Special CD (Japan) (PS2 Game Bundle) (Track 4).bin, CRC: 096aabad
+- Pure Pure - Mimi to Shippo no Monogatari - Special CD (Japan) (PS2 Game Bundle) (Track 5).bin, CRC: d21ce084
+- Pure Pure - Mimi to Shippo no Monogatari - Special CD (Japan) (PS2 Game Bundle) (Track 6).bin, CRC: cb1f3b39
+- Pure Pure - Mimi to Shippo no Monogatari - Special CD (Japan) (PS2 Game Bundle) (Track 7).bin, CRC: 482c9216
+- Pure Pure - Mimi to Shippo no Monogatari - Special CD (Japan) (PS2 Game Bundle) (Track 8).bin, CRC: d538b141
+</details>
+
 ### Pure Song Garden! Sound Track Mirai Record! (Japan) (Track 26).bin, CRC: 29fcca68
 ### Quartett! - Gengakukyoku Original Sound Track (Japan) (PC Game Bundle) (Track 9).bin, CRC: 3458116c
 ### R4 - Ridge Racer Type 4 - The 20th Anniv. Sounds (Japan) (Disc 2) (2nd Heat - Remastered Sounds) (Alt 2)
@@ -1127,30 +1356,6 @@
 ### Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 2) (Track 23).bin, CRC: aa30e4af
 ### Rondo Leaflet Arrange Minialbum - Allow Time to Brew (Japan) (Track 7).bin, CRC: 7a7bf76f
 ### Rondo Leaflet Original Soundtrack - Old Rose Garden (Japan) (Disc 2) (Track 13).bin, CRC: 20351c0d
-### Rune Factory Memorial Box (Japan) (Disc 1) (Bride Side) (NSW Game Bundle)
-<details>
-<summary>ROMs</summary>
-
-- Rune Factory Memorial Box (Japan) (Disc 1) (Bride Side) (NSW Game Bundle) (Track 1).bin, CRC: 8461815a
-- Rune Factory Memorial Box (Japan) (Disc 1) (Bride Side) (NSW Game Bundle) (Track 2).bin, CRC: 4da4b87b
-- Rune Factory Memorial Box (Japan) (Disc 1) (Bride Side) (NSW Game Bundle) (Track 3).bin, CRC: e9cf992e
-- Rune Factory Memorial Box (Japan) (Disc 1) (Bride Side) (NSW Game Bundle) (Track 4).bin, CRC: dea1d13a
-- Rune Factory Memorial Box (Japan) (Disc 1) (Bride Side) (NSW Game Bundle) (Track 5).bin, CRC: a84e03c4
-- Rune Factory Memorial Box (Japan) (Disc 1) (Bride Side) (NSW Game Bundle) (Track 6).bin, CRC: fa57bb9b
-</details>
-
-### Rune Factory Memorial Box (Japan) (Disc 2) (Groom Side) (NSW Game Bundle)
-<details>
-<summary>ROMs</summary>
-
-- Rune Factory Memorial Box (Japan) (Disc 2) (Groom Side) (NSW Game Bundle) (Track 1).bin, CRC: e7bf0f1e
-- Rune Factory Memorial Box (Japan) (Disc 2) (Groom Side) (NSW Game Bundle) (Track 2).bin, CRC: 080279f6
-- Rune Factory Memorial Box (Japan) (Disc 2) (Groom Side) (NSW Game Bundle) (Track 3).bin, CRC: 4c4ca77f
-- Rune Factory Memorial Box (Japan) (Disc 2) (Groom Side) (NSW Game Bundle) (Track 4).bin, CRC: 424d1cfe
-- Rune Factory Memorial Box (Japan) (Disc 2) (Groom Side) (NSW Game Bundle) (Track 5).bin, CRC: 51338701
-- Rune Factory Memorial Box (Japan) (Disc 2) (Groom Side) (NSW Game Bundle) (Track 6).bin, CRC: ed9c14b3
-</details>
-
 ### SaGa Frontier II - Original Soundtrack (Japan) (Disc 1) (Track 28).bin, CRC: 825ccc5b
 ### SaGa Frontier II - Original Soundtrack (Japan) (Disc 3) (Track 21).bin, CRC: 5d4655a9
 ### Sanae-chan wa Torawarete Shimatta! Soundtrack (Japan) (Disc 2)
@@ -1735,6 +1940,26 @@
 - Taito Milestones - Soundtrack (Europe) (NSW Game Bundle) (Track 16).bin, CRC: b372afd2
 </details>
 
+### Telenet MIDI Box 3 (Japan)
+<details>
+<summary>ROMs</summary>
+
+- Telenet MIDI Box 3 (Japan) (Track 01).bin, CRC: a6b9396e
+- Telenet MIDI Box 3 (Japan) (Track 02).bin, CRC: 4cb5feb4
+- Telenet MIDI Box 3 (Japan) (Track 03).bin, CRC: 45f5c852
+- Telenet MIDI Box 3 (Japan) (Track 04).bin, CRC: 89237acd
+- Telenet MIDI Box 3 (Japan) (Track 05).bin, CRC: 1b4cd8a2
+- Telenet MIDI Box 3 (Japan) (Track 06).bin, CRC: 8af7e702
+- Telenet MIDI Box 3 (Japan) (Track 07).bin, CRC: 5e07afac
+- Telenet MIDI Box 3 (Japan) (Track 08).bin, CRC: 79d30648
+- Telenet MIDI Box 3 (Japan) (Track 09).bin, CRC: fc253f2b
+- Telenet MIDI Box 3 (Japan) (Track 10).bin, CRC: 76c62f1d
+- Telenet MIDI Box 3 (Japan) (Track 11).bin, CRC: b5508aca
+- Telenet MIDI Box 3 (Japan) (Track 12).bin, CRC: f321b783
+- Telenet MIDI Box 3 (Japan) (Track 13).bin, CRC: ddbc479c
+- Telenet MIDI Box 3 (Japan) (Track 14).bin, CRC: 788633c8
+</details>
+
 ### Tetris - The Grand Master Trilogy - Sound Masters (Japan) (Track 37).bin, CRC: d945e021
 ### That's Atari Music - G.S.M. Atari Games 1 (Japan)
 <details>
@@ -2036,6 +2261,22 @@
 - Wargroove 1+2 - Selection Soundtrack (Japan) (NSW Game Bundle) (Track 10).bin, CRC: e781474b
 </details>
 
+### White Knuckle Scorin' (USA)
+<details>
+<summary>ROMs</summary>
+
+- White Knuckle Scorin' (USA) (Track 01).bin, CRC: 674b405b
+- White Knuckle Scorin' (USA) (Track 02).bin, CRC: 70c503e2
+- White Knuckle Scorin' (USA) (Track 03).bin, CRC: 7e88edd1
+- White Knuckle Scorin' (USA) (Track 04).bin, CRC: 64927b88
+- White Knuckle Scorin' (USA) (Track 05).bin, CRC: 93b8fcff
+- White Knuckle Scorin' (USA) (Track 06).bin, CRC: 95961c1b
+- White Knuckle Scorin' (USA) (Track 07).bin, CRC: c8339bb4
+- White Knuckle Scorin' (USA) (Track 08).bin, CRC: 2ff0d3fd
+- White Knuckle Scorin' (USA) (Track 09).bin, CRC: 209ec5c5
+- White Knuckle Scorin' (USA) (Track 10).bin, CRC: f9bae082
+</details>
+
 ### Wizardry - Proving Grounds of the Mad Overlord - Original Game Soundtrack (Japan)
 <details>
 <summary>ROMs</summary>
@@ -2188,14 +2429,5 @@
 - Wizardry Variants Daphne - Original Soundtrack (Japan) (Disc 2) (Track 18).bin, CRC: cda48a03
 - Wizardry Variants Daphne - Original Soundtrack (Japan) (Disc 2) (Track 19).bin, CRC: 9ef84b09
 - Wizardry Variants Daphne - Original Soundtrack (Japan) (Disc 2) (Track 20).bin, CRC: de5da191
-</details>
-
-### Yuzuminatsu - You Know My Heart! & Drama CD (Japan) (PC Game Bundle)
-<details>
-<summary>ROMs</summary>
-
-- Yuzuminatsu - You Know My Heart! & Drama CD (Japan) (PC Game Bundle) (Track 1).bin, CRC: d3829e0b
-- Yuzuminatsu - You Know My Heart! & Drama CD (Japan) (PC Game Bundle) (Track 2).bin, CRC: b4bb5c22
-- Yuzuminatsu - You Know My Heart! & Drama CD (Japan) (PC Game Bundle) (Track 3).bin, CRC: f26d91f3
 </details>
 
