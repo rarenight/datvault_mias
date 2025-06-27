@@ -1,5 +1,5 @@
 # Redump - Audio CD MIAs
-## Games: 142, ROMs: 1884, as of 2025-06-23
+## Games: 140, ROMs: 1849, as of 2025-06-27
 
 ### Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 1) (Alt)
 <details>
@@ -309,33 +309,6 @@
 - Dark Souls III - Original Soundtrack (Japan) (PS4 Game Bundle) (Track 23).bin, CRC: 5b42c6cb
 - Dark Souls III - Original Soundtrack (Japan) (PS4 Game Bundle) (Track 24).bin, CRC: d7ca86f3
 - Dark Souls III - Original Soundtrack (Japan) (PS4 Game Bundle) (Track 25).bin, CRC: 02096635
-</details>
-
-### Detective Gallo (Italy) (Soundtrack CD) (PC Game Bundle)
-<details>
-<summary>ROMs</summary>
-
-- Detective Gallo (Italy) (Soundtrack CD) (PC Game Bundle) (Track 01).bin, CRC: 208e9f4a
-- Detective Gallo (Italy) (Soundtrack CD) (PC Game Bundle) (Track 02).bin, CRC: 856f47b1
-- Detective Gallo (Italy) (Soundtrack CD) (PC Game Bundle) (Track 03).bin, CRC: 28e0f284
-- Detective Gallo (Italy) (Soundtrack CD) (PC Game Bundle) (Track 04).bin, CRC: 78d72f3d
-- Detective Gallo (Italy) (Soundtrack CD) (PC Game Bundle) (Track 05).bin, CRC: 21055c9d
-- Detective Gallo (Italy) (Soundtrack CD) (PC Game Bundle) (Track 06).bin, CRC: 370ad5c5
-- Detective Gallo (Italy) (Soundtrack CD) (PC Game Bundle) (Track 07).bin, CRC: 2a948978
-- Detective Gallo (Italy) (Soundtrack CD) (PC Game Bundle) (Track 08).bin, CRC: 2a626cf6
-- Detective Gallo (Italy) (Soundtrack CD) (PC Game Bundle) (Track 09).bin, CRC: e536fe0f
-- Detective Gallo (Italy) (Soundtrack CD) (PC Game Bundle) (Track 10).bin, CRC: 3a4d41f2
-- Detective Gallo (Italy) (Soundtrack CD) (PC Game Bundle) (Track 11).bin, CRC: 5368e41b
-- Detective Gallo (Italy) (Soundtrack CD) (PC Game Bundle) (Track 12).bin, CRC: 4cd50ddd
-- Detective Gallo (Italy) (Soundtrack CD) (PC Game Bundle) (Track 13).bin, CRC: 1d04b4f7
-- Detective Gallo (Italy) (Soundtrack CD) (PC Game Bundle) (Track 14).bin, CRC: f9a74ba6
-- Detective Gallo (Italy) (Soundtrack CD) (PC Game Bundle) (Track 15).bin, CRC: 8c75e454
-- Detective Gallo (Italy) (Soundtrack CD) (PC Game Bundle) (Track 16).bin, CRC: b581bb44
-- Detective Gallo (Italy) (Soundtrack CD) (PC Game Bundle) (Track 17).bin, CRC: 0305ec09
-- Detective Gallo (Italy) (Soundtrack CD) (PC Game Bundle) (Track 18).bin, CRC: eb7abd19
-- Detective Gallo (Italy) (Soundtrack CD) (PC Game Bundle) (Track 19).bin, CRC: 7e749402
-- Detective Gallo (Italy) (Soundtrack CD) (PC Game Bundle) (Track 20).bin, CRC: a59e769e
-- Detective Gallo (Italy) (Soundtrack CD) (PC Game Bundle) (Track 21).bin, CRC: 7f85c83d
 </details>
 
 ### Diablo II (Poland) (PC Game Bundle)
@@ -1938,26 +1911,6 @@
 - Taito Milestones - Soundtrack (Europe) (NSW Game Bundle) (Track 14).bin, CRC: 751b4d69
 - Taito Milestones - Soundtrack (Europe) (NSW Game Bundle) (Track 15).bin, CRC: 88c2c8a6
 - Taito Milestones - Soundtrack (Europe) (NSW Game Bundle) (Track 16).bin, CRC: b372afd2
-</details>
-
-### Telenet MIDI Box 3 (Japan)
-<details>
-<summary>ROMs</summary>
-
-- Telenet MIDI Box 3 (Japan) (Track 01).bin, CRC: a6b9396e
-- Telenet MIDI Box 3 (Japan) (Track 02).bin, CRC: 4cb5feb4
-- Telenet MIDI Box 3 (Japan) (Track 03).bin, CRC: 45f5c852
-- Telenet MIDI Box 3 (Japan) (Track 04).bin, CRC: 89237acd
-- Telenet MIDI Box 3 (Japan) (Track 05).bin, CRC: 1b4cd8a2
-- Telenet MIDI Box 3 (Japan) (Track 06).bin, CRC: 8af7e702
-- Telenet MIDI Box 3 (Japan) (Track 07).bin, CRC: 5e07afac
-- Telenet MIDI Box 3 (Japan) (Track 08).bin, CRC: 79d30648
-- Telenet MIDI Box 3 (Japan) (Track 09).bin, CRC: fc253f2b
-- Telenet MIDI Box 3 (Japan) (Track 10).bin, CRC: 76c62f1d
-- Telenet MIDI Box 3 (Japan) (Track 11).bin, CRC: b5508aca
-- Telenet MIDI Box 3 (Japan) (Track 12).bin, CRC: f321b783
-- Telenet MIDI Box 3 (Japan) (Track 13).bin, CRC: ddbc479c
-- Telenet MIDI Box 3 (Japan) (Track 14).bin, CRC: 788633c8
 </details>
 
 ### Tetris - The Grand Master Trilogy - Sound Masters (Japan) (Track 37).bin, CRC: d945e021

@@ -1,5 +1,5 @@
 # Redump - IBM - PC compatible MIAs
-## Games: 3278, ROMs: 7317, as of 2025-06-23
+## Games: 3265, ROMs: 7304, as of 2025-06-27
 
 ### %% - Fuuin no Otome (Japan) (Track 10).bin, CRC: 4481aa75
 ### Alley 19 Bowling (Europe) (Track 5).bin, CRC: dc835204
@@ -926,9 +926,6 @@
 ### Byd Geiriau Anifeiliaid (UK).bin, CRC: 76ff2314
 ### Byd Geiriau Tywydd (UK).bin, CRC: 81ca4b5a
 ### Bygg Batar med Mulle Meck (Sweden).bin, CRC: a7315b49
-### C.C.S.B. (Japan) (C85 Prototype Version).bin, CRC: f2b37ba1
-### C.C.S.B. (Japan) (C88 Trial Version).bin, CRC: 292becce
-### C.C.S.B. (Japan) (C90 Trial Version).bin, CRC: 42dd5980
 ### C64 Forever - Plus Edition 8 (Europe).bin, CRC: 1fc4d023
 ### Caesar II (Europe) (Rerelease) (D9EBD7F1).bin, CRC: d9ebd7f1
 ### Caesar II (USA) (Rerelease) (1995-09-15).bin, CRC: 2b29626b
@@ -938,7 +935,6 @@
 ### Call of Duty (Japan) (Disc 1) (Rerelease).bin, CRC: 27297d83
 ### Call of Duty (Japan) (Disc 2) (Rerelease).bin, CRC: cc312f16
 ### Call of Duty (Taiwan) (Demo).bin, CRC: 589a93e6
-### Call of Duty - United Offensive (Poland) (Disc 1).bin, CRC: df51cdfe
 ### Call of Duty 2 (France).iso, CRC: b081e11a
 ### Call of Duty 2 (Japan).iso, CRC: 012ffeb8
 ### Call of Duty Interactive CD-ROM - Game Demo (USA).bin, CRC: 58677986
@@ -2443,7 +2439,6 @@
 - Evil Dead - Hail to the King (Czech) (Disc 1) (Track 3).bin, CRC: cfd3c420
 </details>
 
-### Evil Dead - Hail to the King (Czech) (Disc 2).bin, CRC: b74dbd9a
 ### Evil Islands - Curse of the Lost Soul (Korea).bin, CRC: 0a4a0c17
 ### Evil Islands - Klatwa Zagubionej Duszy (Poland) (Disc 1).bin, CRC: 8f40be3f
 ### Exception (Japan) (Track 10).bin, CRC: 6ad1fb3e
@@ -3216,7 +3211,6 @@
 - Gyoukai Arijigoku - Yakuza-hen & Kangofu-hen (Japan) (Track 7).bin, CRC: 20cfe424
 </details>
 
-### H!Zone (USA) (Alt).bin, CRC: 83f86e80
 ### Ha La Ma Jiang Wang (Taiwan).bin, CRC: b21ebdb9
 ### Haer Kommer Pippi Langstrump - Jubileumsutgava (Scandinavia) (Sv,No,Da,Fi).bin, CRC: 84f7508f
 ### Hafizami Gelistiriyorum (Turkey).bin, CRC: 317284e8
@@ -3912,8 +3906,6 @@
 ### Jade Rousseau - Episode 1 - Le Mystere de Sant'Antonio (France).bin, CRC: 21a84f29
 ### Jade Rousseau - The Fall of Sant'Antonio (UK).bin, CRC: d90a5912
 ### Jade Rousseau - The Secret Revelations - The Fall of Sant'Antonio (USA).bin, CRC: 2e889783
-### Jagged Alliance - Back in Action (Australia).iso, CRC: 5bb48e86
-### Jagged Alliance - Crossfire (Australia).iso, CRC: a64ae613
 ### Jagged Alliance 2 (Poland) (Plyta nr 1, Instalacyjna).bin, CRC: 7c1d3f07
 ### Jagged Alliance 2 (Poland) (Plyta nr 2).bin, CRC: b6cb193f
 ### Jakarta Motorcross Challenge (Lithuania).bin, CRC: 34ec1476
@@ -4106,7 +4098,6 @@
 </details>
 
 ### Kalle Kunskap - Skolstart - Pa Aeventyr i Balongstaden (Sweden).bin, CRC: 025f63b3
-### Kalle Kunskap - Skolstart - Pa Aeventyr i Balongstaden (Sweden) (Rerelease).iso, CRC: e49528ad
 ### Kamieshi Training School - Noa Side (Japan).bin, CRC: 193c9635
 ### Kanaete Ageru - Fuyu ga Kureta Present (Japan).bin, CRC: b0ec28a7
 ### Kane & Lynch - Dead Men (Germany) (En,Fr,De,Es,It).iso, CRC: 4ab88154
@@ -5475,7 +5466,6 @@
 ### Muzzy at the Seaside (USA) (En,Fr,De,Es,It).bin, CRC: 176657d0
 ### My Alphabet Tutor (New Zealand).bin, CRC: 73a236a6
 ### My First 100 Words in Greek (USA) (En,El).bin, CRC: 3ccb304d
-### My First Amazing Science Explorer (USA).bin, CRC: aec146b6
 ### My India (India).bin, CRC: 1b0fdc30
 ### My Little Princess Part 1 - Little Princess and Angel Ammy (Thailand) (En,Th).bin, CRC: bb840d33
 ### Myst (USA) (En,Ja,Fr,De,Es,It,Pl,Ru) (Rerelease) (2018-10-29).iso, CRC: aae8a87d
@@ -5988,7 +5978,6 @@
 </details>
 
 ### PlayOnline Viewer and Tetra Master (Japan).bin, CRC: bcc6574e
-### Playstation 2 - Technical Reference CD - September 2001 (Europe).bin, CRC: 87382f7a
 ### Pocket Kanon & Air (Japan).bin, CRC: fc3345a8
 ### Pokemon Project Studio - Version Rouge (France).bin, CRC: 505b8ead
 ### PokeROM - Bisasam (Germany).bin, CRC: 2714f6a4
@@ -7514,7 +7503,6 @@
 ### Sims 2, The - Bon Voyage (Expansion Pack) (Germany) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,Cs,Hu).iso, CRC: ad4f0273
 ### Sims 2, The - Double Deluxe (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,Cs,Hu) (Rerelease).iso, CRC: 3f92f237
 ### Sims 2, The - Fashion Stuff (Australia) (En,Fr,De,Es,It,Nl,Pt,No,Da,Fi,Pl,Ru,Cs,Hu).bin, CRC: e4437133
-### Sims 2, The - Mansion & Garden Stuff (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,Cs,Hu).iso, CRC: 28985ffe
 ### Sims 2, The - Teenager Pack (Japan).bin, CRC: cfd2f6ff
 ### Sims 2, The - University (Expansion Pack) (Germany) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Cs) (Disc 1).bin, CRC: 7b6e5789
 ### Sims 2, The - University (Expansion Pack) (Germany) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Cs) (Disc 2).bin, CRC: a835831e
@@ -7525,7 +7513,6 @@
 ### Sims Strategy Guide and SimFan Pack, The (USA).bin, CRC: 8de269a8
 ### Sims, The (Korea) (En,Ko).bin, CRC: 46e979d1
 ### Sims, The - Livin' It Up (Expansion Pack) (Germany) (En,Fr,De,Es,It,Nl,Sv).bin, CRC: 3ef66178
-### Sims, The - On Holiday (Expansion Pack) (Germany) (En,Fr,De,Es,It,Nl,Sv).bin, CRC: 8e62e794
 ### SimTheme Park (USA) (Gold Edition) (2000-05-11).bin, CRC: a594a98d
 ### Simulation Pro Yakyuu '99 (Japan)
 <details>
