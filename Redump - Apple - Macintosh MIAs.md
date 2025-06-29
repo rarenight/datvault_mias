@@ -1,5 +1,5 @@
 # Redump - Apple - Macintosh MIAs
-## Games: 147, ROMs: 178, as of 2025-06-27
+## Games: 146, ROMs: 177, as of 2025-06-29
 
 ### 3-D Ultra Pinball (Japan).bin, CRC: 610eb45d
 ### 3DO Content Library, The (USA) (Disc 88) (Music & Sound Effects).bin, CRC: c157b11b
@@ -92,7 +92,6 @@
 </details>
 
 ### Flying Nightmares (Japan).bin, CRC: 79029bb7
-### Flying Nightmares (USA).bin, CRC: 8fcc8390
 ### Frankenstein - Through the Eyes of the Monster (USA).bin, CRC: 96dda09e
 ### Freedom Force (USA).bin, CRC: a45a5e1c
 ### Ginga Eiyuu Densetsu - Screen Saver Vol. 2 for Macintosh (Japan).bin, CRC: e68abd37

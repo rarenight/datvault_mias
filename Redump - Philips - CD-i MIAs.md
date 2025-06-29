@@ -1,5 +1,5 @@
 # Redump - Philips - CD-i MIAs
-## Games: 11, ROMs: 27, as of 2025-06-27
+## Games: 11, ROMs: 27, as of 2025-06-29
 
 ### Caesars World of Gambling (Japan).bin, CRC: 3f508714
 ### Foqus (Sweden).bin, CRC: 3caec735
