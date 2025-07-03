@@ -1,5 +1,5 @@
 # Redump - NEC - PC Engine CD & TurboGrafx CD MIAs
-## Games: 1, ROMs: 2, as of 2025-06-29
+## Games: 1, ROMs: 2, as of 2025-07-03
 
 ### Jim Power in Mutant Planet (USA) (Unl)
 <details>

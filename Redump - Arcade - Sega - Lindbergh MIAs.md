@@ -1,5 +1,5 @@
 # Redump - Arcade - Sega - Lindbergh MIAs
-## Games: 7, ROMs: 7, as of 2025-06-29
+## Games: 7, ROMs: 7, as of 2025-07-03
 
 ### Club Majesty - Cloud Nine (Japan) (Lindbergh Red) (Rev B).iso, CRC: db493018
 ### Club Majesty - Gatling Poker (Japan) (Lindbergh Red) (Rev A).iso, CRC: 8f82ecc6

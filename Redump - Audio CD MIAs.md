@@ -1,5 +1,5 @@
 # Redump - Audio CD MIAs
-## Games: 140, ROMs: 1849, as of 2025-06-29
+## Games: 133, ROMs: 1740, as of 2025-07-03
 
 ### Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 1) (Alt)
 <details>
@@ -279,7 +279,6 @@
 </details>
 
 ### Chocobo no Fushigi na Dungeon - Original Soundtrack (Japan) (Disc 2) (Special Pack CD) (SSCX 10014) (Track 2).bin, CRC: b7c42356
-### Cotton - Original Soundtrack (Japan) (Disc 3) (Track 48).bin, CRC: 08bb35a4
 ### Dark Souls III - Original Soundtrack (Japan)
 <details>
 <summary>ROMs</summary>
@@ -337,27 +336,8 @@
 ### Double Dragon - Sound Collection Vol. 1 (Japan) (Disc 1) (Track 51).bin, CRC: 2f919305
 ### Double Dragon - Sound Collection Vol. 1 (Japan) (Disc 2) (Track 33).bin, CRC: 97abc4b7
 ### Einhaender - Original Soundtrack (Japan) (Track 29).bin, CRC: 0fe74650
-### Eiyuu Senki - The World Conquest - Original Sound Track (Japan) (Disc 1) (Track 18).bin, CRC: cb3451d3
 ### FM Vertex III - Apex (Japan) (Track 13).bin, CRC: 3d3de3d0
 ### FM Vertex III - Apex - Game Shop 1983 Gentei Tokuten (Japan).bin, CRC: 82062833
-### Fuga - Melodies of Steel Trilogy - Soundtrack (Japan) (NSW Game Bundle)
-<details>
-<summary>ROMs</summary>
-
-- Fuga - Melodies of Steel Trilogy - Soundtrack (Japan) (NSW Game Bundle) (Track 01).bin, CRC: 6bc6f42a
-- Fuga - Melodies of Steel Trilogy - Soundtrack (Japan) (NSW Game Bundle) (Track 02).bin, CRC: 2003730b
-- Fuga - Melodies of Steel Trilogy - Soundtrack (Japan) (NSW Game Bundle) (Track 03).bin, CRC: 3d76e56a
-- Fuga - Melodies of Steel Trilogy - Soundtrack (Japan) (NSW Game Bundle) (Track 04).bin, CRC: b8b9af8d
-- Fuga - Melodies of Steel Trilogy - Soundtrack (Japan) (NSW Game Bundle) (Track 05).bin, CRC: 3668d128
-- Fuga - Melodies of Steel Trilogy - Soundtrack (Japan) (NSW Game Bundle) (Track 06).bin, CRC: 48c02953
-- Fuga - Melodies of Steel Trilogy - Soundtrack (Japan) (NSW Game Bundle) (Track 07).bin, CRC: bdcb9e75
-- Fuga - Melodies of Steel Trilogy - Soundtrack (Japan) (NSW Game Bundle) (Track 08).bin, CRC: e67ff5ca
-- Fuga - Melodies of Steel Trilogy - Soundtrack (Japan) (NSW Game Bundle) (Track 09).bin, CRC: 58df1572
-- Fuga - Melodies of Steel Trilogy - Soundtrack (Japan) (NSW Game Bundle) (Track 10).bin, CRC: a295a842
-- Fuga - Melodies of Steel Trilogy - Soundtrack (Japan) (NSW Game Bundle) (Track 11).bin, CRC: df4f5cb1
-- Fuga - Melodies of Steel Trilogy - Soundtrack (Japan) (NSW Game Bundle) (Track 12).bin, CRC: a528bd93
-</details>
-
 ### Fukakutei Sekai no Tantei Shinshi - Akugyou Souma no Jiken File (Japan) (Original Drama CD - Fukakutei Sekai no Hinichijou) (PS2 Game Bundle) (Track 12).bin, CRC: cb5c2016
 ### FX Unit Yuki Original Soundtrack (USA)
 <details>
@@ -1111,125 +1091,6 @@
 - Path of Exile - Soundtrack (New Zealand) (PC Game Bundle) (Track 11).bin, CRC: f231b764
 - Path of Exile - Soundtrack (New Zealand) (PC Game Bundle) (Track 12).bin, CRC: 502a86de
 - Path of Exile - Soundtrack (New Zealand) (PC Game Bundle) (Track 13).bin, CRC: cf6fa3d4
-</details>
-
-### Persona 4 Golden - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle)
-<details>
-<summary>ROMs</summary>
-
-- Persona 4 Golden - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 01).bin, CRC: f79bbcf1
-- Persona 4 Golden - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 02).bin, CRC: d1286b27
-- Persona 4 Golden - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 03).bin, CRC: 0df52339
-- Persona 4 Golden - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 04).bin, CRC: 9fe4ee5e
-- Persona 4 Golden - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 05).bin, CRC: 1c38da05
-- Persona 4 Golden - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 06).bin, CRC: d6e3c77a
-- Persona 4 Golden - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 07).bin, CRC: 8f2eea85
-- Persona 4 Golden - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 08).bin, CRC: b6697655
-- Persona 4 Golden - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 09).bin, CRC: 95e16301
-- Persona 4 Golden - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 10).bin, CRC: 483b27e3
-- Persona 4 Golden - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 11).bin, CRC: bb57e4f7
-- Persona 4 Golden - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 12).bin, CRC: 4538fbf6
-- Persona 4 Golden - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 13).bin, CRC: 5fa2c13d
-- Persona 4 Golden - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 14).bin, CRC: 96562763
-- Persona 4 Golden - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 15).bin, CRC: bee19ac2
-- Persona 4 Golden - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 16).bin, CRC: e1287c6e
-- Persona 4 Golden - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 17).bin, CRC: acef8c36
-- Persona 4 Golden - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 18).bin, CRC: 6067f952
-- Persona 4 Golden - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 19).bin, CRC: 9bd53264
-- Persona 4 Golden - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 20).bin, CRC: e199c28a
-- Persona 4 Golden - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 21).bin, CRC: b1949c96
-- Persona 4 Golden - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 22).bin, CRC: 72b6f4cc
-- Persona 4 Golden - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 23).bin, CRC: 27136a94
-- Persona 4 Golden - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 24).bin, CRC: 46243f03
-- Persona 4 Golden - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 25).bin, CRC: 422c1bfb
-- Persona 4 Golden - Official Soundtrack (USA) (Disc 1) (NSW Game Bundle) (Track 26).bin, CRC: fee95a3a
-</details>
-
-### Persona 4 Golden - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle)
-<details>
-<summary>ROMs</summary>
-
-- Persona 4 Golden - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 01).bin, CRC: d0a1a223
-- Persona 4 Golden - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 02).bin, CRC: cb50c00f
-- Persona 4 Golden - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 03).bin, CRC: 149c52fc
-- Persona 4 Golden - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 04).bin, CRC: b32d42bb
-- Persona 4 Golden - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 05).bin, CRC: 61ecd1d0
-- Persona 4 Golden - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 06).bin, CRC: 31f50808
-- Persona 4 Golden - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 07).bin, CRC: ff70938e
-- Persona 4 Golden - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 08).bin, CRC: 23a1e7f1
-- Persona 4 Golden - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 09).bin, CRC: 30d4d2a7
-- Persona 4 Golden - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 10).bin, CRC: e6a6dee1
-- Persona 4 Golden - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 11).bin, CRC: aadf8ca5
-- Persona 4 Golden - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 12).bin, CRC: 37c1ba02
-- Persona 4 Golden - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 13).bin, CRC: b670516b
-- Persona 4 Golden - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 14).bin, CRC: 05d2aa57
-- Persona 4 Golden - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 15).bin, CRC: fec6974c
-- Persona 4 Golden - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 16).bin, CRC: bc490a2e
-- Persona 4 Golden - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 17).bin, CRC: c5ca3b56
-- Persona 4 Golden - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 18).bin, CRC: a665d765
-- Persona 4 Golden - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 19).bin, CRC: 42a24ebe
-- Persona 4 Golden - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 20).bin, CRC: 4a1c0d72
-- Persona 4 Golden - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 21).bin, CRC: 030fdadc
-- Persona 4 Golden - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 22).bin, CRC: ae45d6c1
-- Persona 4 Golden - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 23).bin, CRC: d1f6713b
-- Persona 4 Golden - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 24).bin, CRC: 2d1116c0
-- Persona 4 Golden - Official Soundtrack (USA) (Disc 2) (NSW Game Bundle) (Track 25).bin, CRC: 42c6dcc7
-</details>
-
-### Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 1) (PS5 Game Bundle)
-<details>
-<summary>ROMs</summary>
-
-- Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 1) (PS5 Game Bundle) (Track 01).bin, CRC: 50d659be
-- Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 1) (PS5 Game Bundle) (Track 02).bin, CRC: 6b6dadca
-- Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 1) (PS5 Game Bundle) (Track 03).bin, CRC: 2285284f
-- Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 1) (PS5 Game Bundle) (Track 04).bin, CRC: 3115b819
-- Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 1) (PS5 Game Bundle) (Track 05).bin, CRC: 39c2e4ee
-- Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 1) (PS5 Game Bundle) (Track 06).bin, CRC: 453a67fb
-- Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 1) (PS5 Game Bundle) (Track 07).bin, CRC: a7ed965b
-- Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 1) (PS5 Game Bundle) (Track 08).bin, CRC: 05420241
-- Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 1) (PS5 Game Bundle) (Track 09).bin, CRC: 1c5b5260
-- Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 1) (PS5 Game Bundle) (Track 10).bin, CRC: 98d41c16
-</details>
-
-### Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 2) (PS5 Game Bundle)
-<details>
-<summary>ROMs</summary>
-
-- Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 2) (PS5 Game Bundle) (Track 01).bin, CRC: 1988600c
-- Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 2) (PS5 Game Bundle) (Track 02).bin, CRC: 66f3eeba
-- Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 2) (PS5 Game Bundle) (Track 03).bin, CRC: 5b8a5179
-- Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 2) (PS5 Game Bundle) (Track 04).bin, CRC: 3f2ef604
-- Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 2) (PS5 Game Bundle) (Track 05).bin, CRC: 2ef8776e
-- Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 2) (PS5 Game Bundle) (Track 06).bin, CRC: 4efaf254
-- Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 2) (PS5 Game Bundle) (Track 07).bin, CRC: 60fd5eaa
-- Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 2) (PS5 Game Bundle) (Track 08).bin, CRC: be203611
-- Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 2) (PS5 Game Bundle) (Track 09).bin, CRC: 500dcb09
-- Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 2) (PS5 Game Bundle) (Track 10).bin, CRC: 619f35fa
-- Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 2) (PS5 Game Bundle) (Track 11).bin, CRC: c9f19139
-- Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 2) (PS5 Game Bundle) (Track 12).bin, CRC: b2e8ca8c
-- Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 2) (PS5 Game Bundle) (Track 13).bin, CRC: e671e5af
-- Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 2) (PS5 Game Bundle) (Track 14).bin, CRC: 21e1236f
-- Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 2) (PS5 Game Bundle) (Track 15).bin, CRC: 71756d4f
-- Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 2) (PS5 Game Bundle) (Track 16).bin, CRC: e868a87f
-- Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 2) (PS5 Game Bundle) (Track 17).bin, CRC: 4d088764
-- Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 2) (PS5 Game Bundle) (Track 18).bin, CRC: 2f67eaa0
-- Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 2) (PS5 Game Bundle) (Track 19).bin, CRC: 4d4ae4b8
-- Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 2) (PS5 Game Bundle) (Track 20).bin, CRC: d9074d6e
-- Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 2) (PS5 Game Bundle) (Track 21).bin, CRC: 10a500ea
-- Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 2) (PS5 Game Bundle) (Track 22).bin, CRC: 8e5b1129
-- Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 2) (PS5 Game Bundle) (Track 23).bin, CRC: a815cdf7
-- Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 2) (PS5 Game Bundle) (Track 24).bin, CRC: 992ef411
-- Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 2) (PS5 Game Bundle) (Track 25).bin, CRC: 254bfaff
-- Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 2) (PS5 Game Bundle) (Track 26).bin, CRC: a6889e3e
-- Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 2) (PS5 Game Bundle) (Track 27).bin, CRC: d36a3a9e
-- Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 2) (PS5 Game Bundle) (Track 28).bin, CRC: 442ba337
-- Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 2) (PS5 Game Bundle) (Track 29).bin, CRC: 21ba5012
-- Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 2) (PS5 Game Bundle) (Track 30).bin, CRC: 5f9d18a7
-- Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 2) (PS5 Game Bundle) (Track 31).bin, CRC: a2303205
-- Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 2) (PS5 Game Bundle) (Track 32).bin, CRC: 09d34556
-- Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 2) (PS5 Game Bundle) (Track 33).bin, CRC: 334d0d8a
-- Phantom Breaker - Battle Grounds Ultimate - Soundtrack (USA) (Disc 2) (PS5 Game Bundle) (Track 34).bin, CRC: fa9e5205
 </details>
 
 ### Pil Sound Gear (Japan) (PC Game Bundle)

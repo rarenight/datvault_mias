@@ -1,5 +1,5 @@
 # Redump - Sony - PlayStation Portable MIAs
-## Games: 11, ROMs: 11, as of 2025-06-29
+## Games: 10, ROMs: 10, as of 2025-07-03
 
 ### Burnout Legends (Asia).iso, CRC: c03a765f
 ### Eiyuu Densetsu - Ao no Kiseki (Japan) (v2.00).iso, CRC: fa902b0c
@@ -11,4 +11,3 @@
 ### Sengoku Tenka Touitsu (Japan) (v2.00).iso, CRC: 7eb46ef8
 ### Tekken 6 (Asia) (En,Ja,Fr,De,Es,It,Ko,Ru).iso, CRC: 4fc46387
 ### ToHeart 2 - Dungeon Travelers (Japan) (NPJH-50771).iso, CRC: 5950ea73
-### Wipeout Pure (Japan) (En,Ja) (Beta) (2004-12-02).iso, CRC: 80b76d20

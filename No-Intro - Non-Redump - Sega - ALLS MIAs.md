@@ -1,5 +1,5 @@
 # No-Intro - Non-Redump - Sega - Alls MIAs
-## Games: 4, ROMs: 4, as of 2025-06-29
+## Games: 4, ROMs: 4, as of 2025-07-03
 
 ### Fate - Grand Order Arcade (Japan) (v3.00) (Disc 1) (0004AB).iso, CRC: ee4f9fa6
 ### Fate - Grand Order Arcade (Japan) (v3.00) (Disc 2) (0004AB).iso, CRC: d7bc8270
