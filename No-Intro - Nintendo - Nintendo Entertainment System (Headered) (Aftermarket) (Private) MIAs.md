@@ -1,5 +1,5 @@
 # No-Intro - Nintendo - Nintendo Entertainment System (Headered) (Aftermarket) (Private) MIAs
-## Games: 24, ROMs: 24, as of 2025-07-03
+## Games: 24, ROMs: 24, as of 2025-07-06
 
 ### 8-Bit Slasher 4-in-1 Horror Demakes (World) (Aftermarket) (Unl).nes, CRC: 1e4d95a6
 ### Biocats (World) (Uk) (v1.1) (2025-03-10) (Aftermarket) (Unl).nes, CRC: 25abe5b9

@@ -1,5 +1,5 @@
 # Redump - Sony - PlayStation Portable MIAs
-## Games: 10, ROMs: 10, as of 2025-07-03
+## Games: 10, ROMs: 10, as of 2025-07-06
 
 ### Burnout Legends (Asia).iso, CRC: c03a765f
 ### Eiyuu Densetsu - Ao no Kiseki (Japan) (v2.00).iso, CRC: fa902b0c

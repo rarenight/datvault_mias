@@ -1,8 +1,7 @@
 # Redump - Philips - CD-i MIAs
-## Games: 11, ROMs: 27, as of 2025-07-03
+## Games: 10, ROMs: 26, as of 2025-07-06
 
 ### Caesars World of Gambling (Japan).bin, CRC: 3f508714
-### Foqus (Sweden).bin, CRC: 3caec735
 ### French Impressionists, The - France Inshouha (Japan).bin, CRC: 49d0003b
 ### James Brown - Non Stop Hit Machine (Japan)
 <details>
