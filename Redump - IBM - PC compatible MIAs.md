@@ -1,5 +1,5 @@
 # Redump - IBM - PC compatible MIAs
-## Games: 3395, ROMs: 7485, as of 2025-07-06
+## Games: 3392, ROMs: 7482, as of 2025-07-08
 
 ### %% - Fuuin no Otome (Japan) (Track 10).bin, CRC: 4481aa75
 ### Alley 19 Bowling (Europe) (Track 5).bin, CRC: dc835204
@@ -4698,7 +4698,6 @@
 ### Lord of the Rings Online - Shadows of Angmar - Beta DVD (USA).iso, CRC: 69e536db
 ### Lord of the Rings Online, The - Shadows of Angmar (Europe) (En,Fr,De).iso, CRC: bfb3776a
 ### Lord of the Rings, The - The Fellowship of the Ring (Europe) (Alt).bin, CRC: a17fe8c3
-### Lords of Magic (Australia).bin, CRC: f953b578
 ### Lords of Magic - Special Edition (France).bin, CRC: 5262dc82
 ### Lords of the Realm (Poland).bin, CRC: de90d414
 ### Lords of the Realm II (Poland).bin, CRC: b1a81c05
@@ -7038,9 +7037,7 @@
 ### Sacred (Europe) (Disc 2) (C86B2C4D).bin, CRC: c86b2c4d
 ### Sacred (Germany) (Disc 1).bin, CRC: b78921aa
 ### Sacred (Germany) (Disc 2).bin, CRC: 25c34f19
-### Sacred Plus (Australia) (Disc 1).bin, CRC: 5dcfc363
 ### Sacred Plus (Europe) (Disc 1) (Rerelease).bin, CRC: c1478643
-### Sacred Plus (Europe, Australia) (Disc 2) (Rerelease).bin, CRC: 8c0e0cc6
 ### Sacrifice (USA) (Hewlett Packard OEM).bin, CRC: d5d91581
 ### Safecracker (Europe) (En,Fr,De,Es,It,Nl,Sv).bin, CRC: 84352fe0
 ### Saga Heroes of Might and Magic I-III (Poland) (Heroes of Might and Magic) (Track 31).bin, CRC: a3238767

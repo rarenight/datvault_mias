@@ -1,5 +1,5 @@
 # No-Intro - Nintendo - Game Boy (Private) (Aftermarket) MIAs
-## Games: 4, ROMs: 4, as of 2025-07-06
+## Games: 4, ROMs: 4, as of 2025-07-08
 
 ### Commodore 16+4 Pack (World) (Aftermarket) (Unl).gb, CRC: 89778b67
 ### Legion of Evil (World) (Aftermarket) (Unl).gb, CRC: 12f444d8

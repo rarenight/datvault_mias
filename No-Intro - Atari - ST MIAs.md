@@ -1,5 +1,5 @@
 # No-Intro - Atari - ST MIAs
-## Games: 90, ROMs: 126, as of 2025-07-06
+## Games: 90, ROMs: 126, as of 2025-07-08
 
 ### Arkanoid + Rampage (Europe) (Summer Pack).ipf, CRC: eaedc69b
 ### Bad Dudes vs. Dragon Ninja (Europe).ipf, CRC: 68639ca1

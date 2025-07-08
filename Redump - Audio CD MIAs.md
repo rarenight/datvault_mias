@@ -1,5 +1,5 @@
 # Redump - Audio CD MIAs
-## Games: 133, ROMs: 1740, as of 2025-07-06
+## Games: 133, ROMs: 1740, as of 2025-07-08
 
 ### Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 1) (Alt)
 <details>

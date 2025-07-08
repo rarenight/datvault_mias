@@ -1,5 +1,5 @@
 # Redump - Sony - PlayStation 4 MIAs
-## Games: 301, ROMs: 301, as of 2025-07-06
+## Games: 299, ROMs: 299, as of 2025-07-08
 
 ### 2Dark (Japan).iso, CRC: 51bd991f
 ### 8-Bit Adventure Anthology - Volume 1 (USA).iso, CRC: 1598191a
@@ -9,7 +9,6 @@
 ### Agents of Mayhem (Japan).iso, CRC: 1c107791
 ### Akiba's Beat (Japan).iso, CRC: 28e76966
 ### Alienation (Asia) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru).iso, CRC: 5f9ea095
-### Ao no Kanata no Four Rhythm - HD Edition (Japan).iso, CRC: 3c142678
 ### Aoki Kakumei no Valkyria (Japan).iso, CRC: a010796b
 ### Ark - Survival Evolved (Japan).iso, CRC: b3699db7
 ### Asdivine Hearts (USA).iso, CRC: 1c8c38cc
@@ -164,7 +163,6 @@
 ### Mystery Chronicle - One Way Heroics (USA).iso, CRC: 8e41f684
 ### Narcosis (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru,Cs,Tr).iso, CRC: 60a770ae
 ### Naruto Shippuuden - Narutimate Storm 4 (Japan).iso, CRC: 8b43d3ee
-### Nelke & the Legendary Alchemists - Ateliers of the New World (USA).iso, CRC: 1b7ece19
 ### Nelke to Densetsu no Renkinjutsushi-tachi - Aratana Daichi no Atelier (Japan).iso, CRC: e09a8f25
 ### Neon Abyss (USA) (En,Ja,Fr,De,Es,It,Zh,Ru).iso, CRC: 83534bdf
 ### New Minna no Golf (Japan).iso, CRC: 04aeea5f
