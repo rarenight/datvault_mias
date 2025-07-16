@@ -1,5 +1,5 @@
 # Redump - Audio CD MIAs
-## Games: 131, ROMs: 1709, as of 2025-07-11
+## Games: 130, ROMs: 1699, as of 2025-07-16
 
 ### Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 1) (Alt)
 <details>
@@ -2036,22 +2036,6 @@
 - Wargroove 1+2 - Selection Soundtrack (Japan) (NSW Game Bundle) (Track 08).bin, CRC: bdb8688b
 - Wargroove 1+2 - Selection Soundtrack (Japan) (NSW Game Bundle) (Track 09).bin, CRC: 0a5d581e
 - Wargroove 1+2 - Selection Soundtrack (Japan) (NSW Game Bundle) (Track 10).bin, CRC: e781474b
-</details>
-
-### White Knuckle Scorin' (USA)
-<details>
-<summary>ROMs</summary>
-
-- White Knuckle Scorin' (USA) (Track 01).bin, CRC: 674b405b
-- White Knuckle Scorin' (USA) (Track 02).bin, CRC: 70c503e2
-- White Knuckle Scorin' (USA) (Track 03).bin, CRC: 7e88edd1
-- White Knuckle Scorin' (USA) (Track 04).bin, CRC: 64927b88
-- White Knuckle Scorin' (USA) (Track 05).bin, CRC: 93b8fcff
-- White Knuckle Scorin' (USA) (Track 06).bin, CRC: 95961c1b
-- White Knuckle Scorin' (USA) (Track 07).bin, CRC: c8339bb4
-- White Knuckle Scorin' (USA) (Track 08).bin, CRC: 2ff0d3fd
-- White Knuckle Scorin' (USA) (Track 09).bin, CRC: 209ec5c5
-- White Knuckle Scorin' (USA) (Track 10).bin, CRC: f9bae082
 </details>
 
 ### Wizardry - Proving Grounds of the Mad Overlord - Original Game Soundtrack (Japan)

@@ -1,5 +1,5 @@
 # No-Intro - Nintendo - Nintendo Entertainment System (Headerless) (Private) (Aftermarket) MIAs
-## Games: 31, ROMs: 31, as of 2025-07-11
+## Games: 30, ROMs: 30, as of 2025-07-16
 
 ### 8Bit Brix Design Studio & Snake Game (World) (2024-09-24) (Aftermarket) (Unl).unh, CRC: 95909c2d
 ### 8Bit Music Power Encore (World) (Aftermarket) (Unl).unh, CRC: ca8d7d6a
@@ -15,7 +15,6 @@
 ### Flea! 2 (World) (Aftermarket) (Unl).unh, CRC: bde225b9
 ### Hazard - Let Us Out! (World) (Beta 1) (Aftermarket) (Unl).unh, CRC: d54de28e
 ### Jim & Dill 3 (World) (UNROM) (Aftermarket) (Unl).unh, CRC: 06793e04
-### Piopow (World) (Aftermarket) (Unl).unh, CRC: e85ce1c7
 ### Restless Anima - Engine Room (World) (Demo) (Aftermarket) (Unl).unh, CRC: 90c2f68e
 ### SaturdayMan (World) (Fr) (Collector Edition) (Aftermarket) (Unl).unh, CRC: 9f4496b2
 ### SaturdayMan (World) (Fr) (Standard Edition) (Aftermarket) (Unl).unh, CRC: 8bba133b

@@ -1,11 +1,12 @@
 # No-Intro - Nintendo - Nintendo Entertainment System (Headered) (Aftermarket) (Private) MIAs
-## Games: 24, ROMs: 24, as of 2025-07-11
+## Games: 25, ROMs: 25, as of 2025-07-16
 
 ### 8-Bit Slasher 4-in-1 Horror Demakes (World) (Aftermarket) (Unl).nes, CRC: 1e4d95a6
 ### Biocats (World) (Uk) (v1.1) (2025-03-10) (Aftermarket) (Unl).nes, CRC: 25abe5b9
 ### Bobby Six Seven - Time-Traveling Detective (USA) (Aftermarket) (Unl).nes, CRC: f6dc9ebd
 ### Candelabra - Estoscerro (World) (Aftermarket) (Unl).nes, CRC: 777c773f
 ### Changeable Guardian Estique (USA, Europe) (Aftermarket) (Unl).nes, CRC: a1c3bd5b
+### Chibi Monster Br4wl (World) (Aftermarket) (Unl).nes, CRC: 18054d00
 ### Christmas Crisis 2 (USA) (Aftermarket) (Unl).nes, CRC: 947babc3
 ### Data Man (World) (Aftermarket) (Unl).nes, CRC: 9b8e3a65
 ### Gemaboy Zero (World) (2025-04-03) (Aftermarket) (Unl).nes, CRC: 28e9d1d1

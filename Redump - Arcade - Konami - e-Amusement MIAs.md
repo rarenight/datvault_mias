@@ -1,5 +1,5 @@
 # Redump - Arcade - Konami - e-Amusement MIAs
-## Games: 17, ROMs: 17, as of 2025-07-11
+## Games: 17, ROMs: 17, as of 2025-07-16
 
 ### Bishi Bashi, The (Japan) (Application Disc).iso, CRC: e3a7053e
 ### Bishi Bashi, The (Japan) (System Disc).bin, CRC: b35a5c00

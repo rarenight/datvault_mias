@@ -1,5 +1,5 @@
 # Redump - IBM - PC compatible MIAs
-## Games: 3351, ROMs: 7441, as of 2025-07-11
+## Games: 3348, ROMs: 7438, as of 2025-07-16
 
 ### %% - Fuuin no Otome (Japan) (Track 10).bin, CRC: 4481aa75
 ### Alley 19 Bowling (Europe) (Track 5).bin, CRC: dc835204
@@ -2672,7 +2672,6 @@
 </details>
 
 ### Farming Giant (UK).bin, CRC: 89a12bdc
-### Farming Simulator 22 (USA) (En,Fr) (Disc 2).iso, CRC: 14fdf985
 ### Fata Morgana no Yakata (Japan).iso, CRC: 35cdcdf8
 ### Fate, The (Korea).bin, CRC: ae222d8b
 ### Faust - De Zeven Spelen van de Ziel (Netherlands) (Disc 1).bin, CRC: e65dba2a
@@ -4704,14 +4703,12 @@
 
 ### Lunatic Dawn III - Standard (Japan) (Install Disc).bin, CRC: 20fca42b
 ### Lure of the Temptress (Netherlands) (Hit Squad).bin, CRC: d23aa086
-### Luxembourg Airports (Europe) (En,Fr,De,Es).iso, CRC: 3472c5da
 ### Machinarium (Poland).iso, CRC: 531198ba
 ### Machines, The (Scandinavia).bin, CRC: c588a75f
 ### Macross Since 1983 (Japan).bin, CRC: 70ab0fa8
 ### Macskafogo II Hold Em - Catcity Hold Em Poker (Hungary).bin, CRC: 37c0a79b
 ### Mad Stalker - Full Metal Force for Windows (Japan) (Bonus Disk) (X68000 Game Bundle).bin, CRC: 8db7d422
 ### Mad Tracks (Poland).bin, CRC: e82126cb
-### Madeira X (Europe) (En,Fr,De,Es,Pt).iso, CRC: d418d4c2
 ### Madeline and the Magnificent Puppet Show (Japan).bin, CRC: 83e36ac3
 ### Madeline Thinking Games (Japan).bin, CRC: 9131cffe
 ### Mados Namai (Lithuania).bin, CRC: 0df57fbd
