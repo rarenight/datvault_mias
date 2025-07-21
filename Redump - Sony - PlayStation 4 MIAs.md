@@ -1,5 +1,5 @@
 # Redump - Sony - PlayStation 4 MIAs
-## Games: 299, ROMs: 299, as of 2025-07-16
+## Games: 298, ROMs: 298, as of 2025-07-20
 
 ### 2Dark (Japan).iso, CRC: 51bd991f
 ### 8-Bit Adventure Anthology - Volume 1 (USA).iso, CRC: 1598191a
@@ -193,7 +193,6 @@
 ### PlayerUnknown's Battlegrounds (Europe).iso, CRC: f255f3ce
 ### Portal Knights (Europe) (En,Ja,Fr,De,Es,It,Pt,Sv,No,Fi,Zh,Ko,Pl,Ru,Cs,Th,Tr).iso, CRC: daa8310f
 ### Potion Permit (USA) (En,Ja,Fr,De,Es,Pt,Zh,Ko,Ru).iso, CRC: 7d896851
-### Pro Yakyuu Spirits 2019 (Japan).iso, CRC: 4adf3152
 ### Project Lux (USA).iso, CRC: 0a3bf66b
 ### Quarry, The (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,Tr).iso, CRC: d00aa404
 ### R-Type Final 2 (USA) (En,Ja,Fr,De,Es,It,Zh,Ko).iso, CRC: 76febfd0

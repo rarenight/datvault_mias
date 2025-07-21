@@ -1,5 +1,5 @@
 # Redump - BD-Video MIAs
-## Games: 10, ROMs: 10, as of 2025-07-16
+## Games: 10, ROMs: 10, as of 2025-07-20
 
 ### Ane to Osananajimi wa Naka ga Ii! Ninben Tsuitenai shi... (Japan).iso, CRC: fbbfc20d
 ### Hades - Developing Hell (USA).iso, CRC: d213e5eb

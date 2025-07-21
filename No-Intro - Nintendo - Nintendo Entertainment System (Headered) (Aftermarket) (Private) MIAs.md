@@ -1,5 +1,5 @@
 # No-Intro - Nintendo - Nintendo Entertainment System (Headered) (Aftermarket) (Private) MIAs
-## Games: 25, ROMs: 25, as of 2025-07-16
+## Games: 27, ROMs: 27, as of 2025-07-20
 
 ### 8-Bit Slasher 4-in-1 Horror Demakes (World) (Aftermarket) (Unl).nes, CRC: 1e4d95a6
 ### Biocats (World) (Uk) (v1.1) (2025-03-10) (Aftermarket) (Unl).nes, CRC: 25abe5b9
@@ -19,6 +19,8 @@
 ### Mad Wizard, The - A Candelabra Chronicle (World) (Kickstarter) (Aftermarket) (Unl).nes, CRC: 0dd1075a
 ### Orebody - Binder's Tale (World) (Aftermarket) (Unl).nes, CRC: b03f17e1
 ### PLOID (World) (5th Anniversary Edition) (Aftermarket) (Unl).nes, CRC: c3a14eff
+### Relic Dungeon (World) (Aftermarket) (Unl).nes, CRC: 39601904
+### Relic Dungeon (World) (v1.1) (Aftermarket) (Unl).nes, CRC: e3da8d28
 ### Rise of Amondus, The (World) (Aftermarket) (Unl).nes, CRC: 5c2fbd08
 ### Save the Kuin (World) (Aftermarket) (Unl).nes, CRC: 832e87a6
 ### Save the Kuin - Grass Mini Game (World) (Aftermarket) (Unl).nes, CRC: eff7c5e7

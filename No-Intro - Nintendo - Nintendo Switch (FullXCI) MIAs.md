@@ -1,15 +1,13 @@
 # No-Intro - Nintendo - Nintendo Switch (FullXCI) MIAs
-## Games: 257, ROMs: 257, as of 2025-07-16
+## Games: 240, ROMs: 240, as of 2025-07-20
 
 ### 51 Worldwide Games (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh-Hant,Zh-Hans,Ko,Ru) (Rev 3).xci, CRC: ef6c1cee
 ### 60-in-1 Game Collection (Europe) (En,Fr,De,Es,It).xci, CRC: 73795e37
-### 8Doors - Arum's Afterlife Adventure (USA, Europe) (En,Ja,Fr,De,Es,Pt,Zh-Hans,Ko,Ru) (Rev 1).xci, CRC: c64eb8dc
 ### America's Greatest Game Shows - Wheel of Fortune & Jeopardy! (USA) (En,Fr).xci, CRC: d57c6f34
 ### Amnesia - Later x Crowd (USA).xci, CRC: c5b39a56
 ### Amnesia - Memories (USA).xci, CRC: e43832ff
 ### Among Us - Crewmate Edition (USA, Europe) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh-Hant,Zh-Hans,Ko,Ru).xci, CRC: 045ebde6
 ### Ancestors Legacy (USA) (En,Ja,Fr,De,Es,It,Pt,Zh-Hans,Ru).xci, CRC: 5f9959c5
-### Animal Crossing - New Horizons (World) (En,Ja,Fr,De,Es,It,Nl,Zh,Ko,Ru).xci, CRC: 34351117
 ### AO Tennis 2 (USA, Europe) (En,Fr,De,Es,It,Pt,Zh-Hant,Zh-Hans,Pl,Ru).xci, CRC: cd75b7b5
 ### Arcade Game Zone (USA) (Rev 1).xci, CRC: 2b7d5527
 ### Arcade Paradise (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Zh-Hant,Zh-Hans,Ko,Pl,Ru).xci, CRC: 7cdb29ac
@@ -18,9 +16,7 @@
 ### Assault Android Cactus+ (Europe) (En,Ja,Fr,De,Es,It).xci, CRC: fab3d384
 ### Asterix & Obelix XXL 2 (USA, Europe) (En,Fr,De,Es,It).xci, CRC: 33e41317
 ### Astral Chain (World) (En,Ja,Fr,De,Es,It,Zh-Hant,Zh-Hans,Ko,Ru) (Rev 1).xci, CRC: 16993ec8
-### Atomik - RunGunJumpGun (Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ru).xci, CRC: 2a4c9e0e
 ### Bayonetta Origins - Cereza and the Lost Demon (World) (En,Ja,Fr,De,Es,It,Zh-Hant,Zh-Hans,Ko,Ru).xci, CRC: 941557f2
-### Black Book (USA) (En,Zh-Hans,Ru).xci, CRC: a93a39ca
 ### BlazBlue - Centralfiction - Special Edition (USA) (En,Ja).xci, CRC: 46502c64
 ### Bomb Rush Cyberfunk (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Ru).xci, CRC: 015c4531
 ### Borderlands - Game of the Year Edition (Europe) (En,Ja,Fr,De,Es,It).xci, CRC: d658abf5
@@ -59,8 +55,6 @@
 ### Double Dragon Gaiden - Rise of the Dragons (USA, Europe) (En,Fr,De,Es,It,Nl,Pt,Zh-Hant,Zh-Hans).xci, CRC: be175abb
 ### Dragon Ball FighterZ (World) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru).xci, CRC: d32a577a
 ### Dragon Quest Builders (USA, Europe) (En,Fr,De,Es,It).xci, CRC: e3023cf9
-### DreadOut 2 (Asia) (En,Ja,Es,Zh-Hant,Zh-Hans,Ru).xci, CRC: a6ce4946
-### Endling (USA, Europe) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh-Hant,Zh-Hans,Ko,Pl,Ru,Tr,Cs,Hu).xci, CRC: c96dee58
 ### Everybody 1-2-Switch! (World) (En,Ja,Fr,De,Es,It,Nl,Zh-Hant,Zh-Hans,Ko,Ru).xci, CRC: 682af207
 ### Fae Farm (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Zh-Hant,Zh-Hans,Ko).xci, CRC: c90b427c
 ### Final Fantasy IX (Asia) (En,Fr,De,Es,It).xci, CRC: 21cad298
@@ -87,16 +81,13 @@
 ### Ikaruga (USA) (En,Ja).xci, CRC: 8b1cc6f5
 ### It Takes Two (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Zh-Hant,Zh-Hans,Ko,Ru).xci, CRC: 6aafc012
 ### Joe Dever's Lone Wolf (Europe) (En,Fr,De,Es,It).xci, CRC: fb9ddac9
-### Jurassic Park - Classic Games Collection (USA).xci, CRC: 901d80a4
 ### 0123 - Just Dance 2018 (World) (En,Fr,De,Es,It,Nl,Pt,Ru).xci, CRC: 3d0d152d
 ### Just Dance 2020 (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh-Hant,Zh-Hans,Ko,Ru).xci, CRC: dbda5103
 ### Kentucky Route Zero - TV Edition (USA) (En,Ja,Fr,De,Es,It,Ko,Ru).xci, CRC: dde1891e
-### Kingdom Come Deliverance - Royal Edition (USA).xci, CRC: 0beb0ad7
 ### Kirby Star Allies (World) (En,Ja,Fr,De,Es,It,Nl,Zh,Ko) (Rev 1).xci, CRC: fb474bf8
 ### Kirby Star Allies (World) (En,Ja,Fr,De,Es,It,Nl,Zh,Ko) (Rev 2).xci, CRC: 6c7a3e2f
 ### Kirby's Return to Dream Land Deluxe (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh-Hant,Zh-Hans,Ko).xci, CRC: 685a19d6
 ### Klonoa - Phantasy Reverie Series (Europe) (En,Fr,De,Es,It).xci, CRC: 6fa2a64f
-### KORG Gadget for Nintendo Switch (Japan).xci, CRC: 4f8d19d2
 ### Kwaidan - Azuma Manor Story (Asia) (En,Ja,Zh-Hant,Zh-Hans).xci, CRC: 487c6f57
 ### L.O.L. Surprise! Remix - We Rule the World (USA, Europe) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh-Hans,Ko,Ru).xci, CRC: a239e6a0
 ### 1887 - Legend of Heroes, The - Trails from Zero (USA, Europe).xci, CRC: a220486c
@@ -124,7 +115,6 @@
 ### Minecraft Dungeons - Ultimate Edition (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Zh-Hant,Zh-Hans,Ko,Ru).xci, CRC: 003f2c83
 ### MLB The Show 22 (USA).xci, CRC: 4bd3c578
 ### MLB The Show 23 (USA).xci, CRC: 349177a2
-### MLB The Show 24 (USA).xci, CRC: 2e393db3
 ### Monster Hunter - Generations - Ultimate (USA, Europe) (En,Fr,De,Es,It).xci, CRC: c8d5e00c
 ### Monster Hunter Rise (USA, Europe) (En,Ja,Fr,De,Es,It,Ru).xci, CRC: 9a7fcbf5
 ### Monstrum (USA, Europe) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh-Hant,Zh-Hans,Ko,Ru).xci, CRC: a22daae3
@@ -141,7 +131,6 @@
 ### Octopath Traveler (USA, Europe) (En,Ja,Fr,De,Es,It).xci, CRC: c1d1f842
 ### Octopath Traveler (USA, Europe) (En,Ja,Fr,De,Es,It) (Rev 2).xci, CRC: 871edb2e
 ### Oddworld - Soulstorm (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Zh-Hant,Zh-Hans,Ru).xci, CRC: 0687fd54
-### Olympic Games Tokyo 2020 - The Official Video Game (USA) (En,Fr,De,Es,It,Pt,Ru).xci, CRC: c219287e
 ### Opus Collection (USA).xci, CRC: b8900987
 ### Opus - Echo of Starsong - Full Bloom Edition (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh-Hant,Zh-Hans,Ko,Ru).xci, CRC: a44814b0
 ### Owlboy (World) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru).xci, CRC: 1c521573
@@ -165,8 +154,6 @@
 ### Pokemon Violet + The Hidden Treasure of Area Zero (World) (En,Ja,Fr,De,Es,It,Zh-Hant,Zh-Hans,Ko) (Rev 4).xci, CRC: 813e5e11
 ### Pokken Tournament DX (World) (En,Ja,Fr,De,Es,It).xci, CRC: 7efe7f34
 ### Pretty Girls Game Collection (Europe) (En,Ja).xci, CRC: c8e86de2
-### Pretty Girls Game Collection 2 (Europe) (En,Ja,Zh-Hant,Zh-Hans).xci, CRC: ae4005f2
-### Pretty Girls Game Collection 3 (Europe) (En,Ja,Zh-Hant,Zh-Hans).xci, CRC: 342a6808
 ### Q.U.B.E. 10th Anniversary (Europe) (En,Fr,De,Es,It,Zh-Hans,Ru) (Rev 2).xci, CRC: d2f9d5d9
 ### R-Type Dimensions EX (Europe) (En,Ja,Fr,De,Es,It,Pt).xci, CRC: 4153358e
 ### Ring Fit Adventure (World) (En,Ja,Fr,De,Es,It,Nl,Zh-Hant,Zh-Hans,Ko) (Rev 4).xci, CRC: 3debdaae
@@ -178,7 +165,6 @@
 ### Samurai Warriors 5 (USA) (En,Ja,Fr,De).xci, CRC: a0cca5d2
 ### Sayonara Wild Hearts (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Ru,Tr,Ar).xci, CRC: 9a9d6d9a
 ### Scribblenauts Mega Pack (USA) (En,Fr,De,Es,It,Nl,Pt).xci, CRC: 258ff69c
-### Severed (USA).xci, CRC: 0ccf4a97
 ### Shadows Over Loathing (USA).xci, CRC: 73cab1dc
 ### Shantae - Half-Genie Hero - Ultimate Edition! (USA, Europe) (En,Fr,De,Es,It).xci, CRC: 7380fb6c
 ### Shinorubi (Europe) (En,Fr,De,Es,It) (Rev 1).xci, CRC: d9f4ddd7
@@ -202,7 +188,6 @@
 ### Star Wars - Knights of the Old Republic (USA) (En,Ja,Fr,De,Es,It).xci, CRC: 84d59f77
 ### Star Wars - Knights of the Old Republic II - The Sith Lords (USA) (En,Fr,De,Es,It).xci, CRC: 833138ef
 ### Star Wars - Racer & Commando Combo (USA) (En,Ja,Fr,De,Es,It,Zh-Hans) (Rev 1).xci, CRC: a750bfd7
-### Star Wars - The Force Unleashed (USA) (En,Ja,Fr,De,Es,It,Zh-Hans) (Rev 1).xci, CRC: ccb718b0
 ### Stardew Valley (USA, Europe) (En,Ja,Fr,De,Es,It,Zh,Ko,Ru,Tr,Hu).xci, CRC: 18162037
 ### SteamWorld Dig 2 (World) (En,Fr,De,Es,It,Ru).xci, CRC: dcb248f4
 ### SteamWorld Quest (Europe) (En,Fr,De,Es,It,Ru).xci, CRC: 1f236c4f
@@ -231,7 +216,6 @@
 ### Tiny Metal Ultimate (USA) (En,Ja,Fr,De,Es,It,Zh-Hant,Zh-Hans,Ko,Ru).xci, CRC: f9ce11eb
 ### Titan Quest (USA, Europe) (En,Ja,Fr,De,Es,It,Ru).xci, CRC: d37c6a76
 ### Toki (Europe) (En,Fr,De,Es,It,Nl,Pt).xci, CRC: 9691468d
-### Touch Detective 3 + The Complete Case Files (USA).xci, CRC: 11f96ad4
 ### Turok (USA) (En,Fr,De,Es,It).xci, CRC: cffaf2cc
 ### Turok 2 - Seeds of Evil (USA) (En,Fr,De,Es,It).xci, CRC: bdaaaf79
 ### Turrican Anthology Vol. I (USA) (En,Fr,De,Es,Pt,Ru).xci, CRC: 1b20b41d
@@ -243,7 +227,6 @@
 ### Unicorn Overlord (USA, Europe).xci, CRC: 3a412aae
 ### Vengeful Guardian - Moonrider (USA) (En,Fr,De,Es,It,Pt).xci, CRC: 09b94bd7
 ### We Love Katamari REROLL+ Royal Reverie (Europe) (En,Fr,De,Es,It).xci, CRC: 7d492cec
-### What the Golf (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh-Hant,Zh-Hans,Ko,Ru).xci, CRC: bd578f06
 ### Windjammers 2 (Europe) (En,Ja,Fr,De,Es,It,Pt).xci, CRC: 0e63732a
 ### Wonder Boy - Asha in Monster World & Monster World IV (Europe) (En,Ja,Fr,De,Es,It,Zh-Hant,Zh-Hans).xci, CRC: cf4d550e
 ### World of Goo 2 (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh-Hant,Zh-Hans,Ko,Ru) (Rev 1).xci, CRC: 2b318ed2

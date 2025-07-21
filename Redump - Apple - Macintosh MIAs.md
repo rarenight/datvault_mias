@@ -1,5 +1,5 @@
 # Redump - Apple - Macintosh MIAs
-## Games: 148, ROMs: 179, as of 2025-07-16
+## Games: 148, ROMs: 179, as of 2025-07-20
 
 ### 3-D Ultra Pinball (Japan).bin, CRC: 610eb45d
 ### 3DO Content Library, The (USA) (Disc 88) (Music & Sound Effects).bin, CRC: c157b11b

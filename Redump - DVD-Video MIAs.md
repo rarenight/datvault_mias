@@ -1,5 +1,5 @@
 # Redump - DVD-Video MIAs
-## Games: 210, ROMs: 210, as of 2025-07-16
+## Games: 210, ROMs: 210, as of 2025-07-20
 
 ### 2002 Autumn Tokyo Game Show (Taiwan).iso, CRC: 92c99685
 ### 3-nen B-gumi Kinpachi Sensei - Densetsu no Kyoudan ni Tate! Promotion Video-2 (Japan).iso, CRC: d346598e
