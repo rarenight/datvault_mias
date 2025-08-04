@@ -1,5 +1,5 @@
 # Redump - Video CD MIAs
-## Games: 17, ROMs: 63, as of 2025-07-20
+## Games: 16, ROMs: 61, as of 2025-08-04
 
 ### Apocalypse Now (Germany) (Disc 1)
 <details>
@@ -127,14 +127,6 @@
 - Style Game Magazine - October 1999 - Weiss kreuz (Taiwan) (Track 4).bin, CRC: 7166a28e
 - Style Game Magazine - October 1999 - Weiss kreuz (Taiwan) (Track 5).bin, CRC: e9f522a8
 - Style Game Magazine - October 1999 - Weiss kreuz (Taiwan) (Track 6).bin, CRC: f37c3f9b
-</details>
-
-### Tokyo Game Show - Ceon 1998 (Asia)
-<details>
-<summary>ROMs</summary>
-
-- Tokyo Game Show - Ceon 1998 (Asia) (Track 1).bin, CRC: 013c0d34
-- Tokyo Game Show - Ceon 1998 (Asia) (Track 2).bin, CRC: efa505c9
 </details>
 
 ### TV Game Magazine - Issue 210 Spring Vacation Special Add-on Contents Music CD (Taiwan)

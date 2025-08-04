@@ -1,5 +1,5 @@
 # Redump - Apple - Macintosh MIAs
-## Games: 148, ROMs: 179, as of 2025-07-20
+## Games: 144, ROMs: 175, as of 2025-08-04
 
 ### 3-D Ultra Pinball (Japan).bin, CRC: 610eb45d
 ### 3DO Content Library, The (USA) (Disc 88) (Music & Sound Effects).bin, CRC: c157b11b
@@ -174,10 +174,6 @@
 ### Quake III - Arena (Europe).bin, CRC: 70459c63
 ### Quantum Gate I - Akumu no Joshou (Japan).bin, CRC: c784c5ab
 ### Safecracker (USA, Canada) (Rerelease).bin, CRC: 7b1383c0
-### Shin Seiki Evangelion - Koutetsu no Girlfriend (Japan) (Disc A).bin, CRC: ad426ff3
-### Shin Seiki Evangelion - Koutetsu no Girlfriend (Japan) (Disc B).bin, CRC: 62f3be9f
-### Shin Seiki Evangelion - Koutetsu no Girlfriend (Japan) (Disc C).bin, CRC: d5892273
-### Shin Seiki Evangelion - Koutetsu no Girlfriend (Japan) (Disc D).bin, CRC: 62b25bcf
 ### SimTown - The Town You Build Yourself! (Japan).bin, CRC: bcde4183
 ### Sinkha (USA).bin, CRC: 5b347810
 ### Star Wars - Rebel Assault (Europe).bin, CRC: 87398f45

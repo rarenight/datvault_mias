@@ -1,33 +1,11 @@
 # Redump - Audio CD MIAs
-## Games: 130, ROMs: 1699, as of 2025-07-20
+## Games: 160, ROMs: 2246, as of 2025-08-04
 
 ### Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 1) (Alt)
 <details>
 <summary>ROMs</summary>
 
 - Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 1) (Alt) (Track 01).bin, CRC: 129a83b9
-- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 1) (Alt) (Track 02).bin, CRC: ca55238a
-- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 1) (Alt) (Track 03).bin, CRC: 8f47a8ad
-- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 1) (Alt) (Track 04).bin, CRC: af92d420
-- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 1) (Alt) (Track 05).bin, CRC: 981e7ddf
-- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 1) (Alt) (Track 06).bin, CRC: 86fa9288
-- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 1) (Alt) (Track 07).bin, CRC: 27a80b1a
-- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 1) (Alt) (Track 08).bin, CRC: 870f0ef0
-- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 1) (Alt) (Track 09).bin, CRC: a244d027
-- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 1) (Alt) (Track 10).bin, CRC: 7bc6fd24
-- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 1) (Alt) (Track 11).bin, CRC: 55dde5e1
-- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 1) (Alt) (Track 12).bin, CRC: 5f8243e8
-- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 1) (Alt) (Track 13).bin, CRC: feec20d7
-- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 1) (Alt) (Track 14).bin, CRC: 7054a9cb
-- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 1) (Alt) (Track 15).bin, CRC: 84462ed6
-- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 1) (Alt) (Track 16).bin, CRC: f89e90ff
-- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 1) (Alt) (Track 17).bin, CRC: ee861e9d
-- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 1) (Alt) (Track 18).bin, CRC: 41cd72a1
-- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 1) (Alt) (Track 19).bin, CRC: c0ac110d
-- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 1) (Alt) (Track 20).bin, CRC: 6f5c45f7
-- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 1) (Alt) (Track 21).bin, CRC: c147aadc
-- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 1) (Alt) (Track 22).bin, CRC: 149859ed
-- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 1) (Alt) (Track 23).bin, CRC: 0f138eb0
 - Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 1) (Alt) (Track 24).bin, CRC: 9e795c58
 </details>
 
@@ -36,28 +14,6 @@
 <summary>ROMs</summary>
 
 - Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 2) (Alt) (Track 01).bin, CRC: 72775568
-- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 2) (Alt) (Track 02).bin, CRC: 150c2228
-- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 2) (Alt) (Track 03).bin, CRC: 296a389a
-- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 2) (Alt) (Track 04).bin, CRC: 717d0054
-- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 2) (Alt) (Track 05).bin, CRC: 2d7f191d
-- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 2) (Alt) (Track 06).bin, CRC: 12137bf0
-- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 2) (Alt) (Track 07).bin, CRC: 98eba3ce
-- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 2) (Alt) (Track 08).bin, CRC: dec0439b
-- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 2) (Alt) (Track 09).bin, CRC: 9e4cb3b5
-- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 2) (Alt) (Track 10).bin, CRC: 2c6436cb
-- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 2) (Alt) (Track 11).bin, CRC: b618803f
-- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 2) (Alt) (Track 12).bin, CRC: bb796105
-- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 2) (Alt) (Track 13).bin, CRC: 2a44e14c
-- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 2) (Alt) (Track 14).bin, CRC: 864ffa79
-- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 2) (Alt) (Track 15).bin, CRC: cbc8d86e
-- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 2) (Alt) (Track 16).bin, CRC: d4eb5de3
-- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 2) (Alt) (Track 17).bin, CRC: 1f3fb9ea
-- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 2) (Alt) (Track 18).bin, CRC: 316289ec
-- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 2) (Alt) (Track 19).bin, CRC: ca56abd7
-- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 2) (Alt) (Track 20).bin, CRC: 801e1dd9
-- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 2) (Alt) (Track 21).bin, CRC: ca374709
-- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 2) (Alt) (Track 22).bin, CRC: 4d1df6cd
-- Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 2) (Alt) (Track 23).bin, CRC: 47e5b4dd
 - Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 2) (Alt) (Track 24).bin, CRC: 3cc78b05
 </details>
 
@@ -95,6 +51,175 @@
 </details>
 
 ### Akasen Gairo - Shokai Tokuten Original Soundtrack - Gekichuu Gakkyokushuu (Japan) (PC Game Bundle) (Track 15).bin, CRC: e6a179bd
+### Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 1) (PS4 Game Bundle)
+<details>
+<summary>ROMs</summary>
+
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 1) (PS4 Game Bundle) (Track 01).bin, CRC: b1afd39b
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 1) (PS4 Game Bundle) (Track 02).bin, CRC: a2ead81a
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 1) (PS4 Game Bundle) (Track 03).bin, CRC: 725e5400
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 1) (PS4 Game Bundle) (Track 04).bin, CRC: 2a050bcf
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 1) (PS4 Game Bundle) (Track 05).bin, CRC: d89e4cac
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 1) (PS4 Game Bundle) (Track 06).bin, CRC: a1ee6f1c
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 1) (PS4 Game Bundle) (Track 07).bin, CRC: 896633d1
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 1) (PS4 Game Bundle) (Track 08).bin, CRC: e7582bdb
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 1) (PS4 Game Bundle) (Track 09).bin, CRC: 03c844e5
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 1) (PS4 Game Bundle) (Track 10).bin, CRC: 0714b830
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 1) (PS4 Game Bundle) (Track 11).bin, CRC: 3579df95
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 1) (PS4 Game Bundle) (Track 12).bin, CRC: a7d7fb57
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 1) (PS4 Game Bundle) (Track 13).bin, CRC: 33bf1d53
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 1) (PS4 Game Bundle) (Track 14).bin, CRC: ed8809cc
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 1) (PS4 Game Bundle) (Track 15).bin, CRC: 414d2269
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 1) (PS4 Game Bundle) (Track 16).bin, CRC: f9649116
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 1) (PS4 Game Bundle) (Track 17).bin, CRC: c5dc1e96
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 1) (PS4 Game Bundle) (Track 18).bin, CRC: 634f1ab0
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 1) (PS4 Game Bundle) (Track 19).bin, CRC: 9a296951
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 1) (PS4 Game Bundle) (Track 20).bin, CRC: f7cdb8a8
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 1) (PS4 Game Bundle) (Track 21).bin, CRC: a2505b2c
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 1) (PS4 Game Bundle) (Track 22).bin, CRC: 12cbf5f7
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 1) (PS4 Game Bundle) (Track 23).bin, CRC: 981ff4cf
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 1) (PS4 Game Bundle) (Track 24).bin, CRC: 6d740991
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 1) (PS4 Game Bundle) (Track 25).bin, CRC: 1aef8f0c
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 1) (PS4 Game Bundle) (Track 26).bin, CRC: 8e21f606
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 1) (PS4 Game Bundle) (Track 27).bin, CRC: f05a55ab
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 1) (PS4 Game Bundle) (Track 28).bin, CRC: af5bab09
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 1) (PS4 Game Bundle) (Track 29).bin, CRC: d83dcebb
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 1) (PS4 Game Bundle) (Track 30).bin, CRC: 42473e9a
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 1) (PS4 Game Bundle) (Track 31).bin, CRC: b85184ad
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 1) (PS4 Game Bundle) (Track 32).bin, CRC: 2d9f0d32
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 1) (PS4 Game Bundle) (Track 33).bin, CRC: ae1bd873
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 1) (PS4 Game Bundle) (Track 34).bin, CRC: c6b91262
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 1) (PS4 Game Bundle) (Track 35).bin, CRC: 3606f1c8
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 1) (PS4 Game Bundle) (Track 36).bin, CRC: 6404d4a5
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 1) (PS4 Game Bundle) (Track 37).bin, CRC: 6aa7d256
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 1) (PS4 Game Bundle) (Track 38).bin, CRC: 0c9798c1
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 1) (PS4 Game Bundle) (Track 39).bin, CRC: e348079f
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 1) (PS4 Game Bundle) (Track 40).bin, CRC: 968884ca
+</details>
+
+### Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 2) (PS4 Game Bundle)
+<details>
+<summary>ROMs</summary>
+
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 2) (PS4 Game Bundle) (Track 01).bin, CRC: e3cb082f
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 2) (PS4 Game Bundle) (Track 02).bin, CRC: ac5e1fdf
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 2) (PS4 Game Bundle) (Track 03).bin, CRC: 75b46192
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 2) (PS4 Game Bundle) (Track 04).bin, CRC: 291056da
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 2) (PS4 Game Bundle) (Track 05).bin, CRC: 155951eb
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 2) (PS4 Game Bundle) (Track 06).bin, CRC: cf9197e1
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 2) (PS4 Game Bundle) (Track 07).bin, CRC: 659f4493
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 2) (PS4 Game Bundle) (Track 08).bin, CRC: 550e9f41
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 2) (PS4 Game Bundle) (Track 09).bin, CRC: 8677fcdc
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 2) (PS4 Game Bundle) (Track 10).bin, CRC: 72d76d6b
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 2) (PS4 Game Bundle) (Track 11).bin, CRC: 0db4627e
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 2) (PS4 Game Bundle) (Track 12).bin, CRC: 57fc9983
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 2) (PS4 Game Bundle) (Track 13).bin, CRC: 579ffda0
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 2) (PS4 Game Bundle) (Track 14).bin, CRC: f5d73cc7
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 2) (PS4 Game Bundle) (Track 15).bin, CRC: 9af61cd4
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 2) (PS4 Game Bundle) (Track 16).bin, CRC: 966522ff
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 2) (PS4 Game Bundle) (Track 17).bin, CRC: be7e5ee1
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 2) (PS4 Game Bundle) (Track 18).bin, CRC: d0741bdd
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 2) (PS4 Game Bundle) (Track 19).bin, CRC: 8facefd2
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 2) (PS4 Game Bundle) (Track 20).bin, CRC: d28b6661
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 2) (PS4 Game Bundle) (Track 21).bin, CRC: 2456bb6c
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 2) (PS4 Game Bundle) (Track 22).bin, CRC: 16b0478e
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 2) (PS4 Game Bundle) (Track 23).bin, CRC: bbcb06a3
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 2) (PS4 Game Bundle) (Track 24).bin, CRC: 30c522b7
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 2) (PS4 Game Bundle) (Track 25).bin, CRC: 4f09a546
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 2) (PS4 Game Bundle) (Track 26).bin, CRC: a7361354
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 2) (PS4 Game Bundle) (Track 27).bin, CRC: 6b2b8210
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 2) (PS4 Game Bundle) (Track 28).bin, CRC: fd656e8d
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 2) (PS4 Game Bundle) (Track 29).bin, CRC: f6740fbe
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 2) (PS4 Game Bundle) (Track 30).bin, CRC: 0c8b238e
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 2) (PS4 Game Bundle) (Track 31).bin, CRC: b81a58f0
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 2) (PS4 Game Bundle) (Track 32).bin, CRC: ba5e2ede
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 2) (PS4 Game Bundle) (Track 33).bin, CRC: 549b10ad
+</details>
+
+### Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 3) (PS4 Game Bundle)
+<details>
+<summary>ROMs</summary>
+
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 3) (PS4 Game Bundle) (Track 01).bin, CRC: 9001d829
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 3) (PS4 Game Bundle) (Track 02).bin, CRC: 239d87c4
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 3) (PS4 Game Bundle) (Track 03).bin, CRC: 17ee5e35
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 3) (PS4 Game Bundle) (Track 04).bin, CRC: 919d1de9
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 3) (PS4 Game Bundle) (Track 05).bin, CRC: 2aed42fe
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 3) (PS4 Game Bundle) (Track 06).bin, CRC: 215d4ccf
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 3) (PS4 Game Bundle) (Track 07).bin, CRC: 51db8a69
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 3) (PS4 Game Bundle) (Track 08).bin, CRC: 9d8d5b77
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 3) (PS4 Game Bundle) (Track 09).bin, CRC: a8f03bc8
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 3) (PS4 Game Bundle) (Track 10).bin, CRC: 08663684
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 3) (PS4 Game Bundle) (Track 11).bin, CRC: 3c100cb1
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 3) (PS4 Game Bundle) (Track 12).bin, CRC: 26b76403
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 3) (PS4 Game Bundle) (Track 13).bin, CRC: 34fc92ae
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 3) (PS4 Game Bundle) (Track 14).bin, CRC: 53c2c955
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 3) (PS4 Game Bundle) (Track 15).bin, CRC: 11f0e71f
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 3) (PS4 Game Bundle) (Track 16).bin, CRC: ea29bd43
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 3) (PS4 Game Bundle) (Track 17).bin, CRC: 27974044
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 3) (PS4 Game Bundle) (Track 18).bin, CRC: ba92592c
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 3) (PS4 Game Bundle) (Track 19).bin, CRC: 581d8e02
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 3) (PS4 Game Bundle) (Track 20).bin, CRC: 07179b6d
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 3) (PS4 Game Bundle) (Track 21).bin, CRC: 58ee2b17
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 3) (PS4 Game Bundle) (Track 22).bin, CRC: b50b1f53
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 3) (PS4 Game Bundle) (Track 23).bin, CRC: 02cc53d1
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 3) (PS4 Game Bundle) (Track 24).bin, CRC: 6f6d0a6a
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 3) (PS4 Game Bundle) (Track 25).bin, CRC: 4535c9a2
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 3) (PS4 Game Bundle) (Track 26).bin, CRC: dc12a1d2
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 3) (PS4 Game Bundle) (Track 27).bin, CRC: dce1b81b
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 3) (PS4 Game Bundle) (Track 28).bin, CRC: 9f7a0496
+</details>
+
+### Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 4) (PS4 Game Bundle)
+<details>
+<summary>ROMs</summary>
+
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 4) (PS4 Game Bundle) (Track 01).bin, CRC: 9b2e3116
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 4) (PS4 Game Bundle) (Track 02).bin, CRC: 25a6b485
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 4) (PS4 Game Bundle) (Track 03).bin, CRC: 342cff34
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 4) (PS4 Game Bundle) (Track 04).bin, CRC: e23a150b
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 4) (PS4 Game Bundle) (Track 05).bin, CRC: 900803ae
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 4) (PS4 Game Bundle) (Track 06).bin, CRC: cfc91b24
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 4) (PS4 Game Bundle) (Track 07).bin, CRC: 0be6223d
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 4) (PS4 Game Bundle) (Track 08).bin, CRC: adc8587b
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 4) (PS4 Game Bundle) (Track 09).bin, CRC: 20d40f64
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 4) (PS4 Game Bundle) (Track 10).bin, CRC: ebdab4ea
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 4) (PS4 Game Bundle) (Track 11).bin, CRC: 8e330a21
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 4) (PS4 Game Bundle) (Track 12).bin, CRC: 77dab6e4
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 4) (PS4 Game Bundle) (Track 13).bin, CRC: 4c5d6a54
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 4) (PS4 Game Bundle) (Track 14).bin, CRC: 99c52d19
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 4) (PS4 Game Bundle) (Track 15).bin, CRC: e4d3ced3
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 4) (PS4 Game Bundle) (Track 16).bin, CRC: 0f2bc683
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 4) (PS4 Game Bundle) (Track 17).bin, CRC: d5823df4
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 4) (PS4 Game Bundle) (Track 18).bin, CRC: d4d59908
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 4) (PS4 Game Bundle) (Track 19).bin, CRC: eb10887b
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 4) (PS4 Game Bundle) (Track 20).bin, CRC: 2b73b546
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 4) (PS4 Game Bundle) (Track 21).bin, CRC: 24099007
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 4) (PS4 Game Bundle) (Track 22).bin, CRC: c84243d7
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 4) (PS4 Game Bundle) (Track 23).bin, CRC: 0a6a7103
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 4) (PS4 Game Bundle) (Track 24).bin, CRC: 5e55fa64
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 4) (PS4 Game Bundle) (Track 25).bin, CRC: 38e852f2
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 4) (PS4 Game Bundle) (Track 26).bin, CRC: 19629875
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 4) (PS4 Game Bundle) (Track 27).bin, CRC: 74e634f6
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 4) (PS4 Game Bundle) (Track 28).bin, CRC: 447e0511
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 4) (PS4 Game Bundle) (Track 29).bin, CRC: ee555c07
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 4) (PS4 Game Bundle) (Track 30).bin, CRC: 6ec8e137
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 4) (PS4 Game Bundle) (Track 31).bin, CRC: 932f4c30
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 4) (PS4 Game Bundle) (Track 32).bin, CRC: afb6f544
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 4) (PS4 Game Bundle) (Track 33).bin, CRC: e80c4794
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 4) (PS4 Game Bundle) (Track 34).bin, CRC: 0c8852ce
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 4) (PS4 Game Bundle) (Track 35).bin, CRC: c62c6a41
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 4) (PS4 Game Bundle) (Track 36).bin, CRC: 69860b93
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 4) (PS4 Game Bundle) (Track 37).bin, CRC: 64e443f8
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 4) (PS4 Game Bundle) (Track 38).bin, CRC: ed016fc7
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 4) (PS4 Game Bundle) (Track 39).bin, CRC: 0c5f0281
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 4) (PS4 Game Bundle) (Track 40).bin, CRC: 413cb08f
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 4) (PS4 Game Bundle) (Track 41).bin, CRC: ef0a33dd
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 4) (PS4 Game Bundle) (Track 42).bin, CRC: b1c5fbc4
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 4) (PS4 Game Bundle) (Track 43).bin, CRC: f2777c9a
+- Akumajou Dracula Anniversary Collection - Original Soundtrack (Japan) (Disc 4) (PS4 Game Bundle) (Track 44).bin, CRC: 55d5017b
+</details>
+
 ### Alan Wake (Japan) (Audio Disc) (Xbox 360 Game Bundle)
 <details>
 <summary>ROMs</summary>
@@ -177,6 +302,35 @@
 - Best of Daedalic Entertainment (Germany) (PC Game Bundle) (Track 20).bin, CRC: bbb05744
 </details>
 
+### Best of LucasArts Original Soundtracks, The (USA)
+<details>
+<summary>ROMs</summary>
+
+- Best of LucasArts Original Soundtracks, The (USA) (Track 01).bin, CRC: df280942
+- Best of LucasArts Original Soundtracks, The (USA) (Track 02).bin, CRC: 94fad52f
+- Best of LucasArts Original Soundtracks, The (USA) (Track 03).bin, CRC: 2ef5aafa
+- Best of LucasArts Original Soundtracks, The (USA) (Track 04).bin, CRC: 158918a1
+- Best of LucasArts Original Soundtracks, The (USA) (Track 05).bin, CRC: 6fc087e9
+- Best of LucasArts Original Soundtracks, The (USA) (Track 06).bin, CRC: 14320dfe
+- Best of LucasArts Original Soundtracks, The (USA) (Track 07).bin, CRC: 5d2861a7
+- Best of LucasArts Original Soundtracks, The (USA) (Track 08).bin, CRC: e6ae1144
+- Best of LucasArts Original Soundtracks, The (USA) (Track 09).bin, CRC: 0f24fdcf
+- Best of LucasArts Original Soundtracks, The (USA) (Track 10).bin, CRC: 6658bf55
+- Best of LucasArts Original Soundtracks, The (USA) (Track 11).bin, CRC: d140a54e
+- Best of LucasArts Original Soundtracks, The (USA) (Track 12).bin, CRC: 7165e4a4
+- Best of LucasArts Original Soundtracks, The (USA) (Track 13).bin, CRC: 8da347a1
+- Best of LucasArts Original Soundtracks, The (USA) (Track 14).bin, CRC: 94ee6d8b
+- Best of LucasArts Original Soundtracks, The (USA) (Track 15).bin, CRC: 8e001136
+- Best of LucasArts Original Soundtracks, The (USA) (Track 16).bin, CRC: 41f94081
+- Best of LucasArts Original Soundtracks, The (USA) (Track 17).bin, CRC: c763d028
+- Best of LucasArts Original Soundtracks, The (USA) (Track 18).bin, CRC: 3bb825e6
+- Best of LucasArts Original Soundtracks, The (USA) (Track 19).bin, CRC: 7d97f0a1
+- Best of LucasArts Original Soundtracks, The (USA) (Track 20).bin, CRC: 9a14afe6
+- Best of LucasArts Original Soundtracks, The (USA) (Track 21).bin, CRC: 850d3be3
+- Best of LucasArts Original Soundtracks, The (USA) (Track 22).bin, CRC: ed6ee188
+- Best of LucasArts Original Soundtracks, The (USA) (Track 23).bin, CRC: d45e22f2
+</details>
+
 ### Castlevania - Lords of Shadow - Original Soundtrack (Japan) (PS3 Game Bundle)
 <details>
 <summary>ROMs</summary>
@@ -242,7 +396,94 @@
 - Chaos;Head Noah - Character Song Album CD (Japan) (Xbox 360 Game Bundle) (Track 6).bin, CRC: 8cb31d8d
 </details>
 
+### Chicory - A Colorful Tale - Original Soundtrack (Japan) (Disc 1) (NSW Game Bundle)
+<details>
+<summary>ROMs</summary>
+
+- Chicory - A Colorful Tale - Original Soundtrack (Japan) (Disc 1) (NSW Game Bundle) (Track 01).bin, CRC: 3e6d410e
+- Chicory - A Colorful Tale - Original Soundtrack (Japan) (Disc 1) (NSW Game Bundle) (Track 02).bin, CRC: aa63d66d
+- Chicory - A Colorful Tale - Original Soundtrack (Japan) (Disc 1) (NSW Game Bundle) (Track 03).bin, CRC: e2df3cb1
+- Chicory - A Colorful Tale - Original Soundtrack (Japan) (Disc 1) (NSW Game Bundle) (Track 04).bin, CRC: 530ff5c3
+- Chicory - A Colorful Tale - Original Soundtrack (Japan) (Disc 1) (NSW Game Bundle) (Track 05).bin, CRC: 5470dc78
+- Chicory - A Colorful Tale - Original Soundtrack (Japan) (Disc 1) (NSW Game Bundle) (Track 06).bin, CRC: 1327c48d
+- Chicory - A Colorful Tale - Original Soundtrack (Japan) (Disc 1) (NSW Game Bundle) (Track 07).bin, CRC: a04e6ac6
+- Chicory - A Colorful Tale - Original Soundtrack (Japan) (Disc 1) (NSW Game Bundle) (Track 08).bin, CRC: d37f53e0
+- Chicory - A Colorful Tale - Original Soundtrack (Japan) (Disc 1) (NSW Game Bundle) (Track 09).bin, CRC: 5e58237d
+- Chicory - A Colorful Tale - Original Soundtrack (Japan) (Disc 1) (NSW Game Bundle) (Track 10).bin, CRC: e44c291c
+- Chicory - A Colorful Tale - Original Soundtrack (Japan) (Disc 1) (NSW Game Bundle) (Track 11).bin, CRC: 398b83b4
+- Chicory - A Colorful Tale - Original Soundtrack (Japan) (Disc 1) (NSW Game Bundle) (Track 12).bin, CRC: b436390a
+- Chicory - A Colorful Tale - Original Soundtrack (Japan) (Disc 1) (NSW Game Bundle) (Track 13).bin, CRC: eecf033a
+- Chicory - A Colorful Tale - Original Soundtrack (Japan) (Disc 1) (NSW Game Bundle) (Track 14).bin, CRC: 9f0d41f9
+- Chicory - A Colorful Tale - Original Soundtrack (Japan) (Disc 1) (NSW Game Bundle) (Track 15).bin, CRC: 2872d73b
+- Chicory - A Colorful Tale - Original Soundtrack (Japan) (Disc 1) (NSW Game Bundle) (Track 16).bin, CRC: 8b1e5ee3
+- Chicory - A Colorful Tale - Original Soundtrack (Japan) (Disc 1) (NSW Game Bundle) (Track 17).bin, CRC: 65485dd6
+- Chicory - A Colorful Tale - Original Soundtrack (Japan) (Disc 1) (NSW Game Bundle) (Track 18).bin, CRC: f769b2fe
+- Chicory - A Colorful Tale - Original Soundtrack (Japan) (Disc 1) (NSW Game Bundle) (Track 19).bin, CRC: dfded074
+- Chicory - A Colorful Tale - Original Soundtrack (Japan) (Disc 1) (NSW Game Bundle) (Track 20).bin, CRC: 68f8da86
+- Chicory - A Colorful Tale - Original Soundtrack (Japan) (Disc 1) (NSW Game Bundle) (Track 21).bin, CRC: ddbb517e
+- Chicory - A Colorful Tale - Original Soundtrack (Japan) (Disc 1) (NSW Game Bundle) (Track 22).bin, CRC: 06d3da54
+- Chicory - A Colorful Tale - Original Soundtrack (Japan) (Disc 1) (NSW Game Bundle) (Track 23).bin, CRC: b1302829
+- Chicory - A Colorful Tale - Original Soundtrack (Japan) (Disc 1) (NSW Game Bundle) (Track 24).bin, CRC: eeef31d5
+- Chicory - A Colorful Tale - Original Soundtrack (Japan) (Disc 1) (NSW Game Bundle) (Track 25).bin, CRC: 81ca408f
+- Chicory - A Colorful Tale - Original Soundtrack (Japan) (Disc 1) (NSW Game Bundle) (Track 26).bin, CRC: 3051f2da
+- Chicory - A Colorful Tale - Original Soundtrack (Japan) (Disc 1) (NSW Game Bundle) (Track 27).bin, CRC: 3ec6f28f
+- Chicory - A Colorful Tale - Original Soundtrack (Japan) (Disc 1) (NSW Game Bundle) (Track 28).bin, CRC: 1c34cb9b
+- Chicory - A Colorful Tale - Original Soundtrack (Japan) (Disc 1) (NSW Game Bundle) (Track 29).bin, CRC: cd38018c
+- Chicory - A Colorful Tale - Original Soundtrack (Japan) (Disc 1) (NSW Game Bundle) (Track 30).bin, CRC: c4b0c910
+- Chicory - A Colorful Tale - Original Soundtrack (Japan) (Disc 1) (NSW Game Bundle) (Track 31).bin, CRC: cc9f36a2
+</details>
+
+### Chicory - A Colorful Tale - Original Soundtrack (Japan) (Disc 2) (NSW Game Bundle)
+<details>
+<summary>ROMs</summary>
+
+- Chicory - A Colorful Tale - Original Soundtrack (Japan) (Disc 2) (NSW Game Bundle) (Track 01).bin, CRC: 9011d952
+- Chicory - A Colorful Tale - Original Soundtrack (Japan) (Disc 2) (NSW Game Bundle) (Track 02).bin, CRC: ab280e85
+- Chicory - A Colorful Tale - Original Soundtrack (Japan) (Disc 2) (NSW Game Bundle) (Track 03).bin, CRC: e3119e36
+- Chicory - A Colorful Tale - Original Soundtrack (Japan) (Disc 2) (NSW Game Bundle) (Track 04).bin, CRC: 49e94f0e
+- Chicory - A Colorful Tale - Original Soundtrack (Japan) (Disc 2) (NSW Game Bundle) (Track 05).bin, CRC: e8921abc
+- Chicory - A Colorful Tale - Original Soundtrack (Japan) (Disc 2) (NSW Game Bundle) (Track 06).bin, CRC: b80b8c60
+- Chicory - A Colorful Tale - Original Soundtrack (Japan) (Disc 2) (NSW Game Bundle) (Track 07).bin, CRC: b5af9ba6
+- Chicory - A Colorful Tale - Original Soundtrack (Japan) (Disc 2) (NSW Game Bundle) (Track 08).bin, CRC: 9d6ac5ad
+- Chicory - A Colorful Tale - Original Soundtrack (Japan) (Disc 2) (NSW Game Bundle) (Track 09).bin, CRC: 14f602d0
+- Chicory - A Colorful Tale - Original Soundtrack (Japan) (Disc 2) (NSW Game Bundle) (Track 10).bin, CRC: 1e0e46ec
+- Chicory - A Colorful Tale - Original Soundtrack (Japan) (Disc 2) (NSW Game Bundle) (Track 11).bin, CRC: a438e3f3
+- Chicory - A Colorful Tale - Original Soundtrack (Japan) (Disc 2) (NSW Game Bundle) (Track 12).bin, CRC: 64476086
+- Chicory - A Colorful Tale - Original Soundtrack (Japan) (Disc 2) (NSW Game Bundle) (Track 13).bin, CRC: 2a84ab4a
+- Chicory - A Colorful Tale - Original Soundtrack (Japan) (Disc 2) (NSW Game Bundle) (Track 14).bin, CRC: 8d3284da
+- Chicory - A Colorful Tale - Original Soundtrack (Japan) (Disc 2) (NSW Game Bundle) (Track 15).bin, CRC: 4b2b9baa
+- Chicory - A Colorful Tale - Original Soundtrack (Japan) (Disc 2) (NSW Game Bundle) (Track 16).bin, CRC: c9859464
+- Chicory - A Colorful Tale - Original Soundtrack (Japan) (Disc 2) (NSW Game Bundle) (Track 17).bin, CRC: 37c016f5
+- Chicory - A Colorful Tale - Original Soundtrack (Japan) (Disc 2) (NSW Game Bundle) (Track 18).bin, CRC: 2bf1765f
+- Chicory - A Colorful Tale - Original Soundtrack (Japan) (Disc 2) (NSW Game Bundle) (Track 19).bin, CRC: 391f8edc
+- Chicory - A Colorful Tale - Original Soundtrack (Japan) (Disc 2) (NSW Game Bundle) (Track 20).bin, CRC: ec3ea54e
+- Chicory - A Colorful Tale - Original Soundtrack (Japan) (Disc 2) (NSW Game Bundle) (Track 21).bin, CRC: 17c25214
+- Chicory - A Colorful Tale - Original Soundtrack (Japan) (Disc 2) (NSW Game Bundle) (Track 22).bin, CRC: 41537bbb
+- Chicory - A Colorful Tale - Original Soundtrack (Japan) (Disc 2) (NSW Game Bundle) (Track 23).bin, CRC: 323e9f22
+- Chicory - A Colorful Tale - Original Soundtrack (Japan) (Disc 2) (NSW Game Bundle) (Track 24).bin, CRC: dd08ceda
+- Chicory - A Colorful Tale - Original Soundtrack (Japan) (Disc 2) (NSW Game Bundle) (Track 25).bin, CRC: 2790e675
+- Chicory - A Colorful Tale - Original Soundtrack (Japan) (Disc 2) (NSW Game Bundle) (Track 26).bin, CRC: 400e1df3
+- Chicory - A Colorful Tale - Original Soundtrack (Japan) (Disc 2) (NSW Game Bundle) (Track 27).bin, CRC: 9ac35073
+- Chicory - A Colorful Tale - Original Soundtrack (Japan) (Disc 2) (NSW Game Bundle) (Track 28).bin, CRC: 06bd2f64
+- Chicory - A Colorful Tale - Original Soundtrack (Japan) (Disc 2) (NSW Game Bundle) (Track 29).bin, CRC: 7745e71b
+</details>
+
 ### Chocobo no Fushigi na Dungeon - Original Soundtrack (Japan) (Disc 2) (Special Pack CD) (SSCX 10014) (Track 2).bin, CRC: b7c42356
+### D.C.S.F. Short Version Vol. 2 (Japan) (BD-PG Bundle)
+<details>
+<summary>ROMs</summary>
+
+- D.C.S.F. Short Version Vol. 2 (Japan) (BD-PG Bundle) (Track 1).bin, CRC: 85d1ab35
+- D.C.S.F. Short Version Vol. 2 (Japan) (BD-PG Bundle) (Track 2).bin, CRC: 5ae306d8
+- D.C.S.F. Short Version Vol. 2 (Japan) (BD-PG Bundle) (Track 3).bin, CRC: 668404b1
+- D.C.S.F. Short Version Vol. 2 (Japan) (BD-PG Bundle) (Track 4).bin, CRC: 2dfc16f7
+- D.C.S.F. Short Version Vol. 2 (Japan) (BD-PG Bundle) (Track 5).bin, CRC: 486aac6c
+- D.C.S.F. Short Version Vol. 2 (Japan) (BD-PG Bundle) (Track 6).bin, CRC: 4ce4c9be
+- D.C.S.F. Short Version Vol. 2 (Japan) (BD-PG Bundle) (Track 7).bin, CRC: 8094454a
+- D.C.S.F. Short Version Vol. 2 (Japan) (BD-PG Bundle) (Track 8).bin, CRC: 39af9997
+- D.C.S.F. Short Version Vol. 2 (Japan) (BD-PG Bundle) (Track 9).bin, CRC: 83fdaedd
+</details>
+
 ### Dark Souls III - Original Soundtrack (Japan)
 <details>
 <summary>ROMs</summary>
@@ -274,6 +515,93 @@
 - Dark Souls III - Original Soundtrack (Japan) (PS4 Game Bundle) (Track 25).bin, CRC: 02096635
 </details>
 
+### Dark Void - Original Video Game Score (USA) (Track 01).bin, CRC: f78ca2ca
+### Day of the Tentacle - Remastered - Original Soundtrack (USA) (PC Game Bundle)
+<details>
+<summary>ROMs</summary>
+
+- Day of the Tentacle - Remastered - Original Soundtrack (USA) (PC Game Bundle) (Track 01).bin, CRC: ed3d43cf
+- Day of the Tentacle - Remastered - Original Soundtrack (USA) (PC Game Bundle) (Track 02).bin, CRC: 4f785a7b
+- Day of the Tentacle - Remastered - Original Soundtrack (USA) (PC Game Bundle) (Track 03).bin, CRC: 9f0c3c17
+- Day of the Tentacle - Remastered - Original Soundtrack (USA) (PC Game Bundle) (Track 04).bin, CRC: ccbcbb46
+- Day of the Tentacle - Remastered - Original Soundtrack (USA) (PC Game Bundle) (Track 05).bin, CRC: 54409383
+- Day of the Tentacle - Remastered - Original Soundtrack (USA) (PC Game Bundle) (Track 06).bin, CRC: 283b3e29
+- Day of the Tentacle - Remastered - Original Soundtrack (USA) (PC Game Bundle) (Track 07).bin, CRC: 4b56f1fc
+- Day of the Tentacle - Remastered - Original Soundtrack (USA) (PC Game Bundle) (Track 08).bin, CRC: 399ea878
+- Day of the Tentacle - Remastered - Original Soundtrack (USA) (PC Game Bundle) (Track 09).bin, CRC: b8b579e9
+- Day of the Tentacle - Remastered - Original Soundtrack (USA) (PC Game Bundle) (Track 10).bin, CRC: 625ac7da
+- Day of the Tentacle - Remastered - Original Soundtrack (USA) (PC Game Bundle) (Track 11).bin, CRC: 1aa1a90e
+- Day of the Tentacle - Remastered - Original Soundtrack (USA) (PC Game Bundle) (Track 12).bin, CRC: 48605f3a
+- Day of the Tentacle - Remastered - Original Soundtrack (USA) (PC Game Bundle) (Track 13).bin, CRC: 3a812a42
+- Day of the Tentacle - Remastered - Original Soundtrack (USA) (PC Game Bundle) (Track 14).bin, CRC: afbb1aa5
+- Day of the Tentacle - Remastered - Original Soundtrack (USA) (PC Game Bundle) (Track 15).bin, CRC: 16ddca57
+- Day of the Tentacle - Remastered - Original Soundtrack (USA) (PC Game Bundle) (Track 16).bin, CRC: 24c8904b
+- Day of the Tentacle - Remastered - Original Soundtrack (USA) (PC Game Bundle) (Track 17).bin, CRC: b3f6d2e7
+- Day of the Tentacle - Remastered - Original Soundtrack (USA) (PC Game Bundle) (Track 18).bin, CRC: a9c8c145
+- Day of the Tentacle - Remastered - Original Soundtrack (USA) (PC Game Bundle) (Track 19).bin, CRC: 4aadb6d9
+- Day of the Tentacle - Remastered - Original Soundtrack (USA) (PC Game Bundle) (Track 20).bin, CRC: 52cb7559
+- Day of the Tentacle - Remastered - Original Soundtrack (USA) (PC Game Bundle) (Track 21).bin, CRC: 7198e250
+- Day of the Tentacle - Remastered - Original Soundtrack (USA) (PC Game Bundle) (Track 22).bin, CRC: 93b6f6fb
+- Day of the Tentacle - Remastered - Original Soundtrack (USA) (PC Game Bundle) (Track 23).bin, CRC: 571adc41
+- Day of the Tentacle - Remastered - Original Soundtrack (USA) (PC Game Bundle) (Track 24).bin, CRC: e468e2b0
+- Day of the Tentacle - Remastered - Original Soundtrack (USA) (PC Game Bundle) (Track 25).bin, CRC: f51a556f
+- Day of the Tentacle - Remastered - Original Soundtrack (USA) (PC Game Bundle) (Track 26).bin, CRC: 2ee3a9d1
+- Day of the Tentacle - Remastered - Original Soundtrack (USA) (PC Game Bundle) (Track 27).bin, CRC: d38d79ad
+- Day of the Tentacle - Remastered - Original Soundtrack (USA) (PC Game Bundle) (Track 28).bin, CRC: 07d842ed
+- Day of the Tentacle - Remastered - Original Soundtrack (USA) (PC Game Bundle) (Track 29).bin, CRC: 92111bd5
+- Day of the Tentacle - Remastered - Original Soundtrack (USA) (PC Game Bundle) (Track 30).bin, CRC: d5d930cf
+- Day of the Tentacle - Remastered - Original Soundtrack (USA) (PC Game Bundle) (Track 31).bin, CRC: ac27853a
+- Day of the Tentacle - Remastered - Original Soundtrack (USA) (PC Game Bundle) (Track 32).bin, CRC: c5a1850a
+</details>
+
+### Dewy's Adventure - Original Ongaku-jiten (Japan)
+<details>
+<summary>ROMs</summary>
+
+- Dewy's Adventure - Original Ongaku-jiten (Japan) (Track 01).bin, CRC: ae2a956f
+- Dewy's Adventure - Original Ongaku-jiten (Japan) (Track 02).bin, CRC: b8849985
+- Dewy's Adventure - Original Ongaku-jiten (Japan) (Track 03).bin, CRC: 0c83395b
+- Dewy's Adventure - Original Ongaku-jiten (Japan) (Track 04).bin, CRC: 7a04cdc9
+- Dewy's Adventure - Original Ongaku-jiten (Japan) (Track 05).bin, CRC: 404fb1ba
+- Dewy's Adventure - Original Ongaku-jiten (Japan) (Track 06).bin, CRC: 7f4c5c6b
+- Dewy's Adventure - Original Ongaku-jiten (Japan) (Track 07).bin, CRC: a0b0976e
+- Dewy's Adventure - Original Ongaku-jiten (Japan) (Track 08).bin, CRC: 98ed9bb2
+- Dewy's Adventure - Original Ongaku-jiten (Japan) (Track 09).bin, CRC: f9e66b8e
+- Dewy's Adventure - Original Ongaku-jiten (Japan) (Track 10).bin, CRC: 493bf738
+- Dewy's Adventure - Original Ongaku-jiten (Japan) (Track 11).bin, CRC: afbd2f4b
+- Dewy's Adventure - Original Ongaku-jiten (Japan) (Track 12).bin, CRC: 7ebdb0d5
+- Dewy's Adventure - Original Ongaku-jiten (Japan) (Track 13).bin, CRC: cf6c0259
+- Dewy's Adventure - Original Ongaku-jiten (Japan) (Track 14).bin, CRC: f71e7ed6
+- Dewy's Adventure - Original Ongaku-jiten (Japan) (Track 15).bin, CRC: b599ab46
+- Dewy's Adventure - Original Ongaku-jiten (Japan) (Track 16).bin, CRC: 45735e93
+- Dewy's Adventure - Original Ongaku-jiten (Japan) (Track 17).bin, CRC: 89e16fac
+- Dewy's Adventure - Original Ongaku-jiten (Japan) (Track 18).bin, CRC: c2182129
+- Dewy's Adventure - Original Ongaku-jiten (Japan) (Track 19).bin, CRC: 2dc4fbb6
+- Dewy's Adventure - Original Ongaku-jiten (Japan) (Track 20).bin, CRC: 13b103d5
+- Dewy's Adventure - Original Ongaku-jiten (Japan) (Track 21).bin, CRC: 8fcfae24
+- Dewy's Adventure - Original Ongaku-jiten (Japan) (Track 22).bin, CRC: 8bde7c6a
+- Dewy's Adventure - Original Ongaku-jiten (Japan) (Track 23).bin, CRC: 11eeb95d
+- Dewy's Adventure - Original Ongaku-jiten (Japan) (Track 24).bin, CRC: 5586c469
+- Dewy's Adventure - Original Ongaku-jiten (Japan) (Track 25).bin, CRC: 2bb07dd5
+- Dewy's Adventure - Original Ongaku-jiten (Japan) (Track 26).bin, CRC: 8bda24db
+- Dewy's Adventure - Original Ongaku-jiten (Japan) (Track 27).bin, CRC: f8d04730
+- Dewy's Adventure - Original Ongaku-jiten (Japan) (Track 28).bin, CRC: d2435e74
+- Dewy's Adventure - Original Ongaku-jiten (Japan) (Track 29).bin, CRC: a0835bed
+- Dewy's Adventure - Original Ongaku-jiten (Japan) (Track 30).bin, CRC: 9e6e60f9
+- Dewy's Adventure - Original Ongaku-jiten (Japan) (Track 31).bin, CRC: b6a47b21
+- Dewy's Adventure - Original Ongaku-jiten (Japan) (Track 32).bin, CRC: 9ec9f83c
+- Dewy's Adventure - Original Ongaku-jiten (Japan) (Track 33).bin, CRC: e4be53bd
+- Dewy's Adventure - Original Ongaku-jiten (Japan) (Track 34).bin, CRC: 235c954f
+- Dewy's Adventure - Original Ongaku-jiten (Japan) (Track 35).bin, CRC: cceecbbe
+- Dewy's Adventure - Original Ongaku-jiten (Japan) (Track 36).bin, CRC: 7607ca50
+- Dewy's Adventure - Original Ongaku-jiten (Japan) (Track 37).bin, CRC: d7f727bc
+- Dewy's Adventure - Original Ongaku-jiten (Japan) (Track 38).bin, CRC: b8394abf
+- Dewy's Adventure - Original Ongaku-jiten (Japan) (Track 39).bin, CRC: 248ea521
+- Dewy's Adventure - Original Ongaku-jiten (Japan) (Track 40).bin, CRC: 2dbe832f
+- Dewy's Adventure - Original Ongaku-jiten (Japan) (Track 41).bin, CRC: 2bdc4848
+- Dewy's Adventure - Original Ongaku-jiten (Japan) (Track 42).bin, CRC: ac50e9cc
+</details>
+
 ### Diablo II (Poland) (PC Game Bundle)
 <details>
 <summary>ROMs</summary>
@@ -300,9 +628,76 @@
 ### Double Dragon - Sound Collection Vol. 1 (Japan) (Disc 1) (Track 51).bin, CRC: 2f919305
 ### Double Dragon - Sound Collection Vol. 1 (Japan) (Disc 2) (Track 33).bin, CRC: 97abc4b7
 ### Einhaender - Original Soundtrack (Japan) (Track 29).bin, CRC: 0fe74650
+### Farmagia - Original Soundtrack (USA) (NSW Game Bundle)
+<details>
+<summary>ROMs</summary>
+
+- Farmagia - Original Soundtrack (USA) (NSW Game Bundle) (Track 01).bin, CRC: 086b6858
+- Farmagia - Original Soundtrack (USA) (NSW Game Bundle) (Track 02).bin, CRC: d8dce8a2
+- Farmagia - Original Soundtrack (USA) (NSW Game Bundle) (Track 03).bin, CRC: ba845c8d
+- Farmagia - Original Soundtrack (USA) (NSW Game Bundle) (Track 04).bin, CRC: 839d2dfa
+- Farmagia - Original Soundtrack (USA) (NSW Game Bundle) (Track 05).bin, CRC: f32fa332
+- Farmagia - Original Soundtrack (USA) (NSW Game Bundle) (Track 06).bin, CRC: 7bb1f16b
+- Farmagia - Original Soundtrack (USA) (NSW Game Bundle) (Track 07).bin, CRC: 7b63e5f6
+- Farmagia - Original Soundtrack (USA) (NSW Game Bundle) (Track 08).bin, CRC: 4a2ffe00
+- Farmagia - Original Soundtrack (USA) (NSW Game Bundle) (Track 09).bin, CRC: 2bdd8fc4
+- Farmagia - Original Soundtrack (USA) (NSW Game Bundle) (Track 10).bin, CRC: a24a1851
+- Farmagia - Original Soundtrack (USA) (NSW Game Bundle) (Track 11).bin, CRC: a0f78ce7
+- Farmagia - Original Soundtrack (USA) (NSW Game Bundle) (Track 12).bin, CRC: d570a787
+- Farmagia - Original Soundtrack (USA) (NSW Game Bundle) (Track 13).bin, CRC: d4017193
+- Farmagia - Original Soundtrack (USA) (NSW Game Bundle) (Track 14).bin, CRC: 4bb65e98
+- Farmagia - Original Soundtrack (USA) (NSW Game Bundle) (Track 15).bin, CRC: ec510129
+- Farmagia - Original Soundtrack (USA) (NSW Game Bundle) (Track 16).bin, CRC: 22513628
+- Farmagia - Original Soundtrack (USA) (NSW Game Bundle) (Track 17).bin, CRC: 88d08919
+- Farmagia - Original Soundtrack (USA) (NSW Game Bundle) (Track 18).bin, CRC: cff547f4
+- Farmagia - Original Soundtrack (USA) (NSW Game Bundle) (Track 19).bin, CRC: 6c38751a
+- Farmagia - Original Soundtrack (USA) (NSW Game Bundle) (Track 20).bin, CRC: f20ec197
+- Farmagia - Original Soundtrack (USA) (NSW Game Bundle) (Track 21).bin, CRC: 255c6306
+- Farmagia - Original Soundtrack (USA) (NSW Game Bundle) (Track 22).bin, CRC: 84834a9a
+- Farmagia - Original Soundtrack (USA) (NSW Game Bundle) (Track 23).bin, CRC: b51f364c
+</details>
+
 ### FM Vertex III - Apex (Japan) (Track 13).bin, CRC: 3d3de3d0
 ### FM Vertex III - Apex - Game Shop 1983 Gentei Tokuten (Japan).bin, CRC: 82062833
 ### Fukakutei Sekai no Tantei Shinshi - Akugyou Souma no Jiken File (Japan) (Original Drama CD - Fukakutei Sekai no Hinichijou) (PS2 Game Bundle) (Track 12).bin, CRC: cb5c2016
+### Full Throttle - Remastered - Soundtrack (USA) (PC Game Bundle)
+<details>
+<summary>ROMs</summary>
+
+- Full Throttle - Remastered - Soundtrack (USA) (PC Game Bundle) (Track 01).bin, CRC: 820b6072
+- Full Throttle - Remastered - Soundtrack (USA) (PC Game Bundle) (Track 02).bin, CRC: 1872538c
+- Full Throttle - Remastered - Soundtrack (USA) (PC Game Bundle) (Track 03).bin, CRC: 15cc9102
+- Full Throttle - Remastered - Soundtrack (USA) (PC Game Bundle) (Track 04).bin, CRC: 9749e08c
+- Full Throttle - Remastered - Soundtrack (USA) (PC Game Bundle) (Track 05).bin, CRC: 50e64dbb
+- Full Throttle - Remastered - Soundtrack (USA) (PC Game Bundle) (Track 06).bin, CRC: 2b75d709
+- Full Throttle - Remastered - Soundtrack (USA) (PC Game Bundle) (Track 07).bin, CRC: 839ab247
+- Full Throttle - Remastered - Soundtrack (USA) (PC Game Bundle) (Track 08).bin, CRC: 4f2132b5
+- Full Throttle - Remastered - Soundtrack (USA) (PC Game Bundle) (Track 09).bin, CRC: 799ff49a
+- Full Throttle - Remastered - Soundtrack (USA) (PC Game Bundle) (Track 10).bin, CRC: c1f14f9d
+- Full Throttle - Remastered - Soundtrack (USA) (PC Game Bundle) (Track 11).bin, CRC: 24c2137b
+- Full Throttle - Remastered - Soundtrack (USA) (PC Game Bundle) (Track 12).bin, CRC: 4d560e1a
+- Full Throttle - Remastered - Soundtrack (USA) (PC Game Bundle) (Track 13).bin, CRC: 85e6fe26
+- Full Throttle - Remastered - Soundtrack (USA) (PC Game Bundle) (Track 14).bin, CRC: bc1705c0
+- Full Throttle - Remastered - Soundtrack (USA) (PC Game Bundle) (Track 15).bin, CRC: 42397de7
+- Full Throttle - Remastered - Soundtrack (USA) (PC Game Bundle) (Track 16).bin, CRC: 1c7daa78
+- Full Throttle - Remastered - Soundtrack (USA) (PC Game Bundle) (Track 17).bin, CRC: bb2c7e2b
+- Full Throttle - Remastered - Soundtrack (USA) (PC Game Bundle) (Track 18).bin, CRC: b75771bb
+- Full Throttle - Remastered - Soundtrack (USA) (PC Game Bundle) (Track 19).bin, CRC: fb372d12
+- Full Throttle - Remastered - Soundtrack (USA) (PC Game Bundle) (Track 20).bin, CRC: b41d58ff
+- Full Throttle - Remastered - Soundtrack (USA) (PC Game Bundle) (Track 21).bin, CRC: 6bdfeaa9
+- Full Throttle - Remastered - Soundtrack (USA) (PC Game Bundle) (Track 22).bin, CRC: e12b3815
+- Full Throttle - Remastered - Soundtrack (USA) (PC Game Bundle) (Track 23).bin, CRC: 338e62c3
+- Full Throttle - Remastered - Soundtrack (USA) (PC Game Bundle) (Track 24).bin, CRC: a6e86694
+- Full Throttle - Remastered - Soundtrack (USA) (PC Game Bundle) (Track 25).bin, CRC: 4b2febd7
+- Full Throttle - Remastered - Soundtrack (USA) (PC Game Bundle) (Track 26).bin, CRC: 573da86b
+- Full Throttle - Remastered - Soundtrack (USA) (PC Game Bundle) (Track 27).bin, CRC: b943850a
+- Full Throttle - Remastered - Soundtrack (USA) (PC Game Bundle) (Track 28).bin, CRC: dfcf8d5d
+- Full Throttle - Remastered - Soundtrack (USA) (PC Game Bundle) (Track 29).bin, CRC: d409b605
+- Full Throttle - Remastered - Soundtrack (USA) (PC Game Bundle) (Track 30).bin, CRC: 16a4d0ae
+- Full Throttle - Remastered - Soundtrack (USA) (PC Game Bundle) (Track 31).bin, CRC: e0892fda
+- Full Throttle - Remastered - Soundtrack (USA) (PC Game Bundle) (Track 32).bin, CRC: 1949a2ee
+</details>
+
 ### FX Unit Yuki Original Soundtrack (USA)
 <details>
 <summary>ROMs</summary>
@@ -358,7 +753,6 @@
 - Game Ongaku Taizen Revolution - Konami Meisaku CD (Japan) (Track 13).bin, CRC: cdbf71ce
 </details>
 
-### Game Sound Deco - G.S.M. Data East 1 (Japan) (Track 16).bin, CRC: 07584dc1
 ### Gangsta Republica - Yoyaku Tokuten Disc - Yoruyou H na Oyasumi Drama CD (Japan).bin, CRC: e03073a9
 ### Gekkan Arcadia 12-gatsugou Furoku - Dariusburst Another Chronicle Senkou Shichouban (Japan)
 <details>
@@ -554,47 +948,24 @@
 - Heavy Metal Raiden - International CD (Japan) (Disc 2) (Track 11).bin, CRC: 28dd9f99
 </details>
 
-### Hoshi no Oujo 3 - Ten Chi Jin no Souseiki - Original Soundtrack (Japan) (PC Game Bundle)
+### Jack Orlando - The Original Soundtrack (Germany)
 <details>
 <summary>ROMs</summary>
 
-- Hoshi no Oujo 3 - Ten Chi Jin no Souseiki - Original Soundtrack (Japan) (PC Game Bundle) (Track 01).bin, CRC: 90cb23d8
-- Hoshi no Oujo 3 - Ten Chi Jin no Souseiki - Original Soundtrack (Japan) (PC Game Bundle) (Track 02).bin, CRC: 4ee8cd0a
-- Hoshi no Oujo 3 - Ten Chi Jin no Souseiki - Original Soundtrack (Japan) (PC Game Bundle) (Track 03).bin, CRC: a4f45b00
-- Hoshi no Oujo 3 - Ten Chi Jin no Souseiki - Original Soundtrack (Japan) (PC Game Bundle) (Track 04).bin, CRC: 494b5366
-- Hoshi no Oujo 3 - Ten Chi Jin no Souseiki - Original Soundtrack (Japan) (PC Game Bundle) (Track 05).bin, CRC: af3bd303
-- Hoshi no Oujo 3 - Ten Chi Jin no Souseiki - Original Soundtrack (Japan) (PC Game Bundle) (Track 06).bin, CRC: 49583341
-- Hoshi no Oujo 3 - Ten Chi Jin no Souseiki - Original Soundtrack (Japan) (PC Game Bundle) (Track 07).bin, CRC: e0d590bd
-- Hoshi no Oujo 3 - Ten Chi Jin no Souseiki - Original Soundtrack (Japan) (PC Game Bundle) (Track 08).bin, CRC: d8c548e1
-- Hoshi no Oujo 3 - Ten Chi Jin no Souseiki - Original Soundtrack (Japan) (PC Game Bundle) (Track 09).bin, CRC: 91166af3
-- Hoshi no Oujo 3 - Ten Chi Jin no Souseiki - Original Soundtrack (Japan) (PC Game Bundle) (Track 10).bin, CRC: 0bcb6ee8
-- Hoshi no Oujo 3 - Ten Chi Jin no Souseiki - Original Soundtrack (Japan) (PC Game Bundle) (Track 11).bin, CRC: 4c068662
-- Hoshi no Oujo 3 - Ten Chi Jin no Souseiki - Original Soundtrack (Japan) (PC Game Bundle) (Track 12).bin, CRC: fcb7e91a
-- Hoshi no Oujo 3 - Ten Chi Jin no Souseiki - Original Soundtrack (Japan) (PC Game Bundle) (Track 13).bin, CRC: 8e8debb4
-- Hoshi no Oujo 3 - Ten Chi Jin no Souseiki - Original Soundtrack (Japan) (PC Game Bundle) (Track 14).bin, CRC: 670f0179
-- Hoshi no Oujo 3 - Ten Chi Jin no Souseiki - Original Soundtrack (Japan) (PC Game Bundle) (Track 15).bin, CRC: fb365c09
-- Hoshi no Oujo 3 - Ten Chi Jin no Souseiki - Original Soundtrack (Japan) (PC Game Bundle) (Track 16).bin, CRC: d6105c56
-- Hoshi no Oujo 3 - Ten Chi Jin no Souseiki - Original Soundtrack (Japan) (PC Game Bundle) (Track 17).bin, CRC: 8905bb40
-- Hoshi no Oujo 3 - Ten Chi Jin no Souseiki - Original Soundtrack (Japan) (PC Game Bundle) (Track 18).bin, CRC: bb2890e8
-- Hoshi no Oujo 3 - Ten Chi Jin no Souseiki - Original Soundtrack (Japan) (PC Game Bundle) (Track 19).bin, CRC: 71cc263f
-- Hoshi no Oujo 3 - Ten Chi Jin no Souseiki - Original Soundtrack (Japan) (PC Game Bundle) (Track 20).bin, CRC: 245db22f
-- Hoshi no Oujo 3 - Ten Chi Jin no Souseiki - Original Soundtrack (Japan) (PC Game Bundle) (Track 21).bin, CRC: 2b3e5374
-- Hoshi no Oujo 3 - Ten Chi Jin no Souseiki - Original Soundtrack (Japan) (PC Game Bundle) (Track 22).bin, CRC: 88c6e1b8
-- Hoshi no Oujo 3 - Ten Chi Jin no Souseiki - Original Soundtrack (Japan) (PC Game Bundle) (Track 23).bin, CRC: c56f04ad
-- Hoshi no Oujo 3 - Ten Chi Jin no Souseiki - Original Soundtrack (Japan) (PC Game Bundle) (Track 24).bin, CRC: f7fad2a1
-- Hoshi no Oujo 3 - Ten Chi Jin no Souseiki - Original Soundtrack (Japan) (PC Game Bundle) (Track 25).bin, CRC: e337affb
-- Hoshi no Oujo 3 - Ten Chi Jin no Souseiki - Original Soundtrack (Japan) (PC Game Bundle) (Track 26).bin, CRC: a5a08b05
-- Hoshi no Oujo 3 - Ten Chi Jin no Souseiki - Original Soundtrack (Japan) (PC Game Bundle) (Track 27).bin, CRC: 1e1d365c
-- Hoshi no Oujo 3 - Ten Chi Jin no Souseiki - Original Soundtrack (Japan) (PC Game Bundle) (Track 28).bin, CRC: eb13600e
-- Hoshi no Oujo 3 - Ten Chi Jin no Souseiki - Original Soundtrack (Japan) (PC Game Bundle) (Track 29).bin, CRC: 377c1bb5
-- Hoshi no Oujo 3 - Ten Chi Jin no Souseiki - Original Soundtrack (Japan) (PC Game Bundle) (Track 30).bin, CRC: bffc50f3
-- Hoshi no Oujo 3 - Ten Chi Jin no Souseiki - Original Soundtrack (Japan) (PC Game Bundle) (Track 31).bin, CRC: 40ea407c
-- Hoshi no Oujo 3 - Ten Chi Jin no Souseiki - Original Soundtrack (Japan) (PC Game Bundle) (Track 32).bin, CRC: ac5a8bfc
-- Hoshi no Oujo 3 - Ten Chi Jin no Souseiki - Original Soundtrack (Japan) (PC Game Bundle) (Track 33).bin, CRC: 7ce221ca
-- Hoshi no Oujo 3 - Ten Chi Jin no Souseiki - Original Soundtrack (Japan) (PC Game Bundle) (Track 34).bin, CRC: 739eee8a
-- Hoshi no Oujo 3 - Ten Chi Jin no Souseiki - Original Soundtrack (Japan) (PC Game Bundle) (Track 35).bin, CRC: 59d48712
-- Hoshi no Oujo 3 - Ten Chi Jin no Souseiki - Original Soundtrack (Japan) (PC Game Bundle) (Track 36).bin, CRC: 2323cf31
-- Hoshi no Oujo 3 - Ten Chi Jin no Souseiki - Original Soundtrack (Japan) (PC Game Bundle) (Track 37).bin, CRC: 1db95ae0
+- Jack Orlando - The Original Soundtrack (Germany) (Track 01).bin, CRC: e7d13d7e
+- Jack Orlando - The Original Soundtrack (Germany) (Track 02).bin, CRC: 9d5d4ed0
+- Jack Orlando - The Original Soundtrack (Germany) (Track 03).bin, CRC: 67420268
+- Jack Orlando - The Original Soundtrack (Germany) (Track 04).bin, CRC: 45cd119d
+- Jack Orlando - The Original Soundtrack (Germany) (Track 05).bin, CRC: 2c75249c
+- Jack Orlando - The Original Soundtrack (Germany) (Track 06).bin, CRC: fb1334b2
+- Jack Orlando - The Original Soundtrack (Germany) (Track 07).bin, CRC: 1fdd359e
+- Jack Orlando - The Original Soundtrack (Germany) (Track 08).bin, CRC: 48e0c7d5
+- Jack Orlando - The Original Soundtrack (Germany) (Track 09).bin, CRC: 01635282
+- Jack Orlando - The Original Soundtrack (Germany) (Track 10).bin, CRC: 8188f6a4
+- Jack Orlando - The Original Soundtrack (Germany) (Track 11).bin, CRC: bb4a8cf2
+- Jack Orlando - The Original Soundtrack (Germany) (Track 12).bin, CRC: 0dc2c274
+- Jack Orlando - The Original Soundtrack (Germany) (Track 13).bin, CRC: 4b0758b5
+- Jack Orlando - The Original Soundtrack (Germany) (Track 14).bin, CRC: 5922e4d0
 </details>
 
 ### Kaguya-chan no Okozukai Daisakusen Original Soundtrack (Japan) (PC Game Bundle)
@@ -652,6 +1023,29 @@
 - King of Fighters 2002, The - Unlimited Match - Limited Sound Track (Japan) (PS4 Game Bundle) (Track 20).bin, CRC: 2c1bd6b9
 </details>
 
+### Kiri no Senjou no Verdina - C.A.R.D.S. RPG (Japan) (PS5 Game Bundle)
+<details>
+<summary>ROMs</summary>
+
+- Kiri no Senjou no Verdina - C.A.R.D.S. RPG (Japan) (PS5 Game Bundle) (Track 01).bin, CRC: a0fca430
+- Kiri no Senjou no Verdina - C.A.R.D.S. RPG (Japan) (PS5 Game Bundle) (Track 02).bin, CRC: e5c1f0a7
+- Kiri no Senjou no Verdina - C.A.R.D.S. RPG (Japan) (PS5 Game Bundle) (Track 03).bin, CRC: 6c42e2ab
+- Kiri no Senjou no Verdina - C.A.R.D.S. RPG (Japan) (PS5 Game Bundle) (Track 04).bin, CRC: d82a7603
+- Kiri no Senjou no Verdina - C.A.R.D.S. RPG (Japan) (PS5 Game Bundle) (Track 05).bin, CRC: 56110b62
+- Kiri no Senjou no Verdina - C.A.R.D.S. RPG (Japan) (PS5 Game Bundle) (Track 06).bin, CRC: bfb54ee8
+- Kiri no Senjou no Verdina - C.A.R.D.S. RPG (Japan) (PS5 Game Bundle) (Track 07).bin, CRC: 734f6a76
+- Kiri no Senjou no Verdina - C.A.R.D.S. RPG (Japan) (PS5 Game Bundle) (Track 08).bin, CRC: 6eca5d62
+- Kiri no Senjou no Verdina - C.A.R.D.S. RPG (Japan) (PS5 Game Bundle) (Track 09).bin, CRC: 048936fc
+- Kiri no Senjou no Verdina - C.A.R.D.S. RPG (Japan) (PS5 Game Bundle) (Track 10).bin, CRC: 6c65eea6
+- Kiri no Senjou no Verdina - C.A.R.D.S. RPG (Japan) (PS5 Game Bundle) (Track 11).bin, CRC: eff8778f
+- Kiri no Senjou no Verdina - C.A.R.D.S. RPG (Japan) (PS5 Game Bundle) (Track 12).bin, CRC: 9a7b072e
+- Kiri no Senjou no Verdina - C.A.R.D.S. RPG (Japan) (PS5 Game Bundle) (Track 13).bin, CRC: 57560fcb
+- Kiri no Senjou no Verdina - C.A.R.D.S. RPG (Japan) (PS5 Game Bundle) (Track 14).bin, CRC: 8917472c
+- Kiri no Senjou no Verdina - C.A.R.D.S. RPG (Japan) (PS5 Game Bundle) (Track 15).bin, CRC: 946acfa0
+- Kiri no Senjou no Verdina - C.A.R.D.S. RPG (Japan) (PS5 Game Bundle) (Track 16).bin, CRC: 99db200d
+- Kiri no Senjou no Verdina - C.A.R.D.S. RPG (Japan) (PS5 Game Bundle) (Track 17).bin, CRC: d78d8a22
+</details>
+
 ### Konami Game Music Remix Series Vol. 2 - Salamander Remixes (Japan) (Track 6).bin, CRC: 1af608be
 ### Konami Game Music Vol. 1 (Japan) (Reprint)
 <details>
@@ -685,6 +1079,21 @@
 </details>
 
 ### Legend of Laqia, The (Korea) (Track 16).bin, CRC: ff63362f
+### Loom (Japan)
+<details>
+<summary>ROMs</summary>
+
+- Loom (Japan) (Track 1).bin, CRC: 31458794
+- Loom (Japan) (Track 2).bin, CRC: 94bb8d83
+- Loom (Japan) (Track 3).bin, CRC: 2b0e2567
+- Loom (Japan) (Track 4).bin, CRC: b659e93b
+- Loom (Japan) (Track 5).bin, CRC: 62274608
+- Loom (Japan) (Track 6).bin, CRC: e0ff5621
+- Loom (Japan) (Track 7).bin, CRC: 907b347a
+- Loom (Japan) (Track 8).bin, CRC: d129cb00
+- Loom (Japan) (Track 9).bin, CRC: e103464b
+</details>
+
 ### Loulan Er - Lunhui Zhi Guiji - Yuan Sheng Yinle CD (Taiwan) (PC Game Bundle) (Track 22).bin, CRC: 3b291ff0
 ### Magistr Temple (Japan) (PC Game Bundle)
 <details>
@@ -807,6 +1216,17 @@
 - Magna Carta II - Original Sound Track (Korea) (Xbox 360 Game Bundle) (Track 35).bin, CRC: 9de711a5
 </details>
 
+### Maji de Watashi ni Koi Shinasai! S - Sofmap Original Drama CD (Japan)
+<details>
+<summary>ROMs</summary>
+
+- Maji de Watashi ni Koi Shinasai! S - Sofmap Original Drama CD (Japan) (Track 1).bin, CRC: 9f9c22a4
+- Maji de Watashi ni Koi Shinasai! S - Sofmap Original Drama CD (Japan) (Track 2).bin, CRC: f0e34884
+- Maji de Watashi ni Koi Shinasai! S - Sofmap Original Drama CD (Japan) (Track 3).bin, CRC: ca05aeea
+- Maji de Watashi ni Koi Shinasai! S - Sofmap Original Drama CD (Japan) (Track 4).bin, CRC: 7e3238eb
+- Maji de Watashi ni Koi Shinasai! S - Sofmap Original Drama CD (Japan) (Track 5).bin, CRC: 454649a6
+</details>
+
 ### Mana-Khemia 2 - Original Soundtrack (Japan) (Disc 1) (Track 40).bin, CRC: 77c8eb14
 ### Mana-Khemia 2 - Original Soundtrack (Japan) (Disc 2) (Track 37).bin, CRC: 8b7a0244
 ### MultiXmas (Netherlands) (Audio) (PC Game Bundle)
@@ -915,8 +1335,60 @@
 - Myth III - Era Wilka (Poland) (Audio) (PC Game Bundle) (Track 22).bin, CRC: 42c807ff
 </details>
 
+### Nagomibako - Mini Soundtrack - Sacrament (Japan) (PC Game Bundle) (Track 14).bin, CRC: e99705ee
 ### Nekketsu Koukou Sound-bu SFC-hen (Japan) (Disc 1) (Track 43).bin, CRC: 4f7280c8
 ### Nekketsu Koukou Sound-bu SFC-hen (Japan) (Disc 2) (Track 51).bin, CRC: 648a6912
+### Neverwinter Nights - Original Soundtrack (Japan) (PC Game Bundle)
+<details>
+<summary>ROMs</summary>
+
+- Neverwinter Nights - Original Soundtrack (Japan) (PC Game Bundle) (Track 01).bin, CRC: f8402024
+- Neverwinter Nights - Original Soundtrack (Japan) (PC Game Bundle) (Track 02).bin, CRC: 739f8d4e
+- Neverwinter Nights - Original Soundtrack (Japan) (PC Game Bundle) (Track 03).bin, CRC: e8856475
+- Neverwinter Nights - Original Soundtrack (Japan) (PC Game Bundle) (Track 04).bin, CRC: d8796c9d
+- Neverwinter Nights - Original Soundtrack (Japan) (PC Game Bundle) (Track 05).bin, CRC: 2e6cea44
+- Neverwinter Nights - Original Soundtrack (Japan) (PC Game Bundle) (Track 06).bin, CRC: c63e32c1
+- Neverwinter Nights - Original Soundtrack (Japan) (PC Game Bundle) (Track 07).bin, CRC: a3178805
+- Neverwinter Nights - Original Soundtrack (Japan) (PC Game Bundle) (Track 08).bin, CRC: 23ce5be9
+- Neverwinter Nights - Original Soundtrack (Japan) (PC Game Bundle) (Track 09).bin, CRC: 5541573c
+- Neverwinter Nights - Original Soundtrack (Japan) (PC Game Bundle) (Track 10).bin, CRC: 01fa8c19
+- Neverwinter Nights - Original Soundtrack (Japan) (PC Game Bundle) (Track 11).bin, CRC: 8c6b32bf
+- Neverwinter Nights - Original Soundtrack (Japan) (PC Game Bundle) (Track 12).bin, CRC: ad17ebdb
+- Neverwinter Nights - Original Soundtrack (Japan) (PC Game Bundle) (Track 13).bin, CRC: ea7c5a27
+- Neverwinter Nights - Original Soundtrack (Japan) (PC Game Bundle) (Track 14).bin, CRC: 78725eec
+- Neverwinter Nights - Original Soundtrack (Japan) (PC Game Bundle) (Track 15).bin, CRC: 6ea73af6
+- Neverwinter Nights - Original Soundtrack (Japan) (PC Game Bundle) (Track 16).bin, CRC: 8f29f14c
+- Neverwinter Nights - Original Soundtrack (Japan) (PC Game Bundle) (Track 17).bin, CRC: ba23532f
+- Neverwinter Nights - Original Soundtrack (Japan) (PC Game Bundle) (Track 18).bin, CRC: 8b700ab1
+- Neverwinter Nights - Original Soundtrack (Japan) (PC Game Bundle) (Track 19).bin, CRC: 78ac982d
+- Neverwinter Nights - Original Soundtrack (Japan) (PC Game Bundle) (Track 20).bin, CRC: 53b22530
+- Neverwinter Nights - Original Soundtrack (Japan) (PC Game Bundle) (Track 21).bin, CRC: 0f4ce781
+- Neverwinter Nights - Original Soundtrack (Japan) (PC Game Bundle) (Track 22).bin, CRC: a65b7eb1
+- Neverwinter Nights - Original Soundtrack (Japan) (PC Game Bundle) (Track 23).bin, CRC: e54e6206
+- Neverwinter Nights - Original Soundtrack (Japan) (PC Game Bundle) (Track 24).bin, CRC: bf32cb64
+- Neverwinter Nights - Original Soundtrack (Japan) (PC Game Bundle) (Track 25).bin, CRC: 0c2ea2b3
+- Neverwinter Nights - Original Soundtrack (Japan) (PC Game Bundle) (Track 26).bin, CRC: 85c076f3
+- Neverwinter Nights - Original Soundtrack (Japan) (PC Game Bundle) (Track 27).bin, CRC: 232855bd
+- Neverwinter Nights - Original Soundtrack (Japan) (PC Game Bundle) (Track 28).bin, CRC: e62186ab
+- Neverwinter Nights - Original Soundtrack (Japan) (PC Game Bundle) (Track 29).bin, CRC: 62a559cd
+- Neverwinter Nights - Original Soundtrack (Japan) (PC Game Bundle) (Track 30).bin, CRC: 8816778c
+- Neverwinter Nights - Original Soundtrack (Japan) (PC Game Bundle) (Track 31).bin, CRC: 734803f0
+- Neverwinter Nights - Original Soundtrack (Japan) (PC Game Bundle) (Track 32).bin, CRC: cff391c8
+- Neverwinter Nights - Original Soundtrack (Japan) (PC Game Bundle) (Track 33).bin, CRC: 4295d05d
+- Neverwinter Nights - Original Soundtrack (Japan) (PC Game Bundle) (Track 34).bin, CRC: 74ab8bd6
+- Neverwinter Nights - Original Soundtrack (Japan) (PC Game Bundle) (Track 35).bin, CRC: c2a0d101
+- Neverwinter Nights - Original Soundtrack (Japan) (PC Game Bundle) (Track 36).bin, CRC: 8b323596
+- Neverwinter Nights - Original Soundtrack (Japan) (PC Game Bundle) (Track 37).bin, CRC: 8ef71ce7
+- Neverwinter Nights - Original Soundtrack (Japan) (PC Game Bundle) (Track 38).bin, CRC: e5bc65e6
+- Neverwinter Nights - Original Soundtrack (Japan) (PC Game Bundle) (Track 39).bin, CRC: e64efbec
+- Neverwinter Nights - Original Soundtrack (Japan) (PC Game Bundle) (Track 40).bin, CRC: 07f84dc3
+- Neverwinter Nights - Original Soundtrack (Japan) (PC Game Bundle) (Track 41).bin, CRC: b70634e5
+- Neverwinter Nights - Original Soundtrack (Japan) (PC Game Bundle) (Track 42).bin, CRC: bf17fd69
+- Neverwinter Nights - Original Soundtrack (Japan) (PC Game Bundle) (Track 43).bin, CRC: a4421371
+- Neverwinter Nights - Original Soundtrack (Japan) (PC Game Bundle) (Track 44).bin, CRC: eb2e6056
+- Neverwinter Nights - Original Soundtrack (Japan) (PC Game Bundle) (Track 45).bin, CRC: 80f478cf
+</details>
+
 ### ONGEKI Sound Collection 03 - Splash Dance!! (Japan)
 <details>
 <summary>ROMs</summary>
@@ -943,50 +1415,26 @@
 - ONGEKI Sound Collection 03 - Splash Dance!! (Japan) (Track 20).bin, CRC: b6606357
 </details>
 
-### Oniken + Odallus - Original Soundtrack (Asia) (PS4 Game Bundle)
+### Origin Audio CD Vol. 3 (USA) (PC Game Bundle)
 <details>
 <summary>ROMs</summary>
 
-- Oniken + Odallus - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 01).bin, CRC: d420defe
-- Oniken + Odallus - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 02).bin, CRC: 2074754e
-- Oniken + Odallus - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 03).bin, CRC: d04821ff
-- Oniken + Odallus - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 04).bin, CRC: 7bfb96b8
-- Oniken + Odallus - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 05).bin, CRC: fbabeeb0
-- Oniken + Odallus - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 06).bin, CRC: b3d41712
-- Oniken + Odallus - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 07).bin, CRC: 7a8d82d0
-- Oniken + Odallus - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 08).bin, CRC: bf53bedb
-- Oniken + Odallus - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 09).bin, CRC: 47705202
-- Oniken + Odallus - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 10).bin, CRC: 1e9c297f
-- Oniken + Odallus - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 11).bin, CRC: 770342d1
-- Oniken + Odallus - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 12).bin, CRC: 9eb65d36
-- Oniken + Odallus - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 13).bin, CRC: 6dd2d68e
-- Oniken + Odallus - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 14).bin, CRC: 3cc2e751
-- Oniken + Odallus - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 15).bin, CRC: 9b231dda
-- Oniken + Odallus - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 16).bin, CRC: 3514ae3d
-- Oniken + Odallus - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 17).bin, CRC: 64931dbb
-- Oniken + Odallus - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 18).bin, CRC: 05c501ab
-- Oniken + Odallus - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 19).bin, CRC: a106a5ca
-- Oniken + Odallus - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 20).bin, CRC: 2040d907
-- Oniken + Odallus - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 21).bin, CRC: fc4e107a
-- Oniken + Odallus - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 22).bin, CRC: 94879cb3
-- Oniken + Odallus - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 23).bin, CRC: 3d29b008
-- Oniken + Odallus - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 24).bin, CRC: 4f63e74b
-- Oniken + Odallus - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 25).bin, CRC: e5e6a446
-- Oniken + Odallus - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 26).bin, CRC: 94fa723b
-- Oniken + Odallus - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 27).bin, CRC: d6631a73
-- Oniken + Odallus - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 28).bin, CRC: f70494f9
-- Oniken + Odallus - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 29).bin, CRC: b33d8246
-- Oniken + Odallus - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 30).bin, CRC: 93543f2a
-- Oniken + Odallus - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 31).bin, CRC: d85d340a
-- Oniken + Odallus - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 32).bin, CRC: 19203256
-- Oniken + Odallus - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 33).bin, CRC: 0636fe11
-- Oniken + Odallus - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 34).bin, CRC: b8a9f342
-- Oniken + Odallus - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 35).bin, CRC: a18f4b47
-- Oniken + Odallus - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 36).bin, CRC: 7e613bbd
-- Oniken + Odallus - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 37).bin, CRC: f47ead41
-- Oniken + Odallus - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 38).bin, CRC: 221b644f
-- Oniken + Odallus - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 39).bin, CRC: d7ce875b
-- Oniken + Odallus - Original Soundtrack (Asia) (PS4 Game Bundle) (Track 40).bin, CRC: f5b6d2bc
+- Origin Audio CD Vol. 3 (USA) (PC Game Bundle) (Track 01).bin, CRC: 3e85c13b
+- Origin Audio CD Vol. 3 (USA) (PC Game Bundle) (Track 02).bin, CRC: 2b648542
+- Origin Audio CD Vol. 3 (USA) (PC Game Bundle) (Track 03).bin, CRC: 0c040a01
+- Origin Audio CD Vol. 3 (USA) (PC Game Bundle) (Track 04).bin, CRC: 80374c5d
+- Origin Audio CD Vol. 3 (USA) (PC Game Bundle) (Track 05).bin, CRC: bd947e29
+- Origin Audio CD Vol. 3 (USA) (PC Game Bundle) (Track 06).bin, CRC: 4cf1c8b3
+- Origin Audio CD Vol. 3 (USA) (PC Game Bundle) (Track 07).bin, CRC: d0b86c18
+- Origin Audio CD Vol. 3 (USA) (PC Game Bundle) (Track 08).bin, CRC: 9ae470c9
+- Origin Audio CD Vol. 3 (USA) (PC Game Bundle) (Track 09).bin, CRC: 6c15bd65
+- Origin Audio CD Vol. 3 (USA) (PC Game Bundle) (Track 10).bin, CRC: dad99528
+- Origin Audio CD Vol. 3 (USA) (PC Game Bundle) (Track 11).bin, CRC: 0178cf3f
+- Origin Audio CD Vol. 3 (USA) (PC Game Bundle) (Track 12).bin, CRC: 063fffbb
+- Origin Audio CD Vol. 3 (USA) (PC Game Bundle) (Track 13).bin, CRC: d6633a00
+- Origin Audio CD Vol. 3 (USA) (PC Game Bundle) (Track 14).bin, CRC: d5877638
+- Origin Audio CD Vol. 3 (USA) (PC Game Bundle) (Track 15).bin, CRC: 21e5537f
+- Origin Audio CD Vol. 3 (USA) (PC Game Bundle) (Track 16).bin, CRC: 442fe1bb
 </details>
 
 ### Pachi-Slot Ganbare Goemon 2 - Original Soundtrack (Japan) (Track 45).bin, CRC: 90a0bf97
@@ -1103,6 +1551,30 @@
 - Postujte Nase Znakove (Croatia) (PC Game Bundle) (Track 12).bin, CRC: 5f3f45a3
 </details>
 
+### Psychonauts - Original Cinematic Score (USA)
+<details>
+<summary>ROMs</summary>
+
+- Psychonauts - Original Cinematic Score (USA) (Track 01).bin, CRC: 14912786
+- Psychonauts - Original Cinematic Score (USA) (Track 02).bin, CRC: 5578d50b
+- Psychonauts - Original Cinematic Score (USA) (Track 03).bin, CRC: 05091423
+- Psychonauts - Original Cinematic Score (USA) (Track 04).bin, CRC: 31d4b711
+- Psychonauts - Original Cinematic Score (USA) (Track 05).bin, CRC: 0690e03d
+- Psychonauts - Original Cinematic Score (USA) (Track 06).bin, CRC: 76808579
+- Psychonauts - Original Cinematic Score (USA) (Track 07).bin, CRC: c47a06ce
+- Psychonauts - Original Cinematic Score (USA) (Track 08).bin, CRC: e3fa1634
+- Psychonauts - Original Cinematic Score (USA) (Track 09).bin, CRC: c286ff9f
+- Psychonauts - Original Cinematic Score (USA) (Track 10).bin, CRC: a54fdcf1
+- Psychonauts - Original Cinematic Score (USA) (Track 11).bin, CRC: f160bd4b
+- Psychonauts - Original Cinematic Score (USA) (Track 12).bin, CRC: a46b4f84
+- Psychonauts - Original Cinematic Score (USA) (Track 13).bin, CRC: 701c5cc4
+- Psychonauts - Original Cinematic Score (USA) (Track 14).bin, CRC: 2b64e75f
+- Psychonauts - Original Cinematic Score (USA) (Track 15).bin, CRC: 595d3f4c
+- Psychonauts - Original Cinematic Score (USA) (Track 16).bin, CRC: f33ba6a5
+- Psychonauts - Original Cinematic Score (USA) (Track 17).bin, CRC: 97a370a7
+- Psychonauts - Original Cinematic Score (USA) (Track 18).bin, CRC: fdeecc1c
+</details>
+
 ### Pure Pure - Mimi to Shippo no Monogatari - Special CD (Japan) (PS2 Game Bundle)
 <details>
 <summary>ROMs</summary>
@@ -1150,12 +1622,101 @@
 - R4 - Ridge Racer Type 4 - The 20th Anniv. Sounds (Japan) (Disc 2) (2nd Heat - Remastered Sounds) (Alt 2) (Track 25).bin, CRC: 09b10cd6
 </details>
 
+### Radiant Silvergun (Japan) (Disc 1) (Chiptune Arrangement) (NSW Game Bundle)
+<details>
+<summary>ROMs</summary>
+
+- Radiant Silvergun (Japan) (Disc 1) (Chiptune Arrangement) (NSW Game Bundle) (Track 01).bin, CRC: a3b6f6aa
+- Radiant Silvergun (Japan) (Disc 1) (Chiptune Arrangement) (NSW Game Bundle) (Track 02).bin, CRC: 94820fe7
+- Radiant Silvergun (Japan) (Disc 1) (Chiptune Arrangement) (NSW Game Bundle) (Track 03).bin, CRC: b7232118
+- Radiant Silvergun (Japan) (Disc 1) (Chiptune Arrangement) (NSW Game Bundle) (Track 04).bin, CRC: 2f086636
+- Radiant Silvergun (Japan) (Disc 1) (Chiptune Arrangement) (NSW Game Bundle) (Track 05).bin, CRC: a48c587d
+- Radiant Silvergun (Japan) (Disc 1) (Chiptune Arrangement) (NSW Game Bundle) (Track 06).bin, CRC: 599e612b
+- Radiant Silvergun (Japan) (Disc 1) (Chiptune Arrangement) (NSW Game Bundle) (Track 07).bin, CRC: ea0cb08f
+- Radiant Silvergun (Japan) (Disc 1) (Chiptune Arrangement) (NSW Game Bundle) (Track 08).bin, CRC: a3d52dd0
+- Radiant Silvergun (Japan) (Disc 1) (Chiptune Arrangement) (NSW Game Bundle) (Track 09).bin, CRC: f17a96aa
+- Radiant Silvergun (Japan) (Disc 1) (Chiptune Arrangement) (NSW Game Bundle) (Track 10).bin, CRC: 35f1547f
+- Radiant Silvergun (Japan) (Disc 1) (Chiptune Arrangement) (NSW Game Bundle) (Track 11).bin, CRC: a66113e6
+- Radiant Silvergun (Japan) (Disc 1) (Chiptune Arrangement) (NSW Game Bundle) (Track 12).bin, CRC: 82f3e04c
+- Radiant Silvergun (Japan) (Disc 1) (Chiptune Arrangement) (NSW Game Bundle) (Track 13).bin, CRC: facfec0d
+- Radiant Silvergun (Japan) (Disc 1) (Chiptune Arrangement) (NSW Game Bundle) (Track 14).bin, CRC: 5f453d8e
+</details>
+
+### Radiant Silvergun (Japan) (Disc 2) (Soundtrack) (NSW Game Bundle)
+<details>
+<summary>ROMs</summary>
+
+- Radiant Silvergun (Japan) (Disc 2) (Soundtrack) (NSW Game Bundle) (Track 1).bin, CRC: ac1f3d3c
+- Radiant Silvergun (Japan) (Disc 2) (Soundtrack) (NSW Game Bundle) (Track 2).bin, CRC: 3b4596b0
+- Radiant Silvergun (Japan) (Disc 2) (Soundtrack) (NSW Game Bundle) (Track 3).bin, CRC: d6e34d3a
+- Radiant Silvergun (Japan) (Disc 2) (Soundtrack) (NSW Game Bundle) (Track 4).bin, CRC: fa5a5a58
+- Radiant Silvergun (Japan) (Disc 2) (Soundtrack) (NSW Game Bundle) (Track 5).bin, CRC: 88bece86
+- Radiant Silvergun (Japan) (Disc 2) (Soundtrack) (NSW Game Bundle) (Track 6).bin, CRC: 8847a95a
+- Radiant Silvergun (Japan) (Disc 2) (Soundtrack) (NSW Game Bundle) (Track 7).bin, CRC: de855c0d
+</details>
+
+### Raiden IV x Mikado Remix - Original Sound Tracks - Mikado Edition (Japan)
+<details>
+<summary>ROMs</summary>
+
+- Raiden IV x Mikado Remix - Original Sound Tracks - Mikado Edition (Japan) (Track 01).bin, CRC: 0bb18a43
+- Raiden IV x Mikado Remix - Original Sound Tracks - Mikado Edition (Japan) (Track 02).bin, CRC: d2683a68
+- Raiden IV x Mikado Remix - Original Sound Tracks - Mikado Edition (Japan) (Track 03).bin, CRC: a5951b4a
+- Raiden IV x Mikado Remix - Original Sound Tracks - Mikado Edition (Japan) (Track 04).bin, CRC: 8b21d78b
+- Raiden IV x Mikado Remix - Original Sound Tracks - Mikado Edition (Japan) (Track 05).bin, CRC: 53aa527b
+- Raiden IV x Mikado Remix - Original Sound Tracks - Mikado Edition (Japan) (Track 06).bin, CRC: d4d28a71
+- Raiden IV x Mikado Remix - Original Sound Tracks - Mikado Edition (Japan) (Track 07).bin, CRC: 4f9af492
+- Raiden IV x Mikado Remix - Original Sound Tracks - Mikado Edition (Japan) (Track 08).bin, CRC: 371bebe4
+- Raiden IV x Mikado Remix - Original Sound Tracks - Mikado Edition (Japan) (Track 09).bin, CRC: b69dc079
+- Raiden IV x Mikado Remix - Original Sound Tracks - Mikado Edition (Japan) (Track 10).bin, CRC: cf009f4a
+- Raiden IV x Mikado Remix - Original Sound Tracks - Mikado Edition (Japan) (Track 11).bin, CRC: 025ffa68
+- Raiden IV x Mikado Remix - Original Sound Tracks - Mikado Edition (Japan) (Track 12).bin, CRC: 2a76aa19
+- Raiden IV x Mikado Remix - Original Sound Tracks - Mikado Edition (Japan) (Track 13).bin, CRC: d4aa0d80
+- Raiden IV x Mikado Remix - Original Sound Tracks - Mikado Edition (Japan) (Track 14).bin, CRC: 3b52f4af
+- Raiden IV x Mikado Remix - Original Sound Tracks - Mikado Edition (Japan) (Track 15).bin, CRC: 23c9cc18
+- Raiden IV x Mikado Remix - Original Sound Tracks - Mikado Edition (Japan) (Track 16).bin, CRC: d060e7c9
+- Raiden IV x Mikado Remix - Original Sound Tracks - Mikado Edition (Japan) (Track 17).bin, CRC: fbc9236d
+- Raiden IV x Mikado Remix - Original Sound Tracks - Mikado Edition (Japan) (Track 18).bin, CRC: 2ab243ad
+- Raiden IV x Mikado Remix - Original Sound Tracks - Mikado Edition (Japan) (Track 19).bin, CRC: dc099383
+</details>
+
+### Raiden IV x Mikado Remix OST Mikado Edition Special Disc - HM x HMR Mini Single CDR (Japan) (Track 1).bin, CRC: bd20c3d1
+### Ren'ai Saimin - Tsun na Kanojo ga Dereru Saimin - Sofmap Original Drama CD - Saimin Maid Kissa e Youkoso! (Japan).bin, CRC: 4f4e79b6
+### Ren'ai Saimin - Tsun na Kanojo ga Dereru Saimin - Vocal and Soundtrack (Japan)
+<details>
+<summary>ROMs</summary>
+
+- Ren'ai Saimin - Tsun na Kanojo ga Dereru Saimin - Vocal and Soundtrack (Japan) (Track 01).bin, CRC: 90049147
+- Ren'ai Saimin - Tsun na Kanojo ga Dereru Saimin - Vocal and Soundtrack (Japan) (Track 02).bin, CRC: 278e3788
+- Ren'ai Saimin - Tsun na Kanojo ga Dereru Saimin - Vocal and Soundtrack (Japan) (Track 03).bin, CRC: fa6ebee3
+- Ren'ai Saimin - Tsun na Kanojo ga Dereru Saimin - Vocal and Soundtrack (Japan) (Track 04).bin, CRC: a379e8ac
+- Ren'ai Saimin - Tsun na Kanojo ga Dereru Saimin - Vocal and Soundtrack (Japan) (Track 05).bin, CRC: 897f2f74
+- Ren'ai Saimin - Tsun na Kanojo ga Dereru Saimin - Vocal and Soundtrack (Japan) (Track 06).bin, CRC: ac022fb1
+- Ren'ai Saimin - Tsun na Kanojo ga Dereru Saimin - Vocal and Soundtrack (Japan) (Track 07).bin, CRC: f7f6f262
+- Ren'ai Saimin - Tsun na Kanojo ga Dereru Saimin - Vocal and Soundtrack (Japan) (Track 08).bin, CRC: 00bc0e9d
+- Ren'ai Saimin - Tsun na Kanojo ga Dereru Saimin - Vocal and Soundtrack (Japan) (Track 09).bin, CRC: 31755c41
+- Ren'ai Saimin - Tsun na Kanojo ga Dereru Saimin - Vocal and Soundtrack (Japan) (Track 10).bin, CRC: a61080c4
+- Ren'ai Saimin - Tsun na Kanojo ga Dereru Saimin - Vocal and Soundtrack (Japan) (Track 11).bin, CRC: 28f854b2
+- Ren'ai Saimin - Tsun na Kanojo ga Dereru Saimin - Vocal and Soundtrack (Japan) (Track 12).bin, CRC: 50044898
+- Ren'ai Saimin - Tsun na Kanojo ga Dereru Saimin - Vocal and Soundtrack (Japan) (Track 13).bin, CRC: 821cb791
+- Ren'ai Saimin - Tsun na Kanojo ga Dereru Saimin - Vocal and Soundtrack (Japan) (Track 14).bin, CRC: f9e7b31a
+- Ren'ai Saimin - Tsun na Kanojo ga Dereru Saimin - Vocal and Soundtrack (Japan) (Track 15).bin, CRC: efce2ca4
+- Ren'ai Saimin - Tsun na Kanojo ga Dereru Saimin - Vocal and Soundtrack (Japan) (Track 16).bin, CRC: be08b934
+- Ren'ai Saimin - Tsun na Kanojo ga Dereru Saimin - Vocal and Soundtrack (Japan) (Track 17).bin, CRC: e7985765
+- Ren'ai Saimin - Tsun na Kanojo ga Dereru Saimin - Vocal and Soundtrack (Japan) (Track 18).bin, CRC: 1397360a
+- Ren'ai Saimin - Tsun na Kanojo ga Dereru Saimin - Vocal and Soundtrack (Japan) (Track 19).bin, CRC: d6519628
+- Ren'ai Saimin - Tsun na Kanojo ga Dereru Saimin - Vocal and Soundtrack (Japan) (Track 20).bin, CRC: 6e9d1a85
+- Ren'ai Saimin - Tsun na Kanojo ga Dereru Saimin - Vocal and Soundtrack (Japan) (Track 21).bin, CRC: 99b6764a
+- Ren'ai Saimin - Tsun na Kanojo ga Dereru Saimin - Vocal and Soundtrack (Japan) (Track 22).bin, CRC: 2dd08880
+</details>
+
 ### Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 59).bin, CRC: f7873704
 ### Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 2) (Track 23).bin, CRC: aa30e4af
 ### Rondo Leaflet Arrange Minialbum - Allow Time to Brew (Japan) (Track 7).bin, CRC: 7a7bf76f
 ### Rondo Leaflet Original Soundtrack - Old Rose Garden (Japan) (Disc 2) (Track 13).bin, CRC: 20351c0d
 ### SaGa Frontier II - Original Soundtrack (Japan) (Disc 1) (Track 28).bin, CRC: 825ccc5b
 ### SaGa Frontier II - Original Soundtrack (Japan) (Disc 3) (Track 21).bin, CRC: 5d4655a9
+### Sakura Sakura Tori-oroshi Drama CD - Gakuen Tengoku Daisakusen (Japan).bin, CRC: 0857e6fc
 ### Sanae-chan wa Torawarete Shimatta! Soundtrack (Japan) (Disc 2)
 <details>
 <summary>ROMs</summary>
@@ -1186,6 +1747,44 @@
 - Sanae-chan wa Torawarete Shimatta! (Japan) (Disc 2) (Sanatora - Sanatora no Santora) (PC Game Bundle) (Track 24).bin, CRC: 4ae6a813
 </details>
 
+### Sangokushi 8 Remake - Original Soundtrack CD (Japan)
+<details>
+<summary>ROMs</summary>
+
+- Sangokushi 8 Remake - Original Soundtrack CD (Japan) (Track 01).bin, CRC: 8891e3e9
+- Sangokushi 8 Remake - Original Soundtrack CD (Japan) (Track 02).bin, CRC: 70caf1b7
+- Sangokushi 8 Remake - Original Soundtrack CD (Japan) (Track 03).bin, CRC: 0768a8d7
+- Sangokushi 8 Remake - Original Soundtrack CD (Japan) (Track 04).bin, CRC: 157fa017
+- Sangokushi 8 Remake - Original Soundtrack CD (Japan) (Track 05).bin, CRC: 970d728b
+- Sangokushi 8 Remake - Original Soundtrack CD (Japan) (Track 06).bin, CRC: 60c73835
+- Sangokushi 8 Remake - Original Soundtrack CD (Japan) (Track 07).bin, CRC: 1290e34a
+- Sangokushi 8 Remake - Original Soundtrack CD (Japan) (Track 08).bin, CRC: 047ebaa2
+- Sangokushi 8 Remake - Original Soundtrack CD (Japan) (Track 09).bin, CRC: dcb6fdc8
+- Sangokushi 8 Remake - Original Soundtrack CD (Japan) (Track 10).bin, CRC: 621227fd
+- Sangokushi 8 Remake - Original Soundtrack CD (Japan) (Track 11).bin, CRC: 6b013696
+- Sangokushi 8 Remake - Original Soundtrack CD (Japan) (Track 12).bin, CRC: e3f8a5a9
+- Sangokushi 8 Remake - Original Soundtrack CD (Japan) (Track 13).bin, CRC: 9fc02bad
+- Sangokushi 8 Remake - Original Soundtrack CD (Japan) (Track 14).bin, CRC: 5001537d
+- Sangokushi 8 Remake - Original Soundtrack CD (Japan) (Track 15).bin, CRC: 6e11370a
+- Sangokushi 8 Remake - Original Soundtrack CD (Japan) (Track 16).bin, CRC: 7b8da5c5
+- Sangokushi 8 Remake - Original Soundtrack CD (Japan) (Track 17).bin, CRC: 59ff9731
+- Sangokushi 8 Remake - Original Soundtrack CD (Japan) (Track 18).bin, CRC: bfa13bcb
+- Sangokushi 8 Remake - Original Soundtrack CD (Japan) (Track 19).bin, CRC: 9f0b9bc1
+- Sangokushi 8 Remake - Original Soundtrack CD (Japan) (Track 20).bin, CRC: 3fd2141b
+- Sangokushi 8 Remake - Original Soundtrack CD (Japan) (Track 21).bin, CRC: 5885d23b
+- Sangokushi 8 Remake - Original Soundtrack CD (Japan) (Track 22).bin, CRC: ebae6252
+- Sangokushi 8 Remake - Original Soundtrack CD (Japan) (Track 23).bin, CRC: 33dfe346
+- Sangokushi 8 Remake - Original Soundtrack CD (Japan) (Track 24).bin, CRC: 6ef88dbe
+- Sangokushi 8 Remake - Original Soundtrack CD (Japan) (Track 25).bin, CRC: d094ff1c
+- Sangokushi 8 Remake - Original Soundtrack CD (Japan) (Track 26).bin, CRC: 06d43ac3
+- Sangokushi 8 Remake - Original Soundtrack CD (Japan) (Track 27).bin, CRC: 4b0b7cd7
+- Sangokushi 8 Remake - Original Soundtrack CD (Japan) (Track 28).bin, CRC: b203a00f
+- Sangokushi 8 Remake - Original Soundtrack CD (Japan) (Track 29).bin, CRC: 85c75b64
+- Sangokushi 8 Remake - Original Soundtrack CD (Japan) (Track 30).bin, CRC: eb6dbce9
+- Sangokushi 8 Remake - Original Soundtrack CD (Japan) (Track 31).bin, CRC: bf4d8c04
+- Sangokushi 8 Remake - Original Soundtrack CD (Japan) (Track 32).bin, CRC: a260f481
+</details>
+
 ### Sega Game Music Vol. 2 (Japan) (Reprint) (Track 28).bin, CRC: 020b006c
 ### Seiken Densetsu - Legend of Mana - Original Soundtrack (Japan) (Disc 1) (Track 01).bin, CRC: ea2cd7fe
 ### Seiken no Fairies - Les Chevalliers de Pucelles - Shokaiban Tokuten Extra CD (Japan) (PC Game Bundle) (Track 3).bin, CRC: ac6e196a
@@ -1208,6 +1807,42 @@
 - Shadowgrounds Survivor - Original Soundtrack (Finland) (PC Game Bundle) (Track 13).bin, CRC: 1bebe37a
 - Shadowgrounds Survivor - Original Soundtrack (Finland) (PC Game Bundle) (Track 14).bin, CRC: 1304162b
 - Shadowgrounds Survivor - Original Soundtrack (Finland) (PC Game Bundle) (Track 15).bin, CRC: 32b9aade
+</details>
+
+### Shin Megami Tensei - Digital Devil Saga 2 - Original Soundtrack (USA)
+<details>
+<summary>ROMs</summary>
+
+- Shin Megami Tensei - Digital Devil Saga 2 - Original Soundtrack (USA) (Track 01).bin, CRC: 0e0ed840
+- Shin Megami Tensei - Digital Devil Saga 2 - Original Soundtrack (USA) (Track 02).bin, CRC: 6e114b1b
+- Shin Megami Tensei - Digital Devil Saga 2 - Original Soundtrack (USA) (Track 03).bin, CRC: 0aecec0e
+- Shin Megami Tensei - Digital Devil Saga 2 - Original Soundtrack (USA) (Track 04).bin, CRC: 8ef23b7b
+- Shin Megami Tensei - Digital Devil Saga 2 - Original Soundtrack (USA) (Track 05).bin, CRC: 8daf670d
+- Shin Megami Tensei - Digital Devil Saga 2 - Original Soundtrack (USA) (Track 06).bin, CRC: 3de306d5
+- Shin Megami Tensei - Digital Devil Saga 2 - Original Soundtrack (USA) (Track 07).bin, CRC: c597f261
+- Shin Megami Tensei - Digital Devil Saga 2 - Original Soundtrack (USA) (Track 08).bin, CRC: 71a11147
+- Shin Megami Tensei - Digital Devil Saga 2 - Original Soundtrack (USA) (Track 09).bin, CRC: edf62717
+- Shin Megami Tensei - Digital Devil Saga 2 - Original Soundtrack (USA) (Track 10).bin, CRC: 8116fe8b
+- Shin Megami Tensei - Digital Devil Saga 2 - Original Soundtrack (USA) (Track 11).bin, CRC: eecf909a
+- Shin Megami Tensei - Digital Devil Saga 2 - Original Soundtrack (USA) (Track 12).bin, CRC: 73022c49
+- Shin Megami Tensei - Digital Devil Saga 2 - Original Soundtrack (USA) (Track 13).bin, CRC: 5d3130b7
+- Shin Megami Tensei - Digital Devil Saga 2 - Original Soundtrack (USA) (Track 14).bin, CRC: 80ce6832
+- Shin Megami Tensei - Digital Devil Saga 2 - Original Soundtrack (USA) (Track 15).bin, CRC: fa7825df
+- Shin Megami Tensei - Digital Devil Saga 2 - Original Soundtrack (USA) (Track 16).bin, CRC: d8187dbe
+- Shin Megami Tensei - Digital Devil Saga 2 - Original Soundtrack (USA) (Track 17).bin, CRC: 1d6653ba
+- Shin Megami Tensei - Digital Devil Saga 2 - Original Soundtrack (USA) (Track 18).bin, CRC: 274ecedf
+- Shin Megami Tensei - Digital Devil Saga 2 - Original Soundtrack (USA) (Track 19).bin, CRC: a21cb535
+- Shin Megami Tensei - Digital Devil Saga 2 - Original Soundtrack (USA) (Track 20).bin, CRC: 6ea00155
+- Shin Megami Tensei - Digital Devil Saga 2 - Original Soundtrack (USA) (Track 21).bin, CRC: 840a8e6b
+- Shin Megami Tensei - Digital Devil Saga 2 - Original Soundtrack (USA) (Track 22).bin, CRC: ef6e69cb
+- Shin Megami Tensei - Digital Devil Saga 2 - Original Soundtrack (USA) (Track 23).bin, CRC: b1f99398
+- Shin Megami Tensei - Digital Devil Saga 2 - Original Soundtrack (USA) (Track 24).bin, CRC: 5a3ac9d7
+- Shin Megami Tensei - Digital Devil Saga 2 - Original Soundtrack (USA) (Track 25).bin, CRC: a646497c
+- Shin Megami Tensei - Digital Devil Saga 2 - Original Soundtrack (USA) (Track 26).bin, CRC: 3282ace0
+- Shin Megami Tensei - Digital Devil Saga 2 - Original Soundtrack (USA) (Track 27).bin, CRC: e047c3c1
+- Shin Megami Tensei - Digital Devil Saga 2 - Original Soundtrack (USA) (Track 28).bin, CRC: ac7bd555
+- Shin Megami Tensei - Digital Devil Saga 2 - Original Soundtrack (USA) (Track 29).bin, CRC: 31b3b6f8
+- Shin Megami Tensei - Digital Devil Saga 2 - Original Soundtrack (USA) (Track 30).bin, CRC: 48f6b26c
 </details>
 
 ### Shinji Hosoe Works Vol. 3 - Dragon Saber (Japan) (Disc 1)
@@ -1738,6 +2373,37 @@
 - Taito Milestones - Soundtrack (Europe) (NSW Game Bundle) (Track 16).bin, CRC: b372afd2
 </details>
 
+### Tanetsuke Mura - Hakudakugami, Nenbutsu Kou no Gi - Soundtrack-tsuki Digital Gengashuu (Japan)
+<details>
+<summary>ROMs</summary>
+
+- Tanetsuke Mura - Hakudakugami, Nenbutsu Kou no Gi - Soundtrack-tsuki Digital Gengashuu (Japan) (Track 01).bin, CRC: 169d9318
+- Tanetsuke Mura - Hakudakugami, Nenbutsu Kou no Gi - Soundtrack-tsuki Digital Gengashuu (Japan) (Track 02).bin, CRC: 2b68032b
+- Tanetsuke Mura - Hakudakugami, Nenbutsu Kou no Gi - Soundtrack-tsuki Digital Gengashuu (Japan) (Track 03).bin, CRC: 66cc2429
+- Tanetsuke Mura - Hakudakugami, Nenbutsu Kou no Gi - Soundtrack-tsuki Digital Gengashuu (Japan) (Track 04).bin, CRC: 8594e8a0
+- Tanetsuke Mura - Hakudakugami, Nenbutsu Kou no Gi - Soundtrack-tsuki Digital Gengashuu (Japan) (Track 05).bin, CRC: 3a0fbc04
+- Tanetsuke Mura - Hakudakugami, Nenbutsu Kou no Gi - Soundtrack-tsuki Digital Gengashuu (Japan) (Track 06).bin, CRC: ecf700fe
+- Tanetsuke Mura - Hakudakugami, Nenbutsu Kou no Gi - Soundtrack-tsuki Digital Gengashuu (Japan) (Track 07).bin, CRC: ea98a551
+- Tanetsuke Mura - Hakudakugami, Nenbutsu Kou no Gi - Soundtrack-tsuki Digital Gengashuu (Japan) (Track 08).bin, CRC: 4eccff49
+- Tanetsuke Mura - Hakudakugami, Nenbutsu Kou no Gi - Soundtrack-tsuki Digital Gengashuu (Japan) (Track 09).bin, CRC: c0815d45
+- Tanetsuke Mura - Hakudakugami, Nenbutsu Kou no Gi - Soundtrack-tsuki Digital Gengashuu (Japan) (Track 10).bin, CRC: 68bc5d33
+- Tanetsuke Mura - Hakudakugami, Nenbutsu Kou no Gi - Soundtrack-tsuki Digital Gengashuu (Japan) (Track 11).bin, CRC: 664886e6
+- Tanetsuke Mura - Hakudakugami, Nenbutsu Kou no Gi - Soundtrack-tsuki Digital Gengashuu (Japan) (Track 12).bin, CRC: 9af37910
+- Tanetsuke Mura - Hakudakugami, Nenbutsu Kou no Gi - Soundtrack-tsuki Digital Gengashuu (Japan) (Track 13).bin, CRC: 4000e4da
+- Tanetsuke Mura - Hakudakugami, Nenbutsu Kou no Gi - Soundtrack-tsuki Digital Gengashuu (Japan) (Track 14).bin, CRC: 3b019e25
+- Tanetsuke Mura - Hakudakugami, Nenbutsu Kou no Gi - Soundtrack-tsuki Digital Gengashuu (Japan) (Track 15).bin, CRC: cef60321
+- Tanetsuke Mura - Hakudakugami, Nenbutsu Kou no Gi - Soundtrack-tsuki Digital Gengashuu (Japan) (Track 16).bin, CRC: 67c6f74e
+- Tanetsuke Mura - Hakudakugami, Nenbutsu Kou no Gi - Soundtrack-tsuki Digital Gengashuu (Japan) (Track 17).bin, CRC: 9a186740
+- Tanetsuke Mura - Hakudakugami, Nenbutsu Kou no Gi - Soundtrack-tsuki Digital Gengashuu (Japan) (Track 18).bin, CRC: 0fac6981
+- Tanetsuke Mura - Hakudakugami, Nenbutsu Kou no Gi - Soundtrack-tsuki Digital Gengashuu (Japan) (Track 19).bin, CRC: 0c82c052
+- Tanetsuke Mura - Hakudakugami, Nenbutsu Kou no Gi - Soundtrack-tsuki Digital Gengashuu (Japan) (Track 20).bin, CRC: bdefa43d
+- Tanetsuke Mura - Hakudakugami, Nenbutsu Kou no Gi - Soundtrack-tsuki Digital Gengashuu (Japan) (Track 21).bin, CRC: 7d5f2db3
+- Tanetsuke Mura - Hakudakugami, Nenbutsu Kou no Gi - Soundtrack-tsuki Digital Gengashuu (Japan) (Track 22).bin, CRC: 6bcd8658
+- Tanetsuke Mura - Hakudakugami, Nenbutsu Kou no Gi - Soundtrack-tsuki Digital Gengashuu (Japan) (Track 23).bin, CRC: 46ea769a
+- Tanetsuke Mura - Hakudakugami, Nenbutsu Kou no Gi - Soundtrack-tsuki Digital Gengashuu (Japan) (Track 24).bin, CRC: 90c531ae
+- Tanetsuke Mura - Hakudakugami, Nenbutsu Kou no Gi - Soundtrack-tsuki Digital Gengashuu (Japan) (Track 25).bin, CRC: d1d06014
+</details>
+
 ### That's Atari Music - G.S.M. Atari Games 1 (Japan)
 <details>
 <summary>ROMs</summary>
@@ -1965,6 +2631,30 @@
 - TV Game Super Hero Daishuugou (Japan) (Track 16).bin, CRC: 5d529c7e
 </details>
 
+### Under Defeat HD - Deluxe Edition - Soundtrack CD (USA) (PS3 Game Bundle)
+<details>
+<summary>ROMs</summary>
+
+- Under Defeat HD - Deluxe Edition - Soundtrack CD (USA) (PS3 Game Bundle) (Track 1).bin, CRC: 340a18a0
+- Under Defeat HD - Deluxe Edition - Soundtrack CD (USA) (PS3 Game Bundle) (Track 2).bin, CRC: b8a7e72a
+- Under Defeat HD - Deluxe Edition - Soundtrack CD (USA) (PS3 Game Bundle) (Track 3).bin, CRC: 358eed58
+- Under Defeat HD - Deluxe Edition - Soundtrack CD (USA) (PS3 Game Bundle) (Track 4).bin, CRC: fefcf33a
+- Under Defeat HD - Deluxe Edition - Soundtrack CD (USA) (PS3 Game Bundle) (Track 5).bin, CRC: 801fa0fd
+- Under Defeat HD - Deluxe Edition - Soundtrack CD (USA) (PS3 Game Bundle) (Track 6).bin, CRC: dea21fd9
+- Under Defeat HD - Deluxe Edition - Soundtrack CD (USA) (PS3 Game Bundle) (Track 7).bin, CRC: f2a2b567
+</details>
+
+### Unendliche Melodie - Pianissimo Reservation Privilege (Japan)
+<details>
+<summary>ROMs</summary>
+
+- Unendliche Melodie - Pianissimo Reservation Privilege (Japan) (Track 1).bin, CRC: 07b6b21a
+- Unendliche Melodie - Pianissimo Reservation Privilege (Japan) (Track 2).bin, CRC: fd87c752
+- Unendliche Melodie - Pianissimo Reservation Privilege (Japan) (Track 3).bin, CRC: 5fe389f0
+- Unendliche Melodie - Pianissimo Reservation Privilege (Japan) (Track 4).bin, CRC: 2cc51d8f
+- Unendliche Melodie - Pianissimo Reservation Privilege (Japan) (Track 5).bin, CRC: 4ebbbb18
+</details>
+
 ### Virtual Market - 2024 Summer - Original Sound Track (Japan)
 <details>
 <summary>ROMs</summary>
@@ -2020,22 +2710,6 @@
 - Voyageurs du Temps, Les (France) (Track 09).bin, CRC: 9da4509a
 - Voyageurs du Temps, Les (France) (Track 10).bin, CRC: 59593015
 - Voyageurs du Temps, Les (France) (Track 11).bin, CRC: c1e47231
-</details>
-
-### Wargroove 1+2 - Selection Soundtrack (Japan) (NSW Game Bundle)
-<details>
-<summary>ROMs</summary>
-
-- Wargroove 1+2 - Selection Soundtrack (Japan) (NSW Game Bundle) (Track 01).bin, CRC: 84b0890b
-- Wargroove 1+2 - Selection Soundtrack (Japan) (NSW Game Bundle) (Track 02).bin, CRC: dad67bc9
-- Wargroove 1+2 - Selection Soundtrack (Japan) (NSW Game Bundle) (Track 03).bin, CRC: 3567335c
-- Wargroove 1+2 - Selection Soundtrack (Japan) (NSW Game Bundle) (Track 04).bin, CRC: 12c50a94
-- Wargroove 1+2 - Selection Soundtrack (Japan) (NSW Game Bundle) (Track 05).bin, CRC: a9038c0d
-- Wargroove 1+2 - Selection Soundtrack (Japan) (NSW Game Bundle) (Track 06).bin, CRC: 799fd9d1
-- Wargroove 1+2 - Selection Soundtrack (Japan) (NSW Game Bundle) (Track 07).bin, CRC: 2d290a05
-- Wargroove 1+2 - Selection Soundtrack (Japan) (NSW Game Bundle) (Track 08).bin, CRC: bdb8688b
-- Wargroove 1+2 - Selection Soundtrack (Japan) (NSW Game Bundle) (Track 09).bin, CRC: 0a5d581e
-- Wargroove 1+2 - Selection Soundtrack (Japan) (NSW Game Bundle) (Track 10).bin, CRC: e781474b
 </details>
 
 ### Wizardry - Proving Grounds of the Mad Overlord - Original Game Soundtrack (Japan)
@@ -2190,5 +2864,34 @@
 - Wizardry Variants Daphne - Original Soundtrack (Japan) (Disc 2) (Track 18).bin, CRC: cda48a03
 - Wizardry Variants Daphne - Original Soundtrack (Japan) (Disc 2) (Track 19).bin, CRC: 9ef84b09
 - Wizardry Variants Daphne - Original Soundtrack (Japan) (Disc 2) (Track 20).bin, CRC: de5da191
+</details>
+
+### Zak McKracken and the Alien Mindbenders - Soundtrack (USA)
+<details>
+<summary>ROMs</summary>
+
+- Zak McKracken and the Alien Mindbenders - Soundtrack (USA) (Track 01).bin, CRC: 7dbf3630
+- Zak McKracken and the Alien Mindbenders - Soundtrack (USA) (Track 02).bin, CRC: b3428ad0
+- Zak McKracken and the Alien Mindbenders - Soundtrack (USA) (Track 03).bin, CRC: a06b5393
+- Zak McKracken and the Alien Mindbenders - Soundtrack (USA) (Track 04).bin, CRC: 0c61d8b6
+- Zak McKracken and the Alien Mindbenders - Soundtrack (USA) (Track 05).bin, CRC: 3aedfba6
+- Zak McKracken and the Alien Mindbenders - Soundtrack (USA) (Track 06).bin, CRC: eed8644e
+- Zak McKracken and the Alien Mindbenders - Soundtrack (USA) (Track 07).bin, CRC: a2c375d1
+- Zak McKracken and the Alien Mindbenders - Soundtrack (USA) (Track 08).bin, CRC: 2eee735c
+- Zak McKracken and the Alien Mindbenders - Soundtrack (USA) (Track 09).bin, CRC: 4c12f739
+- Zak McKracken and the Alien Mindbenders - Soundtrack (USA) (Track 10).bin, CRC: afc72141
+- Zak McKracken and the Alien Mindbenders - Soundtrack (USA) (Track 11).bin, CRC: be62efba
+- Zak McKracken and the Alien Mindbenders - Soundtrack (USA) (Track 12).bin, CRC: 6f9e885a
+- Zak McKracken and the Alien Mindbenders - Soundtrack (USA) (Track 13).bin, CRC: 8e6fae94
+- Zak McKracken and the Alien Mindbenders - Soundtrack (USA) (Track 14).bin, CRC: f134a057
+- Zak McKracken and the Alien Mindbenders - Soundtrack (USA) (Track 15).bin, CRC: 3072e686
+- Zak McKracken and the Alien Mindbenders - Soundtrack (USA) (Track 16).bin, CRC: 09835b85
+- Zak McKracken and the Alien Mindbenders - Soundtrack (USA) (Track 17).bin, CRC: 6a4c3eb6
+- Zak McKracken and the Alien Mindbenders - Soundtrack (USA) (Track 18).bin, CRC: c227ba4e
+- Zak McKracken and the Alien Mindbenders - Soundtrack (USA) (Track 19).bin, CRC: 30647b0e
+- Zak McKracken and the Alien Mindbenders - Soundtrack (USA) (Track 20).bin, CRC: 7b86736c
+- Zak McKracken and the Alien Mindbenders - Soundtrack (USA) (Track 21).bin, CRC: f06f82d6
+- Zak McKracken and the Alien Mindbenders - Soundtrack (USA) (Track 22).bin, CRC: 6e98a6a1
+- Zak McKracken and the Alien Mindbenders - Soundtrack (USA) (Track 23).bin, CRC: 240af1fa
 </details>
 

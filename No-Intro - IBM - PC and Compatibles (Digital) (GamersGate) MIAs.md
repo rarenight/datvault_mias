@@ -1,5 +1,5 @@
 # No-Intro - IBM - PC and Compatibles (Digital) (GamersGate) MIAs
-## Games: 8, ROMs: 267, as of 2025-07-20
+## Games: 8, ROMs: 267, as of 2025-08-04
 
 ### Commandos - Strike Force (World)
 <details>

@@ -1,5 +1,5 @@
 # Redump - Microsoft - Xbox 360 MIAs
-## Games: 13, ROMs: 13, as of 2025-07-20
+## Games: 15, ROMs: 15, as of 2025-08-04
 
 ### Crysis 3 (Europe).iso, CRC: 010a26f7
 ### Full Auto (Japan).iso, CRC: be8f9b4d
@@ -12,5 +12,7 @@
 ### Tom Clancy's Rainbow Six - Vegas 2 - Complete Edition (Europe) (En,Fr,De,Es,It).iso, CRC: 2f336bdc
 ### Xbox 360 - The Experience Disc Version 5.0 (Taiwan).iso, CRC: 94aee5b8
 ### Xbox 360 - The Official Xbox Magazine Issue 08 - June 2006 (UK).iso, CRC: 8de78816
+### Xbox 360 - The Official Xbox Magazine Issue 11 - September 2006 (UK).iso, CRC: 8d6c6ce9
+### Xbox 360 - The Official Xbox Magazine Issue 21 - June 2007 (UK).iso, CRC: fd69642a
 ### Xbox 360 Hard Drive Transfer Disc (Taiwan) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko).iso, CRC: 4cc3e83b
 ### Your Shape - Fitness Evolved (Asia) (En,Zh).iso, CRC: cd0455ba

@@ -1,5 +1,5 @@
 # No-Intro - Nintendo - Nintendo Switch (FullXCI) MIAs
-## Games: 240, ROMs: 240, as of 2025-07-20
+## Games: 237, ROMs: 237, as of 2025-08-04
 
 ### 51 Worldwide Games (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh-Hant,Zh-Hans,Ko,Ru) (Rev 3).xci, CRC: ef6c1cee
 ### 60-in-1 Game Collection (Europe) (En,Fr,De,Es,It).xci, CRC: 73795e37
@@ -137,7 +137,6 @@
 ### Pac-Man World Re-Pac (USA, Europe) (En,Fr,De,Es,It,Ru).xci, CRC: 2673d452
 ### Panzer Dragoon (USA) (En,Ja,Fr,De,Es,It,Zh-Hans,Ru).xci, CRC: e2bdba5f
 ### Paper Mario - The Origami King (World) (En,Ja,Fr,De,Es,It,Nl,Zh-Hant,Zh-Hans,Ko).xci, CRC: c5ffde28
-### Pathless, The (Europe) (En,Ja,Fr,De,Es,It,Nl,Zh-Hant,Zh-Hans,Ko,Ru).xci, CRC: 27a79d5f
 ### Penguin Wars (USA) (En,Fr,De,Es,It).xci, CRC: 68b4911e
 ### Perky Little Things (Europe) (En,Ja,Fr,De,Es,Pt,Zh-Hans,Ru).xci, CRC: dc9ef5b8
 ### Persona 3 Portable (USA) (En,Ja,Fr,De,Es,It,Zh-Hant,Zh-Hans,Ko).xci, CRC: 65a849cd
@@ -161,7 +160,6 @@
 ### RIVE - Ultimate Edition (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh-Hant,Zh-Hans,Ko,Ru,Tr,Hu).xci, CRC: 21f6af48
 ### River City Girls 1 & 2 (Japan) (En,Ja,Fr,De,Es,It,Zh-Hant,Zh-Hans).xci, CRC: 826b8944
 ### Rune Factory 4 Special (Europe) (En,Fr,De).xci, CRC: 2f1a9104
-### Saint Maker (Asia) (Ja,Zh-Hant,Zh-Hans,Ko).xci, CRC: f436e3ce
 ### Samurai Warriors 5 (USA) (En,Ja,Fr,De).xci, CRC: a0cca5d2
 ### Sayonara Wild Hearts (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Ru,Tr,Ar).xci, CRC: 9a9d6d9a
 ### Scribblenauts Mega Pack (USA) (En,Fr,De,Es,It,Nl,Pt).xci, CRC: 258ff69c
@@ -216,7 +214,6 @@
 ### Tiny Metal Ultimate (USA) (En,Ja,Fr,De,Es,It,Zh-Hant,Zh-Hans,Ko,Ru).xci, CRC: f9ce11eb
 ### Titan Quest (USA, Europe) (En,Ja,Fr,De,Es,It,Ru).xci, CRC: d37c6a76
 ### Toki (Europe) (En,Fr,De,Es,It,Nl,Pt).xci, CRC: 9691468d
-### Turok (USA) (En,Fr,De,Es,It).xci, CRC: cffaf2cc
 ### Turok 2 - Seeds of Evil (USA) (En,Fr,De,Es,It).xci, CRC: bdaaaf79
 ### Turrican Anthology Vol. I (USA) (En,Fr,De,Es,Pt,Ru).xci, CRC: 1b20b41d
 ### Turrican Anthology Vol. II (USA) (En,Fr,De,Es,Pt,Ru).xci, CRC: b2a6d6a1

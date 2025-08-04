@@ -1,5 +1,5 @@
 # No-Intro - Sony - PlayStation 3 (PSN) (Updates) MIAs
-## Games: 104, ROMs: 104, as of 2025-07-20
+## Games: 104, ROMs: 104, as of 2025-08-04
 
 ### PS3UPDAT.PUP, CRC: 5c5e1a41
 ### JP0700-NPJB00481_00-ACECOMBATINF0001-A0101-V0100-PE.pkg, CRC: 1de1ff81

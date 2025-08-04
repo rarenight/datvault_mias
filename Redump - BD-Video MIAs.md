@@ -1,7 +1,6 @@
 # Redump - BD-Video MIAs
-## Games: 10, ROMs: 10, as of 2025-07-20
+## Games: 9, ROMs: 9, as of 2025-08-04
 
-### Ane to Osananajimi wa Naka ga Ii! Ninben Tsuitenai shi... (Japan).iso, CRC: fbbfc20d
 ### Hades - Developing Hell (USA).iso, CRC: d213e5eb
 ### Haramitama (Japan).iso, CRC: c3211de4
 ### Harry Potter et les Reliques de la Mort - 2eme Partie (France) (Bonus).iso, CRC: 3f244ebb

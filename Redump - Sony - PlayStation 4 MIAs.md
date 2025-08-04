@@ -1,5 +1,5 @@
 # Redump - Sony - PlayStation 4 MIAs
-## Games: 298, ROMs: 298, as of 2025-07-20
+## Games: 294, ROMs: 294, as of 2025-08-04
 
 ### 2Dark (Japan).iso, CRC: 51bd991f
 ### 8-Bit Adventure Anthology - Volume 1 (USA).iso, CRC: 1598191a
@@ -7,7 +7,6 @@
 ### Ace Combat 7 - Skies Unknown (Asia).iso, CRC: 08fee258
 ### Adventure Academia - The Fractured Continent (Europe).iso, CRC: 3bd4afce
 ### Agents of Mayhem (Japan).iso, CRC: 1c107791
-### Akiba's Beat (Japan).iso, CRC: 28e76966
 ### Alienation (Asia) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru).iso, CRC: 5f9ea095
 ### Aoki Kakumei no Valkyria (Japan).iso, CRC: a010796b
 ### Ark - Survival Evolved (Japan).iso, CRC: b3699db7
@@ -59,7 +58,6 @@
 ### Double Dragon IV (USA) (En,Ja,Fr,Zh,Ko).iso, CRC: c3d96011
 ### Downtown Special - Kunio-kun no Sangokushi da yo Zen'in Shuugou! (Japan).iso, CRC: 0e03421d
 ### Dragon Ball FighterZ (Europe) (En,Fr,De,Es,It).iso, CRC: 160d49c2
-### Dragon Ball FighterZ (Japan).iso, CRC: 94292304
 ### Dragon Ball The Breakers - Special Edition (Europe).iso, CRC: c03208d7
 ### Dragon Ball Xenoverse 2 (Japan).iso, CRC: 0618891f
 ### Dragon Quest Builders - Alefgard o Fukkatsu Seyo (Japan).iso, CRC: 572cfd78
@@ -87,7 +85,6 @@
 ### Fairy Fencer F - Advent Dark Force (Japan).iso, CRC: 24de1848
 ### Fallen Legion - Flames of Rebellion (USA) (En,Ja,Zh,Ko,Ru).iso, CRC: 93abc811
 ### Fallout 4 (Japan).iso, CRC: 97d544fc
-### Far Cry 5 (Europe, Asia) (En,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Cs).iso, CRC: 1cca7178
 ### Farming Simulator 15 (Japan).iso, CRC: 5d63c7d9
 ### Final Fantasy Crystal Chronicles - Remastered Edition (Japan).iso, CRC: 179851e1
 ### Final Fantasy I-VI Collection (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru,Th).iso, CRC: 6d4b32fe
@@ -297,5 +294,4 @@
 ### WRC 10 - The Official Game (USA) (En,Fr,Es,Pt).iso, CRC: 282869b8
 ### Yonder - The Cloud Catcher Chronicles (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru).iso, CRC: 370c375d
 ### Ys IX - Monstrum Nox (Japan) (v01.01).iso, CRC: 655de964
-### Zanki Zero (Japan).iso, CRC: d716ea9f
 ### Zombi (Japan).iso, CRC: 224c5a61
