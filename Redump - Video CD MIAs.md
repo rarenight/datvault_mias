@@ -1,5 +1,5 @@
 # Redump - Video CD MIAs
-## Games: 16, ROMs: 61, as of 2025-08-04
+## Games: 16, ROMs: 61, as of 2025-08-13
 
 ### Apocalypse Now (Germany) (Disc 1)
 <details>

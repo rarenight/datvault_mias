@@ -1,5 +1,5 @@
 # Redump - DVD-Video MIAs
-## Games: 219, ROMs: 219, as of 2025-08-04
+## Games: 220, ROMs: 220, as of 2025-08-13
 
 ### 110% Gaming Presents... FIFA 15 - Preview DVD (UK).iso, CRC: 07755dda
 ### 2002 Autumn Tokyo Game Show (Taiwan).iso, CRC: 92c99685
@@ -181,6 +181,7 @@
 ### Tsuki to Mahou to Taiyou to (Japan) (Disc 1).iso, CRC: 963a89d7
 ### Tsuki to Mahou to Taiyou to (Japan) (Disc 2).iso, CRC: c382d9a5
 ### Virtual Chanukah (USA) (En,He).iso, CRC: fc481c42
+### What's New by Ubisoft - Volume No 28 (Europe).iso, CRC: da088078
 ### Winning Post 7 - Boukoku no Aegis 2035 - Warship Gunner - Tentou Promotion Movie (Japan).iso, CRC: 960913a0
 ### Winning Post 7 2013 & Dead or Alive 5+ - Tentou Promotion Movie (Japan).iso, CRC: 54c7fd08
 ### X360 Magazine Xbox - 1-2007 (Italy).iso, CRC: 846a08b8

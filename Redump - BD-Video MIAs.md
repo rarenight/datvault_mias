@@ -1,5 +1,5 @@
 # Redump - BD-Video MIAs
-## Games: 9, ROMs: 9, as of 2025-08-04
+## Games: 9, ROMs: 9, as of 2025-08-13
 
 ### Hades - Developing Hell (USA).iso, CRC: d213e5eb
 ### Haramitama (Japan).iso, CRC: c3211de4

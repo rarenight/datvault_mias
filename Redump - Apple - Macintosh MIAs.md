@@ -1,5 +1,5 @@
 # Redump - Apple - Macintosh MIAs
-## Games: 144, ROMs: 175, as of 2025-08-04
+## Games: 145, ROMs: 176, as of 2025-08-13
 
 ### 3-D Ultra Pinball (Japan).bin, CRC: 610eb45d
 ### 3DO Content Library, The (USA) (Disc 88) (Music & Sound Effects).bin, CRC: c157b11b
@@ -130,6 +130,7 @@
 ### Myst (Japan).bin, CRC: 2b2a6951
 ### Myst (Japan) (Kinen Kakaku-ban).bin, CRC: d161800b
 ### Myst - Masterpiece Edition (Germany) (Rerelease).bin, CRC: ef1b07c8
+### NASCAR Racing (USA).bin, CRC: 1f90175f
 ### Nikkei Mac CD 1998.5 Volume 13 (Japan).bin, CRC: 7f88d442
 ### Nikkei Mac CD 1998.6 Volume 14 (Japan).bin, CRC: dcb4e934
 ### Nikkei Mac CD 1999.11 Volume 28 (Japan).bin, CRC: 784d59d7

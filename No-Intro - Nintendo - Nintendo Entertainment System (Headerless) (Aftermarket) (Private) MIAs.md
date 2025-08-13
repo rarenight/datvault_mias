@@ -1,10 +1,9 @@
 # No-Intro - Nintendo - Nintendo Entertainment System (Headerless) (Aftermarket) (Private) MIAs
-## Games: 18, ROMs: 18, as of 2025-08-04
+## Games: 17, ROMs: 17, as of 2025-08-13
 
 ### Biocats (World) (Uk) (v1.1) (2025-03-10) (Aftermarket) (Unl).unh, CRC: cd91253d
 ### Changeable Guardian Estique (USA, Europe) (Aftermarket) (Unl).unh, CRC: ab7fa726
 ### Chibi Monster Br4wl (World) (Aftermarket) (Unl).unh, CRC: 2e2b5617
-### Desert of the Undead - New Frontiers (World) (v1.4) (Aftermarket) (Unl).unh, CRC: 01fb2c56
 ### Flea! 2 (World) (Evercade) (Aftermarket) (Unl).unh, CRC: 8577f18a
 ### Gemaboy Zero (World) (2025-04-03) (Aftermarket) (Unl).unh, CRC: 448dabe2
 ### Hazard - Let Us Out! (World) (Aftermarket) (Unl).unh, CRC: b936687c

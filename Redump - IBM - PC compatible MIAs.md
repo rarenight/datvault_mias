@@ -1,5 +1,5 @@
 # Redump - IBM - PC compatible MIAs
-## Games: 3263, ROMs: 7273, as of 2025-08-04
+## Games: 3251, ROMs: 7232, as of 2025-08-13
 
 ### %% - Fuuin no Otome (Japan) (Track 10).bin, CRC: 4481aa75
 ### Alley 19 Bowling (Europe) (Track 5).bin, CRC: dc835204
@@ -183,15 +183,7 @@
 ### Agent Hugo (Turkey).bin, CRC: 12315391
 ### Ages 4-7 - Maths and Number Skills (India).bin, CRC: 5ce75bfe
 ### Agharta (Sweden) (Disc 2) (English-version).bin, CRC: ad62836e
-### Agharta (Sweden) (En,Sv) (Disc 1) (Installation)
-<details>
-<summary>ROMs</summary>
-
-- Agharta (Sweden) (En,Sv) (Disc 1) (Installation) (Track 1).bin, CRC: 5c25ddb8
-- Agharta (Sweden) (En,Sv) (Disc 1) (Installation) (Track 2).bin, CRC: 2b4759da
-- Agharta (Sweden) (En,Sv) (Disc 1) (Installation) (Track 3).bin, CRC: 079ef402
-</details>
-
+### Agharta (Sweden) (En,Sv) (Disc 1) (Installation) (Track 3).bin, CRC: 079ef402
 ### AGON - A Rejtelyes Kodex (Hungary) (Rerelease).bin, CRC: 4d9a3aff
 ### AGON - The Mysterious Codex (India) (En,Fr,De,Hu).bin, CRC: f17cfed2
 ### AGON - Toledo - Az Elveszett Kard (Hungary).iso, CRC: a2c5c610
@@ -889,7 +881,6 @@
 <details>
 <summary>ROMs</summary>
 
-- Bunny na Hip (Japan) (Track 01).bin, CRC: ae2f0965
 - Bunny na Hip (Japan) (Track 02).bin, CRC: 0b7de3a5
 - Bunny na Hip (Japan) (Track 03).bin, CRC: 410bca73
 - Bunny na Hip (Japan) (Track 04).bin, CRC: 3a749bc9
@@ -1720,7 +1711,6 @@
 - Daikoukai Jidai IV - Porto Estado (Japan) (Rerelease) (Track 24).bin, CRC: 2a7573e0
 </details>
 
-### Daisenryaku - Master Combat 2 (Japan).bin, CRC: d316f9d3
 ### Daisenryaku Win II (Japan).bin, CRC: 8e2bd4f4
 ### Dancing Cat's (Japan).iso, CRC: 2afc7024
 ### Dandelion - Starchild Journey (Japan).bin, CRC: a720ec0b
@@ -3161,38 +3151,7 @@
 - Guardian Recall Digital Data-shuu - Win de Shoukan (Japan) (Track 3).bin, CRC: dfe86670
 </details>
 
-### Guardian's Sword - Uruwashi no Mana (Japan) (Disc 1).bin, CRC: cd853f7a
-### Guardian's Sword - Uruwashi no Mana (Japan) (Disc 2)
-<details>
-<summary>ROMs</summary>
-
-- Guardian's Sword - Uruwashi no Mana (Japan) (Disc 2) (Track 01).bin, CRC: d7934c91
-- Guardian's Sword - Uruwashi no Mana (Japan) (Disc 2) (Track 02).bin, CRC: 13824d6e
-- Guardian's Sword - Uruwashi no Mana (Japan) (Disc 2) (Track 03).bin, CRC: dce8fd1d
-- Guardian's Sword - Uruwashi no Mana (Japan) (Disc 2) (Track 04).bin, CRC: c9da3105
-- Guardian's Sword - Uruwashi no Mana (Japan) (Disc 2) (Track 05).bin, CRC: 756c8c6b
-- Guardian's Sword - Uruwashi no Mana (Japan) (Disc 2) (Track 06).bin, CRC: a222ab16
-- Guardian's Sword - Uruwashi no Mana (Japan) (Disc 2) (Track 07).bin, CRC: 9e654ff7
-- Guardian's Sword - Uruwashi no Mana (Japan) (Disc 2) (Track 08).bin, CRC: 6a2e419a
-- Guardian's Sword - Uruwashi no Mana (Japan) (Disc 2) (Track 09).bin, CRC: 5fba476f
-- Guardian's Sword - Uruwashi no Mana (Japan) (Disc 2) (Track 10).bin, CRC: 8efd13f8
-- Guardian's Sword - Uruwashi no Mana (Japan) (Disc 2) (Track 11).bin, CRC: 9276a027
-- Guardian's Sword - Uruwashi no Mana (Japan) (Disc 2) (Track 12).bin, CRC: ec25219f
-- Guardian's Sword - Uruwashi no Mana (Japan) (Disc 2) (Track 13).bin, CRC: 22517263
-- Guardian's Sword - Uruwashi no Mana (Japan) (Disc 2) (Track 14).bin, CRC: 6905db24
-- Guardian's Sword - Uruwashi no Mana (Japan) (Disc 2) (Track 15).bin, CRC: da904993
-- Guardian's Sword - Uruwashi no Mana (Japan) (Disc 2) (Track 16).bin, CRC: d8c29a49
-- Guardian's Sword - Uruwashi no Mana (Japan) (Disc 2) (Track 17).bin, CRC: 6ca80515
-- Guardian's Sword - Uruwashi no Mana (Japan) (Disc 2) (Track 18).bin, CRC: b7ac2d45
-- Guardian's Sword - Uruwashi no Mana (Japan) (Disc 2) (Track 19).bin, CRC: 5f416788
-- Guardian's Sword - Uruwashi no Mana (Japan) (Disc 2) (Track 20).bin, CRC: a157fb19
-- Guardian's Sword - Uruwashi no Mana (Japan) (Disc 2) (Track 21).bin, CRC: b77d8e58
-- Guardian's Sword - Uruwashi no Mana (Japan) (Disc 2) (Track 22).bin, CRC: 8263e344
-- Guardian's Sword - Uruwashi no Mana (Japan) (Disc 2) (Track 23).bin, CRC: 704048b9
-- Guardian's Sword - Uruwashi no Mana (Japan) (Disc 2) (Track 24).bin, CRC: a31cca09
-- Guardian's Sword - Uruwashi no Mana (Japan) (Disc 2) (Track 25).bin, CRC: c3aab7a1
-</details>
-
+### Guardian's Sword - Uruwashi no Mana (Japan) (Disc 2) (Track 02).bin, CRC: 13824d6e
 ### Gubble (Poland).bin, CRC: fc85a474
 ### Guild 2, The (Hungary).iso, CRC: 177827e4
 ### Guild Wars 2 - Heart of Thorns (USA).iso, CRC: a3726044
@@ -3509,7 +3468,6 @@
 ### Hidden & Dangerous 2 (Netherlands) (Disc 2) (Rerelease).bin, CRC: 4c9b9e63
 ### Hidden & Dangerous 2 (Netherlands) (Disc 3) (Rerelease).bin, CRC: 92fee9c1
 ### Hidden & Dangerous Deluxe (Japan).bin, CRC: 1f2879fc
-### Higanbana no Saku Yoru ni - Dai Ni Ya (Japan).bin, CRC: 3a5cd73a
 ### Highland Warriors (Japan).bin, CRC: 187e8a5a
 ### Highland Warriors (Netherlands) (Disc 1).bin, CRC: e0c0ea90
 ### Highland Warriors (Netherlands) (Disc 2).bin, CRC: a8cf0b9b
@@ -4001,7 +3959,6 @@
 </details>
 
 ### JoJo no Kimyou na Gekida (Japan).bin, CRC: 127f65b8
-### Josou de Haramasete (Japan).bin, CRC: ee41ddf4
 ### Journalist (Sweden).bin, CRC: cbc458a2
 ### Ju Shang (Taiwan).bin, CRC: 2321cf6d
 ### Judge August (Japan) (Track 13).bin, CRC: 777e2e78
@@ -4648,7 +4605,6 @@
 ### Madeline and the Magnificent Puppet Show (Japan).bin, CRC: 83e36ac3
 ### Madeline Thinking Games (Japan).bin, CRC: 9131cffe
 ### Mados Namai (Lithuania).bin, CRC: 0df57fbd
-### Madou Koukaku - Yami no Tsuki Megami wa Doukoku de Utau - Append Disc (Japan).bin, CRC: 195deab0
 ### Maelstrom (Scandinavia).bin, CRC: 140f7c63
 ### Mafalda Juegos Interactivos (Argentina).bin, CRC: 69f44b15
 ### Mafia (Germany) (Rerelease) (2004-03-30).iso, CRC: 0fdd7358
@@ -5046,7 +5002,6 @@
 - Michael Owen's World League Soccer '99 (Europe) (En,It) (Track 9).bin, CRC: 9118ee8d
 </details>
 
-### Microsoft 3D Movie Maker (USA) (Alt).bin, CRC: 386eb0e0
 ### Microsoft Flight Simulator 2000 (France) (Disc 1).bin, CRC: 2e49431e
 ### Midnight GT - Primary Racer + Rage Rally (Europe) (En,Fr,De,Es,It,Nl,Pt)
 <details>
@@ -5489,7 +5444,6 @@
 </details>
 
 ### Nancy Drew - Ghost Dogs of Moon Lake (USA) (Alt).bin, CRC: 5d9b502e
-### Nancy Drew - The Secret of Shadow Ranch (USA) (Rerelease) (2004-08-31).bin, CRC: 54dab527
 ### Napoleon - Total War (Europe) (Disc 2) (Rerelease).iso, CRC: 05dbac63
 ### Narsillion (Japan) (Install 1).bin, CRC: 9d141ef5
 ### Narsillion (Japan) (Install 2).bin, CRC: 17bfb02b
@@ -6235,7 +6189,6 @@
 - Qiu Huun 365 Ri II (Taiwan) (Disc 2) (Track 24).bin, CRC: 96eb3f79
 </details>
 
-### QP Shooting (Japan).bin, CRC: 3442c59b
 ### QP Shooting - Dangerous (Japan).bin, CRC: d56996d4
 ### Quake (USA) (Demo) (1996-08-19) (Alt)
 <details>
@@ -6820,7 +6773,6 @@
 - S.T.O.R.M. (USA) (Disc 2) (Track 03).bin, CRC: d1b24bc9
 - S.T.O.R.M. (USA) (Disc 2) (Track 04).bin, CRC: ec498b57
 - S.T.O.R.M. (USA) (Disc 2) (Track 05).bin, CRC: e6cb8272
-- S.T.O.R.M. (USA) (Disc 2) (Track 06).bin, CRC: 6dbab4c4
 - S.T.O.R.M. (USA) (Disc 2) (Track 07).bin, CRC: 0a8c0e52
 - S.T.O.R.M. (USA) (Disc 2) (Track 08).bin, CRC: a424d0fe
 - S.T.O.R.M. (USA) (Disc 2) (Track 09).bin, CRC: 74b3244f
@@ -6835,7 +6787,6 @@
 - S.T.O.R.M. (USA) (Disc 3) (Track 3).bin, CRC: 1963fac6
 - S.T.O.R.M. (USA) (Disc 3) (Track 4).bin, CRC: 921f2021
 - S.T.O.R.M. (USA) (Disc 3) (Track 5).bin, CRC: d746f77d
-- S.T.O.R.M. (USA) (Disc 3) (Track 6).bin, CRC: 5bf2fc15
 - S.T.O.R.M. (USA) (Disc 3) (Track 7).bin, CRC: b29151de
 - S.T.O.R.M. (USA) (Disc 3) (Track 8).bin, CRC: ecf9b44a
 </details>
@@ -7526,7 +7477,6 @@
 ### Sims 3, The (Australia) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,El,Cs,Hu) (v1.42.130.019001).iso, CRC: 32f2ce4b
 ### Sims Castaway Stories, The (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Pl,Ru,Cs,Hu).iso, CRC: c8072e46
 ### Sims Magazine 25, Les (France).bin, CRC: ae8ad402
-### Sims Strategy Guide and SimFan Pack, The (USA).bin, CRC: 8de269a8
 ### Sims, The (Korea) (En,Ko).bin, CRC: 46e979d1
 ### Sims, The - Livin' It Up (Expansion Pack) (Germany) (En,Fr,De,Es,It,Nl,Sv).bin, CRC: 3ef66178
 ### SimTheme Park (USA) (Gold Edition) (2000-05-11).bin, CRC: a594a98d
@@ -8665,7 +8615,6 @@
 ### Total War - Warhammer (Europe) (En,Fr,De,Es,It,Pt,Ko,Pl,Ru,Cs,Tr) (Disc 2).iso, CRC: 25356321
 ### Total War - Warhammer (Europe) (En,Fr,De,Es,It,Pt,Ko,Pl,Ru,Cs,Tr) (Disc 3).iso, CRC: 65c036e8
 ### Touche - The Adventures of the Fifth Musketeer (Hungary).bin, CRC: 42307879
-### Touhou Shinpiroku - Urban Legend in Limbo (Japan).iso, CRC: f9ec6e75
 ### Tower, The - CD Winter Edition (Japan)
 <details>
 <summary>ROMs</summary>
@@ -8892,7 +8841,6 @@
 ### Ultra Quiz - Kanji-hen (Japan).bin, CRC: c49e6bd1
 ### Ultra Quiz - Rekishi-hen (Japan).bin, CRC: bdb68b01
 ### Ultra Quiz - Sport Geinou-hen (Japan).bin, CRC: ffb67b70
-### Umineko no Naku Koro ni Chiru (Japan).iso, CRC: 5a5b3c4c
 ### Umizuri Deluxe (Japan).bin, CRC: 10d1ee36
 ### Uncle Torys no Daibouken (Japan).bin, CRC: 7aaa5325
 ### Under Occupation - Aghdam (Asia).iso, CRC: 2540b7af
@@ -9442,7 +9390,6 @@
 ### Yukiyama Rantou!! Cirno Climbers (Japan).bin, CRC: 82e2e4cd
 ### Yuth (Thailand) (En,Th).bin, CRC: ad60f90d
 ### Yuu Print - Kagaku Ninjatai Gatchaman (Japan).bin, CRC: b59a1653
-### Yuzuminatsu (Japan).bin, CRC: 62896c75
 ### Z - Steel Soldiers (Thailand).bin, CRC: aa46234c
 ### Zabavne Zagonetke (Serbia).bin, CRC: d8c3ab5c
 ### Fun with ABC (Poland) (En,Fr,De).bin, CRC: 47259479
