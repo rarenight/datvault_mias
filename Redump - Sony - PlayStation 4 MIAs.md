@@ -1,5 +1,5 @@
 # Redump - Sony - PlayStation 4 MIAs
-## Games: 294, ROMs: 294, as of 2025-08-13
+## Games: 290, ROMs: 290, as of 2025-08-24
 
 ### 2Dark (Japan).iso, CRC: 51bd991f
 ### 8-Bit Adventure Anthology - Volume 1 (USA).iso, CRC: 1598191a
@@ -86,7 +86,6 @@
 ### Fallen Legion - Flames of Rebellion (USA) (En,Ja,Zh,Ko,Ru).iso, CRC: 93abc811
 ### Fallout 4 (Japan).iso, CRC: 97d544fc
 ### Farming Simulator 15 (Japan).iso, CRC: 5d63c7d9
-### Final Fantasy Crystal Chronicles - Remastered Edition (Japan).iso, CRC: 179851e1
 ### Final Fantasy I-VI Collection (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru,Th).iso, CRC: 6d4b32fe
 ### Final Fantasy X + X-2 - HD Remaster (Asia) (Zh,Ko).iso, CRC: 9e5bd5a0
 ### Final Fantasy X + X-2 - HD Remaster (Japan).iso, CRC: b1b05e3b
@@ -162,13 +161,11 @@
 ### Naruto Shippuuden - Narutimate Storm 4 (Japan).iso, CRC: 8b43d3ee
 ### Nelke to Densetsu no Renkinjutsushi-tachi - Aratana Daichi no Atelier (Japan).iso, CRC: e09a8f25
 ### Neon Abyss (USA) (En,Ja,Fr,De,Es,It,Zh,Ru).iso, CRC: 83534bdf
-### New Minna no Golf (Japan).iso, CRC: 04aeea5f
 ### New Super Lucky's Tale (USA) (En,Ja,Fr,De,Es,It,Pt).iso, CRC: ae17c99a
 ### Nex Machina (USA) (En,Fr,De,Es,It,Pt,Pl,Ru,Tr).iso, CRC: a6d983eb
 ### NHL 22 (USA) (En,Fr).iso, CRC: bc6d1edc
 ### Ni no Kuni - Wrath of the White Witch Remastered (Europe) (En,Fr,De,Es,It,Ru).iso, CRC: 758bf9dc
 ### Nier - Automata (Japan).iso, CRC: 28e3ae7d
-### Nioh - Complete Edition (Japan) (En,Ja,Zh,Ko).iso, CRC: 0949d36d
 ### Nioh 2 (Japan).iso, CRC: 4b8adff0
 ### Nioh 2 - Complete Edition (Japan) (En,Ja,Zh,Ko).iso, CRC: b08ac93e
 ### Nippon Marathon (Europe).iso, CRC: 63626cd1
@@ -275,7 +272,6 @@
 ### Tokyo Xanadu eX+ (Japan).iso, CRC: de7d7fbe
 ### Tom Clancy's Ghost Recon - Breakpoint (Japan).iso, CRC: bcd69a3c
 ### Totori no Atelier - Arland no Renkinjutsushi 2 DX (Japan).iso, CRC: e6803436
-### Tropico 5 (Japan).iso, CRC: 512f0e42
 ### Tumblestone (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,Cs,Hu,Th,Tr).iso, CRC: 896d1817
 ### Umihara Kawase Fresh! (USA).iso, CRC: d57fc65a
 ### Undead Darlings - No Cure for Love (USA).iso, CRC: 2bb7a27b

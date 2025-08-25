@@ -1,5 +1,5 @@
 # Redump - DVD-Video MIAs
-## Games: 220, ROMs: 220, as of 2025-08-13
+## Games: 219, ROMs: 219, as of 2025-08-24
 
 ### 110% Gaming Presents... FIFA 15 - Preview DVD (UK).iso, CRC: 07755dda
 ### 2002 Autumn Tokyo Game Show (Taiwan).iso, CRC: 92c99685
@@ -88,7 +88,6 @@
 ### Lollipop Factory (Japan) (Disc B).iso, CRC: d26ab7ff
 ### Lollipop Factory (Japan) (Disc C).iso, CRC: 6814f0aa
 ### Mad Dog II - The Lost Gold (USA).iso, CRC: 802c2a3a
-### Making of Age of Mythology, The (Japan) (PC Game Bundle).iso, CRC: 32967129
 ### Making of Age of Mythology, The (USA) (PC Game Bundle) (Rev 1).iso, CRC: 16070c29
 ### Making of Resident Evil 5 (Asia) (Xbox 360 Game Bundle).iso, CRC: 95a2dda5
 ### Mario Kart 7 - Saisoku DVD (Japan).iso, CRC: 61ceda95

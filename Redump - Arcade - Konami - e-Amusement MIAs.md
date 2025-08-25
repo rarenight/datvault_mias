@@ -1,8 +1,6 @@
 # Redump - Arcade - Konami - e-Amusement MIAs
-## Games: 21, ROMs: 21, as of 2025-08-13
+## Games: 19, ROMs: 19, as of 2025-08-24
 
-### Bishi Bashi, The (Japan) (Application Disc).iso, CRC: e3a7053e
-### Bishi Bashi, The (Japan) (System Disc).bin, CRC: b35a5c00
 ### Toukyuu Oukoku Gashaaaan (Asia) (Application Disc).bin, CRC: 2e12393c
 ### Toukyuu Oukoku Gashaaaan (Asia) (System Disc).bin, CRC: 3e48a862
 ### Mah-Jong Fight Club 6 (Japan) (Client-you Application Disc).iso, CRC: 379e8201

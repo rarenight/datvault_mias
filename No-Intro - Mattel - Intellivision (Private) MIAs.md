@@ -1,4 +1,4 @@
 # No-Intro - Mattel - Intellivision (Private) MIAs
-## Games: 1, ROMs: 1, as of 2025-08-13
+## Games: 1, ROMs: 1, as of 2025-08-24
 
 ### DK Arcade (World) (Elektronite) (Aftermarket) (Unl).int, CRC: 136995e3

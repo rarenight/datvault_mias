@@ -1,5 +1,5 @@
 # No-Intro - Unofficial - Sony - PlayStation Portable (UMD Video) MIAs
-## Games: 6, ROMs: 7, as of 2025-08-13
+## Games: 6, ROMs: 7, as of 2025-08-24
 
 ### Batman Begins (Europe) (En,De,Nl,Sv).iso, CRC: 3071a67c
 ### Batman Begins (Japan) (En,Ja).iso, CRC: 07146934
