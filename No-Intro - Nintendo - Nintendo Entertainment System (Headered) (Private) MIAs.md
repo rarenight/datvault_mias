@@ -1,5 +1,5 @@
 # No-Intro - Nintendo - Nintendo Entertainment System (Headered) (Private) MIAs
-## Games: 39, ROMs: 39, as of 2025-08-24
+## Games: 37, ROMs: 37, as of 2025-09-15
 
 ### Alfonzo's Arctic Adventure (World) (Kickstarter) (Aftermarket) (Unl).nes, CRC: 0db77f87
 ### Alfonzo's Arctic Adventure (USA) (Limited Run Games) (Aftermarket) (Unl).nes, CRC: 9cc3cac9
@@ -16,7 +16,6 @@
 ### Gemaboy Zero (World) (v2.0) (Aftermarket) (Unl).nes, CRC: 27d3f7d6
 ### Gotta Protectors - Amazon's Training Road (USA) (Aftermarket) (Unl).nes, CRC: 4d2d6c17
 ### Hammerin' Harry (World) (Retro-Bit).nes, CRC: 773e2a47
-### Hammerin' Harry 2 (World) (Retro-Bit).nes, CRC: 6f47afc7
 ### House in the Cemetery, The (World) (Broke Studio) (Aftermarket) (Unl).nes, CRC: 8ea8aaaa
 ### ILEVAN (Japan) (En) (Aftermarket) (Unl).nes, CRC: 55138c33
 ### Jim & Dill - The Legend of Weed N' Stiff (World) (2024-06-19) (Aftermarket) (Unl).nes, CRC: 710c7290
@@ -38,5 +37,4 @@
 ### Spook-o'-tron (World) (Backer Edition) (Aftermarket) (Unl).nes, CRC: f3deedea
 ### Super Cambur Origins (World) (v1) (Aftermarket) (Unl).nes, CRC: bf183634
 ### Super Cambur Origins (World) (v2) (Aftermarket) (Unl).nes, CRC: df876862
-### Tempered Vengeance (USA, Europe) (Aftermarket) (Unl).nes, CRC: 71d67b86
 ### Vegetablets Go (Japan) (En) (Aftermarket) (Unl).nes, CRC: fd6f08a7

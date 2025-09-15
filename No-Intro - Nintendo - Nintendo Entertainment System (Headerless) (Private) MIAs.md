@@ -1,5 +1,5 @@
 # No-Intro - Nintendo - Nintendo Entertainment System (Headerless) (Private) MIAs
-## Games: 39, ROMs: 39, as of 2025-08-24
+## Games: 37, ROMs: 37, as of 2025-09-15
 
 ### 8-Bit Slasher 4-in-1 Horror Demakes (World) (Aftermarket) (Unl).unh, CRC: 905e90cb
 ### Alfonzo's Arctic Adventure (World) (Kickstarter) (Aftermarket) (Unl).unh, CRC: da586fa5
@@ -17,7 +17,6 @@
 ### Gemaboy Zero (World) (v2.0) (Aftermarket) (Unl).unh, CRC: 4bb78de5
 ### Gotta Protectors - Amazon's Training Road (USA) (Aftermarket) (Unl).unh, CRC: 0edd89e1
 ### Hammerin' Harry (World) (Retro-Bit).unh, CRC: 9e2a837c
-### Hammerin' Harry 2 (World) (Retro-Bit).unh, CRC: 0de8c4d4
 ### House in the Cemetery, The (World) (Broke Studio) (Aftermarket) (Unl).unh, CRC: c264485a
 ### ILEVAN (Japan) (En) (Aftermarket) (Unl).unh, CRC: 36d66731
 ### Jim & Dill - The Legend of Weed N' Stiff (World) (2024-06-19) (Aftermarket) (Unl).unh, CRC: 3dc09060
@@ -38,5 +37,4 @@
 ### Spook-o'-tron (World) (Backer Edition) (Aftermarket) (Unl).unh, CRC: d5d1c2b5
 ### Super Cambur Origins (World) (v1) (Aftermarket) (Unl).unh, CRC: d37c4c07
 ### Super Cambur Origins (World) (v2) (Aftermarket) (Unl).unh, CRC: b3e31251
-### Tempered Vengeance (USA, Europe) (Aftermarket) (Unl).unh, CRC: 3d1a9976
 ### Vegetablets Go (Japan) (En) (Aftermarket) (Unl).unh, CRC: 9eaae3a5

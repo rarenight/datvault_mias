@@ -1,18 +1,16 @@
 # No-Intro - Nintendo - Nintendo Entertainment System (Headered) (Aftermarket) (Private) MIAs
-## Games: 40, ROMs: 40, as of 2025-08-24
+## Games: 37, ROMs: 38, as of 2025-09-15
 
 ### 8-Bit Slasher 4-in-1 Horror Demakes (World) (Aftermarket) (Unl).nes, CRC: 1e4d95a6
 ### 8Bit Music Power Encore (World) (Aftermarket) (Unl).nes, CRC: 27f312e2
-### Biocats (World) (Uk) (v1.1) (2025-03-10) (Aftermarket) (Unl).nes, CRC: 25abe5b9
 ### Bobby Six Seven - Time-Traveling Detective (USA) (Aftermarket) (Unl).nes, CRC: f6dc9ebd
 ### Candelabra - Estoscerro (World) (Aftermarket) (Unl).nes, CRC: 777c773f
 ### Changeable Guardian Estique (USA, Europe) (Aftermarket) (Unl).nes, CRC: a1c3bd5b
 ### Chibi Monster Br4wl (World) (Aftermarket) (Unl).nes, CRC: 18054d00
 ### Christmas Crisis 2 (USA) (Aftermarket) (Unl).nes, CRC: 947babc3
 ### Data Man (World) (Aftermarket) (Unl).nes, CRC: 9b8e3a65
-### Delver Quest (World) (Aftermarket) (Unl).nes, CRC: da143e1d
+### Fie (USA) (Aftermarket) (Unl).nes, CRC: e742102c
 ### Gemaboy Zero (World) (2025-04-03) (Aftermarket) (Unl).nes, CRC: 28e9d1d1
-### Haunted - Halloween '86 (World) (Spirit Exclusive) (Aftermarket) (Unl).nes, CRC: db33ba0f
 ### Hazard - Let Us Out! (World) (Aftermarket) (Unl).nes, CRC: d552124f
 ### Kira Kira Star Night (Japan) (En) (Rev 1) (Aftermarket) (Unl).nes, CRC: 9e19a6ba
 ### Knight on the Moon (World) (Flash saving) (Aftermarket) (Unl).nes, CRC: d19ef7b4
@@ -34,10 +32,16 @@
 ### Rugrats - Adventures in Gameland (World) (v1.1) (Aftermarket) (Unl).nes, CRC: 2c569216
 ### Save the Kuin (World) (Aftermarket) (Unl).nes, CRC: 832e87a6
 ### Save the Kuin - Grass Mini Game (World) (Aftermarket) (Unl).nes, CRC: eff7c5e7
-### Slow Mole Jr. (World) (v0.99) (Aftermarket) (Unl).nes, CRC: 9f1cca2e
-### Slow Mole Jr. (World) (v0.99) (Famicom) (Aftermarket) (Unl).nes, CRC: 49d5ed6e
 ### Super Cambur 2 - Multiverse Chaos (World) (2025-03-14) (Aftermarket) (Unl).nes, CRC: 5ed03b28
 ### Super Cambur Origins (World) (2025-03-14) (Aftermarket) (Unl).nes, CRC: 27b73ecf
-### Train! Train! (World) (Aftermarket) (Unl).nes, CRC: 95efb470
 ### Trial of Kharzoid, The (World) (2025-01-27) (Aftermarket) (Unl).nes, CRC: 8af8e1c6
 ### Trial of Kharzoid, The (World) (2025-04-23) (Aftermarket) (Unl).nes, CRC: 1dd8a57c
+### You Are Error (USA, Europe) (Aftermarket) (Unl).nes, CRC: b0131502
+### You Are Error (USA, Europe) (Special Edition) (Aftermarket) (Unl)
+<details>
+<summary>ROMs</summary>
+
+- You Are Error (USA, Europe) (Special Edition) (Aftermarket) (Unl) (Side A).nes, CRC: 3411cc66
+- You Are Error (USA, Europe) (Special Edition) (Aftermarket) (Unl) (Side B).nes, CRC: 93c9613d
+</details>
+

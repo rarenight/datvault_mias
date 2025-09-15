@@ -1,27 +1,34 @@
 # No-Intro - Unofficial - Sony - PlayStation Vita (PSVgameSD) MIAs
-## Games: 102, ROMs: 104, as of 2025-08-24
+## Games: 134, ROMs: 136, as of 2025-09-15
 
 ### Amatsutsumi (Japan).psv, CRC: 7e0e9b57
 ### Ao no kanata no Four Rythm (Japan).psv, CRC: fa9f1745
 ### Atelier Sophie - Fushigi na Hon no Renkinjutsushi (Japan).psv, CRC: 4828701b
+### BlazBlue - Continuum Shift Extend (Japan).psv, CRC: ec01248c
 ### Bullet Girls 2 (Japan).psv, CRC: 46f99030
+### Caligula (Japan).psv, CRC: 01775559
 ### Chaos Child Love Chu Chu!! (Japan).psv, CRC: 54b545ca
+### Chaos Rings III - Prequel Trilogy (Japan).psv, CRC: e015b304
 ### Chaos;Child (Japan).psv, CRC: 91319065
 ### Chaos;Head Dual (Japan).psv, CRC: b42bf038
 ### Chou Jigen Game Neptune Re;Birth 1 (Japan) (Genteiban).psv, CRC: eb5293dd
 ### Chou Jigen Game Neptune Re;Birth 2 Sisters Generation (Japan) (Genteiban).psv, CRC: 7f7421cc
 ### Chou Jigen Taisen Neptune VS Sega Hard Girls Yume no Gattai Special (Japan) (Genteiban).psv, CRC: 582102c9
 ### Collar x Malice (USA).psv, CRC: 2d169048
+### Conception II - Shichisei no Michibiki to Mazuru no Akumu (Japan).psv, CRC: f7570aed
 ### Cursed Castilla Ex (Asia) (En,Ja,Fr,De,Es).psv, CRC: 9ce2735f
 ### Dangan Rompa 1-2 Reload (Japan).psv, CRC: d7442c22
+### Dark Quest Alliance (Japan).psv, CRC: deb6aa52
 ### Dead or Alive 5+ (Japan) (En,Ja,Fr,De,Es,It,Zh-Hant).psv, CRC: 5ef8c6ad
 ### Deka Mori Senran Kagura (Japan).psv, CRC: 9fbdcf8b
+### Demon Gaze (Japan).psv, CRC: c0c0cdf7
 ### Demon Gaze II (USA).psv, CRC: 6260a357
 ### Digimon Story Cybersleuth (Japan).psv, CRC: 6f7e5c11
 ### Disgaea 4 - A Promise Revisited (Europe).psv, CRC: 721285cb
 ### Disgaea 4 - A Promise Revisited (USA) (En,Ja).psv, CRC: 62c5d8f1
 ### Disney Infinity 2.0 (France).psv, CRC: 17e4aa2b
 ### DJMax Technika Tune (Japan) (Alt) [b].psv, CRC: e4bac938
+### Dragon Ball Z - Battle of Z (Japan).psv, CRC: a8a550e8
 ### Dragon Quest Builders - Alefgard wo Fukkatsu Seyo (Japan).psv, CRC: a34e31be
 ### Dynasty Warriors 8 - Empires (Asia) (En).psv, CRC: 873ca4a2
 ### Eiyuu Senki The World Conquest (Japan) (Shokai Genteiban).psv, CRC: 105e2f3d
@@ -34,11 +41,15 @@
 ### FIFA 14 (Netherlands).psv, CRC: 7934dcbe
 ### FIFA 15 (Netherlands).psv, CRC: bef0c32d
 ### FIFA Football (Netherlands).psv, CRC: eb0bd6ca
+### FIFA Soccer (USA).psv, CRC: e9c9c09c
 ### Flowers Aki-hen (Japan).psv, CRC: bcc9f9b5
 ### Flowers Fuyu-hen (Japan).psv, CRC: 2717ab10
+### Freedom Wars (Japan).psv, CRC: 9b632368
+### Fushigi no Chronicle - Furikaerimasen Katsu Made Wa (Japan).psv, CRC: bf041de8
 ### Fuuraiki 3 (Japan).psv, CRC: 3a0e2d52
 ### Genkai Tokki Seven Pirates (Japan).psv, CRC: d9d4d3df
 ### God Wars - Toki o Koete (Japan).psv, CRC: 4f45bcbf
+### Gravity Daze (Japan).psv, CRC: e5eaf847
 ### Grisaia no Kajitsu Le Fruit de la Grisaia (Japan).psv, CRC: f1f23c54
 ### Grisaia no Meikyuu Le Labyrinthe de la Grisaia (Japan).psv, CRC: 3e0b96d2
 ### Grisaia no Rakuen Le Eden de la Grisaia (Japan).psv, CRC: a7e0d2fc
@@ -47,7 +58,11 @@
 ### Haiyou no Psychedelica (Japan).psv, CRC: 0260e8d9
 ### Hello Kitty to Issho - Block Crash V (Japan).psv, CRC: a26f9a38
 ### Hyperdimension Neptunia U - Action Unleashed (USA).psv, CRC: be176435
+### Jikkyou Powerful Pro Yakyuu 2016 (Japan).psv, CRC: bc83c97d
+### Kami Jigen Idol - Neptune PP (Japan).psv, CRC: 777d7dbb
 ### Kangoku Tou Mary Skelter (Japan).psv, CRC: 13bf06f6
+### Kantai Collection Kai (Japan).psv, CRC: a515f9c8
+### Kidou Senshi Gundam - Extreme VS. Force (Japan).psv, CRC: a3117f5e
 ### Kurenai no Homura Sanada Ninpocho (Japan).psv, CRC: 52844087
 ### Kyokugen Dasshutsu ADV Zen'nin Shibou Desu (Japan).psv, CRC: 4e02cbd1
 ### Legend of Heroes, The - Trails of Cold Steel (USA).psv, CRC: 6b2b78d2
@@ -62,26 +77,37 @@
 </details>
 
 ### Little Deviants (USA).psv, CRC: 28d821bb
+### Lord of Apocalypse (Japan).psv, CRC: b6e3d9fe
 ### Lost Dimension (Japan).psv, CRC: 56840420
+### Luminous Arc - Infinity (Japan).psv, CRC: cc5c7fd8
 ### Mind=Zero (Japan).psv, CRC: 1c7984c7
 ### MLB 13 - The Show (USA) (En,Fr).psv, CRC: f2170932
 ### Nade Revo! Nadeshiko Revolution! (Japan).psv, CRC: 9db9092a
+### Next Revo - Hisho Kentei Shiken (Japan).psv, CRC: 25eea56a
 ### NextRev - FP Ginoukentei Shiken 2-Kyuu (Japan).psv, CRC: b38659a1
 ### NextRev - Hisho Kentei Shiken (Japan).psv, CRC: 9ed1b2c7
+### Ninja Gaiden Sigma Plus (Japan).psv, CRC: 824ea854
 ### Nisekoi Yomeiri (Japan).psv, CRC: ca62ab42
 ### Nora to Oujo to Nora Neko Heart (Japan).psv, CRC: 8c93794f
+### Oboro Muramasa (Japan).psv, CRC: 9c261e2b
 ### Octodad - Dadliest Catch (USA).psv, CRC: c0f4ce94
 ### Putty Squad (USA).psv, CRC: 4032ad76
+### Ragnarok Odyssey (Japan).psv, CRC: 9bd8fd8c
 ### Reine des Fleurs (Japan).psv, CRC: c1d68d7e
 ### Resident Evil - Revelations 2 (Asia) (En,Ja,Fr,De,Es,It,Pt-BR,Zh,Ko,Pl,Ru).psv, CRC: b418a46a
+### Root Letter (Japan).psv, CRC: b1428070
+### SaGa Scarlet Grace (Japan).psv, CRC: 015d8f8f
 ### Sanzen Sekai Yuugi Re Multi Universe Myself (Japan).psv, CRC: ce80d0c6
 ### Sen no Hatou Tsukisome no Kouki (Japan).psv, CRC: 13b7d600
+### Sengoku Musou 4 (Japan).psv, CRC: 6c3f73d0
 ### Senjou no Waltz (Japan).psv, CRC: 4c85fc97
 ### Senran Kagura - Estival Versus (USA).psv, CRC: 68575280
 ### Senran Kagura Estival Versus - Shoujo-tachi no Sentaku (Japan).psv, CRC: 9005fff1
 ### Senran Kagura Shinovi Versus - Shoujo-tachi no Shoumei (Japan).psv, CRC: 55839c1b
 ### Seven Days - Anata to Sugosu Nanoka-kan (Japan).psv, CRC: 521fba55
 ### Shi'in (Japan).psv, CRC: 6f095b08
+### Shin Rorona no Atelier - Hajimari no Monogatari - Arland no Renkinjutsushi (Japan).psv, CRC: f3860a21
+### Shinobido 2 - Sanka (Japan).psv, CRC: d46955b2
 ### Silent Hill - Book of Memories (USA).psv, CRC: 6bdf1304
 ### Sound Shapes (USA) (Demo) (Kiosk)
 <details>
@@ -96,7 +122,10 @@
 ### Steins;Gate - Senkei Kousoku no Phenogram (Japan).psv, CRC: d3200789
 ### Steins;Gate Elite (Japan).psv, CRC: 281be387
 ### Steins;Gate 0 (Japan).psv, CRC: 0c75ab9e
+### Sumioni (Japan).psv, CRC: 0c85914d
+### Super Monkey Ball - Tokumori Asovita! (Japan).psv, CRC: 629edd34
 ### Sword Art Online - Hollow Realization (Europe) (En,Fr,De,Es,It).psv, CRC: 293c7290
+### Sword Art Online - Hollow Realization (Japan).psv, CRC: b01bf95d
 ### Tadeo Jones (Europe) (En,Es).psv, CRC: 69928210
 ### Tales of Hearts R (Japan).psv, CRC: dc6abc6a
 ### Tales of Innocence R (Japan).psv, CRC: 6c988ad4
@@ -110,10 +139,13 @@
 ### Toukyou Clanpool (Japan).psv, CRC: 6e2c6e5a
 ### Uta no Prince-Sama - Music 3 (Japan).psv, CRC: ddfc0750
 ### Utawarerumono - Mask of Deception (USA).psv, CRC: aa9459e1
+### Valhalla Knights 3 (Japan).psv, CRC: 48c5bf95
 ### Valkyrie Drive - Bhikkhuni (Japan).psv, CRC: 522f2cc1
 ### Vamwolf Cross (Japan).psv, CRC: 638fb0b8
+### Wagamama High Spec (Japan).psv, CRC: 652c8853
 ### Yomawari - Midnight Shadows (USA).psv, CRC: c739f90d
 ### Yoshiwara Higanbana - Kuon no Chigiri (Japan).psv, CRC: 4e68d5fd
+### Yuusha Shisu (Japan).psv, CRC: 48d878f2
 ### Zanki Zero (Japan).psv, CRC: 42eccefd
 ### Zero Escape 9-jikan 9-nin 9 no Tobira Zen'nin Shibou Desu Double Pack (Japan).psv, CRC: 2d4821e3
 ### Zero Escape Toki no Dilemma (Japan).psv, CRC: c5d55e2c

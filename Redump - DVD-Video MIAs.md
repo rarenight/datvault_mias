@@ -1,5 +1,5 @@
 # Redump - DVD-Video MIAs
-## Games: 219, ROMs: 219, as of 2025-08-24
+## Games: 219, ROMs: 219, as of 2025-09-15
 
 ### 110% Gaming Presents... FIFA 15 - Preview DVD (UK).iso, CRC: 07755dda
 ### 2002 Autumn Tokyo Game Show (Taiwan).iso, CRC: 92c99685
@@ -14,6 +14,8 @@
 ### Banpresto Shinsaku Lineup (Japan).iso, CRC: 62bc5f9c
 ### Batman - Arkham Asylum (Europe) (En,Fr,De,Es,It) (Bonus Disc).iso, CRC: 6d3e3a62
 ### Beat the Intro (Australia).iso, CRC: 236562c0
+### Beatnation Summit Beatmania IIDX Premium Live (Japan) (Disc 1).iso, CRC: b2e4f95c
+### Beatnation Summit Beatmania IIDX Premium Live (Japan) (Disc 2).iso, CRC: a59efd4c
 ### Beit Hell 2000 - Famitsu Wave DVD - Tentou Houei-you (Japan).iso, CRC: f358e817
 ### Bibleman Jr. Volume 1 and 2 - Thankful for Jesus - God Loves Everyone (USA).iso, CRC: 9b8c3a26
 ### Biohazard 5 (China) (Disc A) (The Story).iso, CRC: e4ab68bd
@@ -127,7 +129,6 @@
 ### Prince of Persia - The Forgotten Sands (Europe) (En,Fr,De,Es,It,Pl) (DVD Bonus) (PS3 Game Bundle).iso, CRC: 9edb03e1
 ### Pro Soccer Club o Tsukurou! Europe Championship (Japan).iso, CRC: dfeab306
 ### Pro Yakyuu Spirits 2004 Climax (Japan).iso, CRC: 1c9b24d4
-### PSM2 Volume 39 (UK).iso, CRC: 40f8751f
 ### PSM2 Volume 49 (UK).iso, CRC: ff2bf6ed
 ### Pure Cafe - Iyashi no Cafe ni Kayoi Tsumeru, Boku no Chihou Tenkin Seikatsu (Japan) (Disc B).iso, CRC: b605911f
 ### Pure Cafe - Iyashi no Cafe ni Kayoi Tsumeru, Boku no Chihou Tenkin Seikatsu (Japan) (Disc C).iso, CRC: 85b30a8c
@@ -180,7 +181,6 @@
 ### Tsuki to Mahou to Taiyou to (Japan) (Disc 1).iso, CRC: 963a89d7
 ### Tsuki to Mahou to Taiyou to (Japan) (Disc 2).iso, CRC: c382d9a5
 ### Virtual Chanukah (USA) (En,He).iso, CRC: fc481c42
-### What's New by Ubisoft - Volume No 28 (Europe).iso, CRC: da088078
 ### Winning Post 7 - Boukoku no Aegis 2035 - Warship Gunner - Tentou Promotion Movie (Japan).iso, CRC: 960913a0
 ### Winning Post 7 2013 & Dead or Alive 5+ - Tentou Promotion Movie (Japan).iso, CRC: 54c7fd08
 ### X360 Magazine Xbox - 1-2007 (Italy).iso, CRC: 846a08b8

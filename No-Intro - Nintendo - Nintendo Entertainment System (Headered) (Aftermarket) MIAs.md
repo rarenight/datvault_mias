@@ -1,5 +1,5 @@
 # No-Intro - Nintendo - Nintendo Entertainment System (Headered) (Aftermarket) MIAs
-## Games: 12, ROMs: 14, as of 2025-08-24
+## Games: 12, ROMs: 14, as of 2025-09-15
 
 ### 117-in-1 Cartoons Collection (China) (En) (Aftermarket) (Pirate)
 <details>

@@ -1,5 +1,5 @@
 # Redump - Sony - PlayStation 4 MIAs
-## Games: 290, ROMs: 290, as of 2025-08-24
+## Games: 288, ROMs: 288, as of 2025-09-15
 
 ### 2Dark (Japan).iso, CRC: 51bd991f
 ### 8-Bit Adventure Anthology - Volume 1 (USA).iso, CRC: 1598191a
@@ -57,7 +57,6 @@
 ### Doom 3 - VR Edition (Europe) (En,Fr,De,Es,It).iso, CRC: a21dd809
 ### Double Dragon IV (USA) (En,Ja,Fr,Zh,Ko).iso, CRC: c3d96011
 ### Downtown Special - Kunio-kun no Sangokushi da yo Zen'in Shuugou! (Japan).iso, CRC: 0e03421d
-### Dragon Ball FighterZ (Europe) (En,Fr,De,Es,It).iso, CRC: 160d49c2
 ### Dragon Ball The Breakers - Special Edition (Europe).iso, CRC: c03208d7
 ### Dragon Ball Xenoverse 2 (Japan).iso, CRC: 0618891f
 ### Dragon Quest Builders - Alefgard o Fukkatsu Seyo (Japan).iso, CRC: 572cfd78
@@ -166,7 +165,6 @@
 ### NHL 22 (USA) (En,Fr).iso, CRC: bc6d1edc
 ### Ni no Kuni - Wrath of the White Witch Remastered (Europe) (En,Fr,De,Es,It,Ru).iso, CRC: 758bf9dc
 ### Nier - Automata (Japan).iso, CRC: 28e3ae7d
-### Nioh 2 (Japan).iso, CRC: 4b8adff0
 ### Nioh 2 - Complete Edition (Japan) (En,Ja,Zh,Ko).iso, CRC: b08ac93e
 ### Nippon Marathon (Europe).iso, CRC: 63626cd1
 ### Nitroplus Blasterz - Heroines Infinite Duel (Japan).iso, CRC: 865e4082

@@ -1,5 +1,5 @@
 # No-Intro - Nintendo - Game Boy Advance (e-Reader) (Aftermarket) (Private) MIAs
-## Games: 23, ROMs: 43, as of 2025-08-24
+## Games: 23, ROMs: 43, as of 2025-09-15
 
 ### Bomb Hunter (Japan) (Aftermarket) (Unl)
 <details>

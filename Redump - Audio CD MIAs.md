@@ -1,5 +1,5 @@
 # Redump - Audio CD MIAs
-## Games: 148, ROMs: 1890, as of 2025-08-24
+## Games: 163, ROMs: 2120, as of 2025-09-15
 
 ### Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 1) (Alt)
 <details>
@@ -131,6 +131,16 @@
 - Best of Daedalic Entertainment (Germany) (PC Game Bundle) (Track 18).bin, CRC: 764bbc50
 - Best of Daedalic Entertainment (Germany) (PC Game Bundle) (Track 19).bin, CRC: b91c5a68
 - Best of Daedalic Entertainment (Germany) (PC Game Bundle) (Track 20).bin, CRC: bbb05744
+</details>
+
+### Campanella di Festivita, La - Futari de Tortilla - Shiawase de Ikimashou (Japan)
+<details>
+<summary>ROMs</summary>
+
+- Campanella di Festivita, La - Futari de Tortilla - Shiawase de Ikimashou (Japan) (Track 1).bin, CRC: 2a08a61a
+- Campanella di Festivita, La - Futari de Tortilla - Shiawase de Ikimashou (Japan) (Track 2).bin, CRC: c7c0b48b
+- Campanella di Festivita, La - Futari de Tortilla - Shiawase de Ikimashou (Japan) (Track 3).bin, CRC: 1fdc03f6
+- Campanella di Festivita, La - Futari de Tortilla - Shiawase de Ikimashou (Japan) (Track 4).bin, CRC: 300ca4e9
 </details>
 
 ### Castlevania - Lords of Shadow - Original Soundtrack (Japan) (PS3 Game Bundle)
@@ -317,7 +327,37 @@
 - Dark Souls III - Original Soundtrack (Japan) (PS4 Game Bundle) (Track 25).bin, CRC: 02096635
 </details>
 
-### Dark Void - Original Video Game Score (USA) (Track 01).bin, CRC: f78ca2ca
+### Darkness Within - Collector's Edition (Europe) (Official Soundtrack CD) (PC Game Bundle)
+<details>
+<summary>ROMs</summary>
+
+- Darkness Within - Collector's Edition (Europe) (Official Soundtrack CD) (PC Game Bundle) (Track 01).bin, CRC: 53783bec
+- Darkness Within - Collector's Edition (Europe) (Official Soundtrack CD) (PC Game Bundle) (Track 02).bin, CRC: 6400e54c
+- Darkness Within - Collector's Edition (Europe) (Official Soundtrack CD) (PC Game Bundle) (Track 03).bin, CRC: 5aab9ed4
+- Darkness Within - Collector's Edition (Europe) (Official Soundtrack CD) (PC Game Bundle) (Track 04).bin, CRC: 42ac1f9d
+- Darkness Within - Collector's Edition (Europe) (Official Soundtrack CD) (PC Game Bundle) (Track 05).bin, CRC: 8168e81d
+- Darkness Within - Collector's Edition (Europe) (Official Soundtrack CD) (PC Game Bundle) (Track 06).bin, CRC: 471fba9d
+- Darkness Within - Collector's Edition (Europe) (Official Soundtrack CD) (PC Game Bundle) (Track 07).bin, CRC: f6c5cc84
+- Darkness Within - Collector's Edition (Europe) (Official Soundtrack CD) (PC Game Bundle) (Track 08).bin, CRC: 5592029c
+- Darkness Within - Collector's Edition (Europe) (Official Soundtrack CD) (PC Game Bundle) (Track 09).bin, CRC: 1f25fe14
+- Darkness Within - Collector's Edition (Europe) (Official Soundtrack CD) (PC Game Bundle) (Track 10).bin, CRC: 36a8ec04
+- Darkness Within - Collector's Edition (Europe) (Official Soundtrack CD) (PC Game Bundle) (Track 11).bin, CRC: 665fedf2
+- Darkness Within - Collector's Edition (Europe) (Official Soundtrack CD) (PC Game Bundle) (Track 12).bin, CRC: e7296b37
+- Darkness Within - Collector's Edition (Europe) (Official Soundtrack CD) (PC Game Bundle) (Track 13).bin, CRC: db40228c
+- Darkness Within - Collector's Edition (Europe) (Official Soundtrack CD) (PC Game Bundle) (Track 14).bin, CRC: c6762d0e
+- Darkness Within - Collector's Edition (Europe) (Official Soundtrack CD) (PC Game Bundle) (Track 15).bin, CRC: 343f9749
+- Darkness Within - Collector's Edition (Europe) (Official Soundtrack CD) (PC Game Bundle) (Track 16).bin, CRC: 9af867ee
+- Darkness Within - Collector's Edition (Europe) (Official Soundtrack CD) (PC Game Bundle) (Track 17).bin, CRC: a626413b
+- Darkness Within - Collector's Edition (Europe) (Official Soundtrack CD) (PC Game Bundle) (Track 18).bin, CRC: 7d78fd58
+- Darkness Within - Collector's Edition (Europe) (Official Soundtrack CD) (PC Game Bundle) (Track 19).bin, CRC: 70c424be
+- Darkness Within - Collector's Edition (Europe) (Official Soundtrack CD) (PC Game Bundle) (Track 20).bin, CRC: e04b18ab
+- Darkness Within - Collector's Edition (Europe) (Official Soundtrack CD) (PC Game Bundle) (Track 21).bin, CRC: 112c1f9c
+- Darkness Within - Collector's Edition (Europe) (Official Soundtrack CD) (PC Game Bundle) (Track 22).bin, CRC: 26723a84
+- Darkness Within - Collector's Edition (Europe) (Official Soundtrack CD) (PC Game Bundle) (Track 23).bin, CRC: fff40e81
+- Darkness Within - Collector's Edition (Europe) (Official Soundtrack CD) (PC Game Bundle) (Track 24).bin, CRC: 6d180e26
+- Darkness Within - Collector's Edition (Europe) (Official Soundtrack CD) (PC Game Bundle) (Track 25).bin, CRC: 652cc42c
+</details>
+
 ### Dewy's Adventure - Original Ongaku-jiten (Japan)
 <details>
 <summary>ROMs</summary>
@@ -674,77 +714,20 @@
 - Heavy Metal Raiden - International CD (Japan) (Disc 2) (Track 11).bin, CRC: 28dd9f99
 </details>
 
-### Indivisible - The Official Soundtrack - Pieces of a Goddess (USA) (Disc 1)
+### Idolm@ster Cinderella Master, The - Cool Jewelries! 003 (Japan)
 <details>
 <summary>ROMs</summary>
 
-- Indivisible - The Official Soundtrack - Pieces of a Goddess (USA) (Disc 1) (Track 01).bin, CRC: 1f305059
-- Indivisible - The Official Soundtrack - Pieces of a Goddess (USA) (Disc 1) (Track 02).bin, CRC: 0aab7f7b
-- Indivisible - The Official Soundtrack - Pieces of a Goddess (USA) (Disc 1) (Track 03).bin, CRC: c4b0a7b6
-- Indivisible - The Official Soundtrack - Pieces of a Goddess (USA) (Disc 1) (Track 04).bin, CRC: 1cddc089
-- Indivisible - The Official Soundtrack - Pieces of a Goddess (USA) (Disc 1) (Track 05).bin, CRC: 36b8cda9
-- Indivisible - The Official Soundtrack - Pieces of a Goddess (USA) (Disc 1) (Track 06).bin, CRC: 65870785
-- Indivisible - The Official Soundtrack - Pieces of a Goddess (USA) (Disc 1) (Track 07).bin, CRC: 7f93d304
-- Indivisible - The Official Soundtrack - Pieces of a Goddess (USA) (Disc 1) (Track 08).bin, CRC: e6bb31f3
-- Indivisible - The Official Soundtrack - Pieces of a Goddess (USA) (Disc 1) (Track 09).bin, CRC: cc979848
-- Indivisible - The Official Soundtrack - Pieces of a Goddess (USA) (Disc 1) (Track 10).bin, CRC: aa6424b6
-- Indivisible - The Official Soundtrack - Pieces of a Goddess (USA) (Disc 1) (Track 11).bin, CRC: b49f25fb
-- Indivisible - The Official Soundtrack - Pieces of a Goddess (USA) (Disc 1) (Track 12).bin, CRC: 41d39224
-- Indivisible - The Official Soundtrack - Pieces of a Goddess (USA) (Disc 1) (Track 13).bin, CRC: 648d0c38
-- Indivisible - The Official Soundtrack - Pieces of a Goddess (USA) (Disc 1) (Track 14).bin, CRC: 501225d1
-- Indivisible - The Official Soundtrack - Pieces of a Goddess (USA) (Disc 1) (Track 15).bin, CRC: 485c92d7
-- Indivisible - The Official Soundtrack - Pieces of a Goddess (USA) (Disc 1) (Track 16).bin, CRC: d67ba98d
-- Indivisible - The Official Soundtrack - Pieces of a Goddess (USA) (Disc 1) (Track 17).bin, CRC: af4846b2
-- Indivisible - The Official Soundtrack - Pieces of a Goddess (USA) (Disc 1) (Track 18).bin, CRC: a77d5f52
-- Indivisible - The Official Soundtrack - Pieces of a Goddess (USA) (Disc 1) (Track 19).bin, CRC: c17438e1
-- Indivisible - The Official Soundtrack - Pieces of a Goddess (USA) (Disc 1) (Track 20).bin, CRC: 14ef9ec2
-- Indivisible - The Official Soundtrack - Pieces of a Goddess (USA) (Disc 1) (Track 21).bin, CRC: 388d8509
-- Indivisible - The Official Soundtrack - Pieces of a Goddess (USA) (Disc 1) (Track 22).bin, CRC: e83eb6bd
-- Indivisible - The Official Soundtrack - Pieces of a Goddess (USA) (Disc 1) (Track 23).bin, CRC: fa216200
-- Indivisible - The Official Soundtrack - Pieces of a Goddess (USA) (Disc 1) (Track 24).bin, CRC: 9100af95
-- Indivisible - The Official Soundtrack - Pieces of a Goddess (USA) (Disc 1) (Track 25).bin, CRC: d57cea49
-- Indivisible - The Official Soundtrack - Pieces of a Goddess (USA) (Disc 1) (Track 26).bin, CRC: 5bc5cb89
-- Indivisible - The Official Soundtrack - Pieces of a Goddess (USA) (Disc 1) (Track 27).bin, CRC: 690e0165
-- Indivisible - The Official Soundtrack - Pieces of a Goddess (USA) (Disc 1) (Track 28).bin, CRC: 045c37d5
-- Indivisible - The Official Soundtrack - Pieces of a Goddess (USA) (Disc 1) (Track 29).bin, CRC: 16ecb51c
-- Indivisible - The Official Soundtrack - Pieces of a Goddess (USA) (Disc 1) (Track 30).bin, CRC: 490166c5
-- Indivisible - The Official Soundtrack - Pieces of a Goddess (USA) (Disc 1) (Track 31).bin, CRC: e1b9672e
-</details>
-
-### Indivisible - The Official Soundtrack - Pieces of a Goddess (USA) (Disc 2)
-<details>
-<summary>ROMs</summary>
-
-- Indivisible - The Official Soundtrack - Pieces of a Goddess (USA) (Disc 2) (Track 01).bin, CRC: b4270154
-- Indivisible - The Official Soundtrack - Pieces of a Goddess (USA) (Disc 2) (Track 02).bin, CRC: 2601e367
-- Indivisible - The Official Soundtrack - Pieces of a Goddess (USA) (Disc 2) (Track 03).bin, CRC: fee413c1
-- Indivisible - The Official Soundtrack - Pieces of a Goddess (USA) (Disc 2) (Track 04).bin, CRC: 3e935c88
-- Indivisible - The Official Soundtrack - Pieces of a Goddess (USA) (Disc 2) (Track 05).bin, CRC: 1e87f7a9
-- Indivisible - The Official Soundtrack - Pieces of a Goddess (USA) (Disc 2) (Track 06).bin, CRC: 70f46ddd
-- Indivisible - The Official Soundtrack - Pieces of a Goddess (USA) (Disc 2) (Track 07).bin, CRC: 583d91d7
-- Indivisible - The Official Soundtrack - Pieces of a Goddess (USA) (Disc 2) (Track 08).bin, CRC: b468ac15
-- Indivisible - The Official Soundtrack - Pieces of a Goddess (USA) (Disc 2) (Track 09).bin, CRC: 35ee5be0
-- Indivisible - The Official Soundtrack - Pieces of a Goddess (USA) (Disc 2) (Track 10).bin, CRC: a82f484e
-- Indivisible - The Official Soundtrack - Pieces of a Goddess (USA) (Disc 2) (Track 11).bin, CRC: 244a23f2
-- Indivisible - The Official Soundtrack - Pieces of a Goddess (USA) (Disc 2) (Track 12).bin, CRC: 36ce4260
-- Indivisible - The Official Soundtrack - Pieces of a Goddess (USA) (Disc 2) (Track 13).bin, CRC: 9cd6ae9f
-- Indivisible - The Official Soundtrack - Pieces of a Goddess (USA) (Disc 2) (Track 14).bin, CRC: 9954a347
-- Indivisible - The Official Soundtrack - Pieces of a Goddess (USA) (Disc 2) (Track 15).bin, CRC: dd773972
-- Indivisible - The Official Soundtrack - Pieces of a Goddess (USA) (Disc 2) (Track 16).bin, CRC: 6e02a8d3
-- Indivisible - The Official Soundtrack - Pieces of a Goddess (USA) (Disc 2) (Track 17).bin, CRC: 3aba69f2
-- Indivisible - The Official Soundtrack - Pieces of a Goddess (USA) (Disc 2) (Track 18).bin, CRC: 6dab4289
-- Indivisible - The Official Soundtrack - Pieces of a Goddess (USA) (Disc 2) (Track 19).bin, CRC: 9468fc4c
-- Indivisible - The Official Soundtrack - Pieces of a Goddess (USA) (Disc 2) (Track 20).bin, CRC: 7dfe9095
-- Indivisible - The Official Soundtrack - Pieces of a Goddess (USA) (Disc 2) (Track 21).bin, CRC: 23ad53c6
-- Indivisible - The Official Soundtrack - Pieces of a Goddess (USA) (Disc 2) (Track 22).bin, CRC: 53fb4fbe
-- Indivisible - The Official Soundtrack - Pieces of a Goddess (USA) (Disc 2) (Track 23).bin, CRC: c5f7931a
-- Indivisible - The Official Soundtrack - Pieces of a Goddess (USA) (Disc 2) (Track 24).bin, CRC: cb84105b
-- Indivisible - The Official Soundtrack - Pieces of a Goddess (USA) (Disc 2) (Track 25).bin, CRC: b1451eeb
-- Indivisible - The Official Soundtrack - Pieces of a Goddess (USA) (Disc 2) (Track 26).bin, CRC: 6a838ad7
-- Indivisible - The Official Soundtrack - Pieces of a Goddess (USA) (Disc 2) (Track 27).bin, CRC: e43ab3b5
-- Indivisible - The Official Soundtrack - Pieces of a Goddess (USA) (Disc 2) (Track 28).bin, CRC: 2535214f
-- Indivisible - The Official Soundtrack - Pieces of a Goddess (USA) (Disc 2) (Track 29).bin, CRC: c1a49754
-- Indivisible - The Official Soundtrack - Pieces of a Goddess (USA) (Disc 2) (Track 30).bin, CRC: 8b2d6577
+- Idolm@ster Cinderella Master, The - Cool Jewelries! 003 (Japan) (Track 01).bin, CRC: 67a2dfea
+- Idolm@ster Cinderella Master, The - Cool Jewelries! 003 (Japan) (Track 02).bin, CRC: 9a86c347
+- Idolm@ster Cinderella Master, The - Cool Jewelries! 003 (Japan) (Track 03).bin, CRC: e08e6881
+- Idolm@ster Cinderella Master, The - Cool Jewelries! 003 (Japan) (Track 04).bin, CRC: 9cf59db2
+- Idolm@ster Cinderella Master, The - Cool Jewelries! 003 (Japan) (Track 05).bin, CRC: 4f8d7b86
+- Idolm@ster Cinderella Master, The - Cool Jewelries! 003 (Japan) (Track 06).bin, CRC: 015a7447
+- Idolm@ster Cinderella Master, The - Cool Jewelries! 003 (Japan) (Track 07).bin, CRC: 0b22c2aa
+- Idolm@ster Cinderella Master, The - Cool Jewelries! 003 (Japan) (Track 08).bin, CRC: 95b83477
+- Idolm@ster Cinderella Master, The - Cool Jewelries! 003 (Japan) (Track 09).bin, CRC: 11711ef7
+- Idolm@ster Cinderella Master, The - Cool Jewelries! 003 (Japan) (Track 10).bin, CRC: 6d6bd9ef
 </details>
 
 ### Kaguya-chan no Okozukai Daisakusen Original Soundtrack (Japan) (PC Game Bundle)
@@ -773,6 +756,103 @@
 - Kaguya-chan no Okozukai Daisakusen Original Soundtrack (Japan) (PC Game Bundle) (Track 20).bin, CRC: d6626a2b
 - Kaguya-chan no Okozukai Daisakusen Original Soundtrack (Japan) (PC Game Bundle) (Track 21).bin, CRC: a7ba021c
 - Kaguya-chan no Okozukai Daisakusen Original Soundtrack (Japan) (PC Game Bundle) (Track 22).bin, CRC: 63ab2adb
+</details>
+
+### Kalle Kunskap i Vilda Vaestern (Sweden)
+<details>
+<summary>ROMs</summary>
+
+- Kalle Kunskap i Vilda Vaestern (Sweden) (Track 01).bin, CRC: 96cb6e7c
+- Kalle Kunskap i Vilda Vaestern (Sweden) (Track 02).bin, CRC: e9d1d909
+- Kalle Kunskap i Vilda Vaestern (Sweden) (Track 03).bin, CRC: f0579fef
+- Kalle Kunskap i Vilda Vaestern (Sweden) (Track 04).bin, CRC: 2570bdfc
+- Kalle Kunskap i Vilda Vaestern (Sweden) (Track 05).bin, CRC: 2cd1e358
+- Kalle Kunskap i Vilda Vaestern (Sweden) (Track 06).bin, CRC: b1a81458
+- Kalle Kunskap i Vilda Vaestern (Sweden) (Track 07).bin, CRC: 743ce5aa
+- Kalle Kunskap i Vilda Vaestern (Sweden) (Track 08).bin, CRC: 3b20587e
+- Kalle Kunskap i Vilda Vaestern (Sweden) (Track 09).bin, CRC: eb4d0449
+- Kalle Kunskap i Vilda Vaestern (Sweden) (Track 10).bin, CRC: d69eab4f
+- Kalle Kunskap i Vilda Vaestern (Sweden) (Track 11).bin, CRC: 343f9b11
+- Kalle Kunskap i Vilda Vaestern (Sweden) (Track 12).bin, CRC: f5e64f32
+- Kalle Kunskap i Vilda Vaestern (Sweden) (Track 13).bin, CRC: e2ddebd5
+- Kalle Kunskap i Vilda Vaestern (Sweden) (Track 14).bin, CRC: 593213d4
+- Kalle Kunskap i Vilda Vaestern (Sweden) (Track 15).bin, CRC: fb0b2c78
+- Kalle Kunskap i Vilda Vaestern (Sweden) (Track 16).bin, CRC: dbdf4579
+- Kalle Kunskap i Vilda Vaestern (Sweden) (Track 17).bin, CRC: 83b3b0b0
+- Kalle Kunskap i Vilda Vaestern (Sweden) (Track 18).bin, CRC: a9c66ead
+- Kalle Kunskap i Vilda Vaestern (Sweden) (Track 19).bin, CRC: f2cbe0b6
+- Kalle Kunskap i Vilda Vaestern (Sweden) (Track 20).bin, CRC: dbaa7d39
+- Kalle Kunskap i Vilda Vaestern (Sweden) (Track 21).bin, CRC: acb3100a
+- Kalle Kunskap i Vilda Vaestern (Sweden) (Track 22).bin, CRC: 86c21452
+- Kalle Kunskap i Vilda Vaestern (Sweden) (Track 23).bin, CRC: 371c5eb7
+- Kalle Kunskap i Vilda Vaestern (Sweden) (Track 24).bin, CRC: d3d5cd21
+- Kalle Kunskap i Vilda Vaestern (Sweden) (Track 25).bin, CRC: 6515dec7
+- Kalle Kunskap i Vilda Vaestern (Sweden) (Track 26).bin, CRC: d8598e3d
+- Kalle Kunskap i Vilda Vaestern (Sweden) (Track 27).bin, CRC: 49819dcd
+</details>
+
+### Kalle Kunskap och den Mystiska Ordtjuven (Sweden)
+<details>
+<summary>ROMs</summary>
+
+- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 01).bin, CRC: 0dbda897
+- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 02).bin, CRC: 0b95e752
+- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 03).bin, CRC: bea41e53
+- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 04).bin, CRC: de5cdb3d
+- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 05).bin, CRC: faeb5c3f
+- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 06).bin, CRC: 83377e26
+- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 07).bin, CRC: f4f9a649
+- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 08).bin, CRC: 77f44d23
+- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 09).bin, CRC: f542950b
+- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 10).bin, CRC: e522f0ea
+- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 11).bin, CRC: 3abe8ba5
+- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 12).bin, CRC: 6bed3628
+- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 13).bin, CRC: 315915be
+- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 14).bin, CRC: bf8fbedf
+- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 15).bin, CRC: 3b63c018
+- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 16).bin, CRC: 3ec8c5e3
+- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 17).bin, CRC: 678085e6
+- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 18).bin, CRC: 3214aa8b
+- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 19).bin, CRC: 6383e32d
+- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 20).bin, CRC: 89e5eae6
+- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 21).bin, CRC: af826e0a
+- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 22).bin, CRC: 0c8a746b
+- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 23).bin, CRC: 8c114ef1
+- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 24).bin, CRC: 7a82da2e
+- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 25).bin, CRC: 01ab0293
+- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 26).bin, CRC: c3bbb331
+</details>
+
+### Kalle Kunskap och Kalabaliken pa Ostoen (Sweden) (Alt)
+<details>
+<summary>ROMs</summary>
+
+- Kalle Kunskap och Kalabaliken pa Ostoen (Sweden) (Alt) (Track 01).bin, CRC: 3dfe0f7e
+- Kalle Kunskap och Kalabaliken pa Ostoen (Sweden) (Alt) (Track 02).bin, CRC: a60884d6
+- Kalle Kunskap och Kalabaliken pa Ostoen (Sweden) (Alt) (Track 03).bin, CRC: cacc7e2a
+- Kalle Kunskap och Kalabaliken pa Ostoen (Sweden) (Alt) (Track 04).bin, CRC: 694c4831
+- Kalle Kunskap och Kalabaliken pa Ostoen (Sweden) (Alt) (Track 05).bin, CRC: 85d76459
+- Kalle Kunskap och Kalabaliken pa Ostoen (Sweden) (Alt) (Track 06).bin, CRC: 239b7156
+- Kalle Kunskap och Kalabaliken pa Ostoen (Sweden) (Alt) (Track 07).bin, CRC: fd638676
+- Kalle Kunskap och Kalabaliken pa Ostoen (Sweden) (Alt) (Track 08).bin, CRC: bb46fe94
+- Kalle Kunskap och Kalabaliken pa Ostoen (Sweden) (Alt) (Track 09).bin, CRC: fba1aeb0
+- Kalle Kunskap och Kalabaliken pa Ostoen (Sweden) (Alt) (Track 10).bin, CRC: 37467dde
+- Kalle Kunskap och Kalabaliken pa Ostoen (Sweden) (Alt) (Track 11).bin, CRC: 699aa707
+- Kalle Kunskap och Kalabaliken pa Ostoen (Sweden) (Alt) (Track 12).bin, CRC: 62e3a90d
+- Kalle Kunskap och Kalabaliken pa Ostoen (Sweden) (Alt) (Track 13).bin, CRC: ce9ba207
+- Kalle Kunskap och Kalabaliken pa Ostoen (Sweden) (Alt) (Track 14).bin, CRC: 84f58734
+- Kalle Kunskap och Kalabaliken pa Ostoen (Sweden) (Alt) (Track 15).bin, CRC: 8ce5d294
+- Kalle Kunskap och Kalabaliken pa Ostoen (Sweden) (Alt) (Track 16).bin, CRC: 4c1e8d71
+- Kalle Kunskap och Kalabaliken pa Ostoen (Sweden) (Alt) (Track 17).bin, CRC: 40244a8d
+- Kalle Kunskap och Kalabaliken pa Ostoen (Sweden) (Alt) (Track 18).bin, CRC: 69f45171
+- Kalle Kunskap och Kalabaliken pa Ostoen (Sweden) (Alt) (Track 19).bin, CRC: 8791b83d
+- Kalle Kunskap och Kalabaliken pa Ostoen (Sweden) (Alt) (Track 20).bin, CRC: 305a3d15
+- Kalle Kunskap och Kalabaliken pa Ostoen (Sweden) (Alt) (Track 21).bin, CRC: 2bade02b
+- Kalle Kunskap och Kalabaliken pa Ostoen (Sweden) (Alt) (Track 22).bin, CRC: 4a35ad54
+- Kalle Kunskap och Kalabaliken pa Ostoen (Sweden) (Alt) (Track 23).bin, CRC: 576c69e8
+- Kalle Kunskap och Kalabaliken pa Ostoen (Sweden) (Alt) (Track 24).bin, CRC: 4c8bc219
+- Kalle Kunskap och Kalabaliken pa Ostoen (Sweden) (Alt) (Track 25).bin, CRC: 5cd09bd5
+- Kalle Kunskap och Kalabaliken pa Ostoen (Sweden) (Alt) (Track 26).bin, CRC: feb1acd9
 </details>
 
 ### Karous - The Beast of Re-Eden - Original Soundtrack Chocolate Flavored Suicide (Japan) (Track 39).bin, CRC: 318783fa
@@ -843,6 +923,65 @@
 </details>
 
 ### Kuon no Kizuna Sairinshou Full Voice-ban - Man'you no Niizuma Diary (Japan) (PC Game Bundle) (Track 7).bin, CRC: 224b73d1
+### Legacy of Kain - Soul Reaver 1 & 2 Remastered - Official Soundtrack (Europe) (Disc 1) (NSW Game Bundle)
+<details>
+<summary>ROMs</summary>
+
+- Legacy of Kain - Soul Reaver 1 & 2 Remastered - Official Soundtrack (Europe) (Disc 1) (NSW Game Bundle) (Track 01).bin, CRC: d906a970
+- Legacy of Kain - Soul Reaver 1 & 2 Remastered - Official Soundtrack (Europe) (Disc 1) (NSW Game Bundle) (Track 02).bin, CRC: 1ebc9c4d
+- Legacy of Kain - Soul Reaver 1 & 2 Remastered - Official Soundtrack (Europe) (Disc 1) (NSW Game Bundle) (Track 03).bin, CRC: c660bda5
+- Legacy of Kain - Soul Reaver 1 & 2 Remastered - Official Soundtrack (Europe) (Disc 1) (NSW Game Bundle) (Track 04).bin, CRC: 889af6c1
+- Legacy of Kain - Soul Reaver 1 & 2 Remastered - Official Soundtrack (Europe) (Disc 1) (NSW Game Bundle) (Track 05).bin, CRC: 1ab7f9ea
+- Legacy of Kain - Soul Reaver 1 & 2 Remastered - Official Soundtrack (Europe) (Disc 1) (NSW Game Bundle) (Track 06).bin, CRC: b5e54120
+- Legacy of Kain - Soul Reaver 1 & 2 Remastered - Official Soundtrack (Europe) (Disc 1) (NSW Game Bundle) (Track 07).bin, CRC: 14a336a4
+- Legacy of Kain - Soul Reaver 1 & 2 Remastered - Official Soundtrack (Europe) (Disc 1) (NSW Game Bundle) (Track 08).bin, CRC: 0ce390a5
+- Legacy of Kain - Soul Reaver 1 & 2 Remastered - Official Soundtrack (Europe) (Disc 1) (NSW Game Bundle) (Track 09).bin, CRC: f6edf06c
+- Legacy of Kain - Soul Reaver 1 & 2 Remastered - Official Soundtrack (Europe) (Disc 1) (NSW Game Bundle) (Track 10).bin, CRC: 87ce3afc
+- Legacy of Kain - Soul Reaver 1 & 2 Remastered - Official Soundtrack (Europe) (Disc 1) (NSW Game Bundle) (Track 11).bin, CRC: 9229e081
+- Legacy of Kain - Soul Reaver 1 & 2 Remastered - Official Soundtrack (Europe) (Disc 1) (NSW Game Bundle) (Track 12).bin, CRC: 30c7598f
+- Legacy of Kain - Soul Reaver 1 & 2 Remastered - Official Soundtrack (Europe) (Disc 1) (NSW Game Bundle) (Track 13).bin, CRC: 11d31b74
+- Legacy of Kain - Soul Reaver 1 & 2 Remastered - Official Soundtrack (Europe) (Disc 1) (NSW Game Bundle) (Track 14).bin, CRC: 87dcfd21
+- Legacy of Kain - Soul Reaver 1 & 2 Remastered - Official Soundtrack (Europe) (Disc 1) (NSW Game Bundle) (Track 15).bin, CRC: 9af0f728
+- Legacy of Kain - Soul Reaver 1 & 2 Remastered - Official Soundtrack (Europe) (Disc 1) (NSW Game Bundle) (Track 16).bin, CRC: fb96c12b
+- Legacy of Kain - Soul Reaver 1 & 2 Remastered - Official Soundtrack (Europe) (Disc 1) (NSW Game Bundle) (Track 17).bin, CRC: 60c6ca3d
+- Legacy of Kain - Soul Reaver 1 & 2 Remastered - Official Soundtrack (Europe) (Disc 1) (NSW Game Bundle) (Track 18).bin, CRC: 6dbe6cf6
+- Legacy of Kain - Soul Reaver 1 & 2 Remastered - Official Soundtrack (Europe) (Disc 1) (NSW Game Bundle) (Track 19).bin, CRC: ab8cee43
+- Legacy of Kain - Soul Reaver 1 & 2 Remastered - Official Soundtrack (Europe) (Disc 1) (NSW Game Bundle) (Track 20).bin, CRC: 04d0f7e4
+- Legacy of Kain - Soul Reaver 1 & 2 Remastered - Official Soundtrack (Europe) (Disc 1) (NSW Game Bundle) (Track 21).bin, CRC: 4e2fe25d
+- Legacy of Kain - Soul Reaver 1 & 2 Remastered - Official Soundtrack (Europe) (Disc 1) (NSW Game Bundle) (Track 22).bin, CRC: df851168
+- Legacy of Kain - Soul Reaver 1 & 2 Remastered - Official Soundtrack (Europe) (Disc 1) (NSW Game Bundle) (Track 23).bin, CRC: cfa55a86
+- Legacy of Kain - Soul Reaver 1 & 2 Remastered - Official Soundtrack (Europe) (Disc 1) (NSW Game Bundle) (Track 24).bin, CRC: 17a9e5aa
+- Legacy of Kain - Soul Reaver 1 & 2 Remastered - Official Soundtrack (Europe) (Disc 1) (NSW Game Bundle) (Track 25).bin, CRC: dd85e9ab
+- Legacy of Kain - Soul Reaver 1 & 2 Remastered - Official Soundtrack (Europe) (Disc 1) (NSW Game Bundle) (Track 26).bin, CRC: e62496a6
+- Legacy of Kain - Soul Reaver 1 & 2 Remastered - Official Soundtrack (Europe) (Disc 1) (NSW Game Bundle) (Track 27).bin, CRC: 4152fcb4
+- Legacy of Kain - Soul Reaver 1 & 2 Remastered - Official Soundtrack (Europe) (Disc 1) (NSW Game Bundle) (Track 28).bin, CRC: ef9cf462
+- Legacy of Kain - Soul Reaver 1 & 2 Remastered - Official Soundtrack (Europe) (Disc 1) (NSW Game Bundle) (Track 29).bin, CRC: 30cb78ff
+- Legacy of Kain - Soul Reaver 1 & 2 Remastered - Official Soundtrack (Europe) (Disc 1) (NSW Game Bundle) (Track 30).bin, CRC: f5b15d38
+- Legacy of Kain - Soul Reaver 1 & 2 Remastered - Official Soundtrack (Europe) (Disc 1) (NSW Game Bundle) (Track 31).bin, CRC: 92c64a42
+- Legacy of Kain - Soul Reaver 1 & 2 Remastered - Official Soundtrack (Europe) (Disc 1) (NSW Game Bundle) (Track 32).bin, CRC: a04bed2d
+- Legacy of Kain - Soul Reaver 1 & 2 Remastered - Official Soundtrack (Europe) (Disc 1) (NSW Game Bundle) (Track 33).bin, CRC: 6fda47dd
+- Legacy of Kain - Soul Reaver 1 & 2 Remastered - Official Soundtrack (Europe) (Disc 1) (NSW Game Bundle) (Track 34).bin, CRC: 8e7ff485
+</details>
+
+### Legacy of Kain - Soul Reaver 1 & 2 Remastered - Official Soundtrack (Europe) (Disc 2) (NSW Game Bundle)
+<details>
+<summary>ROMs</summary>
+
+- Legacy of Kain - Soul Reaver 1 & 2 Remastered - Official Soundtrack (Europe) (Disc 2) (NSW Game Bundle) (Track 01).bin, CRC: 7db93e92
+- Legacy of Kain - Soul Reaver 1 & 2 Remastered - Official Soundtrack (Europe) (Disc 2) (NSW Game Bundle) (Track 02).bin, CRC: 18a2409f
+- Legacy of Kain - Soul Reaver 1 & 2 Remastered - Official Soundtrack (Europe) (Disc 2) (NSW Game Bundle) (Track 03).bin, CRC: aea37ec7
+- Legacy of Kain - Soul Reaver 1 & 2 Remastered - Official Soundtrack (Europe) (Disc 2) (NSW Game Bundle) (Track 04).bin, CRC: d4c49fad
+- Legacy of Kain - Soul Reaver 1 & 2 Remastered - Official Soundtrack (Europe) (Disc 2) (NSW Game Bundle) (Track 05).bin, CRC: c7ae9720
+- Legacy of Kain - Soul Reaver 1 & 2 Remastered - Official Soundtrack (Europe) (Disc 2) (NSW Game Bundle) (Track 06).bin, CRC: 920da5ff
+- Legacy of Kain - Soul Reaver 1 & 2 Remastered - Official Soundtrack (Europe) (Disc 2) (NSW Game Bundle) (Track 07).bin, CRC: 0c8eca1d
+- Legacy of Kain - Soul Reaver 1 & 2 Remastered - Official Soundtrack (Europe) (Disc 2) (NSW Game Bundle) (Track 08).bin, CRC: cc5dd4d2
+- Legacy of Kain - Soul Reaver 1 & 2 Remastered - Official Soundtrack (Europe) (Disc 2) (NSW Game Bundle) (Track 09).bin, CRC: ca12962f
+- Legacy of Kain - Soul Reaver 1 & 2 Remastered - Official Soundtrack (Europe) (Disc 2) (NSW Game Bundle) (Track 10).bin, CRC: 38ecfdef
+- Legacy of Kain - Soul Reaver 1 & 2 Remastered - Official Soundtrack (Europe) (Disc 2) (NSW Game Bundle) (Track 11).bin, CRC: ed694273
+- Legacy of Kain - Soul Reaver 1 & 2 Remastered - Official Soundtrack (Europe) (Disc 2) (NSW Game Bundle) (Track 12).bin, CRC: 05eb5238
+- Legacy of Kain - Soul Reaver 1 & 2 Remastered - Official Soundtrack (Europe) (Disc 2) (NSW Game Bundle) (Track 13).bin, CRC: 29d4cd98
+</details>
+
 ### Legend of Heroes, The - Kuro no Kiseki II - Original Sound Track Mini (Japan) (PS4 Game Bundle)
 <details>
 <summary>ROMs</summary>
@@ -859,6 +998,30 @@
 
 ### Legend of Laqia, The (Korea) (Track 16).bin, CRC: ff63362f
 ### Loulan Er - Lunhui Zhi Guiji - Yuan Sheng Yinle CD (Taiwan) (PC Game Bundle) (Track 22).bin, CRC: 3b291ff0
+### Lucius (Europe) (Soundtrack CD) (PC Game Bundle)
+<details>
+<summary>ROMs</summary>
+
+- Lucius (Europe) (Soundtrack CD) (PC Game Bundle) (Track 01).bin, CRC: 7fb02ea7
+- Lucius (Europe) (Soundtrack CD) (PC Game Bundle) (Track 02).bin, CRC: e5b30df8
+- Lucius (Europe) (Soundtrack CD) (PC Game Bundle) (Track 03).bin, CRC: 1a1d46b6
+- Lucius (Europe) (Soundtrack CD) (PC Game Bundle) (Track 04).bin, CRC: cd2ef076
+- Lucius (Europe) (Soundtrack CD) (PC Game Bundle) (Track 05).bin, CRC: fd577b7f
+- Lucius (Europe) (Soundtrack CD) (PC Game Bundle) (Track 06).bin, CRC: 0951bd17
+- Lucius (Europe) (Soundtrack CD) (PC Game Bundle) (Track 07).bin, CRC: 0edc88b6
+- Lucius (Europe) (Soundtrack CD) (PC Game Bundle) (Track 08).bin, CRC: 0e58c9de
+- Lucius (Europe) (Soundtrack CD) (PC Game Bundle) (Track 09).bin, CRC: be1f5881
+- Lucius (Europe) (Soundtrack CD) (PC Game Bundle) (Track 10).bin, CRC: 9249a7d7
+- Lucius (Europe) (Soundtrack CD) (PC Game Bundle) (Track 11).bin, CRC: a1e56456
+- Lucius (Europe) (Soundtrack CD) (PC Game Bundle) (Track 12).bin, CRC: 0ca60040
+- Lucius (Europe) (Soundtrack CD) (PC Game Bundle) (Track 13).bin, CRC: acfb4c72
+- Lucius (Europe) (Soundtrack CD) (PC Game Bundle) (Track 14).bin, CRC: 083a209e
+- Lucius (Europe) (Soundtrack CD) (PC Game Bundle) (Track 15).bin, CRC: 90045201
+- Lucius (Europe) (Soundtrack CD) (PC Game Bundle) (Track 16).bin, CRC: fcf9937c
+- Lucius (Europe) (Soundtrack CD) (PC Game Bundle) (Track 17).bin, CRC: 450c6744
+- Lucius (Europe) (Soundtrack CD) (PC Game Bundle) (Track 18).bin, CRC: 5757a03a
+</details>
+
 ### Magistr Temple (Japan) (PC Game Bundle)
 <details>
 <summary>ROMs</summary>
@@ -993,6 +1156,38 @@
 
 ### Mana-Khemia 2 - Original Soundtrack (Japan) (Disc 1) (Track 40).bin, CRC: 77c8eb14
 ### Mana-Khemia 2 - Original Soundtrack (Japan) (Disc 2) (Track 37).bin, CRC: 8b7a0244
+### Metrotronics (Korea)
+<details>
+<summary>ROMs</summary>
+
+- Metrotronics (Korea) (Track 1).bin, CRC: f8441221
+- Metrotronics (Korea) (Track 2).bin, CRC: 2d1159f1
+- Metrotronics (Korea) (Track 3).bin, CRC: 3b25f1c0
+- Metrotronics (Korea) (Track 4).bin, CRC: 8c82071c
+- Metrotronics (Korea) (Track 5).bin, CRC: f1b4ebdf
+- Metrotronics (Korea) (Track 6).bin, CRC: c181c824
+- Metrotronics (Korea) (Track 7).bin, CRC: 8f019120
+- Metrotronics (Korea) (Track 8).bin, CRC: b52d9073
+</details>
+
+### Mother 2 30th Anniversary Live - The Music of Mother (Japan)
+<details>
+<summary>ROMs</summary>
+
+- Mother 2 30th Anniversary Live - The Music of Mother (Japan) (Track 01).bin, CRC: f0694552
+- Mother 2 30th Anniversary Live - The Music of Mother (Japan) (Track 02).bin, CRC: 3fdbfb58
+- Mother 2 30th Anniversary Live - The Music of Mother (Japan) (Track 03).bin, CRC: 12e5e38a
+- Mother 2 30th Anniversary Live - The Music of Mother (Japan) (Track 04).bin, CRC: b62e8eee
+- Mother 2 30th Anniversary Live - The Music of Mother (Japan) (Track 05).bin, CRC: ce988858
+- Mother 2 30th Anniversary Live - The Music of Mother (Japan) (Track 06).bin, CRC: d3b9e36f
+- Mother 2 30th Anniversary Live - The Music of Mother (Japan) (Track 07).bin, CRC: af134778
+- Mother 2 30th Anniversary Live - The Music of Mother (Japan) (Track 08).bin, CRC: de822d1e
+- Mother 2 30th Anniversary Live - The Music of Mother (Japan) (Track 09).bin, CRC: a156ded4
+- Mother 2 30th Anniversary Live - The Music of Mother (Japan) (Track 10).bin, CRC: b061ef39
+- Mother 2 30th Anniversary Live - The Music of Mother (Japan) (Track 11).bin, CRC: 70b618b9
+- Mother 2 30th Anniversary Live - The Music of Mother (Japan) (Track 12).bin, CRC: 9b113d7c
+</details>
+
 ### MultiXmas (Netherlands) (Audio) (PC Game Bundle)
 <details>
 <summary>ROMs</summary>
@@ -1038,6 +1233,38 @@
 - Music Collection Vol. 1 (Poland) (Track 19).bin, CRC: 7a550bcd
 - Music Collection Vol. 1 (Poland) (Track 20).bin, CRC: eb7a14f8
 - Music Collection Vol. 1 (Poland) (Track 21).bin, CRC: a6c8e829
+</details>
+
+### Music from Konami Antiques - Family Computer (Japan) (Special Disc) (Music from Parodius Da! (GB))
+<details>
+<summary>ROMs</summary>
+
+- Music from Konami Antiques - Family Computer (Japan) (Special Disc) (Music from Parodius Da! (GB)) (Track 01).bin, CRC: 167be2bf
+- Music from Konami Antiques - Family Computer (Japan) (Special Disc) (Music from Parodius Da! (GB)) (Track 02).bin, CRC: 40463a7c
+- Music from Konami Antiques - Family Computer (Japan) (Special Disc) (Music from Parodius Da! (GB)) (Track 03).bin, CRC: d8e46de5
+- Music from Konami Antiques - Family Computer (Japan) (Special Disc) (Music from Parodius Da! (GB)) (Track 04).bin, CRC: d7d65a11
+- Music from Konami Antiques - Family Computer (Japan) (Special Disc) (Music from Parodius Da! (GB)) (Track 05).bin, CRC: 1e85125e
+- Music from Konami Antiques - Family Computer (Japan) (Special Disc) (Music from Parodius Da! (GB)) (Track 06).bin, CRC: a0eee25f
+- Music from Konami Antiques - Family Computer (Japan) (Special Disc) (Music from Parodius Da! (GB)) (Track 07).bin, CRC: e7477e91
+- Music from Konami Antiques - Family Computer (Japan) (Special Disc) (Music from Parodius Da! (GB)) (Track 08).bin, CRC: 5da5a259
+- Music from Konami Antiques - Family Computer (Japan) (Special Disc) (Music from Parodius Da! (GB)) (Track 09).bin, CRC: 2eee7ab1
+- Music from Konami Antiques - Family Computer (Japan) (Special Disc) (Music from Parodius Da! (GB)) (Track 10).bin, CRC: b8ee879e
+- Music from Konami Antiques - Family Computer (Japan) (Special Disc) (Music from Parodius Da! (GB)) (Track 11).bin, CRC: 492bdb7f
+- Music from Konami Antiques - Family Computer (Japan) (Special Disc) (Music from Parodius Da! (GB)) (Track 12).bin, CRC: 8ebdf09f
+- Music from Konami Antiques - Family Computer (Japan) (Special Disc) (Music from Parodius Da! (GB)) (Track 13).bin, CRC: f4378b26
+- Music from Konami Antiques - Family Computer (Japan) (Special Disc) (Music from Parodius Da! (GB)) (Track 14).bin, CRC: 527a6a0b
+- Music from Konami Antiques - Family Computer (Japan) (Special Disc) (Music from Parodius Da! (GB)) (Track 15).bin, CRC: eccdf166
+- Music from Konami Antiques - Family Computer (Japan) (Special Disc) (Music from Parodius Da! (GB)) (Track 16).bin, CRC: 65fceffb
+- Music from Konami Antiques - Family Computer (Japan) (Special Disc) (Music from Parodius Da! (GB)) (Track 17).bin, CRC: d8aa8e49
+- Music from Konami Antiques - Family Computer (Japan) (Special Disc) (Music from Parodius Da! (GB)) (Track 18).bin, CRC: 34ceb0ff
+- Music from Konami Antiques - Family Computer (Japan) (Special Disc) (Music from Parodius Da! (GB)) (Track 19).bin, CRC: ecb922f2
+- Music from Konami Antiques - Family Computer (Japan) (Special Disc) (Music from Parodius Da! (GB)) (Track 20).bin, CRC: 4af25ab8
+- Music from Konami Antiques - Family Computer (Japan) (Special Disc) (Music from Parodius Da! (GB)) (Track 21).bin, CRC: e6c48f4b
+- Music from Konami Antiques - Family Computer (Japan) (Special Disc) (Music from Parodius Da! (GB)) (Track 22).bin, CRC: 88f6ba9c
+- Music from Konami Antiques - Family Computer (Japan) (Special Disc) (Music from Parodius Da! (GB)) (Track 23).bin, CRC: 3473ab21
+- Music from Konami Antiques - Family Computer (Japan) (Special Disc) (Music from Parodius Da! (GB)) (Track 24).bin, CRC: d4fa1ea1
+- Music from Konami Antiques - Family Computer (Japan) (Special Disc) (Music from Parodius Da! (GB)) (Track 25).bin, CRC: 2bae9ac2
+- Music from Konami Antiques - Family Computer (Japan) (Special Disc) (Music from Parodius Da! (GB)) (Track 26).bin, CRC: c434aa00
 </details>
 
 ### Music from the Original Game Sound Track - Hany in the Sky (Japan)
@@ -1348,6 +1575,22 @@
 </details>
 
 ### Raiden IV x Mikado Remix OST Mikado Edition Special Disc - HM x HMR Mini Single CDR (Japan) (Track 1).bin, CRC: bd20c3d1
+### Raspberry Potion (Japan)
+<details>
+<summary>ROMs</summary>
+
+- Raspberry Potion (Japan) (Track 01).bin, CRC: a14b4e31
+- Raspberry Potion (Japan) (Track 02).bin, CRC: 5e14d550
+- Raspberry Potion (Japan) (Track 03).bin, CRC: d05bd43e
+- Raspberry Potion (Japan) (Track 04).bin, CRC: f4cbdf83
+- Raspberry Potion (Japan) (Track 05).bin, CRC: 4fc9c9cd
+- Raspberry Potion (Japan) (Track 06).bin, CRC: 96dc9ced
+- Raspberry Potion (Japan) (Track 07).bin, CRC: 5cce1733
+- Raspberry Potion (Japan) (Track 08).bin, CRC: 96bccbe4
+- Raspberry Potion (Japan) (Track 09).bin, CRC: 0ac15931
+- Raspberry Potion (Japan) (Track 10).bin, CRC: 98dbcfe5
+</details>
+
 ### Ren'ai Saimin - Tsun na Kanojo ga Dereru Saimin - Sofmap Original Drama CD - Saimin Maid Kissa e Youkoso! (Japan).bin, CRC: 4f4e79b6
 ### Ren'ai Saimin - Tsun na Kanojo ga Dereru Saimin - Vocal and Soundtrack (Japan)
 <details>
@@ -1392,6 +1635,47 @@
 ### SaGa Frontier II - Original Soundtrack (Japan) (Disc 1) (Track 28).bin, CRC: 825ccc5b
 ### SaGa Frontier II - Original Soundtrack (Japan) (Disc 3) (Track 21).bin, CRC: 5d4655a9
 ### Sakura Sakura Tori-oroshi Drama CD - Gakuen Tengoku Daisakusen (Japan).bin, CRC: 0857e6fc
+### Salamander III - Original Soundtrack (Japan) (Disc 1) (PS5 Game Bundle)
+<details>
+<summary>ROMs</summary>
+
+- Salamander III - Original Soundtrack (Japan) (Disc 1) (PS5 Game Bundle) (Track 01).bin, CRC: 9bcb1e2f
+- Salamander III - Original Soundtrack (Japan) (Disc 1) (PS5 Game Bundle) (Track 02).bin, CRC: 0b4d96ed
+- Salamander III - Original Soundtrack (Japan) (Disc 1) (PS5 Game Bundle) (Track 03).bin, CRC: c2c2de87
+- Salamander III - Original Soundtrack (Japan) (Disc 1) (PS5 Game Bundle) (Track 04).bin, CRC: 5dbceb88
+- Salamander III - Original Soundtrack (Japan) (Disc 1) (PS5 Game Bundle) (Track 05).bin, CRC: d468a514
+- Salamander III - Original Soundtrack (Japan) (Disc 1) (PS5 Game Bundle) (Track 06).bin, CRC: f7bb421b
+- Salamander III - Original Soundtrack (Japan) (Disc 1) (PS5 Game Bundle) (Track 07).bin, CRC: 6d178318
+- Salamander III - Original Soundtrack (Japan) (Disc 1) (PS5 Game Bundle) (Track 08).bin, CRC: 42f62d2f
+- Salamander III - Original Soundtrack (Japan) (Disc 1) (PS5 Game Bundle) (Track 09).bin, CRC: 892732a0
+- Salamander III - Original Soundtrack (Japan) (Disc 1) (PS5 Game Bundle) (Track 10).bin, CRC: bb7992fa
+- Salamander III - Original Soundtrack (Japan) (Disc 1) (PS5 Game Bundle) (Track 11).bin, CRC: 93f176e6
+- Salamander III - Original Soundtrack (Japan) (Disc 1) (PS5 Game Bundle) (Track 12).bin, CRC: 7992bacd
+- Salamander III - Original Soundtrack (Japan) (Disc 1) (PS5 Game Bundle) (Track 13).bin, CRC: d97376fc
+- Salamander III - Original Soundtrack (Japan) (Disc 1) (PS5 Game Bundle) (Track 14).bin, CRC: 8b563fd5
+- Salamander III - Original Soundtrack (Japan) (Disc 1) (PS5 Game Bundle) (Track 15).bin, CRC: 6c8d8a3c
+- Salamander III - Original Soundtrack (Japan) (Disc 1) (PS5 Game Bundle) (Track 16).bin, CRC: 5e01cf6b
+- Salamander III - Original Soundtrack (Japan) (Disc 1) (PS5 Game Bundle) (Track 17).bin, CRC: e6f1e0e3
+- Salamander III - Original Soundtrack (Japan) (Disc 1) (PS5 Game Bundle) (Track 18).bin, CRC: 66eacb83
+- Salamander III - Original Soundtrack (Japan) (Disc 1) (PS5 Game Bundle) (Track 19).bin, CRC: c330f649
+- Salamander III - Original Soundtrack (Japan) (Disc 1) (PS5 Game Bundle) (Track 20).bin, CRC: fbe1def8
+- Salamander III - Original Soundtrack (Japan) (Disc 1) (PS5 Game Bundle) (Track 21).bin, CRC: dd735e89
+- Salamander III - Original Soundtrack (Japan) (Disc 1) (PS5 Game Bundle) (Track 22).bin, CRC: dd06ca8f
+- Salamander III - Original Soundtrack (Japan) (Disc 1) (PS5 Game Bundle) (Track 23).bin, CRC: a3f0cfda
+- Salamander III - Original Soundtrack (Japan) (Disc 1) (PS5 Game Bundle) (Track 24).bin, CRC: 4a7d9d93
+- Salamander III - Original Soundtrack (Japan) (Disc 1) (PS5 Game Bundle) (Track 25).bin, CRC: da5b4ae6
+- Salamander III - Original Soundtrack (Japan) (Disc 1) (PS5 Game Bundle) (Track 26).bin, CRC: e32428cd
+- Salamander III - Original Soundtrack (Japan) (Disc 1) (PS5 Game Bundle) (Track 27).bin, CRC: abca0c8e
+</details>
+
+### Salamander III - Original Soundtrack (Japan) (Disc 2) (PS5 Game Bundle)
+<details>
+<summary>ROMs</summary>
+
+- Salamander III - Original Soundtrack (Japan) (Disc 2) (PS5 Game Bundle) (Track 1).bin, CRC: 4c937bd5
+- Salamander III - Original Soundtrack (Japan) (Disc 2) (PS5 Game Bundle) (Track 2).bin, CRC: f6032984
+</details>
+
 ### Sanae-chan wa Torawarete Shimatta! Soundtrack (Japan) (Disc 2)
 <details>
 <summary>ROMs</summary>
@@ -1891,6 +2175,18 @@
 </details>
 
 ### Square Enix Music Sampler CD Vol. 18 (Japan) (Track 12).bin, CRC: f5e7af08
+### State of Decay 2 - Special Edition Soundtrack Sampler (UK)
+<details>
+<summary>ROMs</summary>
+
+- State of Decay 2 - Special Edition Soundtrack Sampler (UK) (Track 1).bin, CRC: 7215d3a7
+- State of Decay 2 - Special Edition Soundtrack Sampler (UK) (Track 2).bin, CRC: c6925b98
+- State of Decay 2 - Special Edition Soundtrack Sampler (UK) (Track 3).bin, CRC: aae30191
+- State of Decay 2 - Special Edition Soundtrack Sampler (UK) (Track 4).bin, CRC: ed5a4c10
+- State of Decay 2 - Special Edition Soundtrack Sampler (UK) (Track 5).bin, CRC: 86297c29
+- State of Decay 2 - Special Edition Soundtrack Sampler (UK) (Track 6).bin, CRC: ce3f330f
+</details>
+
 ### Storm! Shooting Game Sound Omnibus Vol. 2 (Japan)
 <details>
 <summary>ROMs</summary>
@@ -2210,6 +2506,29 @@
 - Toutes les Musiques de l'Emission Micro Kid's (France) (Track 15).bin, CRC: 1cec054d
 </details>
 
+### Toy-Chara Pop Collection Vol. 3 - Video Game-hen (Japan)
+<details>
+<summary>ROMs</summary>
+
+- Toy-Chara Pop Collection Vol. 3 - Video Game-hen (Japan) (Track 01).bin, CRC: 1ed11246
+- Toy-Chara Pop Collection Vol. 3 - Video Game-hen (Japan) (Track 02).bin, CRC: a4f72c86
+- Toy-Chara Pop Collection Vol. 3 - Video Game-hen (Japan) (Track 03).bin, CRC: 321dc489
+- Toy-Chara Pop Collection Vol. 3 - Video Game-hen (Japan) (Track 04).bin, CRC: 7a24ed51
+- Toy-Chara Pop Collection Vol. 3 - Video Game-hen (Japan) (Track 05).bin, CRC: 6c5dce4e
+- Toy-Chara Pop Collection Vol. 3 - Video Game-hen (Japan) (Track 06).bin, CRC: b3410cbf
+- Toy-Chara Pop Collection Vol. 3 - Video Game-hen (Japan) (Track 07).bin, CRC: 464023ea
+- Toy-Chara Pop Collection Vol. 3 - Video Game-hen (Japan) (Track 08).bin, CRC: 6259cad4
+- Toy-Chara Pop Collection Vol. 3 - Video Game-hen (Japan) (Track 09).bin, CRC: 151017ef
+- Toy-Chara Pop Collection Vol. 3 - Video Game-hen (Japan) (Track 10).bin, CRC: b036a1b4
+- Toy-Chara Pop Collection Vol. 3 - Video Game-hen (Japan) (Track 11).bin, CRC: e6362465
+- Toy-Chara Pop Collection Vol. 3 - Video Game-hen (Japan) (Track 12).bin, CRC: 146a2baf
+- Toy-Chara Pop Collection Vol. 3 - Video Game-hen (Japan) (Track 13).bin, CRC: 7464f744
+- Toy-Chara Pop Collection Vol. 3 - Video Game-hen (Japan) (Track 14).bin, CRC: fdfd2bfe
+- Toy-Chara Pop Collection Vol. 3 - Video Game-hen (Japan) (Track 15).bin, CRC: 3363e4a5
+- Toy-Chara Pop Collection Vol. 3 - Video Game-hen (Japan) (Track 16).bin, CRC: c7829fd9
+- Toy-Chara Pop Collection Vol. 3 - Video Game-hen (Japan) (Track 17).bin, CRC: 498ca051
+</details>
+
 ### TV Game Super Hero Daishuugou (Japan)
 <details>
 <summary>ROMs</summary>
@@ -2467,3 +2786,4 @@
 - Wizardry Variants Daphne - Original Soundtrack (Japan) (Disc 2) (Track 20).bin, CRC: de5da191
 </details>
 
+### Zutto Issho - With Me Everytime... Original Sound Track (Japan) (Track 34).bin, CRC: 1c517327

@@ -1,4 +1,4 @@
 # No-Intro - Nintendo - Game Boy (Aftermarket) MIAs
-## Games: 1, ROMs: 1, as of 2025-08-24
+## Games: 1, ROMs: 1, as of 2025-09-15
 
 ### Traumatarium Penitent (World) (ModRetro Chromatic) (Aftermarket) (Unl).gb, CRC: 50ca30ad

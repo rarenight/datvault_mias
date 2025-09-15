@@ -1,5 +1,5 @@
 # Redump - Microsoft - Xbox 360 MIAs
-## Games: 15, ROMs: 15, as of 2025-08-24
+## Games: 18, ROMs: 18, as of 2025-09-15
 
 ### Crysis 3 (Europe).iso, CRC: 010a26f7
 ### Full Auto (Japan).iso, CRC: be8f9b4d
@@ -11,6 +11,9 @@
 ### Rock Band 3 (USA) (Rev 1).iso, CRC: 50636d4f
 ### Tom Clancy's Rainbow Six - Vegas 2 - Complete Edition (Europe) (En,Fr,De,Es,It).iso, CRC: 2f336bdc
 ### Xbox 360 - The Experience Disc Version 5.0 (Taiwan).iso, CRC: 94aee5b8
+### Xbox 360 - The Official Xbox Magazine - Special Edition 15 - Starter Pack (UK).iso, CRC: 130f629b
+### Xbox 360 - The Official Xbox Magazine - Special Edition 18 - Starter Pack (UK).iso, CRC: a3b3d331
+### Xbox 360 - The Official Xbox Magazine - The Full 360 Starter Pack (UK).iso, CRC: 61c5dd83
 ### Xbox 360 - The Official Xbox Magazine Issue 08 - June 2006 (UK).iso, CRC: 8de78816
 ### Xbox 360 - The Official Xbox Magazine Issue 11 - September 2006 (UK).iso, CRC: 8d6c6ce9
 ### Xbox 360 - The Official Xbox Magazine Issue 21 - June 2007 (UK).iso, CRC: fd69642a

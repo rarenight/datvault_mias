@@ -1,5 +1,5 @@
 # Redump - Arcade - Konami - e-Amusement MIAs
-## Games: 19, ROMs: 19, as of 2025-08-24
+## Games: 18, ROMs: 18, as of 2025-09-15
 
 ### Toukyuu Oukoku Gashaaaan (Asia) (Application Disc).bin, CRC: 2e12393c
 ### Toukyuu Oukoku Gashaaaan (Asia) (System Disc).bin, CRC: 3e48a862
@@ -9,7 +9,6 @@
 ### Mah-Jong Fight Club Series (Japan) (Client-you System Disc).bin, CRC: d5d8c841
 ### Pride of Professionals - Baseball Heroes 2012 (Japan) (Application Disc 01 - Ekishou Wide Monitor Taiouban).iso, CRC: 0aa03548
 ### Pride of Professionals - Baseball Heroes 2012 (Japan) (Application Disc 02 - Ekishou Wide Monitor Taiouban).iso, CRC: 76b683fb
-### Pride of Professionals - Baseball Heroes 2012 (Japan) (System Disc - Ekishou Wide Monitor Taiouban).bin, CRC: 0562832b
 ### Pride of Professionals - Baseball Heroes 2013 (Japan) (Application Disc 01 - Ekishou Wide Monitor Taiouban).iso, CRC: 8f94e91e
 ### Pride of Professionals - Baseball Heroes 2013 (Japan) (Application Disc 02 - Ekishou Wide Monitor Taiouban).iso, CRC: 68dd6731
 ### Quiz Magic Academy - Kenja no Tobira (Japan) (Application Disc - Kuraianto Center Monitor Kyouyou).iso, CRC: d0f29a66
