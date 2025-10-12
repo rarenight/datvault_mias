@@ -1,5 +1,5 @@
 # No-Intro - Nintendo - Nintendo Entertainment System (Headerless) (Aftermarket) (Private) MIAs
-## Games: 25, ROMs: 26, as of 2025-09-15
+## Games: 28, ROMs: 29, as of 2025-10-12
 
 ### 8Bit Music Power Encore (World) (Aftermarket) (Unl).unh, CRC: 319c698f
 ### Changeable Guardian Estique (USA, Europe) (Aftermarket) (Unl).unh, CRC: ab7fa726
@@ -18,9 +18,12 @@
 ### Knight on the Moon (World) (v1.05) (No flash saving) (Aftermarket) (Unl).unh, CRC: 4b18beab
 ### Knight on the Moon (World) (v1.08) (Flash saving) (Aftermarket) (Unl).unh, CRC: 054e2fa3
 ### Knight on the Moon (World) (v1.08) (Mapper 2) (Aftermarket) (Unl).unh, CRC: 4115afdb
+### Malasombra (USA, Europe) (En,Es) (Aftermarket) (Unl).unh, CRC: 944ff1b6
 ### PLOID (World) (5th Anniversary Edition) (Aftermarket) (Unl).unh, CRC: 8f6dac0f
 ### Relic Dungeon (World) (Aftermarket) (Unl).unh, CRC: d930dff8
+### Rockman Remix (China) (En,Ja) (Aftermarket) (Pirate).unh, CRC: 7576b644
 ### Rugrats - Adventures in Gameland (World) (v1.1) (Aftermarket) (Unl).unh, CRC: d4417256
+### Soldam (USA, Europe) (Aftermarket) (Unl).unh, CRC: d95db934
 ### Super Cambur 2 - Multiverse Chaos (World) (2025-03-14) (Aftermarket) (Unl).unh, CRC: 32b4411b
 ### Super Cambur Origins (World) (2025-03-14) (Aftermarket) (Unl).unh, CRC: 4bd344fc
 ### Trial of Kharzoid, The (World) (2025-04-23) (Aftermarket) (Unl).unh, CRC: f61ce824

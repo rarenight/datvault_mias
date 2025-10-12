@@ -1,5 +1,5 @@
 # Redump - NEC - PC-98 series MIAs
-## Games: 2, ROMs: 15, as of 2025-09-15
+## Games: 1, ROMs: 14, as of 2025-10-12
 
 ### Demonstration CD-ROM & System Install CD-ROM (Japan)
 <details>
@@ -21,4 +21,3 @@
 - Demonstration CD-ROM & System Install CD-ROM (Japan) (Track 14).bin, CRC: add4351f
 </details>
 
-### Logicool Mouseware 8.2J (Japan) (En,Ja).bin, CRC: b03e9824

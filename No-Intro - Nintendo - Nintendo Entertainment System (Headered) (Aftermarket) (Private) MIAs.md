@@ -1,5 +1,5 @@
 # No-Intro - Nintendo - Nintendo Entertainment System (Headered) (Aftermarket) (Private) MIAs
-## Games: 37, ROMs: 38, as of 2025-09-15
+## Games: 40, ROMs: 41, as of 2025-10-12
 
 ### 8-Bit Slasher 4-in-1 Horror Demakes (World) (Aftermarket) (Unl).nes, CRC: 1e4d95a6
 ### 8Bit Music Power Encore (World) (Aftermarket) (Unl).nes, CRC: 27f312e2
@@ -25,13 +25,16 @@
 ### Knight on the Moon (World) (v1.08) (Mapper 2) (Aftermarket) (Unl).nes, CRC: f2dd6f56
 ### KUBO 3 (USA) (En,Ja,Fr) (Limited Run Games) (Aftermarket) (Unl).nes, CRC: 6d907e9d
 ### Mad Wizard, The - A Candelabra Chronicle (World) (Kickstarter) (Aftermarket) (Unl).nes, CRC: 0dd1075a
+### Malasombra (USA, Europe) (En,Es) (Aftermarket) (Unl).nes, CRC: 53f0e072
 ### Orebody - Binder's Tale (World) (Aftermarket) (Unl).nes, CRC: b03f17e1
 ### PLOID (World) (5th Anniversary Edition) (Aftermarket) (Unl).nes, CRC: c3a14eff
 ### Relic Dungeon (World) (Aftermarket) (Unl).nes, CRC: 39601904
 ### Rise of Amondus, The (World) (Aftermarket) (Unl).nes, CRC: 5c2fbd08
+### Rockman Remix (China) (En,Ja) (Aftermarket) (Pirate).nes, CRC: 3e83798c
 ### Rugrats - Adventures in Gameland (World) (v1.1) (Aftermarket) (Unl).nes, CRC: 2c569216
 ### Save the Kuin (World) (Aftermarket) (Unl).nes, CRC: 832e87a6
 ### Save the Kuin - Grass Mini Game (World) (Aftermarket) (Unl).nes, CRC: eff7c5e7
+### Soldam (USA, Europe) (Aftermarket) (Unl).nes, CRC: 1dfd9206
 ### Super Cambur 2 - Multiverse Chaos (World) (2025-03-14) (Aftermarket) (Unl).nes, CRC: 5ed03b28
 ### Super Cambur Origins (World) (2025-03-14) (Aftermarket) (Unl).nes, CRC: 27b73ecf
 ### Trial of Kharzoid, The (World) (2025-01-27) (Aftermarket) (Unl).nes, CRC: 8af8e1c6

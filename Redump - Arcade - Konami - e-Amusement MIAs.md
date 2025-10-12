@@ -1,8 +1,10 @@
 # Redump - Arcade - Konami - e-Amusement MIAs
-## Games: 18, ROMs: 18, as of 2025-09-15
+## Games: 22, ROMs: 22, as of 2025-10-12
 
-### Toukyuu Oukoku Gashaaaan (Asia) (Application Disc).bin, CRC: 2e12393c
-### Toukyuu Oukoku Gashaaaan (Asia) (System Disc).bin, CRC: 3e48a862
+### Castlevania - The Arcade (Japan) (Application Disc 1).iso, CRC: 08690a8c
+### Castlevania - The Arcade (Japan) (Application Disc 2).iso, CRC: d907aad8
+### Castlevania - The Arcade (Japan) (System Disc).iso, CRC: aaa17ada
+### Feature World (Japan) (Conversion Kit Application Disc).iso, CRC: f25feb9d
 ### Mah-Jong Fight Club 6 (Japan) (Client-you Application Disc).iso, CRC: 379e8201
 ### Mah-Jong Fight Club 6 (Japan) (Client-you System Disc).iso, CRC: b97ade1e
 ### Mah-Jong Fight Club Series (Japan) (Client-you Application Disc).iso, CRC: 68a6e815
@@ -19,3 +21,5 @@
 ### Quiz Magic Academy 6 (Japan) (System Disc - Kuraianto Center Monitor Kyouyou).bin, CRC: f85f8798
 ### Quiz Magic Academy 7 (Japan) (Application Disc - Kuraianto Center Monitor Kyouyou).iso, CRC: e8c34f4b
 ### Quiz Magic Academy 7 (Japan) (System Disc - Kuraianto Center Monitor Kyouyou).bin, CRC: 5825a177
+### Toukyuu Oukoku Gashaaaan (Japan) (Application Disc).bin, CRC: fe817ee6
+### Toukyuu Oukoku Gashaaaan (Japan) (System Disc).bin, CRC: add68325

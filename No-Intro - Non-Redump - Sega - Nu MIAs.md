@@ -1,5 +1,5 @@
 # No-Intro - Non-Redump - Sega - Nu MIAs
-## Games: 7, ROMs: 7, as of 2025-09-15
+## Games: 7, ROMs: 7, as of 2025-10-12
 
 ### Hatsune Miku - Project Diva Arcade Future Tone (Japan) (v1.01.00) (Disc 1) (0001A).iso, CRC: a01b72eb
 ### Hatsune Miku - Project Diva Arcade Future Tone (Japan) (v1.01.00) (Disc 2) (0001A).iso, CRC: 6374bd62

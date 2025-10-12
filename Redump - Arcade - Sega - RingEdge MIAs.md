@@ -1,5 +1,5 @@
 # Redump - Arcade - Sega - RingEdge MIAs
-## Games: 14, ROMs: 14, as of 2025-09-15
+## Games: 15, ROMs: 15, as of 2025-10-12
 
 ### Border Break (Japan) (DVR-0001).iso, CRC: 745f5ad9
 ### Border Break (No. 1) (Japan) (DVR-5053).iso, CRC: d71c0bb5
@@ -14,4 +14,5 @@
 ### Sega Net Mahjong MJ Arcade (Japan) (Rev AF).iso, CRC: 505b9d38
 ### StarBoat (Japan) (Rev A).iso, CRC: d41f41ad
 ### World Club Champion Football 2013-2014 (Japan) (Rev A).iso, CRC: 8fafaefc
+### World Club Champion Football 2016-2017 (Japan) (Rev A).iso, CRC: 2af7db44
 ### World Club Champion Football 2017-2018 (Japan) (Rev B).iso, CRC: a1331ed9

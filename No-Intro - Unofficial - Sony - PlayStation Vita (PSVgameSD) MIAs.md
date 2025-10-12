@@ -1,5 +1,5 @@
 # No-Intro - Unofficial - Sony - PlayStation Vita (PSVgameSD) MIAs
-## Games: 134, ROMs: 136, as of 2025-09-15
+## Games: 134, ROMs: 136, as of 2025-10-12
 
 ### Amatsutsumi (Japan).psv, CRC: 7e0e9b57
 ### Ao no kanata no Four Rythm (Japan).psv, CRC: fa9f1745

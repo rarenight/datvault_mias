@@ -1,5 +1,15 @@
 # Redump - Sega - Saturn MIAs
-## Games: 2, ROMs: 3, as of 2025-09-15
+## Games: 4, ROMs: 8, as of 2025-10-12
+
+### Darius Gaiden (Japan) (Rev A)
+<details>
+<summary>ROMs</summary>
+
+- Darius Gaiden (Japan) (Rev A) (Track 01).bin, CRC: 345a3e98
+- Darius Gaiden (Japan) (Rev A) (Track 02).bin, CRC: 0bb74605
+- Darius Gaiden (Japan) (Rev A) (Track 05).bin, CRC: f9c248b3
+- Darius Gaiden (Japan) (Rev A) (Track 16).bin, CRC: 8941c89c
+</details>
 
 ### Game-Ware (Japan) (Soukan Junbigou Hibaihin)
 <details>
@@ -10,3 +20,4 @@
 </details>
 
 ### Hyper Golf, The - Devil's Course (Japan) (Demo).bin, CRC: c635a73b
+### Wing Arms - Kareinaru Gekitsuiou (Japan) (Rev B) (Track 01).bin, CRC: 022d5b3b

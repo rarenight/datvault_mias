@@ -1,5 +1,5 @@
 # Redump - Apple - Macintosh MIAs
-## Games: 145, ROMs: 176, as of 2025-09-15
+## Games: 140, ROMs: 171, as of 2025-10-12
 
 ### 3-D Ultra Pinball (Japan).bin, CRC: 610eb45d
 ### 3DO Content Library, The (USA) (Disc 88) (Music & Sound Effects).bin, CRC: c157b11b
@@ -32,7 +32,6 @@
 ### Black & White (Japan) (Game Disc).bin, CRC: 27af6562
 ### BrainDead 13 (USA).bin, CRC: 6140cda5
 ### CD-ROM MacLife No. 1 (Japan).bin, CRC: 5c3b6de7
-### CD-ROM MacLife No. 131 (Japan).bin, CRC: f3fffc00
 ### CD-ROM MacLife No. 134 (Japan).bin, CRC: 0c8abdfe
 ### CD-ROM MacLife No. 135 (Japan).bin, CRC: c592f01e
 ### CD-ROM MacLife No. 136 (Japan).bin, CRC: 0d300bcb
@@ -40,7 +39,6 @@
 ### CD-ROM MacLife No. 139 (Japan).bin, CRC: 25033fd0
 ### CD-ROM MacLife No. 140 (Japan) (Disc 1).bin, CRC: 6a177b6a
 ### CD-ROM MacLife No. 140 (Japan) (Disc 2).bin, CRC: 077f23ab
-### CD-ROM MacLife No. 141 (Japan).bin, CRC: 3d921004
 ### CD-ROM MacLife No. 142 (Japan).bin, CRC: 957b517a
 ### CD-ROM MacLife No. 143 (Japan).bin, CRC: 9f87e8d2
 ### CD-ROM MacLife No. 148 (Japan).bin, CRC: e632062a
@@ -114,8 +112,6 @@
 </details>
 
 ### MacPeople 1998 No. 10 5.15 (Japan).bin, CRC: 749ae1fb
-### MacPeople 1998 No. 12 6.15 (Japan).bin, CRC: c66b4d11
-### MacPeople 1998 No. 20 10.15 (Japan).bin, CRC: 201e77a4
 ### MacPeople 1999 No. 1 1.1 (Japan).bin, CRC: a6d05812
 ### MacPeople 1999 No. 15 8.1 (Japan).bin, CRC: a42dc937
 ### MacPeople 1999 No. 22 11.15 (Japan).bin, CRC: 8e220e2d
@@ -153,7 +149,6 @@
 ### Phantasmagoria (Europe) (Disc 6).bin, CRC: 2a7f210b
 ### Phantasmagoria (Europe) (Disc 7).bin, CRC: 2ff01f09
 ### Princess Maker 2 (Japan) (Rerelease).bin, CRC: 3802b610
-### Prisoner of Ice (France) (En,Fr,De,Nl,Sv) (Covermount).bin, CRC: e7a6b097
 ### Puyo Puyo Tsuu (Japan).bin, CRC: 3782d4ec
 ### Quake (Europe)
 <details>

@@ -1,5 +1,5 @@
 # Redump - Sony - PlayStation 4 MIAs
-## Games: 288, ROMs: 288, as of 2025-09-15
+## Games: 277, ROMs: 277, as of 2025-10-12
 
 ### 2Dark (Japan).iso, CRC: 51bd991f
 ### 8-Bit Adventure Anthology - Volume 1 (USA).iso, CRC: 1598191a
@@ -24,8 +24,6 @@
 ### Biohazard RE-2 - Z Version (Japan).iso, CRC: 95234dd1
 ### Biohazard RE-3 - Z Version (Japan).iso, CRC: ecacac83
 ### Biomutant (Europe) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru).iso, CRC: 6401dcba
-### BioShock - The Collection (Japan) (BioShock Infinite Disc).iso, CRC: a8ed10ba
-### BioShock - The Collection (Japan) (BioShock-BioShock 2 Disc).iso, CRC: eb3baa0d
 ### Blasphemous (Europe).iso, CRC: c4803253
 ### Blaster Master Zero (USA) (En,Ja,Fr,De,Es,It,Pt).iso, CRC: 291a3b1b
 ### Blaster Master Zero II (USA) (En,Ja,Fr,De,Es,It,Pt).iso, CRC: d4c566ec
@@ -51,7 +49,6 @@
 ### Deception IV - The Nightmare Princess (Europe) (En,Ja,Fr,De).iso, CRC: 9f8f27e9
 ### Desert Child (USA) (En,Ja,Fr,De,Es,It,Zh,Ru).iso, CRC: ab5c648c
 ### Deus Ex - Mankind Divided (Japan).iso, CRC: 0441ce47
-### Dishonored 2 (Europe) (En,Fr,De).iso, CRC: 32f3b441
 ### Dogfighter - WW2 (Japan).iso, CRC: a2b6d6bf
 ### Donut County (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru).iso, CRC: 0d3e1089
 ### Doom 3 - VR Edition (Europe) (En,Fr,De,Es,It).iso, CRC: a21dd809
@@ -87,11 +84,8 @@
 ### Farming Simulator 15 (Japan).iso, CRC: 5d63c7d9
 ### Final Fantasy I-VI Collection (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru,Th).iso, CRC: 6d4b32fe
 ### Final Fantasy X + X-2 - HD Remaster (Asia) (Zh,Ko).iso, CRC: 9e5bd5a0
-### Final Fantasy X + X-2 - HD Remaster (Japan).iso, CRC: b1b05e3b
-### Final Fantasy XII - The Zodiac Age (Japan).iso, CRC: c7fd4113
 ### Final Fantasy XIV Online - Shadowbringers (Europe).iso, CRC: 62a14c88
 ### Final Fantasy XV (Asia) (Zh,Ko).iso, CRC: e6a0f0b4
-### Firis no Atelier - Fushigi na Tabi no Renkinjutsushi (Japan).iso, CRC: 54720f23
 ### Flinthook (USA) (En,Ja,Fr).iso, CRC: d3bd22b1
 ### Furi - Definitive Edition (USA) (En,Ja,Fr,De,Es,It,Pt,Ru).iso, CRC: 7ebee9c7
 ### Gimmick! Special Edition (Europe).iso, CRC: f71460ee
@@ -136,7 +130,6 @@
 ### LoveR Kiss (Japan).iso, CRC: a132148e
 ### Lulua no Atelier - Arland no Renkinjutsushi 4 (Japan).iso, CRC: 49f6d4a1
 ### Lumo (USA) (En,Ja,Fr,De,Es,It,Pt,Ru).iso, CRC: 9477fc65
-### Lydie & Suelle no Atelier - Fushigi na Kaiga no Renkinjutsushi (Japan).iso, CRC: cf6aaf14
 ### Madden NFL 21 (USA).iso, CRC: 86c3a2ba
 ### Madden NFL 22 (USA).iso, CRC: 0fa871aa
 ### Magicka 2 (USA).iso, CRC: 83b60a77
@@ -167,7 +160,6 @@
 ### Nier - Automata (Japan).iso, CRC: 28e3ae7d
 ### Nioh 2 - Complete Edition (Japan) (En,Ja,Zh,Ko).iso, CRC: b08ac93e
 ### Nippon Marathon (Europe).iso, CRC: 63626cd1
-### Nitroplus Blasterz - Heroines Infinite Duel (Japan).iso, CRC: 865e4082
 ### Nobunaga's Ambition - Sphere of Influence - Ascension (USA).iso, CRC: f11b951a
 ### Observer - System Redux (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru).iso, CRC: 734276c4
 ### Odin Sphere - Leifthrasir (Japan).iso, CRC: c0006e3c
@@ -205,7 +197,6 @@
 ### Ryuu ga Gotoku 3 (Japan).iso, CRC: 15d8a63f
 ### Ryuu ga Gotoku 4 - Densetsu o Tsugu Mono (Japan).iso, CRC: 6595d28a
 ### Ryuu ga Gotoku 5 - Yume, Kanaeshi Mono (Japan).iso, CRC: 7a67928a
-### Ryuu ga Gotoku Kiwami (Japan).iso, CRC: 67a01bf8
 ### Ryza no Atelier - Tokoyami no Joou to Himitsu no Kakurega (Japan).iso, CRC: 3a1f6b76
 ### Ryza no Atelier 2 - Ushinawareta Denshou to Himitsu no Yousei (Japan).iso, CRC: 8f47cbb5
 ### Ryza no Atelier 3 - Owari no Renkinjutsushi to Himitsu no Kagi (Japan).iso, CRC: 7120df16
@@ -225,7 +216,6 @@
 ### Shadow of the Beast (Asia).iso, CRC: 672c5d1e
 ### Shakedown - Hawaii (USA).iso, CRC: eaff5e12
 ### Shallie no Atelier - Tasogare no Umi no Renkinjutsushi DX (Japan).iso, CRC: cbcf0a22
-### Shantae and the Seven Sirens (USA) (En,Fr,Es).iso, CRC: c0875b83
 ### Shenmue III (Japan).iso, CRC: 5d5c3380
 ### Shingeki no Kyojin (Japan).iso, CRC: 01be069d
 ### Shovel Knight (Europe) (En,Fr,De,Es,It).iso, CRC: 2e1dafb7
@@ -261,7 +251,6 @@
 ### Sword Art Online - Alicization Lycoris (USA) (En,Fr,Es,Pt).iso, CRC: 406636ff
 ### Tales of Berseria (Asia).iso, CRC: fe61dc72
 ### Tales of Berseria (Japan).iso, CRC: ca1ac637
-### Tales of Vesperia - Definitive Edition (Europe) (En,Fr,De,Es,It,Ru).iso, CRC: 35f99552
 ### Tales of Vesperia Remaster (Japan).iso, CRC: 70fcc876
 ### Tales of Zestiria (Japan).iso, CRC: 3c65666c
 ### Sakuna - Of Rice and Ruin (USA, Japan) (En,Ja,Es,Zh,Ko).iso, CRC: d8db9183
