@@ -1,5 +1,5 @@
 # No-Intro - Nintendo - Nintendo Entertainment System (Headered) (Aftermarket) (Private) MIAs
-## Games: 40, ROMs: 41, as of 2025-10-12
+## Games: 33, ROMs: 34, as of 2025-11-14
 
 ### 8-Bit Slasher 4-in-1 Horror Demakes (World) (Aftermarket) (Unl).nes, CRC: 1e4d95a6
 ### 8Bit Music Power Encore (World) (Aftermarket) (Unl).nes, CRC: 27f312e2
@@ -13,25 +13,18 @@
 ### Gemaboy Zero (World) (2025-04-03) (Aftermarket) (Unl).nes, CRC: 28e9d1d1
 ### Hazard - Let Us Out! (World) (Aftermarket) (Unl).nes, CRC: d552124f
 ### Kira Kira Star Night (Japan) (En) (Rev 1) (Aftermarket) (Unl).nes, CRC: 9e19a6ba
-### Knight on the Moon (World) (Flash saving) (Aftermarket) (Unl).nes, CRC: d19ef7b4
-### Knight on the Moon (World) (No flash saving) (Aftermarket) (Unl).nes, CRC: d5eff5e2
-### Knight on the Moon (World) (Rev 3) (Flash saving) (Aftermarket) (Unl).nes, CRC: fb1e4103
-### Knight on the Moon (World) (Rev 3) (No flash saving) (Aftermarket) (Unl).nes, CRC: 2f27564f
-### Knight on the Moon (World) (v1.04) (Flash saving) (Aftermarket) (Unl).nes, CRC: 7a2d3e11
-### Knight on the Moon (World) (v1.04) (No flash saving) (Aftermarket) (Unl).nes, CRC: 4aca2711
-### Knight on the Moon (World) (v1.05) (Flash saving) (Aftermarket) (Unl).nes, CRC: ba04e51f
-### Knight on the Moon (World) (v1.05) (No flash saving) (Aftermarket) (Unl).nes, CRC: 25bcc097
-### Knight on the Moon (World) (v1.08) (Flash saving) (Aftermarket) (Unl).nes, CRC: 10b0c955
-### Knight on the Moon (World) (v1.08) (Mapper 2) (Aftermarket) (Unl).nes, CRC: f2dd6f56
 ### KUBO 3 (USA) (En,Ja,Fr) (Limited Run Games) (Aftermarket) (Unl).nes, CRC: 6d907e9d
 ### Mad Wizard, The - A Candelabra Chronicle (World) (Kickstarter) (Aftermarket) (Unl).nes, CRC: 0dd1075a
 ### Malasombra (USA, Europe) (En,Es) (Aftermarket) (Unl).nes, CRC: 53f0e072
+### Mawthorne 2 (World) (En,Ja,Fr,Es,Pt) (v1.1) (Aftermarket) (Unl).nes, CRC: fbffcb9c
+### Oratorio (World) (v1.3) (Aftermarket) (Unl).nes, CRC: 42113ad6
 ### Orebody - Binder's Tale (World) (Aftermarket) (Unl).nes, CRC: b03f17e1
 ### PLOID (World) (5th Anniversary Edition) (Aftermarket) (Unl).nes, CRC: c3a14eff
 ### Relic Dungeon (World) (Aftermarket) (Unl).nes, CRC: 39601904
+### Restless Anima - Engine Room (World) (Beta 1) (Aftermarket) (Unl).nes, CRC: ec1ac21f
+### Restless Anima - Engine Room (World) (Beta 2) (Aftermarket) (Unl).nes, CRC: f28eea54
 ### Rise of Amondus, The (World) (Aftermarket) (Unl).nes, CRC: 5c2fbd08
 ### Rockman Remix (China) (En,Ja) (Aftermarket) (Pirate).nes, CRC: 3e83798c
-### Rugrats - Adventures in Gameland (World) (v1.1) (Aftermarket) (Unl).nes, CRC: 2c569216
 ### Save the Kuin (World) (Aftermarket) (Unl).nes, CRC: 832e87a6
 ### Save the Kuin - Grass Mini Game (World) (Aftermarket) (Unl).nes, CRC: eff7c5e7
 ### Soldam (USA, Europe) (Aftermarket) (Unl).nes, CRC: 1dfd9206

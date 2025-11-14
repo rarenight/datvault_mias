@@ -1,12 +1,11 @@
 # No-Intro - Nintendo - Nintendo Entertainment System (Headered) (Private) (Aftermarket) MIAs
-## Games: 30, ROMs: 30, as of 2025-10-12
+## Games: 29, ROMs: 29, as of 2025-11-14
 
 ### 8Bit Brix Design Studio & Snake Game (World) (2024-09-24) (Aftermarket) (Unl).nes, CRC: d95c7edd
 ### 8Bit Music Power Encore (World) (Aftermarket) (Unl).nes, CRC: dce20607
 ### Adventures of Panzer 3, The (World) (Aftermarket) (Unl).nes, CRC: f8900c8e
 ### Anamanaguchi - Dawn Metropolis (USA) (Aftermarket) (Unl).nes, CRC: 8a9f2dca
 ### Astro Ninja Man DX (USA) (Aftermarket) (Unl).nes, CRC: 3284abc9
-### Barback (World) (v7) (Aftermarket) (Unl).nes, CRC: e6a1ed14
 ### Bloodshed - The Five Clans of Tresibra (World) (Demo) (2024-10-06) (Aftermarket) (Unl).nes, CRC: 35d54700
 ### Changeable Guardian ESTIQUE (World) (PAL) (Aftermarket) (Unl).nes, CRC: 1a7cf5d9
 ### Christmas Crisis 2 (World) (Aftermarket) (Unl).nes, CRC: b4d33300

@@ -1,5 +1,5 @@
 # No-Intro - Nintendo - Nintendo Entertainment System (Headered) (Aftermarket) MIAs
-## Games: 14, ROMs: 16, as of 2025-10-12
+## Games: 12, ROMs: 14, as of 2025-11-14
 
 ### 117-in-1 Cartoons Collection (China) (En) (Aftermarket) (Pirate)
 <details>
@@ -23,8 +23,6 @@
 ### Armed for Battle (USA) (Aftermarket) (Unl).nes, CRC: 92ba1116
 ### Classic 600-in-1 (China) (En,Zh) (Aftermarket) (Pirate).nes, CRC: c87f84d6
 ### Holly Jolly NES Mix (USA) (Aftermarket) (Unl).nes, CRC: b3b30a45
-### Mega Book 12-in-1 (Italy) (Aftermarket) (Unl).nes, CRC: 1ce8e9a3
-### Mega Book 4-in-1 (Italy) (Aftermarket) (Unl).nes, CRC: 893f81df
 ### Super Game 4-in-1 (Asia) (En) (KG-457) (Aftermarket) (Pirate).nes, CRC: 5aebb536
 ### Super Game 4-in-1 (Asia) (En) (KG-458) (Aftermarket) (Pirate).nes, CRC: 351c9bce
 ### Super Game 4-in-1 (Asia) (En) (KG-462) (Aftermarket) (Pirate).nes, CRC: 3bd2a6d8

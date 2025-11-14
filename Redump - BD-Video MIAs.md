@@ -1,5 +1,5 @@
 # Redump - BD-Video MIAs
-## Games: 13, ROMs: 13, as of 2025-10-12
+## Games: 13, ROMs: 13, as of 2025-11-14
 
 ### Hajimete no Orusuban (Japan).iso, CRC: 1b4e5e1f
 ### Haramitama (Japan).iso, CRC: c3211de4

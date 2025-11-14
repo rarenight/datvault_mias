@@ -1,7 +1,6 @@
 # No-Intro - Unofficial - Sony - PlayStation Portable (UMD Video) MIAs
-## Games: 6, ROMs: 7, as of 2025-10-12
+## Games: 5, ROMs: 6, as of 2025-11-14
 
-### Batman Begins (Europe) (En,De,Nl,Sv).iso, CRC: 3071a67c
 ### Batman Begins (Japan) (En,Ja).iso, CRC: 07146934
 ### Harry Potter and the Goblet of Fire (Europe) (En,De,Nl,Sl).iso, CRC: d9225c7d
 ### Little Britain - The Complete First Series (World)

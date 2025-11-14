@@ -1,5 +1,5 @@
 # No-Intro - Non-Redump - Sony - PlayStation 5 MIAs
-## Games: 7, ROMs: 7, as of 2025-10-12
+## Games: 7, ROMs: 7, as of 2025-11-14
 
 ### Among Us (Japan).iso, CRC: b03b185e
 ### FIFA 21 - NXT LVL Edition (Japan).iso, CRC: efba6d3d

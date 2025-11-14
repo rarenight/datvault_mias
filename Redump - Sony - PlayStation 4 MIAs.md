@@ -1,5 +1,5 @@
 # Redump - Sony - PlayStation 4 MIAs
-## Games: 277, ROMs: 277, as of 2025-10-12
+## Games: 273, ROMs: 273, as of 2025-11-14
 
 ### 2Dark (Japan).iso, CRC: 51bd991f
 ### 8-Bit Adventure Anthology - Volume 1 (USA).iso, CRC: 1598191a
@@ -28,7 +28,6 @@
 ### Blaster Master Zero (USA) (En,Ja,Fr,De,Es,It,Pt).iso, CRC: 291a3b1b
 ### Blaster Master Zero II (USA) (En,Ja,Fr,De,Es,It,Pt).iso, CRC: d4c566ec
 ### Bloodstained - Ritual of the Night (Japan) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru).iso, CRC: d0d82a7d
-### Blue Reflection - Maboroshi ni Mau Shoujo no Ken (Japan).iso, CRC: e20f25bc
 ### Blue Reflection Tie (Japan).iso, CRC: 7c1c490a
 ### Boku no Hero Academia - One's Justice (Japan).iso, CRC: 8e1f0b37
 ### Borderlands - Double Deluxe Collection (Japan).iso, CRC: 85410e97
@@ -52,7 +51,6 @@
 ### Dogfighter - WW2 (Japan).iso, CRC: a2b6d6bf
 ### Donut County (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru).iso, CRC: 0d3e1089
 ### Doom 3 - VR Edition (Europe) (En,Fr,De,Es,It).iso, CRC: a21dd809
-### Double Dragon IV (USA) (En,Ja,Fr,Zh,Ko).iso, CRC: c3d96011
 ### Downtown Special - Kunio-kun no Sangokushi da yo Zen'in Shuugou! (Japan).iso, CRC: 0e03421d
 ### Dragon Ball The Breakers - Special Edition (Europe).iso, CRC: c03208d7
 ### Dragon Ball Xenoverse 2 (Japan).iso, CRC: 0618891f
@@ -224,7 +222,6 @@
 ### Smurfs, The - Mission Vileaf (USA) (En,Fr,Es,Pt).iso, CRC: 96c1909d
 ### Sniper - Ghost Warrior - Contracts (USA) (En,Fr,Es,Pt).iso, CRC: d7989ae9
 ### Sonic Forces (USA) (En,Ja,Fr,De,Es,It,Pl,Ru).iso, CRC: b71f9084
-### Sophie no Atelier - Fushigi na Hon no Renkinjutsushi (Japan).iso, CRC: 85dce794
 ### Sophie no Atelier 2 - Fushigi na Yume no Renkinjutsushi (Japan).iso, CRC: d09f0eb5
 ### Spiritfarer (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru).iso, CRC: 231feadb
 ### Starblood Arena (USA).iso, CRC: 62366934
@@ -257,7 +254,6 @@
 ### Terraria (Japan).iso, CRC: 4d1fbb2d
 ### Tokyo Chronos (USA).iso, CRC: c041f03d
 ### Tokyo Xanadu eX+ (Japan).iso, CRC: de7d7fbe
-### Tom Clancy's Ghost Recon - Breakpoint (Japan).iso, CRC: bcd69a3c
 ### Totori no Atelier - Arland no Renkinjutsushi 2 DX (Japan).iso, CRC: e6803436
 ### Tumblestone (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,Cs,Hu,Th,Tr).iso, CRC: 896d1817
 ### Umihara Kawase Fresh! (USA).iso, CRC: d57fc65a

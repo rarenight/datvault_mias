@@ -1,5 +1,5 @@
 # Redump - Audio CD MIAs
-## Games: 165, ROMs: 2136, as of 2025-10-12
+## Games: 159, ROMs: 2048, as of 2025-11-14
 
 ### Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 1) (Alt)
 <details>
@@ -224,6 +224,7 @@
 - D.C.S.F. Short Version Vol. 2 (Japan) (BD-PG Bundle) (Track 9).bin, CRC: 83fdaedd
 </details>
 
+### Darius - MD Sound World (Japan) (Track 40).bin, CRC: 45520a64
 ### Dark Souls III - Original Soundtrack (Japan)
 <details>
 <summary>ROMs</summary>
@@ -512,6 +513,32 @@
 - Goodbye Deponia - Original-Soundtrack (Germany) (PC Game Bundle) (Track 21).bin, CRC: 8cd5234b
 </details>
 
+### Gothic - Banda sonora edicion coleccionista (Spain) (PC Game Bundle)
+<details>
+<summary>ROMs</summary>
+
+- Gothic - Banda sonora edicion coleccionista (Spain) (PC Game Bundle) (Track 01).bin, CRC: 4037111c
+- Gothic - Banda sonora edicion coleccionista (Spain) (PC Game Bundle) (Track 02).bin, CRC: 9c574cc6
+- Gothic - Banda sonora edicion coleccionista (Spain) (PC Game Bundle) (Track 03).bin, CRC: 50831090
+- Gothic - Banda sonora edicion coleccionista (Spain) (PC Game Bundle) (Track 04).bin, CRC: 203126f1
+- Gothic - Banda sonora edicion coleccionista (Spain) (PC Game Bundle) (Track 05).bin, CRC: ebbae896
+- Gothic - Banda sonora edicion coleccionista (Spain) (PC Game Bundle) (Track 06).bin, CRC: 29bb4eb6
+- Gothic - Banda sonora edicion coleccionista (Spain) (PC Game Bundle) (Track 07).bin, CRC: 229dbda0
+- Gothic - Banda sonora edicion coleccionista (Spain) (PC Game Bundle) (Track 08).bin, CRC: 57a81554
+- Gothic - Banda sonora edicion coleccionista (Spain) (PC Game Bundle) (Track 09).bin, CRC: ca4d54dd
+- Gothic - Banda sonora edicion coleccionista (Spain) (PC Game Bundle) (Track 10).bin, CRC: 598fc54e
+- Gothic - Banda sonora edicion coleccionista (Spain) (PC Game Bundle) (Track 11).bin, CRC: 311272f5
+- Gothic - Banda sonora edicion coleccionista (Spain) (PC Game Bundle) (Track 12).bin, CRC: 7ca6fd83
+- Gothic - Banda sonora edicion coleccionista (Spain) (PC Game Bundle) (Track 13).bin, CRC: d05b347f
+- Gothic - Banda sonora edicion coleccionista (Spain) (PC Game Bundle) (Track 14).bin, CRC: a25c3414
+- Gothic - Banda sonora edicion coleccionista (Spain) (PC Game Bundle) (Track 15).bin, CRC: 8d70027b
+- Gothic - Banda sonora edicion coleccionista (Spain) (PC Game Bundle) (Track 16).bin, CRC: 0f00048b
+- Gothic - Banda sonora edicion coleccionista (Spain) (PC Game Bundle) (Track 17).bin, CRC: 7989b6dd
+- Gothic - Banda sonora edicion coleccionista (Spain) (PC Game Bundle) (Track 18).bin, CRC: 4a2a8f24
+- Gothic - Banda sonora edicion coleccionista (Spain) (PC Game Bundle) (Track 19).bin, CRC: 60d28926
+- Gothic - Banda sonora edicion coleccionista (Spain) (PC Game Bundle) (Track 20).bin, CRC: 4a013f47
+</details>
+
 ### Gradius V Soundtracks (Japan) (Track 22).bin, CRC: a1011b24
 ### Granado Espada - Soundtrack CD (Japan) (PC Game Bundle)
 <details>
@@ -643,45 +670,6 @@
 - Idolm@ster Cinderella Master, The - Cool Jewelries! 003 (Japan) (Track 10).bin, CRC: 6d6bd9ef
 </details>
 
-### Illusion City Zenkyoku-shuu (Japan)
-<details>
-<summary>ROMs</summary>
-
-- Illusion City Zenkyoku-shuu (Japan) (Track 01).bin, CRC: b1b1a8f4
-- Illusion City Zenkyoku-shuu (Japan) (Track 02).bin, CRC: 35bc08eb
-- Illusion City Zenkyoku-shuu (Japan) (Track 03).bin, CRC: ea8194f5
-- Illusion City Zenkyoku-shuu (Japan) (Track 04).bin, CRC: 04e21882
-- Illusion City Zenkyoku-shuu (Japan) (Track 05).bin, CRC: a352d0ac
-- Illusion City Zenkyoku-shuu (Japan) (Track 06).bin, CRC: 1e3068a4
-- Illusion City Zenkyoku-shuu (Japan) (Track 07).bin, CRC: 6d5aa79b
-- Illusion City Zenkyoku-shuu (Japan) (Track 08).bin, CRC: f9621dc4
-- Illusion City Zenkyoku-shuu (Japan) (Track 09).bin, CRC: 9af0113e
-- Illusion City Zenkyoku-shuu (Japan) (Track 10).bin, CRC: 2c8d3073
-- Illusion City Zenkyoku-shuu (Japan) (Track 11).bin, CRC: c31ad8ec
-- Illusion City Zenkyoku-shuu (Japan) (Track 12).bin, CRC: 6d8b2214
-- Illusion City Zenkyoku-shuu (Japan) (Track 13).bin, CRC: 0c989213
-- Illusion City Zenkyoku-shuu (Japan) (Track 14).bin, CRC: 5c5f426b
-- Illusion City Zenkyoku-shuu (Japan) (Track 15).bin, CRC: 908a2d37
-- Illusion City Zenkyoku-shuu (Japan) (Track 16).bin, CRC: d1f2d22e
-- Illusion City Zenkyoku-shuu (Japan) (Track 17).bin, CRC: 49c4a6c6
-- Illusion City Zenkyoku-shuu (Japan) (Track 18).bin, CRC: c08de941
-- Illusion City Zenkyoku-shuu (Japan) (Track 19).bin, CRC: a440499d
-- Illusion City Zenkyoku-shuu (Japan) (Track 20).bin, CRC: 69690b64
-- Illusion City Zenkyoku-shuu (Japan) (Track 21).bin, CRC: b7986fb4
-- Illusion City Zenkyoku-shuu (Japan) (Track 22).bin, CRC: 9648e37e
-- Illusion City Zenkyoku-shuu (Japan) (Track 23).bin, CRC: 065b0358
-- Illusion City Zenkyoku-shuu (Japan) (Track 24).bin, CRC: 74ba179d
-- Illusion City Zenkyoku-shuu (Japan) (Track 25).bin, CRC: 6e35237d
-- Illusion City Zenkyoku-shuu (Japan) (Track 26).bin, CRC: e3203c2c
-- Illusion City Zenkyoku-shuu (Japan) (Track 27).bin, CRC: 16daef44
-- Illusion City Zenkyoku-shuu (Japan) (Track 28).bin, CRC: 320da460
-- Illusion City Zenkyoku-shuu (Japan) (Track 29).bin, CRC: a9a71414
-- Illusion City Zenkyoku-shuu (Japan) (Track 30).bin, CRC: 5942d9e2
-- Illusion City Zenkyoku-shuu (Japan) (Track 31).bin, CRC: cb717ac3
-- Illusion City Zenkyoku-shuu (Japan) (Track 32).bin, CRC: fd269fe4
-- Illusion City Zenkyoku-shuu (Japan) (Track 33).bin, CRC: a8570df8
-</details>
-
 ### Kaguya-chan no Okozukai Daisakusen Original Soundtrack (Japan) (PC Game Bundle)
 <details>
 <summary>ROMs</summary>
@@ -756,103 +744,6 @@
 - Kakenuke Seishun Sparking! Complete Soundtrack (Japan) (Disc 2) (Track 17).bin, CRC: 200f7589
 </details>
 
-### Kalle Kunskap i Vilda Vaestern (Sweden)
-<details>
-<summary>ROMs</summary>
-
-- Kalle Kunskap i Vilda Vaestern (Sweden) (Track 01).bin, CRC: 96cb6e7c
-- Kalle Kunskap i Vilda Vaestern (Sweden) (Track 02).bin, CRC: e9d1d909
-- Kalle Kunskap i Vilda Vaestern (Sweden) (Track 03).bin, CRC: f0579fef
-- Kalle Kunskap i Vilda Vaestern (Sweden) (Track 04).bin, CRC: 2570bdfc
-- Kalle Kunskap i Vilda Vaestern (Sweden) (Track 05).bin, CRC: 2cd1e358
-- Kalle Kunskap i Vilda Vaestern (Sweden) (Track 06).bin, CRC: b1a81458
-- Kalle Kunskap i Vilda Vaestern (Sweden) (Track 07).bin, CRC: 743ce5aa
-- Kalle Kunskap i Vilda Vaestern (Sweden) (Track 08).bin, CRC: 3b20587e
-- Kalle Kunskap i Vilda Vaestern (Sweden) (Track 09).bin, CRC: eb4d0449
-- Kalle Kunskap i Vilda Vaestern (Sweden) (Track 10).bin, CRC: d69eab4f
-- Kalle Kunskap i Vilda Vaestern (Sweden) (Track 11).bin, CRC: 343f9b11
-- Kalle Kunskap i Vilda Vaestern (Sweden) (Track 12).bin, CRC: f5e64f32
-- Kalle Kunskap i Vilda Vaestern (Sweden) (Track 13).bin, CRC: e2ddebd5
-- Kalle Kunskap i Vilda Vaestern (Sweden) (Track 14).bin, CRC: 593213d4
-- Kalle Kunskap i Vilda Vaestern (Sweden) (Track 15).bin, CRC: fb0b2c78
-- Kalle Kunskap i Vilda Vaestern (Sweden) (Track 16).bin, CRC: dbdf4579
-- Kalle Kunskap i Vilda Vaestern (Sweden) (Track 17).bin, CRC: 83b3b0b0
-- Kalle Kunskap i Vilda Vaestern (Sweden) (Track 18).bin, CRC: a9c66ead
-- Kalle Kunskap i Vilda Vaestern (Sweden) (Track 19).bin, CRC: f2cbe0b6
-- Kalle Kunskap i Vilda Vaestern (Sweden) (Track 20).bin, CRC: dbaa7d39
-- Kalle Kunskap i Vilda Vaestern (Sweden) (Track 21).bin, CRC: acb3100a
-- Kalle Kunskap i Vilda Vaestern (Sweden) (Track 22).bin, CRC: 86c21452
-- Kalle Kunskap i Vilda Vaestern (Sweden) (Track 23).bin, CRC: 371c5eb7
-- Kalle Kunskap i Vilda Vaestern (Sweden) (Track 24).bin, CRC: d3d5cd21
-- Kalle Kunskap i Vilda Vaestern (Sweden) (Track 25).bin, CRC: 6515dec7
-- Kalle Kunskap i Vilda Vaestern (Sweden) (Track 26).bin, CRC: d8598e3d
-- Kalle Kunskap i Vilda Vaestern (Sweden) (Track 27).bin, CRC: 49819dcd
-</details>
-
-### Kalle Kunskap och den Mystiska Ordtjuven (Sweden)
-<details>
-<summary>ROMs</summary>
-
-- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 01).bin, CRC: 0dbda897
-- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 02).bin, CRC: 0b95e752
-- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 03).bin, CRC: bea41e53
-- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 04).bin, CRC: de5cdb3d
-- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 05).bin, CRC: faeb5c3f
-- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 06).bin, CRC: 83377e26
-- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 07).bin, CRC: f4f9a649
-- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 08).bin, CRC: 77f44d23
-- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 09).bin, CRC: f542950b
-- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 10).bin, CRC: e522f0ea
-- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 11).bin, CRC: 3abe8ba5
-- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 12).bin, CRC: 6bed3628
-- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 13).bin, CRC: 315915be
-- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 14).bin, CRC: bf8fbedf
-- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 15).bin, CRC: 3b63c018
-- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 16).bin, CRC: 3ec8c5e3
-- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 17).bin, CRC: 678085e6
-- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 18).bin, CRC: 3214aa8b
-- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 19).bin, CRC: 6383e32d
-- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 20).bin, CRC: 89e5eae6
-- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 21).bin, CRC: af826e0a
-- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 22).bin, CRC: 0c8a746b
-- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 23).bin, CRC: 8c114ef1
-- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 24).bin, CRC: 7a82da2e
-- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 25).bin, CRC: 01ab0293
-- Kalle Kunskap och den Mystiska Ordtjuven (Sweden) (Track 26).bin, CRC: c3bbb331
-</details>
-
-### Kalle Kunskap och Kalabaliken pa Ostoen (Sweden) (Alt)
-<details>
-<summary>ROMs</summary>
-
-- Kalle Kunskap och Kalabaliken pa Ostoen (Sweden) (Alt) (Track 01).bin, CRC: 3dfe0f7e
-- Kalle Kunskap och Kalabaliken pa Ostoen (Sweden) (Alt) (Track 02).bin, CRC: a60884d6
-- Kalle Kunskap och Kalabaliken pa Ostoen (Sweden) (Alt) (Track 03).bin, CRC: cacc7e2a
-- Kalle Kunskap och Kalabaliken pa Ostoen (Sweden) (Alt) (Track 04).bin, CRC: 694c4831
-- Kalle Kunskap och Kalabaliken pa Ostoen (Sweden) (Alt) (Track 05).bin, CRC: 85d76459
-- Kalle Kunskap och Kalabaliken pa Ostoen (Sweden) (Alt) (Track 06).bin, CRC: 239b7156
-- Kalle Kunskap och Kalabaliken pa Ostoen (Sweden) (Alt) (Track 07).bin, CRC: fd638676
-- Kalle Kunskap och Kalabaliken pa Ostoen (Sweden) (Alt) (Track 08).bin, CRC: bb46fe94
-- Kalle Kunskap och Kalabaliken pa Ostoen (Sweden) (Alt) (Track 09).bin, CRC: fba1aeb0
-- Kalle Kunskap och Kalabaliken pa Ostoen (Sweden) (Alt) (Track 10).bin, CRC: 37467dde
-- Kalle Kunskap och Kalabaliken pa Ostoen (Sweden) (Alt) (Track 11).bin, CRC: 699aa707
-- Kalle Kunskap och Kalabaliken pa Ostoen (Sweden) (Alt) (Track 12).bin, CRC: 62e3a90d
-- Kalle Kunskap och Kalabaliken pa Ostoen (Sweden) (Alt) (Track 13).bin, CRC: ce9ba207
-- Kalle Kunskap och Kalabaliken pa Ostoen (Sweden) (Alt) (Track 14).bin, CRC: 84f58734
-- Kalle Kunskap och Kalabaliken pa Ostoen (Sweden) (Alt) (Track 15).bin, CRC: 8ce5d294
-- Kalle Kunskap och Kalabaliken pa Ostoen (Sweden) (Alt) (Track 16).bin, CRC: 4c1e8d71
-- Kalle Kunskap och Kalabaliken pa Ostoen (Sweden) (Alt) (Track 17).bin, CRC: 40244a8d
-- Kalle Kunskap och Kalabaliken pa Ostoen (Sweden) (Alt) (Track 18).bin, CRC: 69f45171
-- Kalle Kunskap och Kalabaliken pa Ostoen (Sweden) (Alt) (Track 19).bin, CRC: 8791b83d
-- Kalle Kunskap och Kalabaliken pa Ostoen (Sweden) (Alt) (Track 20).bin, CRC: 305a3d15
-- Kalle Kunskap och Kalabaliken pa Ostoen (Sweden) (Alt) (Track 21).bin, CRC: 2bade02b
-- Kalle Kunskap och Kalabaliken pa Ostoen (Sweden) (Alt) (Track 22).bin, CRC: 4a35ad54
-- Kalle Kunskap och Kalabaliken pa Ostoen (Sweden) (Alt) (Track 23).bin, CRC: 576c69e8
-- Kalle Kunskap och Kalabaliken pa Ostoen (Sweden) (Alt) (Track 24).bin, CRC: 4c8bc219
-- Kalle Kunskap och Kalabaliken pa Ostoen (Sweden) (Alt) (Track 25).bin, CRC: 5cd09bd5
-- Kalle Kunskap och Kalabaliken pa Ostoen (Sweden) (Alt) (Track 26).bin, CRC: feb1acd9
-</details>
-
 ### Karous - The Beast of Re-Eden - Original Soundtrack Chocolate Flavored Suicide (Japan) (Track 39).bin, CRC: 318783fa
 ### King of Fighters 2002, The - Unlimited Match - Limited Sound Track (Japan)
 <details>
@@ -904,14 +795,6 @@
 </details>
 
 ### Konami Game Music Remix Series Vol. 2 - Salamander Remixes (Japan) (Track 6).bin, CRC: 1af608be
-### Konami Game Music Vol. 1 (Japan) (Reprint)
-<details>
-<summary>ROMs</summary>
-
-- Konami Game Music Vol. 1 (Japan) (Reprint) (Track 01).bin, CRC: 655cb3ef
-- Konami Game Music Vol. 1 (Japan) (Reprint) (Track 40).bin, CRC: af6e6b96
-</details>
-
 ### Konami Game Music Vol. 2 (Japan) (Rerelease)
 <details>
 <summary>ROMs</summary>
@@ -1130,6 +1013,22 @@
 
 ### Mana-Khemia 2 - Original Soundtrack (Japan) (Disc 1) (Track 40).bin, CRC: 77c8eb14
 ### Mana-Khemia 2 - Original Soundtrack (Japan) (Disc 2) (Track 37).bin, CRC: 8b7a0244
+### Memories Off 6 - T-Wave - Vocal Collection (Japan) (PSP System Bundle)
+<details>
+<summary>ROMs</summary>
+
+- Memories Off 6 - T-Wave - Vocal Collection (Japan) (PSP System Bundle) (Track 01).bin, CRC: fd935acd
+- Memories Off 6 - T-Wave - Vocal Collection (Japan) (PSP System Bundle) (Track 02).bin, CRC: 6916afcf
+- Memories Off 6 - T-Wave - Vocal Collection (Japan) (PSP System Bundle) (Track 03).bin, CRC: fe27613a
+- Memories Off 6 - T-Wave - Vocal Collection (Japan) (PSP System Bundle) (Track 04).bin, CRC: 609104e4
+- Memories Off 6 - T-Wave - Vocal Collection (Japan) (PSP System Bundle) (Track 05).bin, CRC: fa0829a8
+- Memories Off 6 - T-Wave - Vocal Collection (Japan) (PSP System Bundle) (Track 06).bin, CRC: 6de832f6
+- Memories Off 6 - T-Wave - Vocal Collection (Japan) (PSP System Bundle) (Track 07).bin, CRC: a0eeb80b
+- Memories Off 6 - T-Wave - Vocal Collection (Japan) (PSP System Bundle) (Track 08).bin, CRC: 9066178c
+- Memories Off 6 - T-Wave - Vocal Collection (Japan) (PSP System Bundle) (Track 09).bin, CRC: 7953fc1a
+- Memories Off 6 - T-Wave - Vocal Collection (Japan) (PSP System Bundle) (Track 10).bin, CRC: e70fa4ac
+</details>
+
 ### Metrotronics (Korea)
 <details>
 <summary>ROMs</summary>
@@ -1271,65 +1170,6 @@
 ### Nagomibako - Mini Soundtrack - Sacrament (Japan) (PC Game Bundle) (Track 14).bin, CRC: e99705ee
 ### Nekketsu Koukou Sound-bu SFC-hen (Japan) (Disc 1) (Track 43).bin, CRC: 4f7280c8
 ### Nekketsu Koukou Sound-bu SFC-hen (Japan) (Disc 2) (Track 51).bin, CRC: 648a6912
-### Night Striker - Neo Soundtrack - Revision (Japan) (Disc 1) (Neo Arrange Disc)
-<details>
-<summary>ROMs</summary>
-
-- Night Striker - Neo Soundtrack - Revision (Japan) (Disc 1) (Neo Arrange Disc) (Track 01).bin, CRC: 23ab50af
-- Night Striker - Neo Soundtrack - Revision (Japan) (Disc 1) (Neo Arrange Disc) (Track 02).bin, CRC: 618b7623
-- Night Striker - Neo Soundtrack - Revision (Japan) (Disc 1) (Neo Arrange Disc) (Track 03).bin, CRC: 396571c9
-- Night Striker - Neo Soundtrack - Revision (Japan) (Disc 1) (Neo Arrange Disc) (Track 04).bin, CRC: ff82589f
-- Night Striker - Neo Soundtrack - Revision (Japan) (Disc 1) (Neo Arrange Disc) (Track 05).bin, CRC: e9162b59
-- Night Striker - Neo Soundtrack - Revision (Japan) (Disc 1) (Neo Arrange Disc) (Track 06).bin, CRC: e7098750
-- Night Striker - Neo Soundtrack - Revision (Japan) (Disc 1) (Neo Arrange Disc) (Track 07).bin, CRC: b7ea8724
-- Night Striker - Neo Soundtrack - Revision (Japan) (Disc 1) (Neo Arrange Disc) (Track 08).bin, CRC: 3baa69f1
-- Night Striker - Neo Soundtrack - Revision (Japan) (Disc 1) (Neo Arrange Disc) (Track 09).bin, CRC: 00670d55
-- Night Striker - Neo Soundtrack - Revision (Japan) (Disc 1) (Neo Arrange Disc) (Track 10).bin, CRC: b8db1306
-- Night Striker - Neo Soundtrack - Revision (Japan) (Disc 1) (Neo Arrange Disc) (Track 11).bin, CRC: ae155fb3
-- Night Striker - Neo Soundtrack - Revision (Japan) (Disc 1) (Neo Arrange Disc) (Track 12).bin, CRC: b091b44f
-- Night Striker - Neo Soundtrack - Revision (Japan) (Disc 1) (Neo Arrange Disc) (Track 13).bin, CRC: 1624acc6
-- Night Striker - Neo Soundtrack - Revision (Japan) (Disc 1) (Neo Arrange Disc) (Track 14).bin, CRC: d0fb4763
-- Night Striker - Neo Soundtrack - Revision (Japan) (Disc 1) (Neo Arrange Disc) (Track 15).bin, CRC: 0ab0f797
-- Night Striker - Neo Soundtrack - Revision (Japan) (Disc 1) (Neo Arrange Disc) (Track 16).bin, CRC: 9fe696e6
-- Night Striker - Neo Soundtrack - Revision (Japan) (Disc 1) (Neo Arrange Disc) (Track 17).bin, CRC: 2bca7904
-- Night Striker - Neo Soundtrack - Revision (Japan) (Disc 1) (Neo Arrange Disc) (Track 18).bin, CRC: ccf146a9
-- Night Striker - Neo Soundtrack - Revision (Japan) (Disc 1) (Neo Arrange Disc) (Track 19).bin, CRC: 58cb686e
-- Night Striker - Neo Soundtrack - Revision (Japan) (Disc 1) (Neo Arrange Disc) (Track 20).bin, CRC: 2bb5df48
-- Night Striker - Neo Soundtrack - Revision (Japan) (Disc 1) (Neo Arrange Disc) (Track 21).bin, CRC: 3a4c334e
-</details>
-
-### Night Striker - Neo Soundtrack - Revision (Japan) (Disc 2) (Original & Live Disc)
-<details>
-<summary>ROMs</summary>
-
-- Night Striker - Neo Soundtrack - Revision (Japan) (Disc 2) (Original & Live Disc) (Track 01).bin, CRC: 7e1bee0c
-- Night Striker - Neo Soundtrack - Revision (Japan) (Disc 2) (Original & Live Disc) (Track 02).bin, CRC: da2d494c
-- Night Striker - Neo Soundtrack - Revision (Japan) (Disc 2) (Original & Live Disc) (Track 03).bin, CRC: dd2b624b
-- Night Striker - Neo Soundtrack - Revision (Japan) (Disc 2) (Original & Live Disc) (Track 04).bin, CRC: 57187491
-- Night Striker - Neo Soundtrack - Revision (Japan) (Disc 2) (Original & Live Disc) (Track 05).bin, CRC: 375e86de
-- Night Striker - Neo Soundtrack - Revision (Japan) (Disc 2) (Original & Live Disc) (Track 06).bin, CRC: 79be640b
-- Night Striker - Neo Soundtrack - Revision (Japan) (Disc 2) (Original & Live Disc) (Track 07).bin, CRC: f5341e04
-- Night Striker - Neo Soundtrack - Revision (Japan) (Disc 2) (Original & Live Disc) (Track 08).bin, CRC: ca55f193
-- Night Striker - Neo Soundtrack - Revision (Japan) (Disc 2) (Original & Live Disc) (Track 09).bin, CRC: 6f7dc899
-- Night Striker - Neo Soundtrack - Revision (Japan) (Disc 2) (Original & Live Disc) (Track 10).bin, CRC: 88fa90d8
-- Night Striker - Neo Soundtrack - Revision (Japan) (Disc 2) (Original & Live Disc) (Track 11).bin, CRC: 4c7c786c
-- Night Striker - Neo Soundtrack - Revision (Japan) (Disc 2) (Original & Live Disc) (Track 12).bin, CRC: 5c067ec1
-- Night Striker - Neo Soundtrack - Revision (Japan) (Disc 2) (Original & Live Disc) (Track 13).bin, CRC: 30eae5f4
-- Night Striker - Neo Soundtrack - Revision (Japan) (Disc 2) (Original & Live Disc) (Track 14).bin, CRC: ca6ffacb
-- Night Striker - Neo Soundtrack - Revision (Japan) (Disc 2) (Original & Live Disc) (Track 15).bin, CRC: 316ed974
-- Night Striker - Neo Soundtrack - Revision (Japan) (Disc 2) (Original & Live Disc) (Track 16).bin, CRC: 2745795e
-- Night Striker - Neo Soundtrack - Revision (Japan) (Disc 2) (Original & Live Disc) (Track 17).bin, CRC: 216d0bb1
-- Night Striker - Neo Soundtrack - Revision (Japan) (Disc 2) (Original & Live Disc) (Track 18).bin, CRC: 016c809e
-- Night Striker - Neo Soundtrack - Revision (Japan) (Disc 2) (Original & Live Disc) (Track 19).bin, CRC: bcc537bf
-- Night Striker - Neo Soundtrack - Revision (Japan) (Disc 2) (Original & Live Disc) (Track 20).bin, CRC: 754359e5
-- Night Striker - Neo Soundtrack - Revision (Japan) (Disc 2) (Original & Live Disc) (Track 21).bin, CRC: fef6c37f
-- Night Striker - Neo Soundtrack - Revision (Japan) (Disc 2) (Original & Live Disc) (Track 22).bin, CRC: 41d8a9b5
-- Night Striker - Neo Soundtrack - Revision (Japan) (Disc 2) (Original & Live Disc) (Track 23).bin, CRC: 3d30b52c
-- Night Striker - Neo Soundtrack - Revision (Japan) (Disc 2) (Original & Live Disc) (Track 24).bin, CRC: 64311fe2
-- Night Striker - Neo Soundtrack - Revision (Japan) (Disc 2) (Original & Live Disc) (Track 25).bin, CRC: 9aa489cd
-- Night Striker - Neo Soundtrack - Revision (Japan) (Disc 2) (Original & Live Disc) (Track 26).bin, CRC: 877e3219
-</details>
-
 ### ONGEKI Sound Collection 03 - Splash Dance!! (Japan)
 <details>
 <summary>ROMs</summary>
@@ -1470,6 +1310,7 @@
 - Postujte Nase Znakove (Croatia) (PC Game Bundle) (Track 12).bin, CRC: 5f3f45a3
 </details>
 
+### Psyvariar Reassemble - Original Soundtrack (Japan) (Disc 2) (Psyvariar - Medium Unit) (Track 01).bin, CRC: c48bcece
 ### Pure Pure - Mimi to Shippo no Monogatari - Special CD (Japan) (PS2 Game Bundle)
 <details>
 <summary>ROMs</summary>
@@ -1485,7 +1326,6 @@
 </details>
 
 ### Pure Song Garden! Sound Track Mirai Record! (Japan) (Track 26).bin, CRC: 29fcca68
-### Quartett! - Gengakukyoku Original Sound Track (Japan) (PC Game Bundle) (Track 9).bin, CRC: 3458116c
 ### R4 - Ridge Racer Type 4 - The 20th Anniv. Sounds (Japan) (Disc 2) (2nd Heat - Remastered Sounds) (Alt 2)
 <details>
 <summary>ROMs</summary>
@@ -1517,32 +1357,7 @@
 - R4 - Ridge Racer Type 4 - The 20th Anniv. Sounds (Japan) (Disc 2) (2nd Heat - Remastered Sounds) (Alt 2) (Track 25).bin, CRC: 09b10cd6
 </details>
 
-### Radiant Silvergun (Japan) (Disc 1) (Chiptune Arrangement) (NSW Game Bundle) (Track 08).bin, CRC: a3d52dd0
-### Raiden IV x Mikado Remix - Original Sound Tracks - Mikado Edition (Japan)
-<details>
-<summary>ROMs</summary>
-
-- Raiden IV x Mikado Remix - Original Sound Tracks - Mikado Edition (Japan) (Track 01).bin, CRC: 0bb18a43
-- Raiden IV x Mikado Remix - Original Sound Tracks - Mikado Edition (Japan) (Track 02).bin, CRC: d2683a68
-- Raiden IV x Mikado Remix - Original Sound Tracks - Mikado Edition (Japan) (Track 03).bin, CRC: a5951b4a
-- Raiden IV x Mikado Remix - Original Sound Tracks - Mikado Edition (Japan) (Track 04).bin, CRC: 8b21d78b
-- Raiden IV x Mikado Remix - Original Sound Tracks - Mikado Edition (Japan) (Track 05).bin, CRC: 53aa527b
-- Raiden IV x Mikado Remix - Original Sound Tracks - Mikado Edition (Japan) (Track 06).bin, CRC: d4d28a71
-- Raiden IV x Mikado Remix - Original Sound Tracks - Mikado Edition (Japan) (Track 07).bin, CRC: 4f9af492
-- Raiden IV x Mikado Remix - Original Sound Tracks - Mikado Edition (Japan) (Track 08).bin, CRC: 371bebe4
-- Raiden IV x Mikado Remix - Original Sound Tracks - Mikado Edition (Japan) (Track 09).bin, CRC: b69dc079
-- Raiden IV x Mikado Remix - Original Sound Tracks - Mikado Edition (Japan) (Track 10).bin, CRC: cf009f4a
-- Raiden IV x Mikado Remix - Original Sound Tracks - Mikado Edition (Japan) (Track 11).bin, CRC: 025ffa68
-- Raiden IV x Mikado Remix - Original Sound Tracks - Mikado Edition (Japan) (Track 12).bin, CRC: 2a76aa19
-- Raiden IV x Mikado Remix - Original Sound Tracks - Mikado Edition (Japan) (Track 13).bin, CRC: d4aa0d80
-- Raiden IV x Mikado Remix - Original Sound Tracks - Mikado Edition (Japan) (Track 14).bin, CRC: 3b52f4af
-- Raiden IV x Mikado Remix - Original Sound Tracks - Mikado Edition (Japan) (Track 15).bin, CRC: 23c9cc18
-- Raiden IV x Mikado Remix - Original Sound Tracks - Mikado Edition (Japan) (Track 16).bin, CRC: d060e7c9
-- Raiden IV x Mikado Remix - Original Sound Tracks - Mikado Edition (Japan) (Track 17).bin, CRC: fbc9236d
-- Raiden IV x Mikado Remix - Original Sound Tracks - Mikado Edition (Japan) (Track 18).bin, CRC: 2ab243ad
-- Raiden IV x Mikado Remix - Original Sound Tracks - Mikado Edition (Japan) (Track 19).bin, CRC: dc099383
-</details>
-
+### Raiden IV x Mikado Remix - Original Sound Tracks - Mikado Edition (Japan) (Track 19).bin, CRC: dc099383
 ### Raiden IV x Mikado Remix OST Mikado Edition Special Disc - HM x HMR Mini Single CDR (Japan) (Track 1).bin, CRC: bd20c3d1
 ### Raspberry Potion (Japan)
 <details>
@@ -1560,7 +1375,6 @@
 - Raspberry Potion (Japan) (Track 10).bin, CRC: 98dbcfe5
 </details>
 
-### RayCrisis - Rayons de l'Air (Japan) (Track 13).bin, CRC: 53f9e869
 ### Ren'ai Saimin - Tsun na Kanojo ga Dereru Saimin - Sofmap Original Drama CD - Saimin Maid Kissa e Youkoso! (Japan).bin, CRC: 4f4e79b6
 ### Ren'ai Saimin - Tsun na Kanojo ga Dereru Saimin - Vocal and Soundtrack (Japan)
 <details>
@@ -1590,18 +1404,20 @@
 - Ren'ai Saimin - Tsun na Kanojo ga Dereru Saimin - Vocal and Soundtrack (Japan) (Track 22).bin, CRC: 2dd08880
 </details>
 
+### Restaurant Dream (Japan)
+<details>
+<summary>ROMs</summary>
+
+- Restaurant Dream (Japan) (Track 1).bin, CRC: 4433de1d
+- Restaurant Dream (Japan) (Track 2).bin, CRC: 41eee639
+- Restaurant Dream (Japan) (Track 3).bin, CRC: fe764f28
+- Restaurant Dream (Japan) (Track 4).bin, CRC: 41018057
+</details>
+
 ### Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 59).bin, CRC: f7873704
 ### Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 2) (Track 23).bin, CRC: aa30e4af
 ### Rondo Leaflet Arrange Minialbum - Allow Time to Brew (Japan) (Track 7).bin, CRC: 7a7bf76f
 ### Rondo Leaflet Original Soundtrack - Old Rose Garden (Japan) (Disc 2) (Track 13).bin, CRC: 20351c0d
-### Ryzeen (Japan)
-<details>
-<summary>ROMs</summary>
-
-- Ryzeen (Japan) (Track 1).bin, CRC: 7215aabf
-- Ryzeen (Japan) (Track 2).bin, CRC: 77fd970b
-</details>
-
 ### SaGa Frontier II - Original Soundtrack (Japan) (Disc 1) (Track 28).bin, CRC: 825ccc5b
 ### SaGa Frontier II - Original Soundtrack (Japan) (Disc 3) (Track 21).bin, CRC: 5d4655a9
 ### Sakura Sakura Tori-oroshi Drama CD - Gakuen Tengoku Daisakusen (Japan).bin, CRC: 0857e6fc
@@ -2206,6 +2022,46 @@
 </details>
 
 ### Sweetly Revolution 3000 - 2nd Impression (Japan) (Track 12).bin, CRC: 93800aac
+### SystemSoft Alpha & Unicorn-A Vocal Collection Vol. 2 (Japan)
+<details>
+<summary>ROMs</summary>
+
+- SystemSoft Alpha & Unicorn-A Vocal Collection Vol. 2 (Japan) (Track 01).bin, CRC: 46409b93
+- SystemSoft Alpha & Unicorn-A Vocal Collection Vol. 2 (Japan) (Track 02).bin, CRC: 3f7294ec
+- SystemSoft Alpha & Unicorn-A Vocal Collection Vol. 2 (Japan) (Track 03).bin, CRC: 7922aa6d
+- SystemSoft Alpha & Unicorn-A Vocal Collection Vol. 2 (Japan) (Track 04).bin, CRC: 397d9f96
+- SystemSoft Alpha & Unicorn-A Vocal Collection Vol. 2 (Japan) (Track 05).bin, CRC: 703c046d
+- SystemSoft Alpha & Unicorn-A Vocal Collection Vol. 2 (Japan) (Track 06).bin, CRC: e77bcdf0
+- SystemSoft Alpha & Unicorn-A Vocal Collection Vol. 2 (Japan) (Track 07).bin, CRC: 387f0be9
+- SystemSoft Alpha & Unicorn-A Vocal Collection Vol. 2 (Japan) (Track 08).bin, CRC: 362af09e
+- SystemSoft Alpha & Unicorn-A Vocal Collection Vol. 2 (Japan) (Track 09).bin, CRC: ff7fb636
+- SystemSoft Alpha & Unicorn-A Vocal Collection Vol. 2 (Japan) (Track 10).bin, CRC: 50bc62ba
+- SystemSoft Alpha & Unicorn-A Vocal Collection Vol. 2 (Japan) (Track 11).bin, CRC: e99e2489
+</details>
+
+### SystemSoft Alpha & Unicorn-A Vocal Collection Vol. 4 (Japan)
+<details>
+<summary>ROMs</summary>
+
+- SystemSoft Alpha & Unicorn-A Vocal Collection Vol. 4 (Japan) (Track 01).bin, CRC: 8931095b
+- SystemSoft Alpha & Unicorn-A Vocal Collection Vol. 4 (Japan) (Track 02).bin, CRC: f898a2a0
+- SystemSoft Alpha & Unicorn-A Vocal Collection Vol. 4 (Japan) (Track 03).bin, CRC: 5c2ff914
+- SystemSoft Alpha & Unicorn-A Vocal Collection Vol. 4 (Japan) (Track 04).bin, CRC: 90ea0be0
+- SystemSoft Alpha & Unicorn-A Vocal Collection Vol. 4 (Japan) (Track 05).bin, CRC: 4b879b3f
+- SystemSoft Alpha & Unicorn-A Vocal Collection Vol. 4 (Japan) (Track 06).bin, CRC: 9ee37c67
+- SystemSoft Alpha & Unicorn-A Vocal Collection Vol. 4 (Japan) (Track 07).bin, CRC: 02812971
+- SystemSoft Alpha & Unicorn-A Vocal Collection Vol. 4 (Japan) (Track 08).bin, CRC: c07b539a
+- SystemSoft Alpha & Unicorn-A Vocal Collection Vol. 4 (Japan) (Track 09).bin, CRC: 7efd0513
+- SystemSoft Alpha & Unicorn-A Vocal Collection Vol. 4 (Japan) (Track 10).bin, CRC: 423d72bd
+- SystemSoft Alpha & Unicorn-A Vocal Collection Vol. 4 (Japan) (Track 11).bin, CRC: 786ee412
+- SystemSoft Alpha & Unicorn-A Vocal Collection Vol. 4 (Japan) (Track 12).bin, CRC: de1c74a4
+- SystemSoft Alpha & Unicorn-A Vocal Collection Vol. 4 (Japan) (Track 13).bin, CRC: a858c8df
+- SystemSoft Alpha & Unicorn-A Vocal Collection Vol. 4 (Japan) (Track 14).bin, CRC: 1b743e04
+- SystemSoft Alpha & Unicorn-A Vocal Collection Vol. 4 (Japan) (Track 15).bin, CRC: 18742cf2
+- SystemSoft Alpha & Unicorn-A Vocal Collection Vol. 4 (Japan) (Track 16).bin, CRC: 6345c289
+- SystemSoft Alpha & Unicorn-A Vocal Collection Vol. 4 (Japan) (Track 17).bin, CRC: 6a60bd51
+</details>
+
 ### Taito Milestones - Soundtrack (Europe) (NSW Game Bundle)
 <details>
 <summary>ROMs</summary>
@@ -2379,29 +2235,6 @@
 - That's Atari Music Vol. II - G.S.M. Atari Games 2 (Japan) (Reprint) (Track 72).bin, CRC: 3dd0e20b
 </details>
 
-### Theme from Blade Runner (Germany)
-<details>
-<summary>ROMs</summary>
-
-- Theme from Blade Runner (Germany) (Track 3).bin, CRC: bcbe89f7
-- Theme from Blade Runner (Germany) (Track 4).bin, CRC: fd670aaa
-- Theme from Blade Runner (Germany) (Track 7).bin, CRC: abd6ef9d
-- Theme from Blade Runner (Germany) (Track 8).bin, CRC: 34ba75ca
-</details>
-
-### Tim Burton's The Nightmare Before Christmas - Boogie no Gyakushuu - Original Game Soundtrack (Japan) (Multisystem Game Bundle)
-<details>
-<summary>ROMs</summary>
-
-- Tim Burton's The Nightmare Before Christmas - Boogie no Gyakushuu - Original Game Soundtrack (Japan) (Multisystem Game Bundle) (Track 1).bin, CRC: 52badc7f
-- Tim Burton's The Nightmare Before Christmas - Boogie no Gyakushuu - Original Game Soundtrack (Japan) (Multisystem Game Bundle) (Track 2).bin, CRC: 05a1a065
-- Tim Burton's The Nightmare Before Christmas - Boogie no Gyakushuu - Original Game Soundtrack (Japan) (Multisystem Game Bundle) (Track 3).bin, CRC: 7f98192e
-- Tim Burton's The Nightmare Before Christmas - Boogie no Gyakushuu - Original Game Soundtrack (Japan) (Multisystem Game Bundle) (Track 4).bin, CRC: e6358955
-- Tim Burton's The Nightmare Before Christmas - Boogie no Gyakushuu - Original Game Soundtrack (Japan) (Multisystem Game Bundle) (Track 5).bin, CRC: a5b3e2d6
-- Tim Burton's The Nightmare Before Christmas - Boogie no Gyakushuu - Original Game Soundtrack (Japan) (Multisystem Game Bundle) (Track 6).bin, CRC: 2b61b082
-- Tim Burton's The Nightmare Before Christmas - Boogie no Gyakushuu - Original Game Soundtrack (Japan) (Multisystem Game Bundle) (Track 7).bin, CRC: a8800e8f
-</details>
-
 ### Tomak - Save the Earth, Again (Korea) (Original Sound Track) (PC Game Bundle)
 <details>
 <summary>ROMs</summary>
@@ -2441,27 +2274,6 @@
 - Tomak - Save the Earth,Again (Korea) (Original Sound Track) (PC Game Bundle) (Track 33).bin, CRC: 48b5db0d
 - Tomak - Save the Earth,Again (Korea) (Original Sound Track) (PC Game Bundle) (Track 34).bin, CRC: e90efaf4
 - Tomak - Save the Earth,Again (Korea) (Original Sound Track) (PC Game Bundle) (Track 35).bin, CRC: 30d9e1f9
-</details>
-
-### Toutes les Musiques de l'Emission Micro Kid's (France)
-<details>
-<summary>ROMs</summary>
-
-- Toutes les Musiques de l'Emission Micro Kid's (France) (Track 01).bin, CRC: df31f7a9
-- Toutes les Musiques de l'Emission Micro Kid's (France) (Track 02).bin, CRC: 46235be6
-- Toutes les Musiques de l'Emission Micro Kid's (France) (Track 03).bin, CRC: 396c320d
-- Toutes les Musiques de l'Emission Micro Kid's (France) (Track 04).bin, CRC: da3fa16d
-- Toutes les Musiques de l'Emission Micro Kid's (France) (Track 05).bin, CRC: a7d867af
-- Toutes les Musiques de l'Emission Micro Kid's (France) (Track 06).bin, CRC: 93ad4d46
-- Toutes les Musiques de l'Emission Micro Kid's (France) (Track 07).bin, CRC: 753fa52b
-- Toutes les Musiques de l'Emission Micro Kid's (France) (Track 08).bin, CRC: ebb7d04d
-- Toutes les Musiques de l'Emission Micro Kid's (France) (Track 09).bin, CRC: e545c782
-- Toutes les Musiques de l'Emission Micro Kid's (France) (Track 10).bin, CRC: 9138ed89
-- Toutes les Musiques de l'Emission Micro Kid's (France) (Track 11).bin, CRC: c05d2ff1
-- Toutes les Musiques de l'Emission Micro Kid's (France) (Track 12).bin, CRC: 17485e88
-- Toutes les Musiques de l'Emission Micro Kid's (France) (Track 13).bin, CRC: 67a305b6
-- Toutes les Musiques de l'Emission Micro Kid's (France) (Track 14).bin, CRC: d82ea1e2
-- Toutes les Musiques de l'Emission Micro Kid's (France) (Track 15).bin, CRC: 1cec054d
 </details>
 
 ### Toy-Chara Pop Collection Vol. 3 - Video Game-hen (Japan)
@@ -2509,17 +2321,7 @@
 - TV Game Super Hero Daishuugou (Japan) (Track 16).bin, CRC: 5d529c7e
 </details>
 
-### Unendliche Melodie - Pianissimo Reservation Privilege (Japan)
-<details>
-<summary>ROMs</summary>
-
-- Unendliche Melodie - Pianissimo Reservation Privilege (Japan) (Track 1).bin, CRC: 07b6b21a
-- Unendliche Melodie - Pianissimo Reservation Privilege (Japan) (Track 2).bin, CRC: fd87c752
-- Unendliche Melodie - Pianissimo Reservation Privilege (Japan) (Track 3).bin, CRC: 5fe389f0
-- Unendliche Melodie - Pianissimo Reservation Privilege (Japan) (Track 4).bin, CRC: 2cc51d8f
-- Unendliche Melodie - Pianissimo Reservation Privilege (Japan) (Track 5).bin, CRC: 4ebbbb18
-</details>
-
+### Unendliche Melodie - Pianissimo Reservation Privilege (Japan) (Track 5).bin, CRC: 4ebbbb18
 ### Velvet Echo - Sound Track (Japan) (PC Game Bundle)
 <details>
 <summary>ROMs</summary>
@@ -2751,55 +2553,111 @@
 - Wizardry Variants Daphne - Original Soundtrack (Japan) (Disc 2) (Track 20).bin, CRC: de5da191
 </details>
 
-### Wonderful Everyday 15th Anniversary Edition (Japan) (Subarashiki Hibi - Furenzoku Sonzai - Soundtrack CD Disc 1) (PC Game Bundle)
+### Wonderful Everyday 15th Anniversary Edition (Japan) (Subarashiki Hibi - Furenzoku Sonzai - Soundtrack CD Disc 1) (PC Game Bundle) (Track 20).bin, CRC: 61044b5c
+### Wonderful Everyday 15th Anniversary Edition (Japan) (Subarashiki Hibi - Furenzoku Sonzai - Soundtrack CD Disc 2) (PC Game Bundle) (Track 19).bin, CRC: 876033c3
+### Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan)
 <details>
 <summary>ROMs</summary>
 
-- Wonderful Everyday 15th Anniversary Edition (Japan) (Subarashiki Hibi - Furenzoku Sonzai - Soundtrack CD Disc 1) (PC Game Bundle) (Track 01).bin, CRC: 4b06c87f
-- Wonderful Everyday 15th Anniversary Edition (Japan) (Subarashiki Hibi - Furenzoku Sonzai - Soundtrack CD Disc 1) (PC Game Bundle) (Track 02).bin, CRC: cd416de1
-- Wonderful Everyday 15th Anniversary Edition (Japan) (Subarashiki Hibi - Furenzoku Sonzai - Soundtrack CD Disc 1) (PC Game Bundle) (Track 03).bin, CRC: b7518d1a
-- Wonderful Everyday 15th Anniversary Edition (Japan) (Subarashiki Hibi - Furenzoku Sonzai - Soundtrack CD Disc 1) (PC Game Bundle) (Track 04).bin, CRC: e625cf1d
-- Wonderful Everyday 15th Anniversary Edition (Japan) (Subarashiki Hibi - Furenzoku Sonzai - Soundtrack CD Disc 1) (PC Game Bundle) (Track 05).bin, CRC: 846de47c
-- Wonderful Everyday 15th Anniversary Edition (Japan) (Subarashiki Hibi - Furenzoku Sonzai - Soundtrack CD Disc 1) (PC Game Bundle) (Track 06).bin, CRC: 89bb7f42
-- Wonderful Everyday 15th Anniversary Edition (Japan) (Subarashiki Hibi - Furenzoku Sonzai - Soundtrack CD Disc 1) (PC Game Bundle) (Track 07).bin, CRC: 57fc015e
-- Wonderful Everyday 15th Anniversary Edition (Japan) (Subarashiki Hibi - Furenzoku Sonzai - Soundtrack CD Disc 1) (PC Game Bundle) (Track 08).bin, CRC: b43a2b22
-- Wonderful Everyday 15th Anniversary Edition (Japan) (Subarashiki Hibi - Furenzoku Sonzai - Soundtrack CD Disc 1) (PC Game Bundle) (Track 09).bin, CRC: 0c279c8c
-- Wonderful Everyday 15th Anniversary Edition (Japan) (Subarashiki Hibi - Furenzoku Sonzai - Soundtrack CD Disc 1) (PC Game Bundle) (Track 10).bin, CRC: 24762305
-- Wonderful Everyday 15th Anniversary Edition (Japan) (Subarashiki Hibi - Furenzoku Sonzai - Soundtrack CD Disc 1) (PC Game Bundle) (Track 11).bin, CRC: eb24cc13
-- Wonderful Everyday 15th Anniversary Edition (Japan) (Subarashiki Hibi - Furenzoku Sonzai - Soundtrack CD Disc 1) (PC Game Bundle) (Track 12).bin, CRC: 130bf603
-- Wonderful Everyday 15th Anniversary Edition (Japan) (Subarashiki Hibi - Furenzoku Sonzai - Soundtrack CD Disc 1) (PC Game Bundle) (Track 13).bin, CRC: c8696774
-- Wonderful Everyday 15th Anniversary Edition (Japan) (Subarashiki Hibi - Furenzoku Sonzai - Soundtrack CD Disc 1) (PC Game Bundle) (Track 14).bin, CRC: 2710391a
-- Wonderful Everyday 15th Anniversary Edition (Japan) (Subarashiki Hibi - Furenzoku Sonzai - Soundtrack CD Disc 1) (PC Game Bundle) (Track 15).bin, CRC: 38b03998
-- Wonderful Everyday 15th Anniversary Edition (Japan) (Subarashiki Hibi - Furenzoku Sonzai - Soundtrack CD Disc 1) (PC Game Bundle) (Track 16).bin, CRC: d36c1318
-- Wonderful Everyday 15th Anniversary Edition (Japan) (Subarashiki Hibi - Furenzoku Sonzai - Soundtrack CD Disc 1) (PC Game Bundle) (Track 17).bin, CRC: ddea19d2
-- Wonderful Everyday 15th Anniversary Edition (Japan) (Subarashiki Hibi - Furenzoku Sonzai - Soundtrack CD Disc 1) (PC Game Bundle) (Track 18).bin, CRC: b2b7d612
-- Wonderful Everyday 15th Anniversary Edition (Japan) (Subarashiki Hibi - Furenzoku Sonzai - Soundtrack CD Disc 1) (PC Game Bundle) (Track 19).bin, CRC: 252e8e91
-- Wonderful Everyday 15th Anniversary Edition (Japan) (Subarashiki Hibi - Furenzoku Sonzai - Soundtrack CD Disc 1) (PC Game Bundle) (Track 20).bin, CRC: 61044b5c
-</details>
-
-### Wonderful Everyday 15th Anniversary Edition (Japan) (Subarashiki Hibi - Furenzoku Sonzai - Soundtrack CD Disc 2) (PC Game Bundle)
-<details>
-<summary>ROMs</summary>
-
-- Wonderful Everyday 15th Anniversary Edition (Japan) (Subarashiki Hibi - Furenzoku Sonzai - Soundtrack CD Disc 2) (PC Game Bundle) (Track 01).bin, CRC: 463c0f84
-- Wonderful Everyday 15th Anniversary Edition (Japan) (Subarashiki Hibi - Furenzoku Sonzai - Soundtrack CD Disc 2) (PC Game Bundle) (Track 02).bin, CRC: 3668bbeb
-- Wonderful Everyday 15th Anniversary Edition (Japan) (Subarashiki Hibi - Furenzoku Sonzai - Soundtrack CD Disc 2) (PC Game Bundle) (Track 03).bin, CRC: 627da391
-- Wonderful Everyday 15th Anniversary Edition (Japan) (Subarashiki Hibi - Furenzoku Sonzai - Soundtrack CD Disc 2) (PC Game Bundle) (Track 04).bin, CRC: a3bdf6c5
-- Wonderful Everyday 15th Anniversary Edition (Japan) (Subarashiki Hibi - Furenzoku Sonzai - Soundtrack CD Disc 2) (PC Game Bundle) (Track 05).bin, CRC: 05258a62
-- Wonderful Everyday 15th Anniversary Edition (Japan) (Subarashiki Hibi - Furenzoku Sonzai - Soundtrack CD Disc 2) (PC Game Bundle) (Track 06).bin, CRC: 3d61db00
-- Wonderful Everyday 15th Anniversary Edition (Japan) (Subarashiki Hibi - Furenzoku Sonzai - Soundtrack CD Disc 2) (PC Game Bundle) (Track 07).bin, CRC: 3d03f444
-- Wonderful Everyday 15th Anniversary Edition (Japan) (Subarashiki Hibi - Furenzoku Sonzai - Soundtrack CD Disc 2) (PC Game Bundle) (Track 08).bin, CRC: ade6858f
-- Wonderful Everyday 15th Anniversary Edition (Japan) (Subarashiki Hibi - Furenzoku Sonzai - Soundtrack CD Disc 2) (PC Game Bundle) (Track 09).bin, CRC: e8193c69
-- Wonderful Everyday 15th Anniversary Edition (Japan) (Subarashiki Hibi - Furenzoku Sonzai - Soundtrack CD Disc 2) (PC Game Bundle) (Track 10).bin, CRC: 47fb346d
-- Wonderful Everyday 15th Anniversary Edition (Japan) (Subarashiki Hibi - Furenzoku Sonzai - Soundtrack CD Disc 2) (PC Game Bundle) (Track 11).bin, CRC: 3b2d3db5
-- Wonderful Everyday 15th Anniversary Edition (Japan) (Subarashiki Hibi - Furenzoku Sonzai - Soundtrack CD Disc 2) (PC Game Bundle) (Track 12).bin, CRC: 22b007af
-- Wonderful Everyday 15th Anniversary Edition (Japan) (Subarashiki Hibi - Furenzoku Sonzai - Soundtrack CD Disc 2) (PC Game Bundle) (Track 13).bin, CRC: 0e22005d
-- Wonderful Everyday 15th Anniversary Edition (Japan) (Subarashiki Hibi - Furenzoku Sonzai - Soundtrack CD Disc 2) (PC Game Bundle) (Track 14).bin, CRC: dd28ad6e
-- Wonderful Everyday 15th Anniversary Edition (Japan) (Subarashiki Hibi - Furenzoku Sonzai - Soundtrack CD Disc 2) (PC Game Bundle) (Track 15).bin, CRC: d710444c
-- Wonderful Everyday 15th Anniversary Edition (Japan) (Subarashiki Hibi - Furenzoku Sonzai - Soundtrack CD Disc 2) (PC Game Bundle) (Track 16).bin, CRC: 1d2248ed
-- Wonderful Everyday 15th Anniversary Edition (Japan) (Subarashiki Hibi - Furenzoku Sonzai - Soundtrack CD Disc 2) (PC Game Bundle) (Track 17).bin, CRC: b03eca80
-- Wonderful Everyday 15th Anniversary Edition (Japan) (Subarashiki Hibi - Furenzoku Sonzai - Soundtrack CD Disc 2) (PC Game Bundle) (Track 18).bin, CRC: 003a849b
-- Wonderful Everyday 15th Anniversary Edition (Japan) (Subarashiki Hibi - Furenzoku Sonzai - Soundtrack CD Disc 2) (PC Game Bundle) (Track 19).bin, CRC: 876033c3
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 01).bin, CRC: 2bcc47d5
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 02).bin, CRC: 7f317dca
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 03).bin, CRC: e445ae15
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 04).bin, CRC: b625dfe7
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 05).bin, CRC: 7fb36f0b
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 06).bin, CRC: 7ec440f1
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 07).bin, CRC: 243deb22
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 08).bin, CRC: 4ea25d52
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 09).bin, CRC: c6ced187
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 10).bin, CRC: a66e53ea
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 11).bin, CRC: a1958db6
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 12).bin, CRC: 069704e6
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 13).bin, CRC: 3d974edf
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 14).bin, CRC: b0c29df4
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 15).bin, CRC: 9b10ee86
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 16).bin, CRC: bd2ca185
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 17).bin, CRC: 839c0568
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 18).bin, CRC: 6bc2a5a9
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 19).bin, CRC: 3900837e
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 20).bin, CRC: 9eb63fa1
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 21).bin, CRC: 12a18dc7
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 22).bin, CRC: bc19b1aa
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 23).bin, CRC: 6ab9a0c1
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 24).bin, CRC: 7ff801f0
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 25).bin, CRC: daab3470
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 26).bin, CRC: a69a019a
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 27).bin, CRC: ff60d537
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 28).bin, CRC: 7a53671a
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 29).bin, CRC: 5c6a3929
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 30).bin, CRC: 3a01f186
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 31).bin, CRC: 5c746960
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 32).bin, CRC: 6d2f6f83
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 33).bin, CRC: c6c3f988
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 34).bin, CRC: ed64edae
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 35).bin, CRC: 82e6b71b
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 36).bin, CRC: bde8a768
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 37).bin, CRC: e868f93c
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 38).bin, CRC: 6ed9fedd
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 39).bin, CRC: 626c1184
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 40).bin, CRC: 4753cc3b
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 41).bin, CRC: fe1b591e
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 42).bin, CRC: ec8f01f8
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 43).bin, CRC: 9eb60e46
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 44).bin, CRC: d503cf6b
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 45).bin, CRC: dc61fcb0
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 46).bin, CRC: 47d27000
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 47).bin, CRC: 2a7f8c34
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 48).bin, CRC: 8af03803
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 49).bin, CRC: 3b6658bc
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 50).bin, CRC: b0880822
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 51).bin, CRC: ba238c62
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 52).bin, CRC: f1f31887
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 53).bin, CRC: 86896647
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 54).bin, CRC: ead1559f
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 55).bin, CRC: b4a71462
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 56).bin, CRC: a8f0fe90
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 57).bin, CRC: a5a6ef5d
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 58).bin, CRC: 7a8588de
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 59).bin, CRC: 84b7eff3
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 60).bin, CRC: d65c361f
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 61).bin, CRC: d16d25df
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 62).bin, CRC: 96f942c3
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 63).bin, CRC: 1bd6ea89
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 64).bin, CRC: 161ff185
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 65).bin, CRC: 6accf014
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 66).bin, CRC: 99dfd86c
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 67).bin, CRC: bca455eb
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 68).bin, CRC: b533beed
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 69).bin, CRC: 62d11da2
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 70).bin, CRC: d76bf034
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 71).bin, CRC: f4f76ca1
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 72).bin, CRC: 9d95cad5
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 73).bin, CRC: 6b5bffa5
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 74).bin, CRC: 1d9514ab
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 75).bin, CRC: fe289e49
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 76).bin, CRC: daa459bb
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 77).bin, CRC: 52535df1
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 78).bin, CRC: d3c8b9bf
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 79).bin, CRC: 9f767820
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 80).bin, CRC: 7bbccf88
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 81).bin, CRC: 3ae4c469
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 82).bin, CRC: 94b9264c
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 83).bin, CRC: c679897a
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 84).bin, CRC: 48fe33e8
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 85).bin, CRC: f29fb71b
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 86).bin, CRC: 63860ecc
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 87).bin, CRC: 7070fbad
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 88).bin, CRC: 9f7a6669
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 89).bin, CRC: acbf67a2
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 90).bin, CRC: dc124aef
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 91).bin, CRC: 6b3b0272
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 92).bin, CRC: 33c93420
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 93).bin, CRC: 7b8cfdcc
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 94).bin, CRC: e351acea
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 95).bin, CRC: 32170a48
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 96).bin, CRC: 6d6cfb37
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 97).bin, CRC: af1c6722
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 98).bin, CRC: 7228919e
+- Zuntata Sound Effects Collection Vol. 3 - Ray Series-hen (Japan) (Track 99).bin, CRC: 4b509c85
 </details>
 
 ### Zutto Issho - With Me Everytime... Original Sound Track (Japan) (Track 34).bin, CRC: 1c517327

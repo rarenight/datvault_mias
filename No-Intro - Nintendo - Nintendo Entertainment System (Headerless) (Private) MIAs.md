@@ -1,5 +1,5 @@
 # No-Intro - Nintendo - Nintendo Entertainment System (Headerless) (Private) MIAs
-## Games: 37, ROMs: 37, as of 2025-10-12
+## Games: 36, ROMs: 36, as of 2025-11-14
 
 ### 8-Bit Slasher 4-in-1 Horror Demakes (World) (Aftermarket) (Unl).unh, CRC: 905e90cb
 ### Alfonzo's Arctic Adventure (World) (Kickstarter) (Aftermarket) (Unl).unh, CRC: da586fa5
@@ -19,7 +19,6 @@
 ### Hammerin' Harry (World) (Retro-Bit).unh, CRC: 9e2a837c
 ### House in the Cemetery, The (World) (Broke Studio) (Aftermarket) (Unl).unh, CRC: c264485a
 ### ILEVAN (Japan) (En) (Aftermarket) (Unl).unh, CRC: 36d66731
-### Jim & Dill - The Legend of Weed N' Stiff (World) (2024-06-19) (Aftermarket) (Unl).unh, CRC: 3dc09060
 ### KUBO 3 (USA) (En,Ja,Fr) (Limited Run Games) (Aftermarket) (Unl).unh, CRC: 0e577e47
 ### KUBO 3 (World) (En,Ja,Fr) (Switch) (Aftermarket) (Unl).unh, CRC: 4aba6e62
 ### Mad Wizard, The - A Candelabra Chronicle (World) (Kickstarter) (Aftermarket) (Unl).unh, CRC: 875dfb83

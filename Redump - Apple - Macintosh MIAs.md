@@ -1,5 +1,5 @@
 # Redump - Apple - Macintosh MIAs
-## Games: 140, ROMs: 171, as of 2025-10-12
+## Games: 138, ROMs: 169, as of 2025-11-14
 
 ### 3-D Ultra Pinball (Japan).bin, CRC: 610eb45d
 ### 3DO Content Library, The (USA) (Disc 88) (Music & Sound Effects).bin, CRC: c157b11b
@@ -61,7 +61,6 @@
 ### Daisenryaku (Japan).bin, CRC: b45fb983
 ### Dark Seed II (Japan).bin, CRC: f9dc87de
 ### Darkseed (Europe) (Fr,De).bin, CRC: 0f8e39a2
-### DarkStar (Europe) (Installer Disc 1).iso, CRC: a53b76f6
 ### Eberouge (Japan)
 <details>
 <summary>ROMs</summary>
@@ -119,7 +118,6 @@
 ### MacPeople 1999 No. 8 4.15 (Japan).bin, CRC: d17a72e2
 ### MacUser - MacBin 14 (Japan) (Track 2).bin, CRC: 6cba3084
 ### MacUser - MacBin 18 (Japan).bin, CRC: 13903296
-### Macworld - January 2001 (Europe).bin, CRC: 076aa742
 ### Mad Dog McCree (USA).bin, CRC: 70252738
 ### Maniac Mansion - Day of the Tentacle (France).bin, CRC: b784da91
 ### Medicom Vol. 1 (Japan).bin, CRC: dde483c6

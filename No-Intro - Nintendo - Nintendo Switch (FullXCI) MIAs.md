@@ -1,5 +1,5 @@
 # No-Intro - Nintendo - Nintendo Switch (FullXCI) MIAs
-## Games: 237, ROMs: 237, as of 2025-10-12
+## Games: 238, ROMs: 238, as of 2025-11-14
 
 ### 51 Worldwide Games (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh-Hant,Zh-Hans,Ko,Ru) (Rev 3).xci, CRC: ef6c1cee
 ### 60-in-1 Game Collection (Europe) (En,Fr,De,Es,It).xci, CRC: 73795e37
@@ -8,6 +8,7 @@
 ### Amnesia - Memories (USA).xci, CRC: e43832ff
 ### Among Us - Crewmate Edition (USA, Europe) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh-Hant,Zh-Hans,Ko,Ru).xci, CRC: 045ebde6
 ### Ancestors Legacy (USA) (En,Ja,Fr,De,Es,It,Pt,Zh-Hans,Ru).xci, CRC: 5f9959c5
+### Animal Crossing - New Horizons (USA) (En,Ja,Fr,De,Es,It,Nl,Zh-Hant,Zh-Hans,Ko,Ru) (Rev 4).xci, CRC: 68b8f05f
 ### AO Tennis 2 (USA, Europe) (En,Fr,De,Es,It,Pt,Zh-Hant,Zh-Hans,Pl,Ru).xci, CRC: cd75b7b5
 ### Arcade Game Zone (USA) (Rev 1).xci, CRC: 2b7d5527
 ### Arcade Paradise (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Zh-Hant,Zh-Hans,Ko,Pl,Ru).xci, CRC: 7cdb29ac
@@ -70,6 +71,7 @@
 ### Gigantosaurus - The Game (USA, Europe) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Ru).xci, CRC: bfbc3f12
 ### God of Rock (USA, Europe) (En,Ja,Fr,De,It,Pt,Zh-Hant,Zh-Hans,Ko,Ru).xci, CRC: b35e1a82
 ### Gone Home (USA) (En,Ja,Fr,De,Es,It,Pt,Zh-Hans,Ko,Ru).xci, CRC: ddaa7a8f
+### Goosebumps - The Game (USA).xci, CRC: 4653b88d
 ### Gorogoa (USA) (En,Ja,Fr,De,Es,It,Nl,Ru).xci, CRC: 194bbfea
 ### Grandia HD Collection (USA) (En,Ja,Fr,De).xci, CRC: f6916ceb
 ### Great Ace Attorney Chronicles, The (USA) (En,Ja).xci, CRC: 2be8dc4c
@@ -234,7 +236,6 @@
 ### Yoshi's Crafted World (World) (En,Ja,Fr,De,Es,It,Nl,Zh,Ko,Ru).xci, CRC: 0a47e61e
 ### Yoshi's Crafted World (World) (En,Ja,Fr,De,Es,It,Nl,Zh,Ko,Ru) (Rev 1).xci, CRC: 55742eb6
 ### 1473 - Ys IX - Monstrum Nox (USA, Europe) (En,Fr).xci, CRC: 4f407c5a
-### Ys VIII - Lacrimosa of DANA (USA, Europe) (En,Fr).xci, CRC: 07bdf792
 ### z160 - Yu-No - A Girl Who Chants Love at the Bound of This World (Europe), CRC: f70de9f8
 ### Zengeon (USA) (En,Ja,Zh-Hant,Zh-Hans,Ko).xci, CRC: 221da42a
 ### Zombie Army Trilogy (Europe) (En,Ja,Fr,De,Es,It,Zh-Hant,Zh-Hans,Ko,Ru).xci, CRC: 9a78e2a7

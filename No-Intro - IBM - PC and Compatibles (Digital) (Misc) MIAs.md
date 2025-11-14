@@ -1,5 +1,5 @@
 # No-Intro - IBM - PC and Compatibles (Digital) (Misc) MIAs
-## Games: 10, ROMs: 27, as of 2025-10-12
+## Games: 8, ROMs: 25, as of 2025-11-14
 
 ### A Boy and His Blob (World) (En,Fr,De,Es,Pt,Pt-BR,Pl,Ru) (v1.3) (Windows, Mac, Linux)
 <details>
@@ -61,6 +61,4 @@
 - MotoRacerCollection_efgis.exe, CRC: 8870e84c
 </details>
 
-### night-in-the-woods-win32.zip, CRC: 3ebfdf4e
-### night-in-the-woods-osx.zip, CRC: 6ec1d38e
 ### SeaBed_Installer.exe, CRC: 1083e40d

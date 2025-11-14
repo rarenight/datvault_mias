@@ -1,5 +1,5 @@
 # Redump - DVD-Video MIAs
-## Games: 216, ROMs: 216, as of 2025-10-12
+## Games: 219, ROMs: 219, as of 2025-11-14
 
 ### 2002 Autumn Tokyo Game Show (Taiwan).iso, CRC: 92c99685
 ### 3-nen B-gumi Kinpachi Sensei - Densetsu no Kyoudan ni Tate! Promotion Video-2 (Japan).iso, CRC: d346598e
@@ -25,6 +25,7 @@
 ### CD-Action Wydanie Specjalne 3-2007 (Poland) (Konsole).iso, CRC: 1c72b2df
 ### Choose Your Own Adventure - The Abominable Snowman (USA).iso, CRC: 1071cf44
 ### Ciel nosurge Offline - Ushinawareta Hoshi e Sasagu Uta & Ar nosurge Plus - Umareizuru Hoshi e Inoru Uta - Tentou Promotion Video (Japan).iso, CRC: 9b05c24f
+### Command & Conquer - The First Decade (Korea) (Bonus DVD).iso, CRC: 9de35a7d
 ### CR Biohazard (Japan).iso, CRC: b352fbb1
 ### D-A - White - Tokuten Eizou DVD (Japan) (PS2 Game Bundle).iso, CRC: ecdaff2c
 ### D3 Publisher no Shinsaku Annai - Autumn 2004 (Japan).iso, CRC: f7aa64aa
@@ -47,8 +48,11 @@
 ### Fairy Tail - Tentou PV 1 (Japan).iso, CRC: 81ef723e
 ### Famitsu Wave DVD 2007 8gatsu-gou Tokubetsu Furoku (Japan) (Disc 1).iso, CRC: 2f144892
 ### Famitsu Wave DVD 2007 8gatsu-gou Tokubetsu Furoku (Japan) (Disc 2).iso, CRC: 7d47069b
+### Famitsu Wave DVD 2008 1gatsu-gou Tokubetsu Furoku (Japan) (Disc 1).iso, CRC: 8da394ca
+### Famitsu Wave DVD 2008 1gatsu-gou Tokubetsu Furoku (Japan) (Disc 2).iso, CRC: 8e192bce
 ### Famitsu Wave DVD 2008 6gatsu-gou Tokubetsu Furoku (Japan) (Disc 1).iso, CRC: 25093be1
 ### Famitsu Wave DVD 2008 6gatsu-gou Tokubetsu Furoku (Japan) (Disc 2).iso, CRC: bae84b63
+### Famitsu Wave DVD 2010 4gatsu-gou Tokubetsu Furoku (Japan).iso, CRC: 859a3775
 ### Fault!! Ace (Japan) (Disc A).iso, CRC: 5e21e134
 ### Fault!! Ace (Japan) (Disc B).iso, CRC: 9a255dcc
 ### Final Fantasy X Complete Demonstration (Taiwan).iso, CRC: d02fac8c
@@ -126,6 +130,7 @@
 ### Pro Soccer Club o Tsukurou! Europe Championship (Japan).iso, CRC: dfeab306
 ### Pro Yakyuu Spirits 2004 Climax (Japan).iso, CRC: 1c9b24d4
 ### PSM2 Volume 49 (UK).iso, CRC: ff2bf6ed
+### PSM3 82 (UK).iso, CRC: 0da01bdf
 ### Pure Cafe - Iyashi no Cafe ni Kayoi Tsumeru, Boku no Chihou Tenkin Seikatsu (Japan) (Disc B).iso, CRC: b605911f
 ### Pure Cafe - Iyashi no Cafe ni Kayoi Tsumeru, Boku no Chihou Tenkin Seikatsu (Japan) (Disc C).iso, CRC: 85b30a8c
 ### Redemption (Japan) (Disc 2).iso, CRC: 858da17a
@@ -176,8 +181,6 @@
 ### Tsuki to Mahou to Taiyou to (Japan) (Disc 1).iso, CRC: 963a89d7
 ### Tsuki to Mahou to Taiyou to (Japan) (Disc 2).iso, CRC: c382d9a5
 ### Virtual Chanukah (USA) (En,He).iso, CRC: fc481c42
-### Wildlife (Scandinavia) (Sv,No,Da,Fi) (Disc 1).iso, CRC: 2fa0e920
-### Wildlife (Scandinavia) (Sv,No,Da,Fi) (Disc 2).iso, CRC: bfb4d37b
 ### Winning Post 7 - Boukoku no Aegis 2035 - Warship Gunner - Tentou Promotion Movie (Japan).iso, CRC: 960913a0
 ### Winning Post 7 2013 & Dead or Alive 5+ - Tentou Promotion Movie (Japan).iso, CRC: 54c7fd08
 ### X360 Magazine Xbox - 1-2007 (Italy).iso, CRC: 846a08b8
