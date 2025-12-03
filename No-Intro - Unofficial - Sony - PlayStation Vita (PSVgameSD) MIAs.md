@@ -1,5 +1,5 @@
 # No-Intro - Unofficial - Sony - PlayStation Vita (PSVgameSD) MIAs
-## Games: 134, ROMs: 136, as of 2025-11-14
+## Games: 133, ROMs: 135, as of 2025-12-03
 
 ### Amatsutsumi (Japan).psv, CRC: 7e0e9b57
 ### Ao no kanata no Four Rythm (Japan).psv, CRC: fa9f1745
@@ -78,7 +78,6 @@
 
 ### Little Deviants (USA).psv, CRC: 28d821bb
 ### Lord of Apocalypse (Japan).psv, CRC: b6e3d9fe
-### Lost Dimension (Japan).psv, CRC: 56840420
 ### Luminous Arc - Infinity (Japan).psv, CRC: cc5c7fd8
 ### Mind=Zero (Japan).psv, CRC: 1c7984c7
 ### MLB 13 - The Show (USA) (En,Fr).psv, CRC: f2170932

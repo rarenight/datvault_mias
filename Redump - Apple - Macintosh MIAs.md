@@ -1,5 +1,5 @@
 # Redump - Apple - Macintosh MIAs
-## Games: 138, ROMs: 169, as of 2025-11-14
+## Games: 137, ROMs: 168, as of 2025-12-03
 
 ### 3-D Ultra Pinball (Japan).bin, CRC: 610eb45d
 ### 3DO Content Library, The (USA) (Disc 88) (Music & Sound Effects).bin, CRC: c157b11b
@@ -120,7 +120,6 @@
 ### MacUser - MacBin 18 (Japan).bin, CRC: 13903296
 ### Mad Dog McCree (USA).bin, CRC: 70252738
 ### Maniac Mansion - Day of the Tentacle (France).bin, CRC: b784da91
-### Medicom Vol. 1 (Japan).bin, CRC: dde483c6
 ### Myst (Japan).bin, CRC: 2b2a6951
 ### Myst (Japan) (Kinen Kakaku-ban).bin, CRC: d161800b
 ### Myst - Masterpiece Edition (Germany) (Rerelease).bin, CRC: ef1b07c8

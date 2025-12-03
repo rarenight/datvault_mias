@@ -1,12 +1,12 @@
 # No-Intro - Nintendo - Nintendo Switch MIAs
-## Games: 2, ROMs: 3, as of 2025-11-14
+## Games: 2, ROMs: 3, as of 2025-12-03
 
-### Animal Crossing - New Horizons (USA) (En,Ja,Fr,De,Es,It,Nl,Zh-Hant,Zh-Hans,Ko,Ru) (Rev 4)
+### Goosebumps - The Game (USA) (Initial Area).bin, CRC: f620c253
+### Jerry Anker and the Quest to Get Love (Europe)
 <details>
 <summary>ROMs</summary>
 
-- Animal Crossing - New Horizons (USA) (En,Ja,Fr,De,Es,It,Nl,Zh-Hant,Zh-Hans,Ko,Ru) (Rev 4) (Initial Area).bin, CRC: 80ed105f
-- Animal Crossing - New Horizons (USA) (En,Ja,Fr,De,Es,It,Nl,Zh-Hant,Zh-Hans,Ko,Ru) (Rev 4).xci, CRC: f6d6fa7b
+- Jerry Anker and the Quest to Get Love (Europe) (Initial Area).bin, CRC: 04019014
+- Jerry Anker and the Quest to Get Love (Europe).xci, CRC: 1de72f80
 </details>
 
-### Goosebumps - The Game (USA) (Initial Area).bin, CRC: f620c253

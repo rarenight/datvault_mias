@@ -1,5 +1,5 @@
 # Redump - Microsoft - Xbox MIAs
-## Games: 10, ROMs: 10, as of 2025-11-14
+## Games: 9, ROMs: 9, as of 2025-12-03
 
 ### 007 - Everything or Nothing (Asia).iso, CRC: 31a913c5
 ### Chronicles of Riddick, The - Escape from Butcher Bay (Australia).iso, CRC: c3274183
@@ -10,4 +10,3 @@
 ### Official Xbox Live Disc, The (UK).iso, CRC: d722be08
 ### Official Xbox Playable Cheats, The (UK).iso, CRC: 1cb40d67
 ### Star Wars - Jedi Starfighter (Australia).iso, CRC: 49951b15
-### Stubbs the Zombie in Rebel Without a Pulse (France).iso, CRC: 343cf765

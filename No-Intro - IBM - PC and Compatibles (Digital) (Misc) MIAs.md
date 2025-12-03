@@ -1,5 +1,5 @@
 # No-Intro - IBM - PC and Compatibles (Digital) (Misc) MIAs
-## Games: 8, ROMs: 25, as of 2025-11-14
+## Games: 8, ROMs: 25, as of 2025-12-03
 
 ### A Boy and His Blob (World) (En,Fr,De,Es,Pt,Pt-BR,Pl,Ru) (v1.3) (Windows, Mac, Linux)
 <details>

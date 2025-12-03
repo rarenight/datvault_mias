@@ -1,5 +1,5 @@
 # Redump - DVD-Video MIAs
-## Games: 219, ROMs: 219, as of 2025-11-14
+## Games: 235, ROMs: 235, as of 2025-12-03
 
 ### 2002 Autumn Tokyo Game Show (Taiwan).iso, CRC: 92c99685
 ### 3-nen B-gumi Kinpachi Sensei - Densetsu no Kyoudan ni Tate! Promotion Video-2 (Japan).iso, CRC: d346598e
@@ -20,6 +20,7 @@
 ### Biohazard 5 (China) (Disc A) (The Story).iso, CRC: e4ab68bd
 ### Biohazard 5 (China) (Disc B) (The Others).iso, CRC: 24a74074
 ### BlazBlue - Calamity Trigger - Tutorial Fighting Guide (Europe) (Xbox 360 Game Bundle).iso, CRC: 80ec083f
+### Call of Duty 4 - Modern Warfare - Bonus Disc (USA) (Xbox 360 Game Bundle).iso, CRC: 6320c8f4
 ### Capcom DVD Express Vol.6 2006-nen 9-gatsu-gou (Japan).iso, CRC: fa4f3f4b
 ### Carnelian Art Works (Japan).iso, CRC: 05a71fa5
 ### CD-Action Wydanie Specjalne 3-2007 (Poland) (Konsole).iso, CRC: 1c72b2df
@@ -27,6 +28,7 @@
 ### Ciel nosurge Offline - Ushinawareta Hoshi e Sasagu Uta & Ar nosurge Plus - Umareizuru Hoshi e Inoru Uta - Tentou Promotion Video (Japan).iso, CRC: 9b05c24f
 ### Command & Conquer - The First Decade (Korea) (Bonus DVD).iso, CRC: 9de35a7d
 ### CR Biohazard (Japan).iso, CRC: b352fbb1
+### Cube DVD 24 (43) (UK).iso, CRC: 845c6189
 ### D-A - White - Tokuten Eizou DVD (Japan) (PS2 Game Bundle).iso, CRC: ecdaff2c
 ### D3 Publisher no Shinsaku Annai - Autumn 2004 (Japan).iso, CRC: f7aa64aa
 ### D3 Publisher Spring Collection 2005 (Japan).iso, CRC: 12515369
@@ -37,7 +39,6 @@
 ### Devil May Cry 4 (Asia) (En,Ja) (Special DVD).iso, CRC: 64a75c5e
 ### Devil May Cry 4 (Japan) (En,Ja).iso, CRC: 5be6efbb
 ### Di Gi Charat Gekijou - Piyoko ni Omakase Pyo! Excellent-ban (Japan) (PS2 Game Bundle).iso, CRC: 54474e10
-### Dragon Age - Origins (USA) (Bonus Disc).iso, CRC: ec154baa
 ### Dragon Ball Z 2 Promotion DVD (Japan).iso, CRC: 49d8e235
 ### DreamWorks Shrek - Totally Tangled Tales (Australia).iso, CRC: 42f6f723
 ### Drew's Famous Murder Mystery Party Game - A Stab In The Dark (USA).iso, CRC: e6cae008
@@ -78,6 +79,7 @@
 ### Kamiwaza (Japan).iso, CRC: cf7f8146
 ### Kappa no Kai-kata - How to Breed Kappas Promotion DVD (Japan).iso, CRC: 419b1466
 ### Katamari Damacy + Netchuu! Pro Yakyuu 2004 + Kaena (Japan).iso, CRC: 98b6b4bf
+### Kero Kero King DX Deluxe Plus (Japan).iso, CRC: 335b3113
 ### Kikou Heidan J-Phoenix PF Lips Shoutai Dai-3-wa - Chuu Suru Yousai! (Japan).iso, CRC: adf2624f
 ### Kinjitsu Koukai Dainishou (Japan) (Disc 2).iso, CRC: d9aa5bde
 ### Kouchuu Ouja Mushi King - Greatest Champion e no Michi 2 (Japan).iso, CRC: 859229e4
@@ -109,6 +111,19 @@
 ### Naruto - Narutimate Hero 2 (Japan).iso, CRC: ccdc5110
 ### Naruto - Narutimate Hero 3 - Tentou Houei-you DVD - Ichi no Maki (Japan).iso, CRC: b6e6185d
 ### Naruto - Narutimate Hero 3 - Tentou Houei-you DVD - Ni no Maki (Japan).iso, CRC: d0817b23
+### NGTV Episode 01 - August 2006 (UK).iso, CRC: bae86071
+### NGTV Episode 02 - October 2006 (UK).iso, CRC: 8be751c0
+### NGTV Episode 03 - November 2006 (UK).iso, CRC: 2a1460d6
+### NGTV Episode 05 - January 2007 (UK).iso, CRC: 6f74aa29
+### NGTV Episode 06 - February 2007 (UK).iso, CRC: 8c02c0e2
+### NGTV Episode 07 - March 2007 (UK).iso, CRC: 96f04746
+### NGTV Episode 08 - April 2007 (UK).iso, CRC: 7018a6a0
+### NGTV Episode 09 - May 2007 (UK).iso, CRC: 7bbe10cd
+### NGTV Episode 10 - June 2007 (UK).iso, CRC: 932c165d
+### NGTV Episode 11 - July 2007 (UK).iso, CRC: 7c2a0359
+### NGTV Episode 13 - September 2007 (UK).iso, CRC: 5521f364
+### NGTV Episode 14 - October 2007 (UK).iso, CRC: 4966306f
+### NGTV Episode 15 - November 2007 (UK).iso, CRC: 14b69dc8
 ### Ninja Gaiden 3 Tentou Promotion Movie (Japan).iso, CRC: a07343f6
 ### Ninja Gaiden Sigma 2 (Japan) (Shin Sangoku Musou Multi Raid Special - Tentou Promotion Movie).iso, CRC: eaf9f769
 ### Nise-bitch - Ria-juu Butte mo Pure de Ichizu na Osananajimi ni H na Kotsukuri Lesson (Japan).iso, CRC: a4abae4f
@@ -129,8 +144,8 @@
 ### Prince of Persia - The Forgotten Sands (Europe) (En,Fr,De,Es,It,Pl) (DVD Bonus) (PS3 Game Bundle).iso, CRC: 9edb03e1
 ### Pro Soccer Club o Tsukurou! Europe Championship (Japan).iso, CRC: dfeab306
 ### Pro Yakyuu Spirits 2004 Climax (Japan).iso, CRC: 1c9b24d4
+### PSM2 03 (UK).iso, CRC: 9dca3e7c
 ### PSM2 Volume 49 (UK).iso, CRC: ff2bf6ed
-### PSM3 82 (UK).iso, CRC: 0da01bdf
 ### Pure Cafe - Iyashi no Cafe ni Kayoi Tsumeru, Boku no Chihou Tenkin Seikatsu (Japan) (Disc B).iso, CRC: b605911f
 ### Pure Cafe - Iyashi no Cafe ni Kayoi Tsumeru, Boku no Chihou Tenkin Seikatsu (Japan) (Disc C).iso, CRC: 85b30a8c
 ### Redemption (Japan) (Disc 2).iso, CRC: 858da17a
@@ -216,6 +231,7 @@
 ### XboxDVD DVD03 - May 2003 (UK).iso, CRC: 9a7946fd
 ### XboxDVD DVD07 - Nov 2003 (UK).iso, CRC: 491bb2d3
 ### XboxGamer DVD01 (UK).iso, CRC: 27fff1e7
+### Xenosaga - alle spezielle DVD (Japan).iso, CRC: 2473ac94
 ### Yabou no Keifu DVD (Japan) (PSP Game Bundle).iso, CRC: 71310102
 ### Yarasete! Teacher Returns 2 (Japan).iso, CRC: 8c9010f1
 ### Yoshitsune-ki - Tentou-you Eizou Vol. 1 (Japan).iso, CRC: 6a507856

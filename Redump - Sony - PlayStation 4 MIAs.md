@@ -1,5 +1,5 @@
 # Redump - Sony - PlayStation 4 MIAs
-## Games: 273, ROMs: 273, as of 2025-11-14
+## Games: 254, ROMs: 254, as of 2025-12-03
 
 ### 2Dark (Japan).iso, CRC: 51bd991f
 ### 8-Bit Adventure Anthology - Volume 1 (USA).iso, CRC: 1598191a
@@ -13,9 +13,7 @@
 ### Asdivine Hearts (USA).iso, CRC: 1c8c38cc
 ### Astebreed (USA) (En,Ja).iso, CRC: 7b335361
 ### Astro Bot - Rescue Mission (Japan).iso, CRC: d65a9f00
-### Atelier Lulua - The Scion of Arland (USA).iso, CRC: be530bd5
 ### Atelier Sophie - The Alchemist of the Mysterious Book (Asia).iso, CRC: 23fdbe31
-### Atelier Sophie 2 - The Alchemist of the Mysterious Dream (USA).iso, CRC: b06d0be4
 ### Ayesha no Atelier - Tasogare no Daichi no Renkinjutsushi DX (Japan).iso, CRC: d305fa89
 ### Battle Princess Madelyn (USA) (En,Fr,De,Es).iso, CRC: a6726295
 ### Battlefield V (Europe).iso, CRC: f36a3017
@@ -31,10 +29,8 @@
 ### Blue Reflection Tie (Japan).iso, CRC: 7c1c490a
 ### Boku no Hero Academia - One's Justice (Japan).iso, CRC: 8e1f0b37
 ### Borderlands - Double Deluxe Collection (Japan).iso, CRC: 85410e97
-### Bunny Must Die! Chelsea and the 7 Devils. (Europe).iso, CRC: d2da6681
 ### Call of Duty - Infinite Warfare (Europe) (Es,It).iso, CRC: cc989a5d
 ### Chicken Police - Paint It Red! (USA) (En,Ja,Fr,De,Es,Zh,Ru,Hu).iso, CRC: 2321f268
-### Chou Jijigen Game Neptune Re;Birth 1 Plus (Japan).iso, CRC: 837c1a3e
 ### Conception Plus - Ore no Kodomo o Undekure! (Japan).iso, CRC: 84f199b6
 ### Control - Ultimate Edition (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru,Ar).iso, CRC: fd7b0478
 ### Costume Quest 2 (USA) (En,Fr,De,Es,It).iso, CRC: e0f9ddf8
@@ -72,7 +68,6 @@
 ### End Is Nigh, The (USA).iso, CRC: 513e2c05
 ### Enter the Gungeon (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru).iso, CRC: 0668f117
 ### Epic Chef (Europe).iso, CRC: c65599d9
-### Escape Goat 2 (USA).iso, CRC: e9e07196
 ### Escha & Logy no Atelier - Tasogare no Sora no Renkinjutsushi DX (Japan).iso, CRC: 7c44ff68
 ### Eternal Cylinder, The (USA) (En,Fr,De,Es,It,Pt,Ru).iso, CRC: 36cdc6fe
 ### Exile's End (USA) (En,Fr,Es,It,Ru).iso, CRC: a6687dfe
@@ -90,12 +85,10 @@
 ### Gintama Ranbu (Japan).iso, CRC: 58c44ffc
 ### Gintama Rumble (Asia).iso, CRC: 912dcb29
 ### Good Life, The (USA).iso, CRC: a51150b7
-### Gravity Ghost (USA).iso, CRC: 3b769157
 ### Gravity Rush 2 (Asia).iso, CRC: 7cf938e3
 ### Gravity Rush Remastered (Asia).iso, CRC: 8cb845b7
 ### Guacamelee! Super Turbo Championship Edition (USA) (En,Fr,De,Es,It,Pt).iso, CRC: b03d1a8b
 ### Guilty Gear Xrd - Sign (China).iso, CRC: 967ba6da
-### Gundemoniums (Europe).iso, CRC: 568f5d08
 ### Gunhouse (USA).iso, CRC: 55c6393d
 ### Has-Been Heroes (USA) (En,Fr,De,Es,It,Pt).iso, CRC: 9ea511ac
 ### Hatsune Miku - Project Diva Future Tone DX (Asia) (Ja,Zh).iso, CRC: 3947d5bb
@@ -121,7 +114,6 @@
 ### Life Is Strange (Europe) (En,Fr,De,Es,It,Pt).iso, CRC: 013bb2bd
 ### Life Is Strange - Before the Storm (Europe) (En,Fr,De,Es,It,Pt).iso, CRC: d5b72386
 ### Light Tracer (USA).iso, CRC: af09f53b
-### Lili - Child of Geos (USA).iso, CRC: 500a9fc5
 ### Lone Survivor - The Director's Cut (USA) (En,Fr).iso, CRC: ead333b0
 ### Lost Judgment (USA) (En,Ja,Fr,De,Es,It).iso, CRC: 7f8ba335
 ### Lost Sphear (Japan).iso, CRC: 5819ca84
@@ -130,12 +122,10 @@
 ### Lumo (USA) (En,Ja,Fr,De,Es,It,Pt,Ru).iso, CRC: 9477fc65
 ### Madden NFL 21 (USA).iso, CRC: 86c3a2ba
 ### Madden NFL 22 (USA).iso, CRC: 0fa871aa
-### Magicka 2 (USA).iso, CRC: 83b60a77
 ### Maitetsu - Pure Station (Japan).iso, CRC: 765f6a17
 ### Majikken 64 (Japan).iso, CRC: a63a0814
 ### Marsupilami Hoobadventure (USA) (En,Fr,Es).iso, CRC: f5e86a9a
 ### Marvel vs. Capcom - Infinite (Japan).iso, CRC: e0a6905a
-### Matterfall (Asia) (En,Zh).iso, CRC: 8e5fb99e
 ### Mega Man Battle Network Legacy Collection (USA).iso, CRC: 8d214c98
 ### Meruru no Atelier - Arland no Renkinjutsushi 3 DX (Japan).iso, CRC: a45dabed
 ### Metal Gear Solid V - The Definitive Experience (USA) (En,Ja,Fr,De,Es,It,Pt,Ru).iso, CRC: 1592c7de
@@ -144,8 +134,6 @@
 ### Minecraft - Story Mode - Season Two - The Telltale Series (Japan).iso, CRC: 653eee82
 ### Monochrome Mobius - Rights and Wrongs Forgotten (Europe).iso, CRC: 3f935091
 ### Monster Hunter World - Iceborne (Europe) (En,Ja,Fr,De,Es,It,Pt,Pl,Ru,Ar).iso, CRC: d47ed255
-### Mutant Mudds Deluxe (USA).iso, CRC: 95aa13bc
-### Mutant Mudds Super Challenge (USA).iso, CRC: 2b78f317
 ### Mystery Chronicle - One Way Heroics (USA).iso, CRC: 8e41f684
 ### Narcosis (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru,Cs,Tr).iso, CRC: 60a770ae
 ### Naruto Shippuuden - Narutimate Storm 4 (Japan).iso, CRC: 8b43d3ee
@@ -165,7 +153,6 @@
 ### One Piece - Burning Blood - Anison Sound Edition (Japan).iso, CRC: 6eb905c9
 ### One Piece - Kaizoku Musou 3 (Japan).iso, CRC: b2061290
 ### Onimusha (Japan).iso, CRC: d918fc50
-### Oxenfree (USA).iso, CRC: 4e02a02b
 ### Paranormal Activity - The Lost Soul (USA).iso, CRC: 03dd5435
 ### Payday 2 - The Big Score (USA) (En,Fr,De,Es,It).iso, CRC: 9cb472fa
 ### PGA Tour 2K21 (USA) (En,Ja,Fr,De,Es,It,Zh,Ko).iso, CRC: 341fc8f2
@@ -175,7 +162,6 @@
 ### PlayerUnknown's Battlegrounds (Europe).iso, CRC: f255f3ce
 ### Portal Knights (Europe) (En,Ja,Fr,De,Es,It,Pt,Sv,No,Fi,Zh,Ko,Pl,Ru,Cs,Th,Tr).iso, CRC: daa8310f
 ### Potion Permit (USA) (En,Ja,Fr,De,Es,Pt,Zh,Ko,Ru).iso, CRC: 7d896851
-### Project Lux (USA).iso, CRC: 0a3bf66b
 ### Quarry, The (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,Tr).iso, CRC: d00aa404
 ### R-Type Final 2 (USA) (En,Ja,Fr,De,Es,It,Zh,Ko).iso, CRC: 76febfd0
 ### R.B.I. Baseball 2016 (USA).iso, CRC: e3fbd136
@@ -192,8 +178,6 @@
 ### Rorona no Atelier - Arland no Renkinjutsushi DX (Japan).iso, CRC: e016591d
 ### Rumble Fish 2, The (USA).iso, CRC: 592f8971
 ### Runner3 (USA).iso, CRC: a1fe93ed
-### Ryuu ga Gotoku 3 (Japan).iso, CRC: 15d8a63f
-### Ryuu ga Gotoku 4 - Densetsu o Tsugu Mono (Japan).iso, CRC: 6595d28a
 ### Ryuu ga Gotoku 5 - Yume, Kanaeshi Mono (Japan).iso, CRC: 7a67928a
 ### Ryza no Atelier - Tokoyami no Joou to Himitsu no Kakurega (Japan).iso, CRC: 3a1f6b76
 ### Ryza no Atelier 2 - Ushinawareta Denshou to Himitsu no Yousei (Japan).iso, CRC: 8f47cbb5
@@ -211,7 +195,6 @@
 ### Senko no Ronde 2 (USA).iso, CRC: b71bd6e2
 ### Senkou no Ronde 2 - Reassembly from Duo (Japan).iso, CRC: aa5ea1ee
 ### Sephirothic Stories (USA).iso, CRC: fa503318
-### Shadow of the Beast (Asia).iso, CRC: 672c5d1e
 ### Shakedown - Hawaii (USA).iso, CRC: eaff5e12
 ### Shallie no Atelier - Tasogare no Umi no Renkinjutsushi DX (Japan).iso, CRC: cbcf0a22
 ### Shenmue III (Japan).iso, CRC: 5d5c3380
@@ -250,9 +233,7 @@
 ### Tales of Berseria (Japan).iso, CRC: ca1ac637
 ### Tales of Vesperia Remaster (Japan).iso, CRC: 70fcc876
 ### Tales of Zestiria (Japan).iso, CRC: 3c65666c
-### Sakuna - Of Rice and Ruin (USA, Japan) (En,Ja,Es,Zh,Ko).iso, CRC: d8db9183
 ### Terraria (Japan).iso, CRC: 4d1fbb2d
-### Tokyo Chronos (USA).iso, CRC: c041f03d
 ### Tokyo Xanadu eX+ (Japan).iso, CRC: de7d7fbe
 ### Totori no Atelier - Arland no Renkinjutsushi 2 DX (Japan).iso, CRC: e6803436
 ### Tumblestone (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi,Zh,Ko,Pl,Ru,Cs,Hu,Th,Tr).iso, CRC: 896d1817

@@ -1,5 +1,5 @@
 # Redump - Audio CD MIAs
-## Games: 159, ROMs: 2048, as of 2025-11-14
+## Games: 160, ROMs: 1844, as of 2025-12-03
 
 ### Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 1) (Alt)
 <details>
@@ -209,6 +209,42 @@
 </details>
 
 ### Chocobo no Fushigi na Dungeon - Original Soundtrack (Japan) (Disc 2) (Special Pack CD) (SSCX 10014) (Track 2).bin, CRC: b7c42356
+### Coffee Talk - Artbook & Soundtracks! (Japan) (Disc 1)
+<details>
+<summary>ROMs</summary>
+
+- Coffee Talk - Artbook & Soundtracks! (Japan) (Disc 1) (Track 01).bin, CRC: a9afa413
+- Coffee Talk - Artbook & Soundtracks! (Japan) (Disc 1) (Track 02).bin, CRC: 63a877e4
+- Coffee Talk - Artbook & Soundtracks! (Japan) (Disc 1) (Track 03).bin, CRC: 2b8857c5
+- Coffee Talk - Artbook & Soundtracks! (Japan) (Disc 1) (Track 04).bin, CRC: 604599f2
+- Coffee Talk - Artbook & Soundtracks! (Japan) (Disc 1) (Track 05).bin, CRC: 122e0f7a
+- Coffee Talk - Artbook & Soundtracks! (Japan) (Disc 1) (Track 06).bin, CRC: 92dfadbd
+- Coffee Talk - Artbook & Soundtracks! (Japan) (Disc 1) (Track 07).bin, CRC: d1797c49
+- Coffee Talk - Artbook & Soundtracks! (Japan) (Disc 1) (Track 08).bin, CRC: fe920ebd
+- Coffee Talk - Artbook & Soundtracks! (Japan) (Disc 1) (Track 09).bin, CRC: 9a1c8f4a
+- Coffee Talk - Artbook & Soundtracks! (Japan) (Disc 1) (Track 10).bin, CRC: 8f383f67
+- Coffee Talk - Artbook & Soundtracks! (Japan) (Disc 1) (Track 11).bin, CRC: 377ab609
+- Coffee Talk - Artbook & Soundtracks! (Japan) (Disc 1) (Track 12).bin, CRC: fae97f11
+</details>
+
+### Coffee Talk - Artbook & Soundtracks! (Japan) (Disc 2)
+<details>
+<summary>ROMs</summary>
+
+- Coffee Talk - Artbook & Soundtracks! (Japan) (Disc 2) (Track 01).bin, CRC: e24526a8
+- Coffee Talk - Artbook & Soundtracks! (Japan) (Disc 2) (Track 02).bin, CRC: 9f79f2be
+- Coffee Talk - Artbook & Soundtracks! (Japan) (Disc 2) (Track 03).bin, CRC: 6ef6eb3d
+- Coffee Talk - Artbook & Soundtracks! (Japan) (Disc 2) (Track 04).bin, CRC: 2e6064e5
+- Coffee Talk - Artbook & Soundtracks! (Japan) (Disc 2) (Track 05).bin, CRC: 72657a04
+- Coffee Talk - Artbook & Soundtracks! (Japan) (Disc 2) (Track 06).bin, CRC: 1cc3483b
+- Coffee Talk - Artbook & Soundtracks! (Japan) (Disc 2) (Track 07).bin, CRC: d6cf5717
+- Coffee Talk - Artbook & Soundtracks! (Japan) (Disc 2) (Track 08).bin, CRC: 7b0e8e2e
+- Coffee Talk - Artbook & Soundtracks! (Japan) (Disc 2) (Track 09).bin, CRC: 4d57f12f
+- Coffee Talk - Artbook & Soundtracks! (Japan) (Disc 2) (Track 10).bin, CRC: 653a8b5e
+- Coffee Talk - Artbook & Soundtracks! (Japan) (Disc 2) (Track 11).bin, CRC: e4b6485a
+- Coffee Talk - Artbook & Soundtracks! (Japan) (Disc 2) (Track 12).bin, CRC: 166953e6
+</details>
+
 ### D.C.S.F. Short Version Vol. 2 (Japan) (BD-PG Bundle)
 <details>
 <summary>ROMs</summary>
@@ -795,14 +831,6 @@
 </details>
 
 ### Konami Game Music Remix Series Vol. 2 - Salamander Remixes (Japan) (Track 6).bin, CRC: 1af608be
-### Konami Game Music Vol. 2 (Japan) (Rerelease)
-<details>
-<summary>ROMs</summary>
-
-- Konami Game Music Vol. 2 (Japan) (Rerelease) (Track 01).bin, CRC: fa082a24
-- Konami Game Music Vol. 2 (Japan) (Rerelease) (Track 48).bin, CRC: 90915fed
-</details>
-
 ### Kuon no Kizuna Sairinshou Full Voice-ban - Man'you no Niizuma Diary (Japan) (PC Game Bundle) (Track 7).bin, CRC: 224b73d1
 ### Legacy of Kain - Soul Reaver 1 & 2 Remastered - Official Soundtrack (Europe) (Disc 1) (NSW Game Bundle)
 <details>
@@ -1170,6 +1198,31 @@
 ### Nagomibako - Mini Soundtrack - Sacrament (Japan) (PC Game Bundle) (Track 14).bin, CRC: e99705ee
 ### Nekketsu Koukou Sound-bu SFC-hen (Japan) (Disc 1) (Track 43).bin, CRC: 4f7280c8
 ### Nekketsu Koukou Sound-bu SFC-hen (Japan) (Disc 2) (Track 51).bin, CRC: 648a6912
+### Next Penelope, The - Race to Odysseus - Original Soundtrack (USA) (PC Game Bundle) (Alt)
+<details>
+<summary>ROMs</summary>
+
+- Next Penelope, The - Race to Odysseus - Original Soundtrack (USA) (PC Game Bundle) (Alt) (Track 01).bin, CRC: 12f7a3cc
+- Next Penelope, The - Race to Odysseus - Original Soundtrack (USA) (PC Game Bundle) (Alt) (Track 02).bin, CRC: 3eec56a7
+- Next Penelope, The - Race to Odysseus - Original Soundtrack (USA) (PC Game Bundle) (Alt) (Track 03).bin, CRC: 5ad67c38
+- Next Penelope, The - Race to Odysseus - Original Soundtrack (USA) (PC Game Bundle) (Alt) (Track 04).bin, CRC: 8a85dbdf
+- Next Penelope, The - Race to Odysseus - Original Soundtrack (USA) (PC Game Bundle) (Alt) (Track 05).bin, CRC: 4551358f
+- Next Penelope, The - Race to Odysseus - Original Soundtrack (USA) (PC Game Bundle) (Alt) (Track 06).bin, CRC: b90ce8e2
+- Next Penelope, The - Race to Odysseus - Original Soundtrack (USA) (PC Game Bundle) (Alt) (Track 07).bin, CRC: a8131600
+- Next Penelope, The - Race to Odysseus - Original Soundtrack (USA) (PC Game Bundle) (Alt) (Track 08).bin, CRC: 9c4bbcd8
+- Next Penelope, The - Race to Odysseus - Original Soundtrack (USA) (PC Game Bundle) (Alt) (Track 09).bin, CRC: 6603e4a0
+- Next Penelope, The - Race to Odysseus - Original Soundtrack (USA) (PC Game Bundle) (Alt) (Track 10).bin, CRC: c4d88fae
+- Next Penelope, The - Race to Odysseus - Original Soundtrack (USA) (PC Game Bundle) (Alt) (Track 11).bin, CRC: c235bb0e
+- Next Penelope, The - Race to Odysseus - Original Soundtrack (USA) (PC Game Bundle) (Alt) (Track 12).bin, CRC: 36ad82c6
+- Next Penelope, The - Race to Odysseus - Original Soundtrack (USA) (PC Game Bundle) (Alt) (Track 13).bin, CRC: 918b1aff
+- Next Penelope, The - Race to Odysseus - Original Soundtrack (USA) (PC Game Bundle) (Alt) (Track 14).bin, CRC: ebe9988c
+- Next Penelope, The - Race to Odysseus - Original Soundtrack (USA) (PC Game Bundle) (Alt) (Track 15).bin, CRC: fe345d33
+- Next Penelope, The - Race to Odysseus - Original Soundtrack (USA) (PC Game Bundle) (Alt) (Track 16).bin, CRC: 51e77f30
+- Next Penelope, The - Race to Odysseus - Original Soundtrack (USA) (PC Game Bundle) (Alt) (Track 17).bin, CRC: dcb61c56
+- Next Penelope, The - Race to Odysseus - Original Soundtrack (USA) (PC Game Bundle) (Alt) (Track 18).bin, CRC: 42e24dce
+- Next Penelope, The - Race to Odysseus - Original Soundtrack (USA) (PC Game Bundle) (Alt) (Track 19).bin, CRC: e2167b6b
+</details>
+
 ### ONGEKI Sound Collection 03 - Splash Dance!! (Japan)
 <details>
 <summary>ROMs</summary>
@@ -1264,24 +1317,6 @@
 - Path of Exile - Soundtrack (New Zealand) (PC Game Bundle) (Track 13).bin, CRC: cf6fa3d4
 </details>
 
-### Pil Sound Gear (Japan) (PC Game Bundle)
-<details>
-<summary>ROMs</summary>
-
-- Pil Sound Gear (Japan) (PC Game Bundle) (Track 01).bin, CRC: de623fb6
-- Pil Sound Gear (Japan) (PC Game Bundle) (Track 02).bin, CRC: eee499bb
-- Pil Sound Gear (Japan) (PC Game Bundle) (Track 03).bin, CRC: 65955ed1
-- Pil Sound Gear (Japan) (PC Game Bundle) (Track 04).bin, CRC: 6a042fa8
-- Pil Sound Gear (Japan) (PC Game Bundle) (Track 05).bin, CRC: 96c0c1bc
-- Pil Sound Gear (Japan) (PC Game Bundle) (Track 06).bin, CRC: 07a2c1c6
-- Pil Sound Gear (Japan) (PC Game Bundle) (Track 07).bin, CRC: aaf383eb
-- Pil Sound Gear (Japan) (PC Game Bundle) (Track 08).bin, CRC: c7cf2176
-- Pil Sound Gear (Japan) (PC Game Bundle) (Track 09).bin, CRC: 1d2b53c3
-- Pil Sound Gear (Japan) (PC Game Bundle) (Track 10).bin, CRC: 077f8b85
-- Pil Sound Gear (Japan) (PC Game Bundle) (Track 11).bin, CRC: 2613e1d0
-- Pil Sound Gear (Japan) (PC Game Bundle) (Track 12).bin, CRC: 8c866bd9
-</details>
-
 ### Pippi Firar Sin Foedelsedag (Scandinavia) (PC Game Bundle)
 <details>
 <summary>ROMs</summary>
@@ -1326,37 +1361,7 @@
 </details>
 
 ### Pure Song Garden! Sound Track Mirai Record! (Japan) (Track 26).bin, CRC: 29fcca68
-### R4 - Ridge Racer Type 4 - The 20th Anniv. Sounds (Japan) (Disc 2) (2nd Heat - Remastered Sounds) (Alt 2)
-<details>
-<summary>ROMs</summary>
-
-- R4 - Ridge Racer Type 4 - The 20th Anniv. Sounds (Japan) (Disc 2) (2nd Heat - Remastered Sounds) (Alt 2) (Track 01).bin, CRC: 9c62cb1d
-- R4 - Ridge Racer Type 4 - The 20th Anniv. Sounds (Japan) (Disc 2) (2nd Heat - Remastered Sounds) (Alt 2) (Track 02).bin, CRC: 680d91b2
-- R4 - Ridge Racer Type 4 - The 20th Anniv. Sounds (Japan) (Disc 2) (2nd Heat - Remastered Sounds) (Alt 2) (Track 03).bin, CRC: ca66f596
-- R4 - Ridge Racer Type 4 - The 20th Anniv. Sounds (Japan) (Disc 2) (2nd Heat - Remastered Sounds) (Alt 2) (Track 04).bin, CRC: 8ddc224f
-- R4 - Ridge Racer Type 4 - The 20th Anniv. Sounds (Japan) (Disc 2) (2nd Heat - Remastered Sounds) (Alt 2) (Track 05).bin, CRC: 36b019d5
-- R4 - Ridge Racer Type 4 - The 20th Anniv. Sounds (Japan) (Disc 2) (2nd Heat - Remastered Sounds) (Alt 2) (Track 06).bin, CRC: 165a6722
-- R4 - Ridge Racer Type 4 - The 20th Anniv. Sounds (Japan) (Disc 2) (2nd Heat - Remastered Sounds) (Alt 2) (Track 07).bin, CRC: e1a651c6
-- R4 - Ridge Racer Type 4 - The 20th Anniv. Sounds (Japan) (Disc 2) (2nd Heat - Remastered Sounds) (Alt 2) (Track 08).bin, CRC: e1aa3639
-- R4 - Ridge Racer Type 4 - The 20th Anniv. Sounds (Japan) (Disc 2) (2nd Heat - Remastered Sounds) (Alt 2) (Track 09).bin, CRC: 85685679
-- R4 - Ridge Racer Type 4 - The 20th Anniv. Sounds (Japan) (Disc 2) (2nd Heat - Remastered Sounds) (Alt 2) (Track 10).bin, CRC: 29b1b387
-- R4 - Ridge Racer Type 4 - The 20th Anniv. Sounds (Japan) (Disc 2) (2nd Heat - Remastered Sounds) (Alt 2) (Track 11).bin, CRC: 9668c0f2
-- R4 - Ridge Racer Type 4 - The 20th Anniv. Sounds (Japan) (Disc 2) (2nd Heat - Remastered Sounds) (Alt 2) (Track 12).bin, CRC: 237cab93
-- R4 - Ridge Racer Type 4 - The 20th Anniv. Sounds (Japan) (Disc 2) (2nd Heat - Remastered Sounds) (Alt 2) (Track 13).bin, CRC: f12986f4
-- R4 - Ridge Racer Type 4 - The 20th Anniv. Sounds (Japan) (Disc 2) (2nd Heat - Remastered Sounds) (Alt 2) (Track 14).bin, CRC: 7ec63a0e
-- R4 - Ridge Racer Type 4 - The 20th Anniv. Sounds (Japan) (Disc 2) (2nd Heat - Remastered Sounds) (Alt 2) (Track 15).bin, CRC: 90754641
-- R4 - Ridge Racer Type 4 - The 20th Anniv. Sounds (Japan) (Disc 2) (2nd Heat - Remastered Sounds) (Alt 2) (Track 16).bin, CRC: 4bd256ad
-- R4 - Ridge Racer Type 4 - The 20th Anniv. Sounds (Japan) (Disc 2) (2nd Heat - Remastered Sounds) (Alt 2) (Track 17).bin, CRC: 37861690
-- R4 - Ridge Racer Type 4 - The 20th Anniv. Sounds (Japan) (Disc 2) (2nd Heat - Remastered Sounds) (Alt 2) (Track 18).bin, CRC: c94f3ebe
-- R4 - Ridge Racer Type 4 - The 20th Anniv. Sounds (Japan) (Disc 2) (2nd Heat - Remastered Sounds) (Alt 2) (Track 19).bin, CRC: 1f2bc353
-- R4 - Ridge Racer Type 4 - The 20th Anniv. Sounds (Japan) (Disc 2) (2nd Heat - Remastered Sounds) (Alt 2) (Track 20).bin, CRC: c54dc2e1
-- R4 - Ridge Racer Type 4 - The 20th Anniv. Sounds (Japan) (Disc 2) (2nd Heat - Remastered Sounds) (Alt 2) (Track 21).bin, CRC: 9bac63e6
-- R4 - Ridge Racer Type 4 - The 20th Anniv. Sounds (Japan) (Disc 2) (2nd Heat - Remastered Sounds) (Alt 2) (Track 22).bin, CRC: 58fabedc
-- R4 - Ridge Racer Type 4 - The 20th Anniv. Sounds (Japan) (Disc 2) (2nd Heat - Remastered Sounds) (Alt 2) (Track 23).bin, CRC: 05645a79
-- R4 - Ridge Racer Type 4 - The 20th Anniv. Sounds (Japan) (Disc 2) (2nd Heat - Remastered Sounds) (Alt 2) (Track 24).bin, CRC: 07b895b2
-- R4 - Ridge Racer Type 4 - The 20th Anniv. Sounds (Japan) (Disc 2) (2nd Heat - Remastered Sounds) (Alt 2) (Track 25).bin, CRC: 09b10cd6
-</details>
-
+### R4 - Ridge Racer Type 4 - The 20th Anniv. Sounds (Japan) (Disc 2) (2nd Heat - Remastered Sounds) (Alt 2) (Track 25).bin, CRC: 09b10cd6
 ### Raiden IV x Mikado Remix - Original Sound Tracks - Mikado Edition (Japan) (Track 19).bin, CRC: dc099383
 ### Raiden IV x Mikado Remix OST Mikado Edition Special Disc - HM x HMR Mini Single CDR (Japan) (Track 1).bin, CRC: bd20c3d1
 ### Raspberry Potion (Japan)
@@ -1402,16 +1407,6 @@
 - Ren'ai Saimin - Tsun na Kanojo ga Dereru Saimin - Vocal and Soundtrack (Japan) (Track 20).bin, CRC: 6e9d1a85
 - Ren'ai Saimin - Tsun na Kanojo ga Dereru Saimin - Vocal and Soundtrack (Japan) (Track 21).bin, CRC: 99b6764a
 - Ren'ai Saimin - Tsun na Kanojo ga Dereru Saimin - Vocal and Soundtrack (Japan) (Track 22).bin, CRC: 2dd08880
-</details>
-
-### Restaurant Dream (Japan)
-<details>
-<summary>ROMs</summary>
-
-- Restaurant Dream (Japan) (Track 1).bin, CRC: 4433de1d
-- Restaurant Dream (Japan) (Track 2).bin, CRC: 41eee639
-- Restaurant Dream (Japan) (Track 3).bin, CRC: fe764f28
-- Restaurant Dream (Japan) (Track 4).bin, CRC: 41018057
 </details>
 
 ### Rom Cassette Disc in Natsume Vol. 3 - Powered by Taito (Japan) (Disc 1) (Track 59).bin, CRC: f7873704
@@ -1516,6 +1511,93 @@
 - Shadowgrounds Survivor - Original Soundtrack (Finland) (PC Game Bundle) (Track 15).bin, CRC: 32b9aade
 </details>
 
+### Shantae - Half-Genie Hero - Ultimate Edition! - 'Risky Beats' (Europe)
+<details>
+<summary>ROMs</summary>
+
+- Shantae - Half-Genie Hero - Ultimate Edition! - 'Risky Beats' (Europe) (Track 01).bin, CRC: ccf03bdd
+- Shantae - Half-Genie Hero - Ultimate Edition! - 'Risky Beats' (Europe) (Track 02).bin, CRC: 85d2d17f
+- Shantae - Half-Genie Hero - Ultimate Edition! - 'Risky Beats' (Europe) (Track 03).bin, CRC: d3a2c3d4
+- Shantae - Half-Genie Hero - Ultimate Edition! - 'Risky Beats' (Europe) (Track 04).bin, CRC: 69be60e1
+- Shantae - Half-Genie Hero - Ultimate Edition! - 'Risky Beats' (Europe) (Track 05).bin, CRC: 3e688375
+- Shantae - Half-Genie Hero - Ultimate Edition! - 'Risky Beats' (Europe) (Track 06).bin, CRC: a3960c8a
+- Shantae - Half-Genie Hero - Ultimate Edition! - 'Risky Beats' (Europe) (Track 07).bin, CRC: 1aedc623
+- Shantae - Half-Genie Hero - Ultimate Edition! - 'Risky Beats' (Europe) (Track 08).bin, CRC: f1983c5c
+- Shantae - Half-Genie Hero - Ultimate Edition! - 'Risky Beats' (Europe) (Track 09).bin, CRC: bb7658dd
+- Shantae - Half-Genie Hero - Ultimate Edition! - 'Risky Beats' (Europe) (Track 10).bin, CRC: a46d2535
+- Shantae - Half-Genie Hero - Ultimate Edition! - 'Risky Beats' (Europe) (Track 11).bin, CRC: a52037dd
+- Shantae - Half-Genie Hero - Ultimate Edition! - 'Risky Beats' (Europe) (Track 12).bin, CRC: 4541e7bc
+- Shantae - Half-Genie Hero - Ultimate Edition! - 'Risky Beats' (Europe) (Track 13).bin, CRC: a26e4d03
+- Shantae - Half-Genie Hero - Ultimate Edition! - 'Risky Beats' (Europe) (Track 14).bin, CRC: 0d9ce7a3
+- Shantae - Half-Genie Hero - Ultimate Edition! - 'Risky Beats' (Europe) (Track 15).bin, CRC: 6b65eae7
+- Shantae - Half-Genie Hero - Ultimate Edition! - 'Risky Beats' (Europe) (Track 16).bin, CRC: 468bc412
+- Shantae - Half-Genie Hero - Ultimate Edition! - 'Risky Beats' (Europe) (Track 17).bin, CRC: ecd51e8f
+- Shantae - Half-Genie Hero - Ultimate Edition! - 'Risky Beats' (Europe) (Track 18).bin, CRC: 1500e3f1
+- Shantae - Half-Genie Hero - Ultimate Edition! - 'Risky Beats' (Europe) (Track 19).bin, CRC: cc6624b5
+- Shantae - Half-Genie Hero - Ultimate Edition! - 'Risky Beats' (Europe) (Track 20).bin, CRC: 0fedf33e
+- Shantae - Half-Genie Hero - Ultimate Edition! - 'Risky Beats' (Europe) (Track 21).bin, CRC: ee590632
+- Shantae - Half-Genie Hero - Ultimate Edition! - 'Risky Beats' (Europe) (Track 22).bin, CRC: 3502e0d9
+- Shantae - Half-Genie Hero - Ultimate Edition! - 'Risky Beats' (Europe) (Track 23).bin, CRC: 33bc88e3
+- Shantae - Half-Genie Hero - Ultimate Edition! - 'Risky Beats' (Europe) (Track 24).bin, CRC: 281d13b3
+- Shantae - Half-Genie Hero - Ultimate Edition! - 'Risky Beats' (Europe) (Track 25).bin, CRC: e23ac9d4
+- Shantae - Half-Genie Hero - Ultimate Edition! - 'Risky Beats' (Europe) (Track 26).bin, CRC: b13f2d62
+- Shantae - Half-Genie Hero - Ultimate Edition! - 'Risky Beats' (Europe) (Track 27).bin, CRC: 972dc36b
+- Shantae - Half-Genie Hero - Ultimate Edition! - 'Risky Beats' (Europe) (Track 28).bin, CRC: 26784567
+- Shantae - Half-Genie Hero - Ultimate Edition! - 'Risky Beats' (Europe) (Track 29).bin, CRC: 7a9bd512
+- Shantae - Half-Genie Hero - Ultimate Edition! - 'Risky Beats' (Europe) (Track 30).bin, CRC: d76a396d
+</details>
+
+### Shin Sangoku Musou - Original Sound Track - Ultimate Best (Japan)
+<details>
+<summary>ROMs</summary>
+
+- Shin Sangoku Musou - Original Sound Track - Ultimate Best (Japan) (Track 01).bin, CRC: 6f6aaa54
+- Shin Sangoku Musou - Original Sound Track - Ultimate Best (Japan) (Track 02).bin, CRC: 4e8e90e8
+- Shin Sangoku Musou - Original Sound Track - Ultimate Best (Japan) (Track 03).bin, CRC: c582a419
+- Shin Sangoku Musou - Original Sound Track - Ultimate Best (Japan) (Track 04).bin, CRC: 9cb8db74
+- Shin Sangoku Musou - Original Sound Track - Ultimate Best (Japan) (Track 05).bin, CRC: ca72bbc8
+- Shin Sangoku Musou - Original Sound Track - Ultimate Best (Japan) (Track 06).bin, CRC: 91d11450
+- Shin Sangoku Musou - Original Sound Track - Ultimate Best (Japan) (Track 07).bin, CRC: 3985ce67
+- Shin Sangoku Musou - Original Sound Track - Ultimate Best (Japan) (Track 08).bin, CRC: 9f603662
+- Shin Sangoku Musou - Original Sound Track - Ultimate Best (Japan) (Track 09).bin, CRC: 78576c7f
+- Shin Sangoku Musou - Original Sound Track - Ultimate Best (Japan) (Track 10).bin, CRC: cd375cd0
+- Shin Sangoku Musou - Original Sound Track - Ultimate Best (Japan) (Track 11).bin, CRC: 3708953e
+- Shin Sangoku Musou - Original Sound Track - Ultimate Best (Japan) (Track 12).bin, CRC: 3c2554d3
+- Shin Sangoku Musou - Original Sound Track - Ultimate Best (Japan) (Track 13).bin, CRC: 61030d36
+- Shin Sangoku Musou - Original Sound Track - Ultimate Best (Japan) (Track 14).bin, CRC: 93a28eb3
+- Shin Sangoku Musou - Original Sound Track - Ultimate Best (Japan) (Track 15).bin, CRC: 8bd0aa49
+- Shin Sangoku Musou - Original Sound Track - Ultimate Best (Japan) (Track 16).bin, CRC: 8d0fa3f0
+- Shin Sangoku Musou - Original Sound Track - Ultimate Best (Japan) (Track 17).bin, CRC: ca771786
+- Shin Sangoku Musou - Original Sound Track - Ultimate Best (Japan) (Track 18).bin, CRC: 9f8b8ce2
+- Shin Sangoku Musou - Original Sound Track - Ultimate Best (Japan) (Track 19).bin, CRC: 0bf8c7d5
+- Shin Sangoku Musou - Original Sound Track - Ultimate Best (Japan) (Track 20).bin, CRC: e0c9c020
+- Shin Sangoku Musou - Original Sound Track - Ultimate Best (Japan) (Track 21).bin, CRC: 6eee069a
+- Shin Sangoku Musou - Original Sound Track - Ultimate Best (Japan) (Track 22).bin, CRC: ba46157e
+- Shin Sangoku Musou - Original Sound Track - Ultimate Best (Japan) (Track 23).bin, CRC: 031f5e96
+- Shin Sangoku Musou - Original Sound Track - Ultimate Best (Japan) (Track 24).bin, CRC: 9972ca9d
+- Shin Sangoku Musou - Original Sound Track - Ultimate Best (Japan) (Track 25).bin, CRC: cd8711e8
+- Shin Sangoku Musou - Original Sound Track - Ultimate Best (Japan) (Track 26).bin, CRC: d461ab9a
+- Shin Sangoku Musou - Original Sound Track - Ultimate Best (Japan) (Track 27).bin, CRC: 6c279878
+- Shin Sangoku Musou - Original Sound Track - Ultimate Best (Japan) (Track 28).bin, CRC: a9b10e32
+- Shin Sangoku Musou - Original Sound Track - Ultimate Best (Japan) (Track 29).bin, CRC: 22a488a9
+</details>
+
+### Shin Sangoku Musou 8 - Original Soundtrack (Japan)
+<details>
+<summary>ROMs</summary>
+
+- Shin Sangoku Musou 8 - Original Soundtrack (Japan) (Track 01).bin, CRC: 5ca8b504
+- Shin Sangoku Musou 8 - Original Soundtrack (Japan) (Track 02).bin, CRC: f00fa0f7
+- Shin Sangoku Musou 8 - Original Soundtrack (Japan) (Track 03).bin, CRC: 7175619a
+- Shin Sangoku Musou 8 - Original Soundtrack (Japan) (Track 04).bin, CRC: 8cb35510
+- Shin Sangoku Musou 8 - Original Soundtrack (Japan) (Track 05).bin, CRC: b3e99bba
+- Shin Sangoku Musou 8 - Original Soundtrack (Japan) (Track 06).bin, CRC: 94af0dad
+- Shin Sangoku Musou 8 - Original Soundtrack (Japan) (Track 07).bin, CRC: cac4b109
+- Shin Sangoku Musou 8 - Original Soundtrack (Japan) (Track 08).bin, CRC: 18dfc24f
+- Shin Sangoku Musou 8 - Original Soundtrack (Japan) (Track 09).bin, CRC: ddc12ab1
+- Shin Sangoku Musou 8 - Original Soundtrack (Japan) (Track 10).bin, CRC: 24d0acac
+</details>
+
 ### Shinji Hosoe Works Vol. 3 - Dragon Saber (Japan) (Disc 1)
 <details>
 <summary>ROMs</summary>
@@ -1595,319 +1677,33 @@
 </details>
 
 ### Soukai Tenki - Yoyaku Drama CD - Mendou na Kamisama (Japan).bin, CRC: ef0e10b3
-### Square Enix Koukaon-shuu (Japan)
+### Sporific Sounds (Europe)
 <details>
 <summary>ROMs</summary>
 
-- Square Enix Koukaon-shuu (Japan) (Track 01).bin, CRC: b5aa5b6f
-- Square Enix Koukaon-shuu (Japan) (Track 02).bin, CRC: 918ad5f4
-- Square Enix Koukaon-shuu (Japan) (Track 03).bin, CRC: f57df4f4
-- Square Enix Koukaon-shuu (Japan) (Track 04).bin, CRC: 6d681b0f
-- Square Enix Koukaon-shuu (Japan) (Track 05).bin, CRC: 8f56a372
-- Square Enix Koukaon-shuu (Japan) (Track 06).bin, CRC: ed9c5cd8
-- Square Enix Koukaon-shuu (Japan) (Track 07).bin, CRC: b97aa8f5
-- Square Enix Koukaon-shuu (Japan) (Track 08).bin, CRC: b174585f
-- Square Enix Koukaon-shuu (Japan) (Track 09).bin, CRC: 105b7ecc
-- Square Enix Koukaon-shuu (Japan) (Track 10).bin, CRC: ce87eec2
-- Square Enix Koukaon-shuu (Japan) (Track 11).bin, CRC: 096b0c77
-- Square Enix Koukaon-shuu (Japan) (Track 12).bin, CRC: 2e416dff
-- Square Enix Koukaon-shuu (Japan) (Track 13).bin, CRC: cf2e593c
-- Square Enix Koukaon-shuu (Japan) (Track 14).bin, CRC: 6485dff0
-- Square Enix Koukaon-shuu (Japan) (Track 15).bin, CRC: 801c022b
-- Square Enix Koukaon-shuu (Japan) (Track 16).bin, CRC: 33b46422
-- Square Enix Koukaon-shuu (Japan) (Track 17).bin, CRC: 164c44a6
-- Square Enix Koukaon-shuu (Japan) (Track 18).bin, CRC: b94d1b2a
-- Square Enix Koukaon-shuu (Japan) (Track 19).bin, CRC: d823e856
-- Square Enix Koukaon-shuu (Japan) (Track 20).bin, CRC: f03a8586
-- Square Enix Koukaon-shuu (Japan) (Track 21).bin, CRC: 635ab8fe
-- Square Enix Koukaon-shuu (Japan) (Track 22).bin, CRC: 1ac2e9ee
-- Square Enix Koukaon-shuu (Japan) (Track 23).bin, CRC: 184a94df
-- Square Enix Koukaon-shuu (Japan) (Track 24).bin, CRC: dd036c0f
-- Square Enix Koukaon-shuu (Japan) (Track 25).bin, CRC: c7663f2a
-- Square Enix Koukaon-shuu (Japan) (Track 26).bin, CRC: 110ce807
-- Square Enix Koukaon-shuu (Japan) (Track 27).bin, CRC: 37df69b0
-- Square Enix Koukaon-shuu (Japan) (Track 28).bin, CRC: fd828505
-- Square Enix Koukaon-shuu (Japan) (Track 29).bin, CRC: de6a5ca8
-- Square Enix Koukaon-shuu (Japan) (Track 30).bin, CRC: 26191c2e
-- Square Enix Koukaon-shuu (Japan) (Track 31).bin, CRC: 1117caf4
-- Square Enix Koukaon-shuu (Japan) (Track 32).bin, CRC: 7c9d796d
-- Square Enix Koukaon-shuu (Japan) (Track 33).bin, CRC: 00a28513
-- Square Enix Koukaon-shuu (Japan) (Track 34).bin, CRC: ca3fbac9
-- Square Enix Koukaon-shuu (Japan) (Track 35).bin, CRC: dfbf74d7
-- Square Enix Koukaon-shuu (Japan) (Track 36).bin, CRC: c533dc0e
-- Square Enix Koukaon-shuu (Japan) (Track 37).bin, CRC: 376c8407
-- Square Enix Koukaon-shuu (Japan) (Track 38).bin, CRC: f8249566
-- Square Enix Koukaon-shuu (Japan) (Track 39).bin, CRC: 09f53345
-- Square Enix Koukaon-shuu (Japan) (Track 40).bin, CRC: 47e0fde7
-- Square Enix Koukaon-shuu (Japan) (Track 41).bin, CRC: deb779c0
-- Square Enix Koukaon-shuu (Japan) (Track 42).bin, CRC: b5174033
-- Square Enix Koukaon-shuu (Japan) (Track 43).bin, CRC: 1c2ac21f
-- Square Enix Koukaon-shuu (Japan) (Track 44).bin, CRC: f20187b5
-- Square Enix Koukaon-shuu (Japan) (Track 45).bin, CRC: 3dce5d40
-- Square Enix Koukaon-shuu (Japan) (Track 46).bin, CRC: 39c5ea96
-- Square Enix Koukaon-shuu (Japan) (Track 47).bin, CRC: 9d408e19
-- Square Enix Koukaon-shuu (Japan) (Track 48).bin, CRC: 1138000d
-- Square Enix Koukaon-shuu (Japan) (Track 49).bin, CRC: abca4f30
-- Square Enix Koukaon-shuu (Japan) (Track 50).bin, CRC: bd9aedda
-- Square Enix Koukaon-shuu (Japan) (Track 51).bin, CRC: ae87e4d2
-- Square Enix Koukaon-shuu (Japan) (Track 52).bin, CRC: e8417067
-- Square Enix Koukaon-shuu (Japan) (Track 53).bin, CRC: d4c98ea0
-- Square Enix Koukaon-shuu (Japan) (Track 54).bin, CRC: 285fc834
-- Square Enix Koukaon-shuu (Japan) (Track 55).bin, CRC: 7883c870
-- Square Enix Koukaon-shuu (Japan) (Track 56).bin, CRC: 4c6aba71
-- Square Enix Koukaon-shuu (Japan) (Track 57).bin, CRC: 2036fcd3
-- Square Enix Koukaon-shuu (Japan) (Track 58).bin, CRC: 9a50af4b
-- Square Enix Koukaon-shuu (Japan) (Track 59).bin, CRC: 1a1b2d1c
-- Square Enix Koukaon-shuu (Japan) (Track 60).bin, CRC: 271e279b
-- Square Enix Koukaon-shuu (Japan) (Track 61).bin, CRC: 17f1d198
-- Square Enix Koukaon-shuu (Japan) (Track 62).bin, CRC: 27aaf72d
-- Square Enix Koukaon-shuu (Japan) (Track 63).bin, CRC: 0f9ef219
-- Square Enix Koukaon-shuu (Japan) (Track 64).bin, CRC: 2771fc69
-- Square Enix Koukaon-shuu (Japan) (Track 65).bin, CRC: 2a8e0de2
-- Square Enix Koukaon-shuu (Japan) (Track 66).bin, CRC: f069fda0
-- Square Enix Koukaon-shuu (Japan) (Track 67).bin, CRC: f7652e2b
-- Square Enix Koukaon-shuu (Japan) (Track 68).bin, CRC: e5fcb04f
-- Square Enix Koukaon-shuu (Japan) (Track 69).bin, CRC: 3a7ef95a
-- Square Enix Koukaon-shuu (Japan) (Track 70).bin, CRC: 94afffd6
-- Square Enix Koukaon-shuu (Japan) (Track 71).bin, CRC: 86a36867
-- Square Enix Koukaon-shuu (Japan) (Track 72).bin, CRC: 7b6976de
-- Square Enix Koukaon-shuu (Japan) (Track 73).bin, CRC: b9c381b2
-- Square Enix Koukaon-shuu (Japan) (Track 74).bin, CRC: 62585511
-- Square Enix Koukaon-shuu (Japan) (Track 75).bin, CRC: 8b595ba8
-- Square Enix Koukaon-shuu (Japan) (Track 76).bin, CRC: bba1e4b2
-- Square Enix Koukaon-shuu (Japan) (Track 77).bin, CRC: c9a373fc
-- Square Enix Koukaon-shuu (Japan) (Track 78).bin, CRC: 69e7744f
-- Square Enix Koukaon-shuu (Japan) (Track 79).bin, CRC: f4fd80b1
-- Square Enix Koukaon-shuu (Japan) (Track 80).bin, CRC: e50ed766
-- Square Enix Koukaon-shuu (Japan) (Track 81).bin, CRC: c03cae77
-- Square Enix Koukaon-shuu (Japan) (Track 82).bin, CRC: 665a6a62
-- Square Enix Koukaon-shuu (Japan) (Track 83).bin, CRC: d8f82e35
-- Square Enix Koukaon-shuu (Japan) (Track 84).bin, CRC: 270fd70e
-- Square Enix Koukaon-shuu (Japan) (Track 85).bin, CRC: db6f92a0
-- Square Enix Koukaon-shuu (Japan) (Track 86).bin, CRC: 72a665d2
-- Square Enix Koukaon-shuu (Japan) (Track 87).bin, CRC: 68c2c7a6
-- Square Enix Koukaon-shuu (Japan) (Track 88).bin, CRC: 08f6d8c7
-- Square Enix Koukaon-shuu (Japan) (Track 89).bin, CRC: d1d817d6
-- Square Enix Koukaon-shuu (Japan) (Track 90).bin, CRC: 0d725f87
-- Square Enix Koukaon-shuu (Japan) (Track 91).bin, CRC: 3631f53e
-- Square Enix Koukaon-shuu (Japan) (Track 92).bin, CRC: 3b18db43
-- Square Enix Koukaon-shuu (Japan) (Track 93).bin, CRC: c77fe05a
-- Square Enix Koukaon-shuu (Japan) (Track 94).bin, CRC: 79ea1d03
-- Square Enix Koukaon-shuu (Japan) (Track 95).bin, CRC: 3fe6021a
-- Square Enix Koukaon-shuu (Japan) (Track 96).bin, CRC: 21b51d37
-- Square Enix Koukaon-shuu (Japan) (Track 97).bin, CRC: 2c463dec
-- Square Enix Koukaon-shuu (Japan) (Track 98).bin, CRC: bed3eb57
-- Square Enix Koukaon-shuu (Japan) (Track 99).bin, CRC: 93101abd
-</details>
-
-### Square Enix Koukaon-shuu 2 (Japan)
-<details>
-<summary>ROMs</summary>
-
-- Square Enix Koukaon-shuu 2 (Japan) (Track 01).bin, CRC: e04450dd
-- Square Enix Koukaon-shuu 2 (Japan) (Track 02).bin, CRC: 932c74d8
-- Square Enix Koukaon-shuu 2 (Japan) (Track 03).bin, CRC: f763a2a8
-- Square Enix Koukaon-shuu 2 (Japan) (Track 04).bin, CRC: 1780a6a6
-- Square Enix Koukaon-shuu 2 (Japan) (Track 05).bin, CRC: 0ad10fef
-- Square Enix Koukaon-shuu 2 (Japan) (Track 06).bin, CRC: 7504d8c9
-- Square Enix Koukaon-shuu 2 (Japan) (Track 07).bin, CRC: d2808772
-- Square Enix Koukaon-shuu 2 (Japan) (Track 08).bin, CRC: f8a26d85
-- Square Enix Koukaon-shuu 2 (Japan) (Track 09).bin, CRC: 0b33af7f
-- Square Enix Koukaon-shuu 2 (Japan) (Track 10).bin, CRC: 41c6a6ef
-- Square Enix Koukaon-shuu 2 (Japan) (Track 11).bin, CRC: a4cb4256
-- Square Enix Koukaon-shuu 2 (Japan) (Track 12).bin, CRC: 501851a3
-- Square Enix Koukaon-shuu 2 (Japan) (Track 13).bin, CRC: 2a4161cc
-- Square Enix Koukaon-shuu 2 (Japan) (Track 14).bin, CRC: bff394cd
-- Square Enix Koukaon-shuu 2 (Japan) (Track 15).bin, CRC: 24913556
-- Square Enix Koukaon-shuu 2 (Japan) (Track 16).bin, CRC: 4f083356
-- Square Enix Koukaon-shuu 2 (Japan) (Track 17).bin, CRC: 5568d112
-- Square Enix Koukaon-shuu 2 (Japan) (Track 18).bin, CRC: 481b6c28
-- Square Enix Koukaon-shuu 2 (Japan) (Track 19).bin, CRC: 0fc4a96a
-- Square Enix Koukaon-shuu 2 (Japan) (Track 20).bin, CRC: d7582731
-- Square Enix Koukaon-shuu 2 (Japan) (Track 21).bin, CRC: b536dc09
-- Square Enix Koukaon-shuu 2 (Japan) (Track 22).bin, CRC: a5e652cd
-- Square Enix Koukaon-shuu 2 (Japan) (Track 23).bin, CRC: 0f392ed0
-- Square Enix Koukaon-shuu 2 (Japan) (Track 24).bin, CRC: 8d0d3976
-- Square Enix Koukaon-shuu 2 (Japan) (Track 25).bin, CRC: c436ad4e
-- Square Enix Koukaon-shuu 2 (Japan) (Track 26).bin, CRC: 1abdc7d2
-- Square Enix Koukaon-shuu 2 (Japan) (Track 27).bin, CRC: 10aa1296
-- Square Enix Koukaon-shuu 2 (Japan) (Track 28).bin, CRC: c2aa199b
-- Square Enix Koukaon-shuu 2 (Japan) (Track 29).bin, CRC: fa8fd97c
-- Square Enix Koukaon-shuu 2 (Japan) (Track 30).bin, CRC: 5600f5cd
-- Square Enix Koukaon-shuu 2 (Japan) (Track 31).bin, CRC: 4e5c9071
-- Square Enix Koukaon-shuu 2 (Japan) (Track 32).bin, CRC: 02e3df5d
-- Square Enix Koukaon-shuu 2 (Japan) (Track 33).bin, CRC: ad5bd114
-- Square Enix Koukaon-shuu 2 (Japan) (Track 34).bin, CRC: 4295c04d
-- Square Enix Koukaon-shuu 2 (Japan) (Track 35).bin, CRC: f368e493
-- Square Enix Koukaon-shuu 2 (Japan) (Track 36).bin, CRC: 58353f0c
-- Square Enix Koukaon-shuu 2 (Japan) (Track 37).bin, CRC: e3029644
-- Square Enix Koukaon-shuu 2 (Japan) (Track 38).bin, CRC: 944413a1
-- Square Enix Koukaon-shuu 2 (Japan) (Track 39).bin, CRC: f0d82641
-- Square Enix Koukaon-shuu 2 (Japan) (Track 40).bin, CRC: 97308430
-- Square Enix Koukaon-shuu 2 (Japan) (Track 41).bin, CRC: e316f18b
-- Square Enix Koukaon-shuu 2 (Japan) (Track 42).bin, CRC: c8fac95f
-- Square Enix Koukaon-shuu 2 (Japan) (Track 43).bin, CRC: 36fa13b5
-- Square Enix Koukaon-shuu 2 (Japan) (Track 44).bin, CRC: 6398adf3
-- Square Enix Koukaon-shuu 2 (Japan) (Track 45).bin, CRC: accca1fc
-- Square Enix Koukaon-shuu 2 (Japan) (Track 46).bin, CRC: 5d1b2536
-- Square Enix Koukaon-shuu 2 (Japan) (Track 47).bin, CRC: f1dbe90b
-- Square Enix Koukaon-shuu 2 (Japan) (Track 48).bin, CRC: a0ddd561
-- Square Enix Koukaon-shuu 2 (Japan) (Track 49).bin, CRC: 13dcbd96
-- Square Enix Koukaon-shuu 2 (Japan) (Track 50).bin, CRC: 2c234514
-- Square Enix Koukaon-shuu 2 (Japan) (Track 51).bin, CRC: f1cd490a
-- Square Enix Koukaon-shuu 2 (Japan) (Track 52).bin, CRC: f8f7f187
-- Square Enix Koukaon-shuu 2 (Japan) (Track 53).bin, CRC: 48cce4e3
-- Square Enix Koukaon-shuu 2 (Japan) (Track 54).bin, CRC: 99203f12
-- Square Enix Koukaon-shuu 2 (Japan) (Track 55).bin, CRC: bdb19e81
-- Square Enix Koukaon-shuu 2 (Japan) (Track 56).bin, CRC: fea16f07
-- Square Enix Koukaon-shuu 2 (Japan) (Track 57).bin, CRC: 63907293
-- Square Enix Koukaon-shuu 2 (Japan) (Track 58).bin, CRC: 15578f64
-- Square Enix Koukaon-shuu 2 (Japan) (Track 59).bin, CRC: bd99b7d7
-- Square Enix Koukaon-shuu 2 (Japan) (Track 60).bin, CRC: 8051beb6
-- Square Enix Koukaon-shuu 2 (Japan) (Track 61).bin, CRC: 834918a8
-- Square Enix Koukaon-shuu 2 (Japan) (Track 62).bin, CRC: bfaf2f64
-- Square Enix Koukaon-shuu 2 (Japan) (Track 63).bin, CRC: 26636b21
-- Square Enix Koukaon-shuu 2 (Japan) (Track 64).bin, CRC: 82ae4856
-- Square Enix Koukaon-shuu 2 (Japan) (Track 65).bin, CRC: 8c97c165
-- Square Enix Koukaon-shuu 2 (Japan) (Track 66).bin, CRC: 79dcd2be
-- Square Enix Koukaon-shuu 2 (Japan) (Track 67).bin, CRC: f8a1503e
-- Square Enix Koukaon-shuu 2 (Japan) (Track 68).bin, CRC: fdc660a6
-- Square Enix Koukaon-shuu 2 (Japan) (Track 69).bin, CRC: 709ede2e
-- Square Enix Koukaon-shuu 2 (Japan) (Track 70).bin, CRC: 7295d7e4
-- Square Enix Koukaon-shuu 2 (Japan) (Track 71).bin, CRC: ef4ae053
-- Square Enix Koukaon-shuu 2 (Japan) (Track 72).bin, CRC: b9fb9cbb
-- Square Enix Koukaon-shuu 2 (Japan) (Track 73).bin, CRC: 930bb652
-- Square Enix Koukaon-shuu 2 (Japan) (Track 74).bin, CRC: 3be55edc
-- Square Enix Koukaon-shuu 2 (Japan) (Track 75).bin, CRC: 24513411
-- Square Enix Koukaon-shuu 2 (Japan) (Track 76).bin, CRC: 715b066a
-- Square Enix Koukaon-shuu 2 (Japan) (Track 77).bin, CRC: ab899f0f
-- Square Enix Koukaon-shuu 2 (Japan) (Track 78).bin, CRC: 6c1a025f
-- Square Enix Koukaon-shuu 2 (Japan) (Track 79).bin, CRC: 7c29ee63
-- Square Enix Koukaon-shuu 2 (Japan) (Track 80).bin, CRC: c0377013
-- Square Enix Koukaon-shuu 2 (Japan) (Track 81).bin, CRC: 4ebdbf38
-- Square Enix Koukaon-shuu 2 (Japan) (Track 82).bin, CRC: 0e13a076
-- Square Enix Koukaon-shuu 2 (Japan) (Track 83).bin, CRC: f21b3aba
-- Square Enix Koukaon-shuu 2 (Japan) (Track 84).bin, CRC: af1fadc1
-- Square Enix Koukaon-shuu 2 (Japan) (Track 85).bin, CRC: 59304ad3
-- Square Enix Koukaon-shuu 2 (Japan) (Track 86).bin, CRC: b3e6e143
-- Square Enix Koukaon-shuu 2 (Japan) (Track 87).bin, CRC: fad859c3
-- Square Enix Koukaon-shuu 2 (Japan) (Track 88).bin, CRC: 7daf822f
-- Square Enix Koukaon-shuu 2 (Japan) (Track 89).bin, CRC: 4d70ed2d
-- Square Enix Koukaon-shuu 2 (Japan) (Track 90).bin, CRC: f058a798
-- Square Enix Koukaon-shuu 2 (Japan) (Track 91).bin, CRC: d4099bf9
-- Square Enix Koukaon-shuu 2 (Japan) (Track 92).bin, CRC: 4eab47b2
-- Square Enix Koukaon-shuu 2 (Japan) (Track 93).bin, CRC: ada7e0e6
-- Square Enix Koukaon-shuu 2 (Japan) (Track 94).bin, CRC: ce1643ea
-- Square Enix Koukaon-shuu 2 (Japan) (Track 95).bin, CRC: 14c174ae
-- Square Enix Koukaon-shuu 2 (Japan) (Track 96).bin, CRC: d501594d
-- Square Enix Koukaon-shuu 2 (Japan) (Track 97).bin, CRC: 93600608
-- Square Enix Koukaon-shuu 2 (Japan) (Track 98).bin, CRC: 531ba55c
-- Square Enix Koukaon-shuu 2 (Japan) (Track 99).bin, CRC: 32951d73
-</details>
-
-### Square Enix Koukaon-shuu 3 (Japan)
-<details>
-<summary>ROMs</summary>
-
-- Square Enix Koukaon-shuu 3 (Japan) (Track 01).bin, CRC: 69e4c8e8
-- Square Enix Koukaon-shuu 3 (Japan) (Track 02).bin, CRC: 4fa11c90
-- Square Enix Koukaon-shuu 3 (Japan) (Track 03).bin, CRC: 0c75bcae
-- Square Enix Koukaon-shuu 3 (Japan) (Track 04).bin, CRC: fb106b5c
-- Square Enix Koukaon-shuu 3 (Japan) (Track 05).bin, CRC: aef61cba
-- Square Enix Koukaon-shuu 3 (Japan) (Track 06).bin, CRC: f3ce771d
-- Square Enix Koukaon-shuu 3 (Japan) (Track 07).bin, CRC: 6afc4ac6
-- Square Enix Koukaon-shuu 3 (Japan) (Track 08).bin, CRC: 6e7ea595
-- Square Enix Koukaon-shuu 3 (Japan) (Track 09).bin, CRC: 1157707a
-- Square Enix Koukaon-shuu 3 (Japan) (Track 10).bin, CRC: a5201b01
-- Square Enix Koukaon-shuu 3 (Japan) (Track 11).bin, CRC: 8fe7e1a1
-- Square Enix Koukaon-shuu 3 (Japan) (Track 12).bin, CRC: 37f95752
-- Square Enix Koukaon-shuu 3 (Japan) (Track 13).bin, CRC: ea9e13af
-- Square Enix Koukaon-shuu 3 (Japan) (Track 14).bin, CRC: 346efcf9
-- Square Enix Koukaon-shuu 3 (Japan) (Track 15).bin, CRC: c7433920
-- Square Enix Koukaon-shuu 3 (Japan) (Track 16).bin, CRC: 355b6de1
-- Square Enix Koukaon-shuu 3 (Japan) (Track 17).bin, CRC: 7039d82f
-- Square Enix Koukaon-shuu 3 (Japan) (Track 18).bin, CRC: 55d7d178
-- Square Enix Koukaon-shuu 3 (Japan) (Track 19).bin, CRC: 84782e60
-- Square Enix Koukaon-shuu 3 (Japan) (Track 20).bin, CRC: fd7059f4
-- Square Enix Koukaon-shuu 3 (Japan) (Track 21).bin, CRC: 156e1d84
-- Square Enix Koukaon-shuu 3 (Japan) (Track 22).bin, CRC: 15ce8719
-- Square Enix Koukaon-shuu 3 (Japan) (Track 23).bin, CRC: 4592f5e0
-- Square Enix Koukaon-shuu 3 (Japan) (Track 24).bin, CRC: e8a6fb45
-- Square Enix Koukaon-shuu 3 (Japan) (Track 25).bin, CRC: f5d4f9fa
-- Square Enix Koukaon-shuu 3 (Japan) (Track 26).bin, CRC: 0ae5ccd7
-- Square Enix Koukaon-shuu 3 (Japan) (Track 27).bin, CRC: f322dfba
-- Square Enix Koukaon-shuu 3 (Japan) (Track 28).bin, CRC: 3f4513b7
-- Square Enix Koukaon-shuu 3 (Japan) (Track 29).bin, CRC: 1a51bc80
-- Square Enix Koukaon-shuu 3 (Japan) (Track 30).bin, CRC: a5dd43c9
-- Square Enix Koukaon-shuu 3 (Japan) (Track 31).bin, CRC: 8b665daa
-- Square Enix Koukaon-shuu 3 (Japan) (Track 32).bin, CRC: ffc19bc7
-- Square Enix Koukaon-shuu 3 (Japan) (Track 33).bin, CRC: f461d074
-- Square Enix Koukaon-shuu 3 (Japan) (Track 34).bin, CRC: 42722645
-- Square Enix Koukaon-shuu 3 (Japan) (Track 35).bin, CRC: 0934a4d4
-- Square Enix Koukaon-shuu 3 (Japan) (Track 36).bin, CRC: adc62a8c
-- Square Enix Koukaon-shuu 3 (Japan) (Track 37).bin, CRC: 8d313cc6
-- Square Enix Koukaon-shuu 3 (Japan) (Track 38).bin, CRC: 8aa7c2a5
-- Square Enix Koukaon-shuu 3 (Japan) (Track 39).bin, CRC: 1f61a355
-- Square Enix Koukaon-shuu 3 (Japan) (Track 40).bin, CRC: 30deea1d
-- Square Enix Koukaon-shuu 3 (Japan) (Track 41).bin, CRC: af055bde
-- Square Enix Koukaon-shuu 3 (Japan) (Track 42).bin, CRC: d4f31d04
-- Square Enix Koukaon-shuu 3 (Japan) (Track 43).bin, CRC: a12b2bae
-- Square Enix Koukaon-shuu 3 (Japan) (Track 44).bin, CRC: 31a26fce
-- Square Enix Koukaon-shuu 3 (Japan) (Track 45).bin, CRC: ead76d3e
-- Square Enix Koukaon-shuu 3 (Japan) (Track 46).bin, CRC: f624eb73
-- Square Enix Koukaon-shuu 3 (Japan) (Track 47).bin, CRC: ea39f385
-- Square Enix Koukaon-shuu 3 (Japan) (Track 48).bin, CRC: 07320107
-- Square Enix Koukaon-shuu 3 (Japan) (Track 49).bin, CRC: cdfc6dfc
-- Square Enix Koukaon-shuu 3 (Japan) (Track 50).bin, CRC: 4e555ceb
-- Square Enix Koukaon-shuu 3 (Japan) (Track 51).bin, CRC: b3190b4e
-- Square Enix Koukaon-shuu 3 (Japan) (Track 52).bin, CRC: 1590a7fe
-- Square Enix Koukaon-shuu 3 (Japan) (Track 53).bin, CRC: ed84beea
-- Square Enix Koukaon-shuu 3 (Japan) (Track 54).bin, CRC: 100b1c9e
-- Square Enix Koukaon-shuu 3 (Japan) (Track 55).bin, CRC: eca4403f
-- Square Enix Koukaon-shuu 3 (Japan) (Track 56).bin, CRC: 2ad510fa
-- Square Enix Koukaon-shuu 3 (Japan) (Track 57).bin, CRC: ccd4b63c
-- Square Enix Koukaon-shuu 3 (Japan) (Track 58).bin, CRC: 7da0707d
-- Square Enix Koukaon-shuu 3 (Japan) (Track 59).bin, CRC: 85438a04
-- Square Enix Koukaon-shuu 3 (Japan) (Track 60).bin, CRC: 7b0a7ff3
-- Square Enix Koukaon-shuu 3 (Japan) (Track 61).bin, CRC: fb270486
-- Square Enix Koukaon-shuu 3 (Japan) (Track 62).bin, CRC: c3691418
-- Square Enix Koukaon-shuu 3 (Japan) (Track 63).bin, CRC: 1006fe7a
-- Square Enix Koukaon-shuu 3 (Japan) (Track 64).bin, CRC: 949ea375
-- Square Enix Koukaon-shuu 3 (Japan) (Track 65).bin, CRC: 2e54929e
-- Square Enix Koukaon-shuu 3 (Japan) (Track 66).bin, CRC: 4c26c35c
-- Square Enix Koukaon-shuu 3 (Japan) (Track 67).bin, CRC: 3712cb36
-- Square Enix Koukaon-shuu 3 (Japan) (Track 68).bin, CRC: 9f59f993
-- Square Enix Koukaon-shuu 3 (Japan) (Track 69).bin, CRC: 6a137e34
-- Square Enix Koukaon-shuu 3 (Japan) (Track 70).bin, CRC: 9b35a6cc
-- Square Enix Koukaon-shuu 3 (Japan) (Track 71).bin, CRC: fbaadae8
-- Square Enix Koukaon-shuu 3 (Japan) (Track 72).bin, CRC: b8a1823a
-- Square Enix Koukaon-shuu 3 (Japan) (Track 73).bin, CRC: 5da26c53
-- Square Enix Koukaon-shuu 3 (Japan) (Track 74).bin, CRC: bdc225eb
-- Square Enix Koukaon-shuu 3 (Japan) (Track 75).bin, CRC: 711f3097
-- Square Enix Koukaon-shuu 3 (Japan) (Track 76).bin, CRC: 9bec5cf2
-- Square Enix Koukaon-shuu 3 (Japan) (Track 77).bin, CRC: 75ecc198
-- Square Enix Koukaon-shuu 3 (Japan) (Track 78).bin, CRC: 11e4ff7c
-- Square Enix Koukaon-shuu 3 (Japan) (Track 79).bin, CRC: 142b1fa9
-- Square Enix Koukaon-shuu 3 (Japan) (Track 80).bin, CRC: 801faeba
-- Square Enix Koukaon-shuu 3 (Japan) (Track 81).bin, CRC: f64a1196
-- Square Enix Koukaon-shuu 3 (Japan) (Track 82).bin, CRC: 26bd796c
-- Square Enix Koukaon-shuu 3 (Japan) (Track 83).bin, CRC: 12464eda
-- Square Enix Koukaon-shuu 3 (Japan) (Track 84).bin, CRC: 9b29fcf0
-- Square Enix Koukaon-shuu 3 (Japan) (Track 85).bin, CRC: 9f985c0b
-- Square Enix Koukaon-shuu 3 (Japan) (Track 86).bin, CRC: 3562134f
-- Square Enix Koukaon-shuu 3 (Japan) (Track 87).bin, CRC: c09d6d65
-- Square Enix Koukaon-shuu 3 (Japan) (Track 88).bin, CRC: c55dc771
-- Square Enix Koukaon-shuu 3 (Japan) (Track 89).bin, CRC: a2516d81
-- Square Enix Koukaon-shuu 3 (Japan) (Track 90).bin, CRC: 06cee806
-- Square Enix Koukaon-shuu 3 (Japan) (Track 91).bin, CRC: 03f7a5ed
-- Square Enix Koukaon-shuu 3 (Japan) (Track 92).bin, CRC: d13c2d42
-- Square Enix Koukaon-shuu 3 (Japan) (Track 93).bin, CRC: cb88088a
-- Square Enix Koukaon-shuu 3 (Japan) (Track 94).bin, CRC: 807be694
-- Square Enix Koukaon-shuu 3 (Japan) (Track 95).bin, CRC: 60db7989
-- Square Enix Koukaon-shuu 3 (Japan) (Track 96).bin, CRC: e398430d
-- Square Enix Koukaon-shuu 3 (Japan) (Track 97).bin, CRC: c339a964
-- Square Enix Koukaon-shuu 3 (Japan) (Track 98).bin, CRC: 7a7ca453
-- Square Enix Koukaon-shuu 3 (Japan) (Track 99).bin, CRC: e1864a52
+- Sporific Sounds (Europe) (Track 01).bin, CRC: b40e3abe
+- Sporific Sounds (Europe) (Track 02).bin, CRC: 6c1b8845
+- Sporific Sounds (Europe) (Track 03).bin, CRC: 8c072c32
+- Sporific Sounds (Europe) (Track 04).bin, CRC: cab20ec8
+- Sporific Sounds (Europe) (Track 05).bin, CRC: c913fe89
+- Sporific Sounds (Europe) (Track 06).bin, CRC: 7dba33ac
+- Sporific Sounds (Europe) (Track 07).bin, CRC: 73105f0a
+- Sporific Sounds (Europe) (Track 08).bin, CRC: 48f68971
+- Sporific Sounds (Europe) (Track 09).bin, CRC: ec1f8db1
+- Sporific Sounds (Europe) (Track 10).bin, CRC: 1786a318
+- Sporific Sounds (Europe) (Track 11).bin, CRC: 498dfcfb
+- Sporific Sounds (Europe) (Track 12).bin, CRC: c92b7950
+- Sporific Sounds (Europe) (Track 13).bin, CRC: 80f3e3bb
+- Sporific Sounds (Europe) (Track 14).bin, CRC: 06177578
+- Sporific Sounds (Europe) (Track 15).bin, CRC: c495a038
+- Sporific Sounds (Europe) (Track 16).bin, CRC: 70ceb249
+- Sporific Sounds (Europe) (Track 17).bin, CRC: 68a3eaa2
+- Sporific Sounds (Europe) (Track 18).bin, CRC: e4aaa211
+- Sporific Sounds (Europe) (Track 19).bin, CRC: fd45ab80
+- Sporific Sounds (Europe) (Track 20).bin, CRC: 8b48d0a1
+- Sporific Sounds (Europe) (Track 21).bin, CRC: 12d52973
+- Sporific Sounds (Europe) (Track 22).bin, CRC: 6006ade8
+- Sporific Sounds (Europe) (Track 23).bin, CRC: 989e9eb5
 </details>
 
 ### Square Enix Music Sampler (Japan)

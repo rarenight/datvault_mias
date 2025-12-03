@@ -1,5 +1,5 @@
 # No-Intro - Atari - Lynx (Private) MIAs
-## Games: 8, ROMs: 8, as of 2025-11-14
+## Games: 8, ROMs: 8, as of 2025-12-03
 
 ### Assembloids (World) (Aftermarket) (Unl).lyx, CRC: 10e48982
 ### Asteroids Chasers (World) (Aftermarket) (Unl).lyx, CRC: 7bdd3194

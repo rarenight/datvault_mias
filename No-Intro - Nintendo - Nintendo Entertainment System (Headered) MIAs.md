@@ -1,5 +1,5 @@
 # No-Intro - Nintendo - Nintendo Entertainment System (Headered) MIAs
-## Games: 3, ROMs: 4, as of 2025-11-14
+## Games: 3, ROMs: 4, as of 2025-12-03
 
 ### 18-in-1 (Asia) (En) (Pirate).nes, CRC: be71f814
 ### Hammerin' Harry (Europe) (Retro-Bit)

@@ -1,5 +1,5 @@
 # No-Intro - Nintendo - Nintendo Switch (FullXCI) MIAs
-## Games: 238, ROMs: 238, as of 2025-11-14
+## Games: 239, ROMs: 239, as of 2025-12-03
 
 ### 51 Worldwide Games (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh-Hant,Zh-Hans,Ko,Ru) (Rev 3).xci, CRC: ef6c1cee
 ### 60-in-1 Game Collection (Europe) (En,Fr,De,Es,It).xci, CRC: 73795e37
@@ -82,6 +82,7 @@
 ### Hyper Gunsport (USA) (En,Fr,De,Es,It).xci, CRC: 74f79737
 ### Ikaruga (USA) (En,Ja).xci, CRC: 8b1cc6f5
 ### It Takes Two (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Zh-Hant,Zh-Hans,Ko,Ru).xci, CRC: 6aafc012
+### Jerry Anker and the Quest to Get Love (Europe).xci, CRC: e5eefe5a
 ### Joe Dever's Lone Wolf (Europe) (En,Fr,De,Es,It).xci, CRC: fb9ddac9
 ### 0123 - Just Dance 2018 (World) (En,Fr,De,Es,It,Nl,Pt,Ru).xci, CRC: 3d0d152d
 ### Just Dance 2020 (Europe) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh-Hant,Zh-Hans,Ko,Ru).xci, CRC: dbda5103

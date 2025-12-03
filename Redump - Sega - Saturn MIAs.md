@@ -1,5 +1,5 @@
 # Redump - Sega - Saturn MIAs
-## Games: 4, ROMs: 8, as of 2025-11-14
+## Games: 4, ROMs: 8, as of 2025-12-03
 
 ### Darius Gaiden (Japan) (Rev A)
 <details>
