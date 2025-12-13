@@ -1,5 +1,5 @@
 # Redump - Microsoft - Xbox One MIAs
-## Games: 146, ROMs: 146, as of 2025-12-03
+## Games: 145, ROMs: 145, as of 2025-12-12
 
 ### Adam's Venture - Origins (Europe).iso, CRC: 2cea3fbf
 ### Alex Kidd in Miracle World DX (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru).iso, CRC: c75204f5
@@ -66,7 +66,6 @@
 ### Halo - The Master Chief Collection (Japan, Europe).iso, CRC: a89c9762
 ### Halo 5 - Guardians (Europe).iso, CRC: 35370a3d
 ### Halo 5 - Guardians (Japan).iso, CRC: ef494674
-### Hitman - The Complete First Season (USA, Europe) (En,Ja,Fr,De,Es,It,Pt,Pl,Ru).iso, CRC: 9462175b
 ### Homefront - The Revolution (Japan).iso, CRC: 0311f563
 ### JoJo's Bizarre Adventure - All Star Battle R (USA) (En,Ja,Fr,De,Es,It,Zh,Ko).iso, CRC: 176da3ef
 ### Just Cause 3 (Japan).iso, CRC: 7d8c0292

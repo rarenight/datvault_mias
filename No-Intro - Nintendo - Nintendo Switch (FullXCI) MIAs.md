@@ -1,5 +1,5 @@
 # No-Intro - Nintendo - Nintendo Switch (FullXCI) MIAs
-## Games: 239, ROMs: 239, as of 2025-12-03
+## Games: 239, ROMs: 239, as of 2025-12-12
 
 ### 51 Worldwide Games (World) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh-Hant,Zh-Hans,Ko,Ru) (Rev 3).xci, CRC: ef6c1cee
 ### 60-in-1 Game Collection (Europe) (En,Fr,De,Es,It).xci, CRC: 73795e37

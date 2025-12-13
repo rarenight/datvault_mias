@@ -1,5 +1,5 @@
 # No-Intro - Benesse - Pocket Challenge V2 MIAs
-## Games: 4, ROMs: 5, as of 2025-12-03
+## Games: 4, ROMs: 5, as of 2025-12-12
 
 ### Chuu 3 Ei - Suu - Koumin Pack (New Crown, Total English Taiou Ban) (Japan) (5FP303).pc2, CRC: 1914e63e
 ### Shinkenzemi Chuugaku Kouza - Chuu2 Ei-Suu-Koku Pack (Japan)

@@ -1,5 +1,5 @@
 # Redump - Sony - PlayStation 4 MIAs
-## Games: 254, ROMs: 254, as of 2025-12-03
+## Games: 253, ROMs: 253, as of 2025-12-12
 
 ### 2Dark (Japan).iso, CRC: 51bd991f
 ### 8-Bit Adventure Anthology - Volume 1 (USA).iso, CRC: 1598191a
@@ -112,7 +112,6 @@
 ### L.A. Noire (Japan).iso, CRC: d249f02c
 ### Legend of the Tetrarchs (USA).iso, CRC: b5445222
 ### Life Is Strange (Europe) (En,Fr,De,Es,It,Pt).iso, CRC: 013bb2bd
-### Life Is Strange - Before the Storm (Europe) (En,Fr,De,Es,It,Pt).iso, CRC: d5b72386
 ### Light Tracer (USA).iso, CRC: af09f53b
 ### Lone Survivor - The Director's Cut (USA) (En,Fr).iso, CRC: ead333b0
 ### Lost Judgment (USA) (En,Ja,Fr,De,Es,It).iso, CRC: 7f8ba335

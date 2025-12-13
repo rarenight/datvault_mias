@@ -1,5 +1,5 @@
 # Redump - DVD-Video MIAs
-## Games: 235, ROMs: 235, as of 2025-12-03
+## Games: 234, ROMs: 234, as of 2025-12-12
 
 ### 2002 Autumn Tokyo Game Show (Taiwan).iso, CRC: 92c99685
 ### 3-nen B-gumi Kinpachi Sensei - Densetsu no Kyoudan ni Tate! Promotion Video-2 (Japan).iso, CRC: d346598e
@@ -174,7 +174,6 @@
 ### Silver Gene - The Mutia Chronicle 1 (Japan).iso, CRC: 1325381b
 ### Sinbad - Legend of the Seven Seas (USA) (En,Fr,Es) (Fullscreen).iso, CRC: 48099cb2
 ### Soccer Life! (Japan).iso, CRC: 716e05a2
-### Sony Computer Entertainment Inc. Software (Japan).iso, CRC: 3911ea10
 ### Star Ocean - First Departure - Original Soundtrack (Japan) (Disc 3) (Special DVD).iso, CRC: 797705a3
 ### Star Ocean - Second Evolution - Original Soundtrack (Japan) (Disc 3) (Special DVD).iso, CRC: 4bf12ce1
 ### Star Wars - Clone Wars - Volumen Uno (Argentina) (En,Es,Pt).iso, CRC: ca98a9b1

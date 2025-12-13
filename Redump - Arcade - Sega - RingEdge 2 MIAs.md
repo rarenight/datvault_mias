@@ -1,5 +1,5 @@
 # Redump - Arcade - Sega - RingEdge 2 MIAs
-## Games: 8, ROMs: 8, as of 2025-12-03
+## Games: 8, ROMs: 8, as of 2025-12-12
 
 ### ALL.Net P-ras Multi Version 2 (Japan) (Rev C).iso, CRC: 9ed6e60a
 ### Code of Joker (No. 2) (Japan) (Rev F).iso, CRC: c41ca3dd

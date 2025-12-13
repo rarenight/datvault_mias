@@ -1,5 +1,5 @@
 # No-Intro - Nintendo - Nintendo Entertainment System (Headered) (Aftermarket) (Private) MIAs
-## Games: 34, ROMs: 35, as of 2025-12-03
+## Games: 33, ROMs: 34, as of 2025-12-12
 
 ### 8-Bit Slasher 4-in-1 Horror Demakes (World) (Aftermarket) (Unl).nes, CRC: 1e4d95a6
 ### 8Bit Music Power Encore (World) (Aftermarket) (Unl).nes, CRC: 27f312e2
@@ -17,7 +17,6 @@
 ### Mad Wizard, The - A Candelabra Chronicle (World) (Kickstarter) (Aftermarket) (Unl).nes, CRC: 0dd1075a
 ### Malasombra (USA, Europe) (En,Es) (Aftermarket) (Unl).nes, CRC: 53f0e072
 ### Mawthorne 2 (World) (En,Ja,Fr,Es,Pt) (v1.1) (Aftermarket) (Unl).nes, CRC: fbffcb9c
-### Old Oak Lane (World) (Aftermarket) (Unl).nes, CRC: 2ba1667e
 ### Oratorio (World) (v1.3) (Aftermarket) (Unl).nes, CRC: 42113ad6
 ### Orebody - Binder's Tale (World) (Aftermarket) (Unl).nes, CRC: b03f17e1
 ### PLOID (World) (5th Anniversary Edition) (Aftermarket) (Unl).nes, CRC: c3a14eff

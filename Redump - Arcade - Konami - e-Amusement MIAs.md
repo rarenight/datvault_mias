@@ -1,5 +1,5 @@
 # Redump - Arcade - Konami - e-Amusement MIAs
-## Games: 22, ROMs: 22, as of 2025-12-03
+## Games: 22, ROMs: 22, as of 2025-12-12
 
 ### Castlevania - The Arcade (Japan) (Application Disc 1).iso, CRC: 08690a8c
 ### Castlevania - The Arcade (Japan) (Application Disc 2).iso, CRC: d907aad8

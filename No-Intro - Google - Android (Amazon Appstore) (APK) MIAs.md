@@ -1,5 +1,5 @@
 # No-Intro - Google - Android (Amazon Appstore) (APK) MIAs
-## Games: 239, ROMs: 239, as of 2025-12-03
+## Games: 239, ROMs: 239, as of 2025-12-12
 
 ### com.flavorfulapps.cupcakerecipes-16.apk, CRC: fa5ed38a
 ### com.inkle.eightydays-14105.apk, CRC: e0231267

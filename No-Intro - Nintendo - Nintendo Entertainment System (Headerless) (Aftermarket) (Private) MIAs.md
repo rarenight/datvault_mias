@@ -1,5 +1,5 @@
 # No-Intro - Nintendo - Nintendo Entertainment System (Headerless) (Aftermarket) (Private) MIAs
-## Games: 22, ROMs: 23, as of 2025-12-03
+## Games: 21, ROMs: 22, as of 2025-12-12
 
 ### 8Bit Music Power Encore (World) (Aftermarket) (Unl).unh, CRC: 319c698f
 ### Changeable Guardian Estique (USA, Europe) (Aftermarket) (Unl).unh, CRC: ab7fa726
@@ -10,7 +10,6 @@
 ### Kira Kira Star Night (Japan) (En) (Rev 1) (Aftermarket) (Unl).unh, CRC: 7ab579d7
 ### Malasombra (USA, Europe) (En,Es) (Aftermarket) (Unl).unh, CRC: 944ff1b6
 ### Mawthorne 2 (World) (En,Ja,Fr,Es,Pt) (v1.1) (Aftermarket) (Unl).unh, CRC: 736b5aa2
-### Old Oak Lane (World) (Aftermarket) (Unl).unh, CRC: 31a6b71c
 ### Oratorio (World) (v1.3) (Aftermarket) (Unl).unh, CRC: d828667d
 ### PLOID (World) (5th Anniversary Edition) (Aftermarket) (Unl).unh, CRC: 8f6dac0f
 ### Relic Dungeon (World) (Aftermarket) (Unl).unh, CRC: d930dff8
