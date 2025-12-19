@@ -1,5 +1,5 @@
 # No-Intro - Non-Redump - Sega - Nu 1.1 MIAs
-## Games: 8, ROMs: 8, as of 2025-12-12
+## Games: 8, ROMs: 8, as of 2025-12-19
 
 ### Chunithm (Japan) (v1.00.02) (0003).iso, CRC: 2e31ab19
 ### Chunithm (Japan) (v1.05.00) (0003B).iso, CRC: 096c6690

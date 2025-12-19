@@ -1,5 +1,5 @@
 # No-Intro - Nintendo - Game Boy Color (Private) (Aftermarket) MIAs
-## Games: 10, ROMs: 10, as of 2025-12-12
+## Games: 10, ROMs: 10, as of 2025-12-19
 
 ### DiveBlob (World) (GB Compatible) (Aftermarket) (Unl).gbc, CRC: 1c43b0c4
 ### Inspector Waffles Early Days (World) (GB Compatible) (Aftermarket) (Unl).gbc, CRC: b5094777

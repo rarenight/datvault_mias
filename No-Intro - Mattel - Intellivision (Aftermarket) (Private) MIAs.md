@@ -1,5 +1,5 @@
 # No-Intro - Mattel - Intellivision (Aftermarket) (Private) MIAs
-## Games: 1, ROMs: 2, as of 2025-12-12
+## Games: 1, ROMs: 2, as of 2025-12-19
 
 ### Norseman (World) (Aftermarket) (Unl)
 <details>

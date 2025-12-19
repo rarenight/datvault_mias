@@ -1,5 +1,5 @@
 # Redump - Microsoft - Xbox One MIAs
-## Games: 145, ROMs: 145, as of 2025-12-12
+## Games: 145, ROMs: 145, as of 2025-12-19
 
 ### Adam's Venture - Origins (Europe).iso, CRC: 2cea3fbf
 ### Alex Kidd in Miracle World DX (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru).iso, CRC: c75204f5

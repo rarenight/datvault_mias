@@ -1,5 +1,5 @@
 # Redump - Audio CD MIAs
-## Games: 160, ROMs: 1844, as of 2025-12-12
+## Games: 159, ROMs: 1828, as of 2025-12-19
 
 ### Ace Combat 04 - Shattered Skies - Original Sound Tracks (Japan) (Disc 1) (Alt)
 <details>
@@ -1793,28 +1793,6 @@
 - Storm! Shooting Game Sound Omnibus Vol. 2 (Japan) (Track 30).bin, CRC: 91654654
 - Storm! Shooting Game Sound Omnibus Vol. 2 (Japan) (Track 31).bin, CRC: f58c6272
 - Storm! Shooting Game Sound Omnibus Vol. 2 (Japan) (Track 32).bin, CRC: be99bd79
-</details>
-
-### Strikers 1945 Plus Portable - Original Soundtrack (Japan)
-<details>
-<summary>ROMs</summary>
-
-- Strikers 1945 Plus Portable - Original Soundtrack (Japan) (Track 01).bin, CRC: 6373d634
-- Strikers 1945 Plus Portable - Original Soundtrack (Japan) (Track 02).bin, CRC: cc09ed60
-- Strikers 1945 Plus Portable - Original Soundtrack (Japan) (Track 03).bin, CRC: 015517ee
-- Strikers 1945 Plus Portable - Original Soundtrack (Japan) (Track 04).bin, CRC: dcdf1a22
-- Strikers 1945 Plus Portable - Original Soundtrack (Japan) (Track 05).bin, CRC: 028d3882
-- Strikers 1945 Plus Portable - Original Soundtrack (Japan) (Track 06).bin, CRC: 5a35e3e8
-- Strikers 1945 Plus Portable - Original Soundtrack (Japan) (Track 07).bin, CRC: d29f5230
-- Strikers 1945 Plus Portable - Original Soundtrack (Japan) (Track 08).bin, CRC: cfb3c1e7
-- Strikers 1945 Plus Portable - Original Soundtrack (Japan) (Track 09).bin, CRC: b46240c4
-- Strikers 1945 Plus Portable - Original Soundtrack (Japan) (Track 10).bin, CRC: 947c3e78
-- Strikers 1945 Plus Portable - Original Soundtrack (Japan) (Track 11).bin, CRC: 5de66536
-- Strikers 1945 Plus Portable - Original Soundtrack (Japan) (Track 12).bin, CRC: e3958b8d
-- Strikers 1945 Plus Portable - Original Soundtrack (Japan) (Track 13).bin, CRC: 1563c90e
-- Strikers 1945 Plus Portable - Original Soundtrack (Japan) (Track 14).bin, CRC: dfc630ba
-- Strikers 1945 Plus Portable - Original Soundtrack (Japan) (Track 15).bin, CRC: 66a18ac9
-- Strikers 1945 Plus Portable - Original Soundtrack (Japan) (Track 16).bin, CRC: c6b50db3
 </details>
 
 ### Sweetly Revolution 3000 - 2nd Impression (Japan) (Track 12).bin, CRC: 93800aac

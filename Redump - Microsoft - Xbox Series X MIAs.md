@@ -1,5 +1,5 @@
 # Redump - Microsoft - Xbox Series X MIAs
-## Games: 40, ROMs: 40, as of 2025-12-12
+## Games: 40, ROMs: 40, as of 2025-12-19
 
 ### Alan Wake II - Deluxe Edition (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Pl,Ru,Uk).iso, CRC: 5b2a8820
 ### Blades of Fire (USA) (En,Ja,Fr,De,Es,It,Pt,Zh,Ko,Ru).iso, CRC: 89612ae2

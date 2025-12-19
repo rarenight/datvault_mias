@@ -1,5 +1,5 @@
 # Redump - Sony - PlayStation Portable MIAs
-## Games: 6, ROMs: 6, as of 2025-12-12
+## Games: 6, ROMs: 6, as of 2025-12-19
 
 ### Boxer's Road 2 - The Real (Japan) (v2.00).iso, CRC: 9face2af
 ### Ore no Shikabane o Koete Yuke (Japan) (v2.00).iso, CRC: 8dbfbb6f

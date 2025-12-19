@@ -1,20 +1,10 @@
 # No-Intro - IBM - PC and Compatibles (Digital) (Misc) MIAs
-## Games: 8, ROMs: 25, as of 2025-12-12
-
-### A Boy and His Blob (World) (En,Fr,De,Es,Pt,Pt-BR,Pl,Ru) (v1.3) (Windows, Mac, Linux)
-<details>
-<summary>ROMs</summary>
-
-- A-Boy-and-His-Blob-1.0.dmg, CRC: 0f2428cb
-- A-Boy-And-His-Blob-1.0.tar.gz, CRC: deb7f09a
-- A-Boy-and-His-Blob-English-Setup-1.3.exe, CRC: 464ce62f
-</details>
+## Games: 6, ROMs: 19, as of 2025-12-19
 
 ### Advent Rising (World) (v1.3)
 <details>
 <summary>ROMs</summary>
 
-- Advent-Rising-Artwork-1.0.zip, CRC: 18431946
 - Advent-Rising-English-Setup-1.3-1.bin, CRC: c603e987
 - Advent-Rising-English-Setup-1.3-2.bin, CRC: 339044e2
 - Advent-Rising-English-Setup-1.3-3.bin, CRC: a9d90c21
@@ -34,7 +24,6 @@
 - BloodRayne-English-Setup-1.2.exe, CRC: dbf09c31
 </details>
 
-### Bloodrayne-Betrayal-English-Setup-1.3.exe, CRC: 5007a880
 ### BloodRayne 2 (World) (v1.1)
 <details>
 <summary>ROMs</summary>
@@ -45,14 +34,7 @@
 - BloodRayne-2-Screensavers-1.0.zip, CRC: 8971021c
 </details>
 
-### Garfield Kart (World) (En,Fr,De,Es,It) (Microsoft Windows, OS X) (Gamesload)
-<details>
-<summary>ROMs</summary>
-
-- GarfieldKart_efgis.dmg, CRC: 613b5445
-- GarfieldKart_efgis.exe, CRC: 0d40f370
-</details>
-
+### GarfieldKart_efgis.dmg, CRC: 613b5445
 ### Moto Racer Collection (World) (En,Fr,De,Es,It) (Gamesload)
 <details>
 <summary>ROMs</summary>

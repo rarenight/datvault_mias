@@ -1,5 +1,5 @@
 # No-Intro - Nintendo - Game Boy Color (Aftermarket) (Private) MIAs
-## Games: 4, ROMs: 4, as of 2025-12-12
+## Games: 4, ROMs: 4, as of 2025-12-19
 
 ### Tools of Nexaura (World) (Beta 6) (SGB Enhanced) (GB Compatible) (Aftermarket) (Unl).gbc, CRC: 27fafc50
 ### Tools of Nexaura (World) (SGB Enhanced) (GB Compatible) (Aftermarket) (Unl).gbc, CRC: 0ff133a4

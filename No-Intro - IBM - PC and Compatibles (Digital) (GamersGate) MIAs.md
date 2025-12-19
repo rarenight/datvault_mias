@@ -1,5 +1,5 @@
 # No-Intro - IBM - PC and Compatibles (Digital) (GamersGate) MIAs
-## Games: 8, ROMs: 267, as of 2025-12-12
+## Games: 5, ROMs: 261, as of 2025-12-19
 
 ### Commandos - Strike Force (World)
 <details>
@@ -258,33 +258,9 @@
 - setup.exe, CRC: 61574a3e
 </details>
 
-### crayon_gamersgate.exe, CRC: 1fe76659
-### Deponia - The Puzzle (World) (En,De)
-<details>
-<summary>ROMs</summary>
-
-- Deponia – The Puzzle.exe, CRC: 6d8f91bd
-- DeponiaThe Puzzle_PC_FULL_1.0_DE_Daedalic_noDRM.exe, CRC: 4f7cdd1c
-</details>
-
-### Edna & Harvey - The Puzzle (World) (En,De)
-<details>
-<summary>ROMs</summary>
-
-- Edna & Harvey – The Puzzle.exe, CRC: 308c46c2
-- EdnaHarveyThe Puzzle_PC_FULL_1.0_EN_DE_Daedalic_noDRM.exe, CRC: 67f39845
-</details>
-
+### Deponia – The Puzzle.exe, CRC: 6d8f91bd
+### Edna & Harvey – The Puzzle.exe, CRC: 308c46c2
 ### setup.exe, CRC: 6949268a
-### Narco Guerra (World) (Microsoft Windows, OS X)
-<details>
-<summary>ROMs</summary>
-
-- narcoguerra1.0-setup.exe, CRC: 6f1898e6
-- NarcoGuerra1.0.dmg, CRC: 7c9e0bb9
-</details>
-
-### setup_PaperBall_1.0_build_002_c_033.exe, CRC: b9681b34
 ### Unreal Tournament 2004 - Editor's Choice Edition (World)
 <details>
 <summary>ROMs</summary>

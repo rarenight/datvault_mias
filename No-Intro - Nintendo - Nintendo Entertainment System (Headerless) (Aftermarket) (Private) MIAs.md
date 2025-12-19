@@ -1,5 +1,5 @@
 # No-Intro - Nintendo - Nintendo Entertainment System (Headerless) (Aftermarket) (Private) MIAs
-## Games: 21, ROMs: 22, as of 2025-12-12
+## Games: 21, ROMs: 22, as of 2025-12-19
 
 ### 8Bit Music Power Encore (World) (Aftermarket) (Unl).unh, CRC: 319c698f
 ### Changeable Guardian Estique (USA, Europe) (Aftermarket) (Unl).unh, CRC: ab7fa726

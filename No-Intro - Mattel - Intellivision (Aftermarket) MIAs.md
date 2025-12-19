@@ -1,5 +1,5 @@
 # No-Intro - Mattel - Intellivision (Aftermarket) MIAs
-## Games: 21, ROMs: 40, as of 2025-12-12
+## Games: 21, ROMs: 40, as of 2025-12-19
 
 ### Buck Rogers - Planet of Zoom (World) (Aftermarket) (Unl)
 <details>

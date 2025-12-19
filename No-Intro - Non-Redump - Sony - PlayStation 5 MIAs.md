@@ -1,5 +1,5 @@
 # No-Intro - Non-Redump - Sony - PlayStation 5 MIAs
-## Games: 14, ROMs: 14, as of 2025-12-12
+## Games: 14, ROMs: 14, as of 2025-12-19
 
 ### Among Us (Japan).iso, CRC: b03b185e
 ### Death Stranding - Director's Cut (USA) (En,Ja,Fr,De,Es,It,Nl,Pt,Zh,Ko,Pl,Ru,El,Tr,Cs,Hu,Ar).iso, CRC: 918f991b

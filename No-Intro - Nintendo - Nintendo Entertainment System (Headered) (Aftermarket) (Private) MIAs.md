@@ -1,5 +1,5 @@
 # No-Intro - Nintendo - Nintendo Entertainment System (Headered) (Aftermarket) (Private) MIAs
-## Games: 33, ROMs: 34, as of 2025-12-12
+## Games: 33, ROMs: 34, as of 2025-12-19
 
 ### 8-Bit Slasher 4-in-1 Horror Demakes (World) (Aftermarket) (Unl).nes, CRC: 1e4d95a6
 ### 8Bit Music Power Encore (World) (Aftermarket) (Unl).nes, CRC: 27f312e2

@@ -1,5 +1,5 @@
 # Redump - NEC - PC-98 series MIAs
-## Games: 1, ROMs: 14, as of 2025-12-12
+## Games: 1, ROMs: 14, as of 2025-12-19
 
 ### Demonstration CD-ROM & System Install CD-ROM (Japan)
 <details>
